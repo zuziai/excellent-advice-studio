@@ -1,0 +1,89 @@
+{
+  "id": "wave-152-154-progress-01",
+  "title": "New style calibration ideas",
+  "titleFa": "موج آزمایشی در حال آماده‌سازی",
+  "totalSentences": 460,
+  "coveredEvidenceCount": 118,
+  "earlierUnresolvedCount": 32,
+  "nextWaveSize": 10,
+  "sentences": [
+    {
+      "id": 151,
+      "shortTitle": "Work to become",
+      "shortTitleFa": "۱۵۱ · تصویر نهایی",
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "ideas": [
+        {
+          "id": "151-f-v1",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "title": "The machine is the same; the tailor has changed",
+          "summary": "A novice tailor becomes capable through practice with the same sewing machine and shirt.",
+          "story": "Two panels show the same orange tailor, old green sewing machine and yellow shirt. First, tangled thread and a crooked turquoise patch reveal beginner trouble. After practice, she guides the cloth calmly and stitches the same patch neatly. Her skill has grown while the machine and possessions are unchanged.",
+          "titleFa": "چرخ همونه؛ حالا خودم بلدم!",
+          "summaryFa": "خیاط با تمرین ماهرتر می‌شود، در حالی که چرخ و پیراهنش همان قبلی‌اند.",
+          "storyFa": "در قاب بالا، خیاط نارنجی با نخ گره‌خورده و وصله‌ای کج کلنجار می‌رود. در قاب پایین، بعد از تمرین، با همان چرخ سبز و همان پیراهن زرد وصله را مرتب می‌دوزد؛ ابزار همان است، اما خودش ماهرتر و آرام‌تر شده است.",
+          "meaningFa": "ارزش کار فقط در چیزهایی نیست که به دست می‌آوریم؛ کار و تمرین از ما آدم توانمندتری می‌سازد. چرخ عوض نشده، مهارت خیاط بیشتر شده است.",
+          "image": "art/151-f-v1.png",
+          "alt": "Two panels show the same orange tailor, old green sewing machine and yellow shirt. First, tangled thread and a crooked turquoise patch reveal beginner trouble. After practice, she guides the cloth calmly and stitches the same patch neatly. Her skill has grown while the machine and possessions are unchanged.",
+          "width": 1024,
+          "height": 1536,
+          "prompt": "همین نقاشی مرجع را ویرایش کن: آدمک نارنجیِ نویسنده را به خیاط تبدیل کن. شخصیت را از نو طراحی نکن؛ همان شکل دایره‌ایِ سر، همان تناسب بدن، همان چشم‌های تیره با برق کوچک داخلی، همان مژه‌های کوتاه، همان خط رنگی و همان کیفیت و لایه‌های آبرنگِ تصویر موجود حفظ شوند. رنگ نارنجی شخصیت حفظ شود. بازو و ساعد شکل پیوسته و ملایمِ خود مرجع را داشته باشند، نه آرنج و ساعد توپی. سر دقیقاً مثل سر همین مرجع دایره باشد؛ فک، چانه، گردن یا قطعهٔ مستطیلی زیر سر اضافه نشود. سایهٔ اتصال سر و تنه همان قوس نرم خود مرجع باشد.\n\nصحنه را به دو قاب هم‌اندازهٔ بالا و پایین روی یک صفحهٔ عمودی تبدیل کن، با فاصلهٔ سفید میان قاب‌ها. در هر دو قاب همان آدمک نارنجی، با بدن ساده و خنثی، روی همان صندلی و پشت میز چوبی بنشیند. جنسیت فقط با مژه‌ها مشخص شود. یک پیش‌بند کرم ساده و مستقیم بپوشد که فرم بدن را زنانه نکند. هر دو پای کامل زیر میز دیده شوند. هر دست دقیقاً سه انگشت و یک شست داشته باشد؛ شکل طبیعی گرفتن پارچه و نخ حفظ شود.\n\nاشیای نویسندگی و کاغذهای مچاله و قلم‌ها را حذف کن. جای آنها روی میز یک چرخ خیاطی قدیمی سبز و یک پیراهن زرد با وصلهٔ مربع فیروزه‌ای بگذار. محیط روشنِ همین اتاق با پنجره و دیوار آبرنگی باقی بماند؛ تزئین تازه اضافه نکن.\n\nقاب بالا: زیر عنوان کوتاه «اول کار»، خیاط به نخ گره‌خورده و وصلهٔ کج و دوخت نامرتب نگاه می‌کند؛ حالتش کمی متعجب و مردد، نه غمگین و ترسناک.\nقاب پایین: زیر عنوان «بعد از تمرین»، همان خیاط با همان چرخ و پیراهن، وصله را صاف و مرتب می‌دوزد؛ لبخند آرام و حس تسلط دارد. یک حباب فارسی با دنباله به خود او و متن دقیق «چرخ همونه؛ حالا خودم بلدم!» داشته باشد.\n\nاین ویرایش باید مثل یک نقاشی دیگر از نقاشِ همین تصویر مرجع دیده شود. شیوهٔ رنگ‌آمیزی آبرنگ، اندازه و فرم چشم و مژه، هندسهٔ سر و فرم بدن مرجع را نگه دار. آبرنگ را با موزاییک، ریزلکهٔ هندسی، فیلتر کاغذ، مدادرنگی یا سطح پلاستیکی جایگزین نکن. حاشیهٔ طبیعی رنگ و فضای سفید اطراف و تمام بدن و حباب داخل تصویر حفظ شوند. فقط متن‌های فارسیِ گفته‌شده در تصویر باشند.\n\nویرایش همین خروجی با حفظ سبک:\nهمین تصویرِ دو قابِ خیاط نارنجی را ویرایش کن. این نسخه از نظر سبک به خواستهٔ صاحب کتاب نزدیک‌تر شده؛ رنگ‌گذاری آبرنگیِ فعلی، رنگ‌ها، بافت کاغذ، محیط، چرخ سبز، پیراهن زرد، وصلهٔ فیروزه‌ای، داستان و نوشته‌های فارسی آن را دقیقاً حفظ کن. تغییر اصلی فقط هندسهٔ سر و رنگِ دورگیری آدمک است:\n۱) خط بیرونی سرِ خیاط در هر دو قاب یک دایرهٔ واقعی با عرض و ارتفاع دقیقاً یکسان باشد؛ قوس ۳۶۰ درجهٔ دایره، بدون چانه، فک، بیضی یا تخت‌شدگی پایین. حالتِ صورت و جهتِ نگاه می‌توانند کمی کج باشند ولی محیط سر همچنان دایره باشد. همان چشم‌های بیضی کوچک تیره و همان برقِ سفیدِ کوچک داخل چشم را حفظ کن؛ هیچ سفیدی دور مردمک اضافه نشود. مژه‌ها همان کوتاه و ظریف بمانند.\n۲) دورگیریِ سر، تنه، بازوها و دست‌های آدمک به‌جای قهوه‌ایِ نزدیک سیاه، نارنجیِ سوختهٔ تیره از خانوادهٔ رنگِ خود بدن باشد؛ خط رنگیِ نرم ولی خوانا، نه خط سیاه. خطوطِ صورت و نوشته‌ها می‌توانند تیره بمانند. لایه‌های آرامِ آبرنگِ بدن و سطح‌های روشن فعلی عوض نشوند.\nبرای جا شدن کامل شخصیت، نمای هر دو صحنه را اندکی بازتر کن تا دو پای خیاط، کف پاها، صندلی و پایه‌های میز تا انتها داخل هر قاب باشند و اندام از پایین بریده نشود. از همین نسبت عمودیِ دو قاب و فاصلهٔ سفید بینشان استفاده کن؛ اگر لازم شد میز و شخصیت کمی کوچک‌تر شوند. بدن بزرگسالِ خنثی با تناسب فعلی، بدون لاغرکردن یا تپل‌کردن، بدون کمر یا سینهٔ زنانه؛ جنسیت فقط از مژه. اتصال سر و شانه مستقیماً پیوسته باشد: سایهٔ نرم زیر سر یک قوسِ نارنجی روی بالای تنه است، نه یک قطعهٔ مستطیلیِ گردن. لبهٔ بالای پیش‌بند زیر همان قوس قرار گیرد.\nمتن‌ها دقیقاً حفظ: «اول کار»، «بعد از تمرین»، «چرخ همونه؛ حالا خودم بلدم!». نخِ گره‌خورده و وصلهٔ کج در قاب اول؛ نخِ مرتب و دوخت صافِ همان وصله در قاب دوم. دست‌های آشکار سه انگشت و یک شست داشته باشند، بدون انگشت اضافی. سایر بخش‌ها را بازطراحی یا زیباترسازی عمومی نکن؛ حس گرم و آبرنگیِ همین تصویر حفظ شود.",
+          "sourceCandidate": "f"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "english": "You will complete your mission in life when you figure out what your mission in life is. Your purpose is to discover your purpose. This is not a paradox. This is the way.",
+      "persian": "مأموریت زندگی‌ت وقتی کامل می‌شه که بفهمی مأموریتت چیه. هدفت اینه که هدفت رو پیدا کنی. این تناقض نیست؛ راه همینه.",
+      "sourceRow": 155,
+      "shortTitleFa": "کشف هدف زندگی",
+      "ideas": [
+        {
+          "id": "154-a-v1",
+          "titleFa": "کسی تنها نمونه",
+          "summaryFa": "با گوش‌دادن به یک آدم تنها، می‌فهمد چه چیزی برایش مهم است.",
+          "storyFa": "در قاب راست، نارنجی روی نیمکت از خودش می‌پرسد برای چه اینجاست و آبیِ تنها را در همان پارک می‌بیند. در قاب وسط، کنارش می‌نشیند و با حوصله گوش می‌دهد. در قاب چپ، هر دو آرام‌ترند و نارنجی در دلش می‌گوید: «دلم می‌خواد کسی تنها نمونه.»",
+          "meaningFa": "هدف همیشه از یک پاسخ آماده پیدا نمی‌شود؛ تجربهٔ سادهٔ همراهی با دیگری می‌تواند نشان بدهد چه کاری به زندگی‌مان معنا می‌دهد.",
+          "prompt": "Use case: illustration-story. EDIT/REBUILD THE ACTUAL ORIGINAL BOOK PAINTING in image 1 as the MAIN ASSET BASE, preserving its exact character family, genuine watercolor technique, proportions and face design, while changing only scene, props, movement and story. Image 2 supplies the same-book blue figure as a supporting cast reference; image 3 is the positively approved illustration 151-F as supporting style confirmation. Do not carry over the old reference scenes, text or apron automatically. Draw a complete finished illustration for a Persian visual book, not a generic digital comic.\n\nSTYLE LOCK: moderate real layered hand-painted watercolor WITHIN the heads, torsos, limbs and hands as well as setting. Broad softly irregular overlapping transparent pale/light/midtone washes, luminous paper under pigment, natural faint pooling at a few edges; like the actual book image, never uniform faceted/embossed/mosaic texture, marker or colored-pencil/crayon grain, flat vector or glossy 3D. Thin variable hand-painted contours in DARKER LOCAL BODY COLOR, not black/near-black: orange burnt-orange/sienna-orange and blue deeper-blue pigment. Warm gentle natural daylight.\n\nCHARACTER LOCK: same orange protagonist from reference 131 and same pale blue figure from 110. Simple neutral ADULT medium bodies: neither plump/chibi nor skinny/stretched, straight simple torso with similar shoulder/waist/pelvis widths, no breasts, hourglass waist, prominent hips/buttocks or gendered indentations. Female cue only a few short fine upper-outer lashes, same neutral body shape. All ordinary figures have no hair, ears or nose. Head contour a PERFECT CIRCLE width=height, not oval, no chin or flattened lower arc even when looking aside. NO NECK: head directly meets shoulders with soft local-color crescent contact shadow below head. Eyes modest dark ovals with tiny white glint INSIDE when appropriate, never white sclera surrounding a separate dark pupil or broad white eyeball. Each hand EXACTLY THREE rounded fingers plus ONE thumb, FOUR total; countable on open hands, natural partial occlusion on grips, no mittens or five digits. All figures have compatible simple colored bodies without unmatched special clothing; no apron needed for this scene.\n\nBOOK PAGE: all actual bodies/feet/important objects and bubbles fully inside painted scenes, generous clean exterior white paper margin, no paint touching file edges. Soft natural varying paint endings, not uniform hard frames, no heavy panel outlines, narrow white gutters. All text ONLY correct connected RTL Persian, short colloquial exact phrases requested below; no extra text, English, signatures, branding or watermark. Gentle family-friendly emotion. Life purpose is discovered through an actual experience, not through money, a medal or a single prescribed career. Keep the story plainly visible at first glance.\nSTORY A — LISTENING HELPS DISCOVER PURPOSE. LANDSCAPE 16:9, THREE roomy panels side by side, read RIGHT FIRST then MIDDLE then LEFT. Same calm neighborhood park with one simple wooden bench, restrained leaves and softly painted stone path; no crowd or decorative clutter.\n\nRIGHT: orange sits on a park bench, thoughtful and uncertain, feet visible, hand under chin naturally. A THOUGHT bubble with small thought trail to ORANGE reads EXACT «برای چی اینجام؟». On a second simple bench slightly farther along the same path a lonely BLUE figure can be seen with drooping shoulders and downcast expression, making the next action understandable. Keep blue secondary but readable.\nMIDDLE: orange has moved beside that SAME lonely blue on the same bench, sitting and sincerely listening. Blue is speaking through a simple gentle open-hand gesture and soft mouth movement, orange leans in a little with kind attention; no dialogue bubble or new words. Both whole figures/feet visible. This is warm listening, no lecturing, no rescuer superiority.\nLEFT: same orange and blue now sit calmly together on that same bench, both faces warmer; blue visibly feels less alone, orange smiles gently with a feeling of personal discovery. Orange's THOUGHT bubble EXACT «دلم می‌خواد کسی تنها نمونه.» with clear small thought trail to orange. Full feet and bench contained. Orange did not acquire an object or win a prize: by helping another person through listening, orange discovers what matters personally. Keep first and last thought bubbles legible, unobstructed and not touching heads. The emotional before/after is clear from lonely posture to shared calm companionship.",
+          "title": "کسی تنها نمونه",
+          "image": "art/154-a-v1.png",
+          "width": 1672,
+          "height": 941,
+          "version": 1,
+          "sourceCandidate": "A",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f"
+        }
+      ]
+    }
+  ],
+  "styleRevision": {
+    "method": "edit actual book references, preserving their character design and watercolor",
+    "updatedAt": "2026-10-07T09:26:40.766Z",
+    "status": "awaiting-user-review",
+    "rules": [
+      "circular heads",
+      "darker local-body-color contours",
+      "reference eyes with interior glint and no white sclera",
+      "neutral adult bodies",
+      "Persian colloquial dialogue"
+    ]
+  },
+  "summaryFa": "۱ از ۱۲ طرح جدید آماده · جملهٔ ۱۵۱ نهایی شده",
+  "styleVersion": "style-2026-10-07-approved-151-f",
+  "plannedSentenceIds": [
+    152,
+    153,
+    154
+  ],
+  "plannedIdeaCount": 12,
+  "readyIdeaCount": 1,
+  "inProgress": true,
+  "createdAt": "2026-10-07T13:26:15.359167+00:00"
+}

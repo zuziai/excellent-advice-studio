@@ -1,0 +1,209 @@
+{
+  "id": "wave-152-154-progress-03",
+  "title": "New style calibration ideas",
+  "titleFa": "موج آزمایشی در حال آماده‌سازی",
+  "totalSentences": 460,
+  "coveredEvidenceCount": 118,
+  "earlierUnresolvedCount": 32,
+  "nextWaveSize": 10,
+  "sentences": [
+    {
+      "id": 151,
+      "shortTitle": "Work to become",
+      "shortTitleFa": "۱۵۱ · تصویر نهایی",
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "ideas": [
+        {
+          "id": "151-f-v1",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "title": "The machine is the same; the tailor has changed",
+          "summary": "A novice tailor becomes capable through practice with the same sewing machine and shirt.",
+          "story": "Two panels show the same orange tailor, old green sewing machine and yellow shirt. First, tangled thread and a crooked turquoise patch reveal beginner trouble. After practice, she guides the cloth calmly and stitches the same patch neatly. Her skill has grown while the machine and possessions are unchanged.",
+          "titleFa": "چرخ همونه؛ حالا خودم بلدم!",
+          "summaryFa": "خیاط با تمرین ماهرتر می‌شود، در حالی که چرخ و پیراهنش همان قبلی‌اند.",
+          "storyFa": "در قاب بالا، خیاط نارنجی با نخ گره‌خورده و وصله‌ای کج کلنجار می‌رود. در قاب پایین، بعد از تمرین، با همان چرخ سبز و همان پیراهن زرد وصله را مرتب می‌دوزد؛ ابزار همان است، اما خودش ماهرتر و آرام‌تر شده است.",
+          "meaningFa": "ارزش کار فقط در چیزهایی نیست که به دست می‌آوریم؛ کار و تمرین از ما آدم توانمندتری می‌سازد. چرخ عوض نشده، مهارت خیاط بیشتر شده است.",
+          "image": "art/151-f-v1.png",
+          "alt": "Two panels show the same orange tailor, old green sewing machine and yellow shirt. First, tangled thread and a crooked turquoise patch reveal beginner trouble. After practice, she guides the cloth calmly and stitches the same patch neatly. Her skill has grown while the machine and possessions are unchanged.",
+          "width": 1024,
+          "height": 1536,
+          "prompt": "همین نقاشی مرجع را ویرایش کن: آدمک نارنجیِ نویسنده را به خیاط تبدیل کن. شخصیت را از نو طراحی نکن؛ همان شکل دایره‌ایِ سر، همان تناسب بدن، همان چشم‌های تیره با برق کوچک داخلی، همان مژه‌های کوتاه، همان خط رنگی و همان کیفیت و لایه‌های آبرنگِ تصویر موجود حفظ شوند. رنگ نارنجی شخصیت حفظ شود. بازو و ساعد شکل پیوسته و ملایمِ خود مرجع را داشته باشند، نه آرنج و ساعد توپی. سر دقیقاً مثل سر همین مرجع دایره باشد؛ فک، چانه، گردن یا قطعهٔ مستطیلی زیر سر اضافه نشود. سایهٔ اتصال سر و تنه همان قوس نرم خود مرجع باشد.\n\nصحنه را به دو قاب هم‌اندازهٔ بالا و پایین روی یک صفحهٔ عمودی تبدیل کن، با فاصلهٔ سفید میان قاب‌ها. در هر دو قاب همان آدمک نارنجی، با بدن ساده و خنثی، روی همان صندلی و پشت میز چوبی بنشیند. جنسیت فقط با مژه‌ها مشخص شود. یک پیش‌بند کرم ساده و مستقیم بپوشد که فرم بدن را زنانه نکند. هر دو پای کامل زیر میز دیده شوند. هر دست دقیقاً سه انگشت و یک شست داشته باشد؛ شکل طبیعی گرفتن پارچه و نخ حفظ شود.\n\nاشیای نویسندگی و کاغذهای مچاله و قلم‌ها را حذف کن. جای آنها روی میز یک چرخ خیاطی قدیمی سبز و یک پیراهن زرد با وصلهٔ مربع فیروزه‌ای بگذار. محیط روشنِ همین اتاق با پنجره و دیوار آبرنگی باقی بماند؛ تزئین تازه اضافه نکن.\n\nقاب بالا: زیر عنوان کوتاه «اول کار»، خیاط به نخ گره‌خورده و وصلهٔ کج و دوخت نامرتب نگاه می‌کند؛ حالتش کمی متعجب و مردد، نه غمگین و ترسناک.\nقاب پایین: زیر عنوان «بعد از تمرین»، همان خیاط با همان چرخ و پیراهن، وصله را صاف و مرتب می‌دوزد؛ لبخند آرام و حس تسلط دارد. یک حباب فارسی با دنباله به خود او و متن دقیق «چرخ همونه؛ حالا خودم بلدم!» داشته باشد.\n\nاین ویرایش باید مثل یک نقاشی دیگر از نقاشِ همین تصویر مرجع دیده شود. شیوهٔ رنگ‌آمیزی آبرنگ، اندازه و فرم چشم و مژه، هندسهٔ سر و فرم بدن مرجع را نگه دار. آبرنگ را با موزاییک، ریزلکهٔ هندسی، فیلتر کاغذ، مدادرنگی یا سطح پلاستیکی جایگزین نکن. حاشیهٔ طبیعی رنگ و فضای سفید اطراف و تمام بدن و حباب داخل تصویر حفظ شوند. فقط متن‌های فارسیِ گفته‌شده در تصویر باشند.\n\nویرایش همین خروجی با حفظ سبک:\nهمین تصویرِ دو قابِ خیاط نارنجی را ویرایش کن. این نسخه از نظر سبک به خواستهٔ صاحب کتاب نزدیک‌تر شده؛ رنگ‌گذاری آبرنگیِ فعلی، رنگ‌ها، بافت کاغذ، محیط، چرخ سبز، پیراهن زرد، وصلهٔ فیروزه‌ای، داستان و نوشته‌های فارسی آن را دقیقاً حفظ کن. تغییر اصلی فقط هندسهٔ سر و رنگِ دورگیری آدمک است:\n۱) خط بیرونی سرِ خیاط در هر دو قاب یک دایرهٔ واقعی با عرض و ارتفاع دقیقاً یکسان باشد؛ قوس ۳۶۰ درجهٔ دایره، بدون چانه، فک، بیضی یا تخت‌شدگی پایین. حالتِ صورت و جهتِ نگاه می‌توانند کمی کج باشند ولی محیط سر همچنان دایره باشد. همان چشم‌های بیضی کوچک تیره و همان برقِ سفیدِ کوچک داخل چشم را حفظ کن؛ هیچ سفیدی دور مردمک اضافه نشود. مژه‌ها همان کوتاه و ظریف بمانند.\n۲) دورگیریِ سر، تنه، بازوها و دست‌های آدمک به‌جای قهوه‌ایِ نزدیک سیاه، نارنجیِ سوختهٔ تیره از خانوادهٔ رنگِ خود بدن باشد؛ خط رنگیِ نرم ولی خوانا، نه خط سیاه. خطوطِ صورت و نوشته‌ها می‌توانند تیره بمانند. لایه‌های آرامِ آبرنگِ بدن و سطح‌های روشن فعلی عوض نشوند.\nبرای جا شدن کامل شخصیت، نمای هر دو صحنه را اندکی بازتر کن تا دو پای خیاط، کف پاها، صندلی و پایه‌های میز تا انتها داخل هر قاب باشند و اندام از پایین بریده نشود. از همین نسبت عمودیِ دو قاب و فاصلهٔ سفید بینشان استفاده کن؛ اگر لازم شد میز و شخصیت کمی کوچک‌تر شوند. بدن بزرگسالِ خنثی با تناسب فعلی، بدون لاغرکردن یا تپل‌کردن، بدون کمر یا سینهٔ زنانه؛ جنسیت فقط از مژه. اتصال سر و شانه مستقیماً پیوسته باشد: سایهٔ نرم زیر سر یک قوسِ نارنجی روی بالای تنه است، نه یک قطعهٔ مستطیلیِ گردن. لبهٔ بالای پیش‌بند زیر همان قوس قرار گیرد.\nمتن‌ها دقیقاً حفظ: «اول کار»، «بعد از تمرین»، «چرخ همونه؛ حالا خودم بلدم!». نخِ گره‌خورده و وصلهٔ کج در قاب اول؛ نخِ مرتب و دوخت صافِ همان وصله در قاب دوم. دست‌های آشکار سه انگشت و یک شست داشته باشند، بدون انگشت اضافی. سایر بخش‌ها را بازطراحی یا زیباترسازی عمومی نکن؛ حس گرم و آبرنگیِ همین تصویر حفظ شود.",
+          "sourceCandidate": "f"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "english": "Contemplating the weaknesses of others is easy; contemplating the weaknesses in yourself is hard, but it pays a much higher reward.",
+      "persian": "فکر کردن به ضعف‌های بقیه آسونه؛ فکر کردن به ضعف‌های خودت سخته، ولی پاداش خیلی بیشتری داره.",
+      "sourceRow": 153,
+      "shortTitleFa": "نگاه به ضعف‌های خودت",
+      "ideas": [
+        {
+          "titleFa": "اول باغچهٔ خودم",
+          "summaryFa": "نارنجی درگیر گلِ پژمردهٔ همسایه است، اما باغچهٔ خودش را فراموش کرده؛ با رسیدگی به گل خودش، شکوفه می‌بیند.",
+          "storyFa": "قاب راست: نارنجی از گلِ کمی پژمردهٔ آبی ایراد می‌گیرد و گلِ خودش را نمی‌بیند. قاب میانی: برمی‌گردد و بی‌توجهی خودش را می‌فهمد؛ چند قطرهٔ آب به پای خودش می‌ریزد. قاب چپ: با رسیدگی منظم، گلِ خودش سرحال و شکفته شده است.",
+          "meaningFa": "دیدن کوتاهی خودمان و اصلاح عادت‌ها، نتیجهٔ واقعی و بهتری از ایرادگیری از دیگران دارد.",
+          "prompt": "Use case: illustration-story. Finished Persian book illustration. Reconstruct ACTUAL ORIGINAL BOOK PAINTING 131.jpg faithfully, changing only its scene, objects, actions and composition. Preserve its authentic moderately layered hand-painted watercolor, locally colored contour quality, character scale, body proportions and round-head model. Use 110.jpg specifically for the modest dark oval eyes with tiny white glint INSIDE and delicate short outer eyelashes; 151-f-v1.png is the accepted recent style reference. Original book painting is the reconstruction target.\nReal watercolor inside heads, torsos, limbs, hands and background: broad softly irregular overlapping transparent washes with gentle pigment-density variation, subtle pooling and luminous white paper. Never crayon, pencil/marker grain, glossy shading, heavy stains or mosaic cells. Body outlines slightly darker local body color, orange/burnt orange and blue/deeper blue, never black. FULL CIRCULAR head, never oval, no chin. NO NECK whatsoever: head directly meets shoulders, pale crescent contact shadow immediately underneath. Simple adult medium proportions: neither skinny stretched nor chunky chibi. Same neutral silhouette for all, no breasts, thin waist, protruding hips/buttocks or gendered bulges. Orange has only a few delicate eyelashes at outer eyes, blue none. Dark small oval eyes, tiny internal white glint, NO white sclera. No nose, ears or hair. Every visible hand EXACTLY 3 fingers + 1 thumb, four separate natural digits. Keep all bodies and feet in frame.\nWarm gentle family humor, no ridicule. Landscape about 16:9. THREE open watercolor vignettes in a RIGHT-TO-LEFT sequence (first at right, next center, final left), separated by white gutters, no borders. Clean white outer paper margins on all sides, varied natural watercolor endings, no pigment touching file edges, no identical rectangular fade. Purposeful restrained environment. Consistent characters and key props throughout. ONLY specified short colloquial Persian text, joined letters RTL, legible dark brown book handwriting. Speech tails unambiguously belong to speaker. No titles, numbers, English, quotes or extra text.\nSTORY A, gardening. Orange and blue use ordinary neutral colored bodies WITHOUT clothing, same presentation as original 131. Blue's plant: a purple daisy in a pale blue glazed pot. Orange's plant: a yellow daisy with magenta center in a terracotta pot with a cream stripe. SAME flower identities and pots throughout.\nRIGHT: orange criticises blue's slightly droopy purple daisy, a fussy eyebrow, blue looks mildly puzzled. Orange's badly neglected yellow daisy behind orange is clearly dry and drooping but orange doesn't look at it. Orange bubble «گل اون چرا اینجوریه؟»\nCENTER: orange turns toward their OWN cream-striped pot, surprised at the dry soil and droopy yellow daisy. Orange realizes personal neglect, holding a fully functional green watering can. A few gentle accidental drops fall onto their own foot for warm humor; failure is inattention, not broken tools. Orange bubble «من که مال خودمو یادم رفت!»\nLEFT: some time later, orange calmly waters the SAME cream-striped terracotta pot as a deliberate care habit. SAME yellow daisy with magenta center now has fresh upright leaves and two blooming flowers. Blue watches warmly by their blue pot. Orange bubble «اول باغچهٔ خودم.» Clear causal reward is flowers, no money or trophy.\nTARGETED FRAMING AND CONTINUITY CORRECTION for the fourth reference (152-a-before-framing.png). Book 131 remains the precise painting/design reconstruction target; 110 and approved 151-f remain style constraints. Keep the three Persian bubbles VERBATIM, the character colors/expressions, watering-can identity, pot identities and gardening story of reference four. Correct only scene staging: REMOVE ALL PLANTER TABLES entirely. Both pots must sit directly on the garden ground in EVERY vignette. Show orange and blue as COMPLETE STANDING or naturally crouching full adult bodies with both legs and both feet fully visible in every vignette, without a desk hiding the lower body. In center, orange tips a few drops accidentally onto their own fully visible foot. In final left, orange waters their own cream-striped ground pot, yellow daisies bloom. Keep the entire scene fully within clean white margins. Original watercolor quality, fully circular heads, no necks, neutral medium adult proportions and FOUR total digits per visible hand must remain unchanged. No new text or other story changes.",
+          "id": "152-a-v1",
+          "title": "اول باغچهٔ خودم",
+          "image": "art/152-a-v1.png",
+          "width": 1672,
+          "height": 940,
+          "version": 1,
+          "sourceCandidate": "A",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f",
+          "imageHash": "cf8c83769a58d8532b4c5c6829a2cb171a08625e5afdfad8cc31c02dc2ba828f"
+        },
+        {
+          "titleFa": "پنکیکِ خودم کجاست؟",
+          "summaryFa": "نارنجی پنکیک کج دوستش را نقد می‌کند، اما پنکیک خودش به سقف چسبیده؛ روش پخت را اصلاح می‌کند و پنکیک‌های خوب را با دوستش شریک می‌شود.",
+          "storyFa": "قاب راست: نارنجی به پنکیک کج آبی اشاره می‌کند. قاب میانی: پنکیک خودش را روی سقف می‌بیند و از روش پرتابش خجالت می‌کشد. قاب چپ: این بار با کفگیر نزدیک ماهیتابه کار می‌کند و یک بشقاب پنکیک سالم برای خودش و آبی آماده می‌کند.",
+          "meaningFa": "پیدا کردن ایراد روش خود و تمرین برای اصلاحش، مهارت و رابطهٔ بهتری می‌سازد.",
+          "prompt": "Use case: illustration-story. Finished Persian book illustration. Reconstruct ACTUAL ORIGINAL BOOK PAINTING 131.jpg faithfully, changing only its scene, objects, actions and composition. Preserve its authentic moderately layered hand-painted watercolor, locally colored contour quality, character scale, body proportions and round-head model. Use 110.jpg specifically for the modest dark oval eyes with tiny white glint INSIDE and delicate short outer eyelashes; 151-f-v1.png is the accepted recent style reference. Original book painting is the reconstruction target.\nReal watercolor inside heads, torsos, limbs, hands and background: broad softly irregular overlapping transparent washes with gentle pigment-density variation, subtle pooling and luminous white paper. Never crayon, pencil/marker grain, glossy shading, heavy stains or mosaic cells. Body outlines slightly darker local body color, orange/burnt orange and blue/deeper blue, never black. FULL CIRCULAR head, never oval, no chin. NO NECK whatsoever: head directly meets shoulders, pale crescent contact shadow immediately underneath. Simple adult medium proportions: neither skinny stretched nor chunky chibi. Same neutral silhouette for all, no breasts, thin waist, protruding hips/buttocks or gendered bulges. Orange has only a few delicate eyelashes at outer eyes, blue none. Dark small oval eyes, tiny internal white glint, NO white sclera. No nose, ears or hair. Every visible hand EXACTLY 3 fingers + 1 thumb, four separate natural digits. Keep all bodies and feet in frame.\nWarm gentle family humor, no ridicule. Landscape about 16:9. THREE open watercolor vignettes in a RIGHT-TO-LEFT sequence (first at right, next center, final left), separated by white gutters, no borders. Clean white outer paper margins on all sides, varied natural watercolor endings, no pigment touching file edges, no identical rectangular fade. Purposeful restrained environment. Consistent characters and key props throughout. ONLY specified short colloquial Persian text, joined letters RTL, legible dark brown book handwriting. Speech tails unambiguously belong to speaker. No titles, numbers, English, quotes or extra text.\nSTORY B, pancake cooking. Cozy sparse kitchen reconstructed from 131's palette. BOTH orange and blue wear identical plain ivory aprons over their neutral bodies. Simple low counter/stove, no flames, full bodies and feet visible. Same frying pan, green-handled spatula and ivory plates throughout.\nRIGHT: orange points critically to blue's slightly crooked round pancake on blue's ivory plate. Blue is calm, no ridicule. Orange holds their own empty frying pan after an excessive toss. Orange bubble «مال تو کج شده!»\nCENTER: orange looks UP in harmless comic surprise: their OWN pancake is stuck to a clearly visible small ceiling section. Empty pan below, intact spatula visible. Blue glances up kindly. No fire, no danger. Orange bubble «اِ... مال من کجاست؟»\nLEFT: after practice orange carefully turns a pancake with the SAME green-handled spatula CLOSE TO the SAME pan, no high tossing. Good pancake stack on an ivory plate between orange and blue; both sharing happily. Orange bubble «باید روش خودمو درست کنم.» Reward is good pancakes and warm sharing.\nFRAMING PRIORITY: Use compact low cooking counters and position characters beside them, never hiding legs behind a tall counter. FULL adult bodies and BOTH FEET must fit cleanly in EACH panel with ample lower white margin. Keep both aprons simple and identical. The stuck pancake must visibly touch the overhead ceiling in center; the pan must visibly be empty there. Third panel should clearly show changed low spatula technique and cooked stack. Exact three short Persian bubbles only.",
+          "id": "152-b-v1",
+          "title": "پنکیکِ خودم کجاست؟",
+          "image": "art/152-b-v1.png",
+          "width": 1672,
+          "height": 941,
+          "version": 1,
+          "sourceCandidate": "B",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f",
+          "imageHash": "5a3009e9909b95febe7ec4eda34b3666263ff1f4c42a12b48069b62a9eb59304"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "english": "When you are young, have friends who are older; when you are old, have friends who are younger.",
+      "persian": "وقتی جوونی، دوست‌های بزرگ‌تر از خودت داشته باش؛ وقتی پیری، دوست‌های جوون‌تر.",
+      "sourceRow": 154,
+      "shortTitleFa": "دوستی بین نسل‌ها",
+      "ideas": [
+        {
+          "titleFa": "بادبادک بین نسل‌ها",
+          "summaryFa": "گره بادبادک با کمک دو دوست باز می‌شود؛ سال‌ها بعد نارنجی مسن و دوست جوانش همان بادبادک را هوا می‌کنند.",
+          "storyFa": "در پارک، دو دوست بزرگسال با خنده گره نخ بادبادک را باز می‌کنند. قاب بعد همان نارنجی مسن شده و کنار دوست جوانش از پرواز بادبادک لذت می‌برد.",
+          "meaningFa": "صمیمیت با بزرگ‌ترها و جوان‌ترها سرگرمی و انرژی را در همهٔ سن‌ها زنده نگه می‌دارد.",
+          "prompt": "Use case: illustration-story. Create the finished book illustration for sentence 153 using ORIGINAL BOOK PAINTING 131.jpg (image 1) as the PRIMARY exact reconstruction target, NOT a new generic cartoon style. Keep its physical drawing proportions, completely circular round heads, luminous moderate hand-painted body washes, small expressive dark eyes with tiny white glints, locally colored darker outlines. Image 2 (accepted 151-f-v1.png) SUPPORTS precise broad layered watercolor softness and narrative quality. Image 3 (110.jpg) SUPPORTS two-adult proportions. These are style/design references only; change scene and poses to the kite friendship story.\nPortrait 1024x1536 page with TWO equal spacious scenes stacked TOP then BOTTOM, separated by clean white gap. Around the entire painting leave about 45px clean WHITE PAPER: pigment cannot touch any file edge. Naturally irregular soft paint endings in ground, sparse tree leaves, sky, not heavy rectangle frames.\nTOP heading exactly «وقتی جوون بودم». Sparse bright park with a simple tree at left. Young ADULT orange friend at RIGHT and old ADULT blue friend at LEFT, both stand fully shown with both feet each visible, laughing warmly and making eye contact as they loosen a small understandable knot in ONE kite string together. Orange holds a wooden reel at waist and a loose string loop; blue lifts the loop gently. One bright multicolor diamond kite hovers above them inside page, tail with a few small colorful bows lightly brushing between raised hands. Clear single string connects reel to kite; no confusing mesh or dangerous tangles.\nBOTTOM heading exactly «حالا». SAME park and SAME kite, years later. SAME orange character remains orange at RIGHT, now old. Young ADULT green friend stands at LEFT. They laugh and fly the kite together, holding the reel collaboratively with the tail lightly fluttering between them. Two equally active warm friends; neither person is a student, carer or service giver. Age only: blue ABOVE and orange BELOW have two or three tiny delicate outer-eye wrinkles and a short fine mouth-corner line. Orange ABOVE and green BELOW have smooth faces. All are the SAME grown ADULT height/proportions, young is never a child, elderly never stooped or weak.\nCRITICAL character construction: simple neutral torso of steady modest width and neutral middle adult build, no narrow waist, bust, hip or buttock bulge, no chubby or overly long limbs. All sexes same silhouette; no clothes for any of these abstract color figures, no age-specific clothes, hair, beard or glasses. Heads perfect equal-height-and-width circles, directly touching shoulders with a soft local-color crescent contact shadow, NO NECK. Round silhouette unmodified by expression. Every visible hand has THREE fingers plus ONE thumb, natural grasping occlusion allowed, no extra digits or mittens. Body contours burnt orange/deeper blue/deeper green, not black. Small dark eyes contain small white glint and NO white sclera.\nMEDIUM: authentic original-book watercolor inside heads, limbs, torsos and hands and sparse park. Broad gentle overlapping transparent washes with softly irregular edges and moderate pigment variation like image1 and image2. NO plastic/flat digital gradient, no glossy highlights, no marker/pencil fine grain, no mosaic mottling, no dramatic splashes. Bright soft colors and luminous paper. Text ONLY those two connected RTL Persian headings, no English or other writing. All kite, tails, hands and feet within margin.",
+          "id": "153-b-v1",
+          "title": "بادبادک بین نسل‌ها",
+          "image": "art/153-b-v1.png",
+          "width": 1024,
+          "height": 1536,
+          "version": 1,
+          "sourceCandidate": "B",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f",
+          "imageHash": "a532aeaf031df6f72bd8f6dc60e01b7d992ea2ac4bd25029a5bd9c8126fa640f"
+        },
+        {
+          "titleFa": "از نهال تا سایهٔ دوستی",
+          "summaryFa": "نارنجی جوان با دوست مسن نهال می‌کارد؛ نارنجی مسن و دوست جوان از میوهٔ همان درخت سهم می‌برند.",
+          "storyFa": "نهال کوچک در قاب اول با همکاری نارنجی جوان و دوست آبی مسن کاشته می‌شود. سال‌ها بعد همان نهال درخت شده و نارنجی مسن با دوست سبز جوان میوهٔ آن را تقسیم می‌کند.",
+          "meaningFa": "دوستی میان نسل‌ها رشد می‌کند و در مرحله‌های بعدی زندگی میوه می‌دهد.",
+          "prompt": "Use case: precise-object-edit. Edit ONLY the two age cues in the attached final garden two-panel watercolor. Preserve ALL current painting, composition, bodies, circular heads, colors, hand anatomy, Persian text, scenery, fruit, sapling and mature tree, white margins and watercolor texture pixel-faithfully wherever possible. Absolutely no redesign, no anatomy change, no recoloring, no extra text.\nTOP panel: the BLUE adult friend is OLD. Add two or three extremely fine short BLUE-grey crow's-foot lines just outside each eye, and one very fine short cheek/mouth corner age line. Lines should be delicate but visible at book viewing size, respectful. The ORANGE adult protagonist above remains YOUNG: keep face smooth and unchanged.\nBOTTOM panel: the SAME ORANGE adult protagonist is now OLD. Add two or three extremely fine short burnt-orange crow's-foot lines just outside each eye and one fine short mouth-corner age line, delicate but visible. The GREEN adult friend below remains YOUNG and smooth-faced. Keep orange's tiny fine eyelashes in both panels.\nAll older figures remain full active adult bodies of the same proportions, no neck/hair/glasses or anything else added. Age is expressed ONLY by these tiny local-color facial lines. Maintain exact Persian «وقتی جوون بودم» above and «سال‌ها بعد» below. Maintain 1024x1536, complete feet, generous white border and two scenes TOP to BOTTOM.",
+          "id": "153-c-v1",
+          "title": "از نهال تا سایهٔ دوستی",
+          "image": "art/153-c-v1.png",
+          "width": 1024,
+          "height": 1536,
+          "version": 1,
+          "sourceCandidate": "C",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f",
+          "imageHash": "8b65dd6b0b5c4f3d2ebc1e6a9255885b0aaac8664307b86e85c93385debddee4"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "english": "You will complete your mission in life when you figure out what your mission in life is. Your purpose is to discover your purpose. This is not a paradox. This is the way.",
+      "persian": "مأموریت زندگی‌ت وقتی کامل می‌شه که بفهمی مأموریتت چیه. هدفت اینه که هدفت رو پیدا کنی. این تناقض نیست؛ راه همینه.",
+      "sourceRow": 155,
+      "shortTitleFa": "کشف هدف زندگی",
+      "ideas": [
+        {
+          "titleFa": "کسی تنها نمونه",
+          "summaryFa": "با گوش‌دادن به یک آدم تنها، می‌فهمد چه چیزی برایش مهم است.",
+          "storyFa": "در قاب راست، نارنجی روی نیمکت از خودش می‌پرسد برای چه اینجاست و آبیِ تنها را در همان پارک می‌بیند. در قاب وسط، کنارش می‌نشیند و با حوصله گوش می‌دهد. در قاب چپ، هر دو آرام‌ترند و نارنجی در دلش می‌گوید: «دلم می‌خواد کسی تنها نمونه.»",
+          "meaningFa": "هدف همیشه از یک پاسخ آماده پیدا نمی‌شود؛ تجربهٔ سادهٔ همراهی با دیگری می‌تواند نشان بدهد چه کاری به زندگی‌مان معنا می‌دهد.",
+          "prompt": "Use case: illustration-story. EDIT/REBUILD THE ACTUAL ORIGINAL BOOK PAINTING in image 1 as the MAIN ASSET BASE, preserving its exact character family, genuine watercolor technique, proportions and face design, while changing only scene, props, movement and story. Image 2 supplies the same-book blue figure as a supporting cast reference; image 3 is the positively approved illustration 151-F as supporting style confirmation. Do not carry over the old reference scenes, text or apron automatically. Draw a complete finished illustration for a Persian visual book, not a generic digital comic.\n\nSTYLE LOCK: moderate real layered hand-painted watercolor WITHIN the heads, torsos, limbs and hands as well as setting. Broad softly irregular overlapping transparent pale/light/midtone washes, luminous paper under pigment, natural faint pooling at a few edges; like the actual book image, never uniform faceted/embossed/mosaic texture, marker or colored-pencil/crayon grain, flat vector or glossy 3D. Thin variable hand-painted contours in DARKER LOCAL BODY COLOR, not black/near-black: orange burnt-orange/sienna-orange and blue deeper-blue pigment. Warm gentle natural daylight.\n\nCHARACTER LOCK: same orange protagonist from reference 131 and same pale blue figure from 110. Simple neutral ADULT medium bodies: neither plump/chibi nor skinny/stretched, straight simple torso with similar shoulder/waist/pelvis widths, no breasts, hourglass waist, prominent hips/buttocks or gendered indentations. Female cue only a few short fine upper-outer lashes, same neutral body shape. All ordinary figures have no hair, ears or nose. Head contour a PERFECT CIRCLE width=height, not oval, no chin or flattened lower arc even when looking aside. NO NECK: head directly meets shoulders with soft local-color crescent contact shadow below head. Eyes modest dark ovals with tiny white glint INSIDE when appropriate, never white sclera surrounding a separate dark pupil or broad white eyeball. Each hand EXACTLY THREE rounded fingers plus ONE thumb, FOUR total; countable on open hands, natural partial occlusion on grips, no mittens or five digits. All figures have compatible simple colored bodies without unmatched special clothing; no apron needed for this scene.\n\nBOOK PAGE: all actual bodies/feet/important objects and bubbles fully inside painted scenes, generous clean exterior white paper margin, no paint touching file edges. Soft natural varying paint endings, not uniform hard frames, no heavy panel outlines, narrow white gutters. All text ONLY correct connected RTL Persian, short colloquial exact phrases requested below; no extra text, English, signatures, branding or watermark. Gentle family-friendly emotion. Life purpose is discovered through an actual experience, not through money, a medal or a single prescribed career. Keep the story plainly visible at first glance.\nSTORY A — LISTENING HELPS DISCOVER PURPOSE. LANDSCAPE 16:9, THREE roomy panels side by side, read RIGHT FIRST then MIDDLE then LEFT. Same calm neighborhood park with one simple wooden bench, restrained leaves and softly painted stone path; no crowd or decorative clutter.\n\nRIGHT: orange sits on a park bench, thoughtful and uncertain, feet visible, hand under chin naturally. A THOUGHT bubble with small thought trail to ORANGE reads EXACT «برای چی اینجام؟». On a second simple bench slightly farther along the same path a lonely BLUE figure can be seen with drooping shoulders and downcast expression, making the next action understandable. Keep blue secondary but readable.\nMIDDLE: orange has moved beside that SAME lonely blue on the same bench, sitting and sincerely listening. Blue is speaking through a simple gentle open-hand gesture and soft mouth movement, orange leans in a little with kind attention; no dialogue bubble or new words. Both whole figures/feet visible. This is warm listening, no lecturing, no rescuer superiority.\nLEFT: same orange and blue now sit calmly together on that same bench, both faces warmer; blue visibly feels less alone, orange smiles gently with a feeling of personal discovery. Orange's THOUGHT bubble EXACT «دلم می‌خواد کسی تنها نمونه.» with clear small thought trail to orange. Full feet and bench contained. Orange did not acquire an object or win a prize: by helping another person through listening, orange discovers what matters personally. Keep first and last thought bubbles legible, unobstructed and not touching heads. The emotional before/after is clear from lonely posture to shared calm companionship.",
+          "id": "154-a-v1",
+          "title": "کسی تنها نمونه",
+          "image": "art/154-a-v1.png",
+          "width": 1672,
+          "height": 941,
+          "version": 1,
+          "sourceCandidate": "A",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f",
+          "imageHash": "7e28796acb2db4f857426b6404dc099b2f4eadb67af874394c53bbcb36527393"
+        },
+        {
+          "titleFa": "تجربه کن تا پیداش کنی",
+          "summaryFa": "چند کار را امتحان می‌کند و هنگام کمک به دوستش می‌فهمد از حل مسئله لذت می‌برد.",
+          "storyFa": "بالا از راست، نارنجی با سؤال «کار من چیه؟» موسیقی را امتحان می‌کند؛ بعد به یک گیاه رسیدگی می‌کند. پایین از راست، چراغ خراب دوست آبی‌اش را تعمیر می‌کند و در پایان، با روشن‌شدن همان چراغ و شادی دوستش، می‌فهمد دوست دارد گرهی از کار دیگران باز کند.",
+          "meaningFa": "برای شناختن هدف می‌توان تجربه کرد و به احساس خود هنگام اثرگذاشتن بر زندگی دیگران توجه کرد؛ هیچ‌کدام از تجربه‌ها از پیش شکست یا پاسخ قطعی محسوب نمی‌شود.",
+          "prompt": "Use case: illustration-story. EDIT/REBUILD THE ACTUAL ORIGINAL BOOK PAINTING in image 1 as the MAIN ASSET BASE, preserving its exact character family, genuine watercolor technique, proportions and face design, while changing only scene, props, movement and story. Image 2 supplies the same-book blue figure as a supporting cast reference; image 3 is the positively approved illustration 151-F as supporting style confirmation. Do not carry over the old reference scenes, text or apron automatically. Draw a complete finished illustration for a Persian visual book, not a generic digital comic.\n\nSTYLE LOCK: moderate real layered hand-painted watercolor WITHIN the heads, torsos, limbs and hands as well as setting. Broad softly irregular overlapping transparent pale/light/midtone washes, luminous paper under pigment, natural faint pooling at a few edges; like the actual book image, never uniform faceted/embossed/mosaic texture, marker or colored-pencil/crayon grain, flat vector or glossy 3D. Thin variable hand-painted contours in DARKER LOCAL BODY COLOR, not black/near-black: orange burnt-orange/sienna-orange and blue deeper-blue pigment. Warm gentle natural daylight.\n\nCHARACTER LOCK: same orange protagonist from reference 131 and same pale blue figure from 110. Simple neutral ADULT medium bodies: neither plump/chibi nor skinny/stretched, straight simple torso with similar shoulder/waist/pelvis widths, no breasts, hourglass waist, prominent hips/buttocks or gendered indentations. Female cue only a few short fine upper-outer lashes, same neutral body shape. All ordinary figures have no hair, ears or nose. Head contour a PERFECT CIRCLE width=height, not oval, no chin or flattened lower arc even when looking aside. NO NECK: head directly meets shoulders with soft local-color crescent contact shadow below head. Eyes modest dark ovals with tiny white glint INSIDE when appropriate, never white sclera surrounding a separate dark pupil or broad white eyeball. Each hand EXACTLY THREE rounded fingers plus ONE thumb, FOUR total; countable on open hands, natural partial occlusion on grips, no mittens or five digits. All figures have compatible simple colored bodies without unmatched special clothing; no apron needed for this scene.\n\nBOOK PAGE: all actual bodies/feet/important objects and bubbles fully inside painted scenes, generous clean exterior white paper margin, no paint touching file edges. Soft natural varying paint endings, not uniform hard frames, no heavy panel outlines, narrow white gutters. All text ONLY correct connected RTL Persian, short colloquial exact phrases requested below; no extra text, English, signatures, branding or watermark. Gentle family-friendly emotion. Life purpose is discovered through an actual experience, not through money, a medal or a single prescribed career. Keep the story plainly visible at first glance.\nSTORY B — FINDING PURPOSE BY TRYING DIFFERENT EXPERIENCES. PORTRAIT 4:5, FOUR quiet panels in a 2x2 arrangement, TOP ROW RIGHT→LEFT, then BOTTOM ROW RIGHT→LEFT. Soft white gutters, no heavy frames. Same orange protagonist in every panel, moderate adult body, no special clothes. Simple home and small courtyard, restrained furnishing.\n\nTOP RIGHT, first: orange sits on a simple stool trying a small ordinary acoustic musical instrument, thoughtful and curious rather than badly failing, all feet visible. Orange THOUGHT bubble EXACT «کار من چیه؟». One or two small musical-note symbols may imply trying music; no other text.\nTOP LEFT, second: same orange tries tending one modest potted young plant in the courtyard with a little watering can. Looks attentive and curious; no sadness or destroyed plant. This is another experience, not a statement that music or gardening are inferior. Few purposeful objects, no decorative clutter, full figure.\nBOTTOM RIGHT, third: a BLUE friend has an ordinary table lamp that is not working. Orange discovers a way to help: attentively repairs the lamp's simple opened base using one small screwdriver, on a plain low wooden table. Lamp unplugged with clearly loose plug resting safely beside it. Blue stands nearby watching, slightly concerned but hopeful. The repair act is clearly visible. Whole real bodies and feet inside panel, natural four-digit hands, no elaborate tool collection or technical text.\nBOTTOM LEFT, final: SAME lamp now stands whole and shines a gentle warm yellow light on that same small table, blue smiling with relief and appreciation; orange warmly pleased at having helped. Orange THOUGHT bubble EXACT «دوست دارم گره‌ای باز کنم.» with trail to orange. Orange is discovering that solving a real problem for somebody feels meaningful. No money, trophy, job badge, purchase or career label. The purpose discovery is an experience and feeling of helping, not the acquisition of equipment. Keep both exact Persian thought bubbles legible and away from heads, no other writing.\n\nTargeted framing correction:\nCorrect ONLY the FRAMING OF THE TWO LOWER PANELS of this completed four-panel watercolor story. Both actual figures' legs and feet currently run into the bottom panel/file edge. Pull back the viewpoint in BOTH LOWER panels enough that the BLUE friend and ORANGE protagonist have their COMPLETE BODIES AND FEET visible inside the painted area, with clean white exterior paper below. Show a plain low table's full simple legs, orange seated on a simple chair with whole legs/feet below the table, and blue standing beside table with whole legs/feet visible. Reduce the lower-panel figures and table in scale moderately to fit; do not shrink heads disproportionately or stretch limbs. Preserve thought bubble in final lower-left panel with clear trail to orange. Upper two panels unchanged. Same lower scenes: on lower RIGHT orange repairs the same unplugged lamp while blue watches, lamp shade beside its base and unplugged cord visible; on lower LEFT same lamp shines warmly and both are happy.\n\nKeep the exact original-book medium, character identity, colors, proportions, circular heads NO NECK with contact shadow, neutral ADULT moderate bodies with no hourglass/hips/breasts, local body-colored outlines not black, four-digit hands (3 fingers+thumb), small dark oval eyes with tiny INSIDE white glint and no surrounding white sclera, subtle short lashes. Preserve all existing text exactly: top-right «کار من چیه؟», lower-left «دوست دارم گره‌ای باز کنم.» Preserve musical instrument, gardening trial, all scene continuity and watercolor white gutters/natural margins. No new words, no extra props or people, no style change. Only correct the two lower scenes to show the full actual figures and feet safely inside their panels.",
+          "id": "154-b-v1",
+          "title": "تجربه کن تا پیداش کنی",
+          "image": "art/154-b-v1.png",
+          "width": 1122,
+          "height": 1402,
+          "version": 1,
+          "sourceCandidate": "B",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-07-approved-151-f",
+          "imageHash": "e4c292a0b79241a1723667b943068ee19adfa5832e75969ab24030d7fd261eef"
+        }
+      ]
+    }
+  ],
+  "styleRevision": {
+    "method": "edit actual book references, preserving their character design and watercolor",
+    "updatedAt": "2026-10-07T09:26:40.766Z",
+    "status": "awaiting-user-review",
+    "rules": [
+      "circular heads",
+      "darker local-body-color contours",
+      "reference eyes with interior glint and no white sclera",
+      "neutral adult bodies",
+      "Persian colloquial dialogue"
+    ]
+  },
+  "summaryFa": "۶ از ۱۲ طرح جدید آماده · جملهٔ ۱۵۱ نهایی شده",
+  "styleVersion": "style-2026-10-07-approved-151-f",
+  "plannedSentenceIds": [
+    152,
+    153,
+    154
+  ],
+  "plannedIdeaCount": 12,
+  "readyIdeaCount": 6,
+  "inProgress": true,
+  "createdAt": "2026-10-07T14:25:34.274413+00:00",
+  "styleContractHash": "e4a5053634b4a75bc45c959f40057bfc1ef472d037955edb47bc8370d5a80da4",
+  "activeSentenceIds": [
+    152,
+    153,
+    154
+  ]
+}

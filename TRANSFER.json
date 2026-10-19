@@ -1,15 +1,18 @@
 {
   "prepared": true,
   "destination": ".",
-  "files": 251,
+  "files": 340,
   "bytes": 72578881,
-  "waveId": "wave-154-156-2026-10-19-v1",
+  "waveId": "wave-157-161-2026-10-19-progress-01",
   "sentences": 460,
-  "activeArtworks": 12,
+  "activeArtworks": 16,
   "approvedImages": [
     151,
     152,
-    153
+    153,
+    154,
+    155,
+    156
   ],
   "excluded": [
     "full original reference-image archive",
@@ -26,8 +29,8 @@
   "validation": {
     "backendFixtureTestsPassed": 8,
     "sentencesPreserved": 460,
-    "activeOriginalImagesVerified": 12,
-    "approvedImagesAndPromptsVerified": 3,
+    "activeOriginalImagesVerified": 16,
+    "approvedImagesAndPromptsVerified": 6,
     "localHttpEndpointsVerified": 26,
     "excelPromptColumn": "D",
     "persianColumn": "C",
@@ -39,15 +42,25 @@
     "workbookUnchanged": true,
     "dependencyJunctionExcluded": true
   },
-  "filesBeforeChecksum": 250,
+  "filesBeforeChecksum": 339,
   "intendedGitHubRepository": "https://github.com/zuziai/excellent-advice-studio",
   "activeSentenceIds": [
+    157
+  ],
+  "activeApprovalStatus": "See feedback.json for explicit current decisions",
+  "metadataFiles": 62,
+  "includedPreviousGalleryArtworks": 12,
+  "refreshedAtUtc": "2026-10-19T17:45:30.162418+00:00",
+  "gallerySentenceIds": [
     154,
     155,
-    156
+    156,
+    157
   ],
-  "activeApprovalStatus": "pending owner review",
-  "metadataFiles": 54,
-  "includedPreviousGalleryArtworks": 12,
-  "refreshedAtUtc": "2026-10-19T13:54:40.466464+00:00"
+  "includedCurrentAndAncestorImages": 28,
+  "testedRuntime": {
+    "python": "3.12.14",
+    "node": "24.19.0",
+    "artifactTool": "2.8.94"
+  }
 }

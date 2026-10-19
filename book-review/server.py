@@ -1,9 +1,10 @@
 """Local review server. Feedback stays in the workspace; no image is auto-approved."""
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import urlsplit, unquote
+from urllib.parse import urlsplit, unquote, parse_qs
 import json, secrets, threading, os, re, mimetypes
 from finalization import Finalizer
+from version_history import HistoryError, ImageHistory
 
 PROJECT = Path(__file__).resolve().parent
 DATA = PROJECT.parent / 'review-data'
@@ -11,6 +12,7 @@ FEEDBACK = DATA / 'feedback.json'
 TOKEN = secrets.token_urlsafe(32)
 LOCK = threading.RLock()
 PORT = 8765
+IMAGE_HISTORY = ImageHistory(PROJECT)
 
 def read_feedback():
     if FEEDBACK.exists():
@@ -199,6 +201,17 @@ class Handler(SimpleHTTPRequestHandler):
             return self.send_json({**read_feedback(),'localReview':True,'token':TOKEN,'finalizations':finalization_status()})
         if urlsplit(self.path).path == '/api/finalizations':
             return self.send_json({'finalizations':finalization_status()})
+        if urlsplit(self.path).path == '/api/image-history':
+            try:
+                query = urlsplit(self.path).query
+                if len(query) > 300:
+                    raise HistoryError('Invalid history query')
+                parameters = parse_qs(query, keep_blank_values=True)
+                if set(parameters) != {'ideaId'} or len(parameters['ideaId']) != 1:
+                    raise HistoryError('One idea identifier is required')
+                return self.send_json(IMAGE_HISTORY.get(parameters['ideaId'][0]))
+            except HistoryError as error:
+                return self.send_json({'error': str(error)}, error.status)
         if urlsplit(self.path).path.startswith('/download/'):
             return self.send_original_download()
         return super().do_GET()

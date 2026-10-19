@@ -26,6 +26,18 @@
 .choice-mark{display:block;margin-top:10px}.choice-mark:empty{display:none}
 .version-tag{display:inline-block;padding:3px 9px;margin-bottom:8px;border-radius:20px;background:#e0f1e8;color:#225343;font-size:.8125rem;font-weight:600}
 .version-status{background:#eaf5ef;border:1px solid #bcdcc9;border-radius:8px;padding:12px;color:#225343;font-size:.875rem;line-height:1.9}
+.image-history{border:1px solid var(--line);border-radius:8px;padding:13px;background:#faf8fd}
+.image-history label{font-size:.875rem;margin-bottom:8px}
+.history-controls{display:flex;align-items:center;gap:6px}
+.history-controls select{min-width:0;flex:1;width:100%;font:inherit;font-size:.875rem;color:var(--ink);background:white;border:1px solid var(--line);border-radius:7px;padding:8px 5px}
+.history-controls select:focus-visible{outline:3px solid #9d78c5;outline-offset:2px}
+.history-controls .button{padding:9px 10px;font-size:.8125rem;flex-shrink:0}
+.review-pane .history-status{font-size:.75rem;margin-top:8px;line-height:1.8}
+.historical-preview{border-top:1px solid var(--line);margin-top:10px;padding-top:10px}
+.review-pane .historical-preview p{font-size:.8125rem;color:#68421d;line-height:1.9}
+.historical-preview .button{width:100%;margin-top:9px;font-size:.8125rem}
+.viewer button:disabled,.viewer select:disabled,.viewer textarea:disabled{cursor:not-allowed}
+.viewer textarea:disabled{background:#f6f4f8;color:var(--muted)}
 .revision-activity{margin-top:12px;padding:14px;border:1px solid #dbbb8e;border-radius:8px;background:#fff4e2;color:#68421d}
 .activity-heading{display:flex;gap:10px;align-items:center;font-size:.9375rem}
 .review-pane .revision-activity p{margin-top:6px;font-size:.875rem;color:inherit}

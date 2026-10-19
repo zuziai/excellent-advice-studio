@@ -1,0 +1,71 @@
+{
+  "id": "157-d-20261019-v1",
+  "sentenceId": 157,
+  "version": 1,
+  "titleFa": "چرخ نو لازم نبود",
+  "summaryFa": "گیرکردن چرخ واقعی است؛ اما عوض‌کردن چرخ راه‌حلش نیست، چون نوار بسته‌بندی دور محور پیچیده است.",
+  "storyFa": "بنفش گیرکردن چرخ را گزارش می‌کند و چرخ نو پیشنهاد می‌دهد. صورتی مشکل را می‌پذیرد؛ با بیرون‌کشیدن نوار آبیِ دور محور، همان چرخ سالم دوباره آزاد می‌شود.",
+  "meaningFa": "بین تجربهٔ واقعی کاربر و حدس او دربارهٔ راه‌حل فرق بگذار؛ برای یافتن علت اصلی از همان بازخورد شروع کن.",
+  "outputPath": "book-review/dist/art/157-d-20261019-v1.png",
+  "sha256": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+  "imageHash": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+  "imageSha256": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+  "bytes": 2421026,
+  "width": 1254,
+  "height": 1254,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. One NEW square watercolor illustration for an adult Persian wisdom book. TWO spacious panels arranged RIGHT TO LEFT, same scene at two successive moments. Use approved input 1 only for neutral adult anatomy and layered watercolor; approved input 2 for tiny white glints in dark eyes, diffuse cheeks and subtle lashes.\nMEANING: The customer accurately reports a real malfunction but may be mistaken about the fix. Acknowledging the symptom and looking for its actual cause is wiser than simply rejecting the complaint or obeying the suggested replacement.\nRIGHT PANEL: A plain small flower-delivery courtyard. A simple two-wheeled HAND TROLLEY has a single cardboard parcel strapped securely to it. Both sturdy wheels are visible from a three-quarter view, including the nearer large wheel. The trolley is standing still because a long BLUE strip of plastic packing ribbon is tangled tightly AROUND THE NEAR AXLE, just between that wheel and the frame. Make the blue ribbon unmistakable without an inset diagram. A lavender adult client points at the stuck near wheel with concern and says exactly \"چرخش گیر داره؛ چرخِ نو بخر!\" A warm coral-pink delivery owner with two tiny fine eyelashes stands on the other side holding the handle in a physically coherent posture, feels the resistance and says exactly \"گیر داره، درست می‌گی.\" No wheel is actually removed or replaced.\nLEFT PANEL: The SAME pink owner has tilted the SAME trolley securely back onto its support foot, the parcel still strapped. They crouch beside the SAME near axle and have just unwrapped the offending SAME BLUE ribbon, holding it free in one four-digit hand while the other hand steadies the trolley. The near wheel remains mounted, intact and identical, now free from the ribbon. A small curved motion mark shows it turning freely, not the whole trolley floating. The lavender client watches the actual ribbon with a relieved appreciative expression. Pink says exactly \"نوار دورِ محور پیچیده بود!\" The contrast is clear: real stuck wheel, suggested new wheel, actual obstruction removed instead. Keep all limbs, feet, trolley and important ribbon inside the image. No magic wrench, discarded wheel, unnecessary replacement part, ridicule or long moral caption.\nART DIRECTION AND CHARACTER INVARIANTS: Match the attached approved book illustrations ONLY for character design and authentic restrained hand-painted watercolor, not their settings. Softly irregular broad overlapping transparent washes INSIDE the head, torso, arms, legs and hands, varying pigment density and subtle pooling, luminous paper; moderate watercolor strength. No colored-pencil or marker grain, no flat vector, no glossy 3D, no uniform embossed/crystalline texture. Contours are a darker shade of each character's own body color, not black. Every head is a simple true circle of equal width and height, never oval, no flattened chin, no ears/hair/nose. Head joins torso directly with NO NECK and a soft crescent of deeper local color under the head. Moderately built ADULT bodies exactly like the approved references: not chubby, not skinny, no bulging arms, no chibi. All bodies have the same simple neutral torso and pelvis, absolutely no breasts/bust, protruding buttocks, broad hips, pinched waist or gendered bulges. Female cue only two tiny fine upper-outer eyelashes on otherwise IDENTICAL small dark vertical oval eyes. Each dark eye MUST have one tiny reflected white glint INSIDE its dark shape; never white sclera around a pupil, never human eyeballs or frightening blank black eyes. Add subtle translucent diffuse rosy cheeks with soft watercolor edges, never flat pink discs. Minimal expressive brows and mouth. Exactly THREE fingers and ONE thumb on each visible hand (four digits total); anatomically coherent grips and limbs. No unmotivated selective clothing; aprons only if the occupation needs them. Identity and body color stay consistent in every panel.\nCOMPOSITION AND READABILITY: One complete square image, spacious book illustration with a clear cause and effect narrative. All full bodies, feet, hands and important objects stay completely inside the painting, never cropped at the bottom. Clean white outer paper margin, paint not touching file edges; vary natural airy watercolor vignette edges using a simple background ending naturally, no heavy black panel frames. Thin white gutters between panels. Horizontal sequences read RIGHT TO LEFT and vertical sequence TOP TO BOTTOM. Short accurate connected Persian RTL text only as specified, no English, no watermark, no captions explaining the moral. Bubble tails must point to the correct speaker. Purposeful sparse adult everyday setting, warm kind mood and gentle human wit. Every gaze, pointing hand and action must target its actual object; match perspective, physical contact and object continuity.\nFRAMING: Zoom out enough to include BOTH figures' complete arms/hands/feet and the ENTIRE trolley, both wheels, parcel, support foot and handle inside EACH panel, with breathing room before the white gutter and outer painting edge. Do not let the lavender figure touch the right edge. Leave floor below all feet.\n",
+  "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptSha256": "45dc83a78f6cef727c0006d77353ea7c792df37b964953ffd4581a6a20c5be87",
+  "fullGenerationPromptEnglishSha256": "45dc83a78f6cef727c0006d77353ea7c792df37b964953ffd4581a6a20c5be87",
+  "referencePaths": [
+    "Images/155.png",
+    "Images/156.png"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationMode": "new_story_then_targeted_prepublication_correction",
+  "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a1549a-af04-7f51-b89f-5d7e07040111/exec-27ff6c7a-1edd-4393-a37b-f94cc61e1951.png",
+  "generatedAtUtc": "2026-10-19T15:24:12.686353+00:00",
+  "status": "candidate_pending_user_review",
+  "qa": {
+    "visualInspectionPerformed": true,
+    "imageOpenedWith": "view_image",
+    "referenceInspected": true,
+    "conceptReviewedBeforeGeneration": true,
+    "result": "review_ready_for_user_selection",
+    "persianTextReviewed": true,
+    "notesFa": [
+      "نسخهٔ واقعی پس از اصلاح قاب‌بندی باز شد؛ تمام بدن‌ها و چرخ‌ها و گاری داخل قاب‌اند.",
+      "رنگ، بسته، گاری و چرخ یکسان حفظ شده‌اند؛ نوار آبی از پیچیده‌دور محور در راست به نوارِ برداشته‌شده در چپ رسیده است.",
+      "متن فارسی درست و نشانهٔ حرکت چرخ در قاب نتیجه کوچک و روشن است.",
+      "گل‌های پس‌زمینه اندکی بیشتر از حداقل لازم هستند، ولی موضوع و علت اصلی مشخص مانده‌اند."
+    ],
+    "limitations": "Occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+  },
+  "generationHistory": [
+    {
+      "type": "initial_new_story",
+      "outputPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-d.initial.png",
+      "sha256": "1b4137c6d9dde3a02ce39e6bd524bf3c9f53086cec8844d53c87b7894b74275a",
+      "status": "retained_unpublished_draft"
+    },
+    {
+      "type": "targeted_edit",
+      "description": "Zoomed out both panels to include full purple body and complete trolley.",
+      "editTargetPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-d.initial.png",
+      "editPromptPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-d.framing-edit.en.txt",
+      "editPromptEnglish": "Use case: precise-object-edit. Edit ONLY the framing of the supplied TWO side-by-side watercolor panels. Preserve the exact story, Persian text, bubble tails, characters/colors, circular heads, small dark oval eyes and glints, pink subtle lashes, neutral adult anatomy, blue ribbon tangled around the same trolley axle in the RIGHT panel and removed from the same intact mounted wheel in the LEFT panel.\nREQUIRED: ZOOM OUT WITHIN BOTH PANELS, slightly reduce the complete scene (never squash bodies), so ALL bodies, arms, hands and feet and the COMPLETE TROLLEY remain safely INSIDE each panel. In the RIGHT panel the lavender adult's right arm and outer foot are currently cut off by the outer edge: reveal the whole body and leave visible background to the right. In the LEFT panel the trolley handle, parcel and support frame are cut by the middle gutter: reveal their complete outlines and leave breathing room before the white gutter. All objects, characters, wheels, trolley handle, box, ribbon and all feet must be fully contained with floor below them and white outer paper margins. Keep square overall, two panels right-to-left, no added frames, no changed story or text, no extra props or cast. Same layered authentic moderate watercolor, darker local-color body contours, three fingers plus one thumb. ONLY framing correction.\n",
+      "outputPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.png",
+      "sha256": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+      "status": "review_candidate"
+    }
+  ],
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "45dc83a78f6cef727c0006d77353ea7c792df37b964953ffd4581a6a20c5be87",
+  "rootVisualReview": {
+    "id": "157-d-20261019-v1",
+    "imageHash": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observations": "Actual right-to-left panels show jammed trolley wheel with a clearly wrapped blue strap, accurate symptom but unnecessary new-wheel advice, then owner removing that same strap from the axle. Full figures, wheels and trolley fit; short Persian speech attribution and continuity are coherent."
+  }
+}

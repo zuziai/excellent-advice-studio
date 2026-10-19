@@ -1,9 +1,9 @@
 {
   "format": "excellent-advice-feedback",
   "version": 1,
-  "waveId": "wave-154-156-2026-10-19-v1",
+  "waveId": "wave-157-161-2026-10-19-progress-01",
   "styleVersion": "style-2026-10-19-user-refinements",
-  "exportedAt": "2026-10-19T13:52:09.817Z",
+  "exportedAt": "2026-10-19T17:45:21.565997+00:00",
   "records": [
     {
       "sentenceId": 151,
@@ -934,20 +934,22 @@
     },
     {
       "sentenceId": 154,
-      "waveId": "wave-154-156-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-progress-01",
       "candidateIds": [
         "154-a-20261019-v1",
         "154-b-20261019-v1",
         "154-c-20261019-v1",
-        "154-d-20261019-v1"
+        "154-d-20261019-v2"
       ],
-      "status": "pending",
-      "chosenIdeaId": null,
-      "ideaNotes": {},
+      "status": "approved",
+      "chosenIdeaId": "154-d-20261019-v2",
+      "ideaNotes": {
+        "154-d-20261019-v1": "این ایده رو دوست دارم اما بهتر اینه که دست آدمک خاکسترییک نقشه گنج باشه که به جای گنج خود آدمک آبی باشه. رنگ آدمک خاکستری رو هم سبز کن"
+      },
       "note": "",
       "customIdea": "",
       "requestedVariants": null,
-      "updatedAt": "2026-10-19T13:51:26.204444+00:00",
+      "updatedAt": "2026-10-19T14:28:32.553Z",
       "history": [
         {
           "sentenceId": 154,
@@ -965,23 +967,120 @@
           "customIdea": "",
           "requestedVariants": null,
           "updatedAt": "2026-10-07T18:54:49.648Z"
+        },
+        {
+          "sentenceId": 154,
+          "waveId": "wave-154-156-2026-10-19-v1",
+          "candidateIds": [
+            "154-a-20261019-v1",
+            "154-b-20261019-v1",
+            "154-c-20261019-v1",
+            "154-d-20261019-v1"
+          ],
+          "status": "revise",
+          "chosenIdeaId": "154-d-20261019-v1",
+          "ideaNotes": {
+            "154-d-20261019-v1": "این ایده رو دوست دارم اما بهتر اینه که دست آدمک خاکسترییک نقشه گنج باشه که به جای گنج خود آدمک آبی باشه. رنگ آدمک خاکستری رو هم سبز کن"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-19T14:06:19.035Z",
+          "revisionRequest": {
+            "requestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
+            "baseIdeaId": "154-d-20261019-v1",
+            "baseVersion": 1,
+            "comment": "این ایده رو دوست دارم اما بهتر اینه که دست آدمک خاکسترییک نقشه گنج باشه که به جای گنج خود آدمک آبی باشه. رنگ آدمک خاکستری رو هم سبز کن",
+            "submittedAt": "2026-10-19T13:59:09.651Z"
+          },
+          "revisionProgress": {
+            "requestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
+            "status": "in_progress",
+            "message": "ویرایش نقشهٔ گنج و تغییر رنگ دوست به سبز شروع شد.",
+            "updatedAt": "2026-10-19T14:06:19.035Z",
+            "startedAt": "2026-10-19T14:06:19.035Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "decisionIntent": {
+            "id": "ba962923-31a4-4b05-8bd7-1daf2c5dfb5c",
+            "status": "revise",
+            "chosenIdeaId": "154-d-20261019-v1",
+            "submittedAt": "2026-10-19T13:59:09.652Z"
+          }
         }
       ],
       "revisionRequest": null,
       "revisionProgress": null,
-      "batchRequest": null
+      "batchRequest": null,
+      "latestRevisionResult": {
+        "ideaId": "154-d-20261019-v2",
+        "parentIdeaId": "154-d-20261019-v1",
+        "revisionRequestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
+        "version": 2,
+        "publishedAt": "2026-10-19T14:23:20.301703+00:00"
+      },
+      "decisionIntent": {
+        "id": "48bd4a55-a40d-480d-9f23-a0713e836025",
+        "status": "approved",
+        "chosenIdeaId": "154-d-20261019-v2",
+        "submittedAt": "2026-10-19T14:28:32.553Z"
+      }
     },
     {
       "sentenceId": 155,
-      "ideaNotes": {},
+      "ideaNotes": {
+        "155-b-20261019-v1": "فرم بدن و رنگ آمیزی آدمک بنفش با الگوهای من فرق داره.... متفاوته. چاقه.... اما بقیه تصویر خوبه"
+      },
       "note": "",
-      "history": [],
-      "status": "pending",
-      "chosenIdeaId": null,
-      "waveId": "wave-154-156-2026-10-19-v1",
+      "history": [
+        {
+          "sentenceId": 155,
+          "ideaNotes": {
+            "155-b-20261019-v1": "فرم بدن و رنگ آمیزی آدمک بنفش با الگوهای من فرق داره.... متفاوته. چاقه.... اما بقیه تصویر خوبه"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "155-b-20261019-v1",
+          "waveId": "wave-154-156-2026-10-19-v1",
+          "candidateIds": [
+            "155-a-20261019-v1",
+            "155-b-20261019-v1",
+            "155-c-20261019-v1",
+            "155-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "34b7c108-9077-433a-9602-1abce1f16d72",
+            "baseIdeaId": "155-b-20261019-v1",
+            "baseVersion": 1,
+            "comment": "فرم بدن و رنگ آمیزی آدمک بنفش با الگوهای من فرق داره.... متفاوته. چاقه.... اما بقیه تصویر خوبه",
+            "submittedAt": "2026-10-19T14:01:06.950Z"
+          },
+          "revisionProgress": {
+            "requestId": "34b7c108-9077-433a-9602-1abce1f16d72",
+            "status": "in_progress",
+            "message": "اصلاح تناسب و آبرنگ بدن آدمک بنفش با حفظ صحنه شروع شد.",
+            "updatedAt": "2026-10-19T14:06:19.085Z",
+            "startedAt": "2026-10-19T14:06:19.085Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-19T14:06:19.085Z",
+          "decisionIntent": {
+            "id": "5a8643e8-c14b-4f33-baed-46d0bb1e1e6d",
+            "status": "revise",
+            "chosenIdeaId": "155-b-20261019-v1",
+            "submittedAt": "2026-10-19T14:01:06.951Z"
+          }
+        }
+      ],
+      "status": "approved",
+      "chosenIdeaId": "155-b-20261019-v2",
+      "waveId": "wave-157-161-2026-10-19-progress-01",
       "candidateIds": [
         "155-a-20261019-v1",
-        "155-b-20261019-v1",
+        "155-b-20261019-v2",
         "155-c-20261019-v1",
         "155-d-20261019-v1"
       ],
@@ -989,27 +1088,116 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-19T13:51:26.204444+00:00"
+      "updatedAt": "2026-10-19T14:31:39.432Z",
+      "latestRevisionResult": {
+        "ideaId": "155-b-20261019-v2",
+        "parentIdeaId": "155-b-20261019-v1",
+        "revisionRequestId": "34b7c108-9077-433a-9602-1abce1f16d72",
+        "version": 2,
+        "publishedAt": "2026-10-19T14:23:20.301703+00:00"
+      },
+      "decisionIntent": {
+        "id": "f5a515f2-9b99-4fa2-a8f6-3acf08c82cc3",
+        "status": "approved",
+        "chosenIdeaId": "155-b-20261019-v2",
+        "submittedAt": "2026-10-19T14:31:39.432Z"
+      }
     },
     {
       "sentenceId": 156,
-      "ideaNotes": {},
+      "ideaNotes": {
+        "156-d-20261019-v1": "بعضی از آدمک ها انگشت هاشون واضح نیست و اون نقطه سفید داخل چشمشون و یا لپ های سرخ و برخی هم که باید مژه داشته باشند رو ندارند. بقیه تصویر و ایده خوبه"
+      },
       "note": "",
-      "history": [],
-      "status": "pending",
-      "chosenIdeaId": null,
-      "waveId": "wave-154-156-2026-10-19-v1",
+      "history": [
+        {
+          "sentenceId": 156,
+          "ideaNotes": {
+            "156-d-20261019-v1": "بعضی از آدمک ها انگشت هاشون واضح نیست و اون نقطه سفید داخل چشمشون و یا لپ های سرخ و برخی هم که باید مژه داشته باشند رو ندارند. بقیه تصویر و ایده خوبه"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "156-d-20261019-v1",
+          "waveId": "wave-154-156-2026-10-19-v1",
+          "candidateIds": [
+            "156-a-20261019-v1",
+            "156-b-20261019-v1",
+            "156-c-20261019-v1",
+            "156-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+            "baseIdeaId": "156-d-20261019-v1",
+            "baseVersion": 1,
+            "comment": "بعضی از آدمک ها انگشت هاشون واضح نیست و اون نقطه سفید داخل چشمشون و یا لپ های سرخ و برخی هم که باید مژه داشته باشند رو ندارند. بقیه تصویر و ایده خوبه",
+            "submittedAt": "2026-10-19T14:03:38.167Z"
+          },
+          "revisionProgress": {
+            "requestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+            "status": "in_progress",
+            "message": "اصلاح انگشت‌ها و جزئیات چشم، گونه و مژه‌ها شروع شد.",
+            "updatedAt": "2026-10-19T14:06:19.152Z",
+            "startedAt": "2026-10-19T14:06:19.152Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-19T14:06:19.152Z",
+          "decisionIntent": {
+            "id": "b94706fd-0511-47b9-b6a1-69f8ad4d31a0",
+            "status": "revise",
+            "chosenIdeaId": "156-d-20261019-v1",
+            "submittedAt": "2026-10-19T14:03:38.167Z"
+          }
+        }
+      ],
+      "status": "approved",
+      "chosenIdeaId": "156-d-20261019-v2",
+      "waveId": "wave-157-161-2026-10-19-progress-01",
       "candidateIds": [
         "156-a-20261019-v1",
         "156-b-20261019-v1",
         "156-c-20261019-v1",
-        "156-d-20261019-v1"
+        "156-d-20261019-v2"
       ],
       "revisionRequest": null,
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-19T13:51:26.204444+00:00"
+      "updatedAt": "2026-10-19T14:36:19.944Z",
+      "latestRevisionResult": {
+        "ideaId": "156-d-20261019-v2",
+        "parentIdeaId": "156-d-20261019-v1",
+        "revisionRequestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+        "version": 2,
+        "publishedAt": "2026-10-19T14:23:20.301703+00:00"
+      },
+      "decisionIntent": {
+        "id": "a6834665-52c7-49ae-8558-c39d98bdf486",
+        "status": "approved",
+        "chosenIdeaId": "156-d-20261019-v2",
+        "submittedAt": "2026-10-19T14:36:19.944Z"
+      }
+    },
+    {
+      "sentenceId": 157,
+      "ideaNotes": {},
+      "note": "",
+      "history": [],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "waveId": "wave-157-161-2026-10-19-progress-01",
+      "candidateIds": [
+        "157-a-20261019-v1",
+        "157-b-20261019-v1",
+        "157-c-20261019-v1",
+        "157-d-20261019-v1"
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null,
+      "requestedVariants": null,
+      "updatedAt": "2026-10-19T17:45:21.565997+00:00"
     }
   ],
   "sentences": [
@@ -1049,13 +1237,13 @@
           "batchRequestId": null
         },
         {
-          "id": "154-d-20261019-v1",
-          "title": "مأموریت اصلی کی شروع می‌شود؟",
-          "titleFa": "مأموریت اصلی کی شروع می‌شود؟",
-          "image": "art/154-d-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "id": "154-d-20261019-v2",
+          "title": "گنجِ نقشه، خودِ تویی",
+          "titleFa": "گنجِ نقشه، خودِ تویی",
+          "image": "art/154-d-20261019-v2.png",
+          "version": 2,
+          "parentIdeaId": "154-d-20261019-v1",
+          "revisionRequestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
           "batchRequestId": null
         }
       ]
@@ -1076,13 +1264,13 @@
           "batchRequestId": null
         },
         {
-          "id": "155-b-20261019-v1",
+          "id": "155-b-20261019-v2",
           "title": "براده‌ها رو به بیرون",
           "titleFa": "براده‌ها رو به بیرون",
-          "image": "art/155-b-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "image": "art/155-b-20261019-v2.png",
+          "version": 2,
+          "parentIdeaId": "155-b-20261019-v1",
+          "revisionRequestId": "34b7c108-9077-433a-9602-1abce1f16d72",
           "batchRequestId": null
         },
         {
@@ -1143,10 +1331,57 @@
           "batchRequestId": null
         },
         {
-          "id": "156-d-20261019-v1",
+          "id": "156-d-20261019-v2",
           "title": "باران بیرون، آرامش اینجا",
           "titleFa": "باران بیرون، آرامش اینجا",
-          "image": "art/156-d-20261019-v1.png",
+          "image": "art/156-d-20261019-v2.png",
+          "version": 2,
+          "parentIdeaId": "156-d-20261019-v1",
+          "revisionRequestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "english": "When someone tells you something is wrong, they’re usually right. When they tell you how to fix it, they’re usually wrong.",
+      "persian": "وقتی کسی می‌گه یه جای کار ایراد داره، معمولاً درست می‌گه. وقتی می‌گه چطور درستش کنی، معمولاً اشتباه می‌کنه.",
+      "ideas": [
+        {
+          "id": "157-a-20261019-v1",
+          "title": "پایه کوتاه نبود؛ پیچ شل بود",
+          "titleFa": "پایه کوتاه نبود؛ پیچ شل بود",
+          "image": "art/157-a-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "157-b-20261019-v1",
+          "title": "گیاه تشنه نیست",
+          "titleFa": "گیاه تشنه نیست",
+          "image": "art/157-b-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "157-c-20261019-v1",
+          "title": "لامپ قوی‌تر یا پردهٔ باز؟",
+          "titleFa": "لامپ قوی‌تر یا پردهٔ باز؟",
+          "image": "art/157-c-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "157-d-20261019-v1",
+          "title": "چرخ نو لازم نبود",
+          "titleFa": "چرخ نو لازم نبود",
+          "image": "art/157-d-20261019-v1.png",
           "version": 1,
           "parentIdeaId": null,
           "revisionRequestId": null,

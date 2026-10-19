@@ -1,0 +1,15 @@
+Use case: precise-object-edit / identity-preserve.
+Image 1 is the ONLY edit target. Image 2 is an approved STYLE REFERENCE only for tiny eye highlights and anatomically clear simple hands. Edit Image 1 very conservatively; it is already accepted for its idea, painting, scene, characters, text and arrangement. Do NOT redesign or replace its story.
+
+CHANGE ONLY these small character details:
+1. Each existing OPEN dark oval eye should contain one tiny restrained white reflective dot near its upper area, as in approved reference. Keep the exact existing dark oval eye size, placement, shape, expression and gaze. The tiny white dot must be INSIDE the dark oval; absolutely no white sclera surrounding a pupil, no enlarged eyes, no new eye anatomy.
+2. Make the existing PINK character female using only two or three very fine short lashes attached to the OUTER UPPER corner of its existing normal dark oval eyes, in BOTH panels. Keep the eye shape and body unchanged. Do not add conspicuous fan lashes or lashes to other characters.
+3. Add very subtle, translucent, softly diffused rosy cheek washes to these characters, consistent with their body colors and the existing watercolor. Barely perceptible warm blush, no flat round pink spots and no sharp edges.
+4. Clarify existing visible hands/fingers in their EXACT current positions and gestures. Every hand has precisely THREE fingers plus ONE thumb = FOUR digits total, NOT five. Hands hanging down may have three short rounded finger lobes together and one small side thumb. Open welcoming palms show a distinct thumb and three rounded fingers. The folded/overlapping hands remain folded in place: show the visible fingers clearly but do not invent extra hands, arms, digits, or force hidden fingers into view. Preserve the pink watch interaction in top panel.
+
+PRESERVE UNCHANGED:
+The two vertically stacked horizontal panels; exact bus shelter and its benches, roof, posts, sign, empty road and continuing rain; all character numbers, positions, colors, poses, expressions, gazes and head outlines; truly circular heads; balanced neutral adult bodies, neither thinner nor chubbier; neutral female torso without breasts/hips/waist curves; thin darker-local-color outlines; moderate layered real watercolor in bodies and background; white irregular paper margins; existing framing with all feet contained. Do not add clothes, hair, props, umbrellas, bus, extra background elements, decorative objects, or labels.
+TOP: red impatient at left, calm blue in middle gesturing toward pink at right; pink checking wristwatch.
+BOTTOM: blue calm at left, relaxed pink, relaxed red welcoming worried damp violet at right. Keep violet still a little worried; red/pink have become calm. The weather and delay remain unresolved.
+Preserve exact Persian speech bubbles unchanged: TOP blue «آروم، بالاخره می‌رسه.» and BOTTOM red «بیا اینجا، جا هست.» No other text, no English, no watermark.
+Return one finished square illustration retaining the entire original image, with only the specified facial/hand refinements.

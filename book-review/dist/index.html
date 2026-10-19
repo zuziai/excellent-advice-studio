@@ -6,8 +6,8 @@
   <title>کارگاه تصویرسازی کتاب</title>
   <meta name="description" content="بررسی ایده‌های تصویری کتاب، انتخاب تصویر و ثبت درخواست ویرایش.">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%233c2857'/%3E%3Cpath d='M7 8h8v17H7zm10 0h8v17h-8' fill='%23ffdc97'/%3E%3Cpath d='M16 7v19' stroke='%233c2857' stroke-width='2'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="styles.css?v=20261003-edit-progress">
-  <script src="app.js?v=20261019-prompt-column-d" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20261019-version-history">
+  <script src="app.js?v=20261019-version-history" defer></script>
 </head>
 <body>
   <header class="topbar">
@@ -60,6 +60,12 @@
       <div class="art-pane"><button id="prev-idea" class="art-nav prev" aria-label="ایدهٔ قبلی">‹</button><div id="image-scroll" class="image-scroll"><img id="full-image" alt=""></div><button id="next-idea" class="art-nav next" aria-label="ایدهٔ بعدی">›</button></div>
       <aside class="review-pane">
         <div class="viewer-sentence"><span id="viewer-sentence-id" class="section-label"></span><p id="viewer-en" lang="en" dir="ltr"></p><p id="viewer-fa" class="persian" lang="fa" dir="rtl"></p></div>
+        <section id="image-history" class="image-history" aria-label="نسخه‌های این تصویر" aria-busy="false">
+          <label for="history-select">نسخه‌های این تصویر</label>
+          <div class="history-controls"><button id="history-previous" class="button secondary" aria-label="نمایش نسخهٔ پیشین" disabled>قبلی</button><select id="history-select" aria-describedby="history-status"></select><button id="history-next" class="button secondary" aria-label="نمایش نسخهٔ بعدی" disabled>بعدی</button></div>
+          <p id="history-status" class="history-status" role="status" aria-live="polite"></p><button id="history-retry" class="text-button" hidden>دریافت دوبارهٔ فهرست نسخه‌ها</button>
+          <div id="historical-preview" class="historical-preview" hidden><p>در حال مشاهدهٔ نسخهٔ پیشین هستید. برای انتخاب یا ویرایش به نسخهٔ فعلی برگردید.</p><button id="history-current" class="button secondary">بازگشت به نسخهٔ فعلی</button></div>
+        </section>
         <div class="decision-buttons"><button id="approve" class="button primary">انتخاب نهایی</button><button id="revise" class="button edit-button">ویرایش تصویر</button><a id="viewer-download" class="button secondary download-button" href="#" download>دانلود همین نسخه با کیفیت کامل</a></div>
         <div id="viewer-version-status" class="version-status" role="status" hidden></div>
         <div id="viewer-decision" class="decision-message" role="status"></div>
@@ -70,11 +76,11 @@
         <button id="viewer-reject" class="text-button danger">رد همهٔ ایده‌های این جمله</button>
         <button id="clear-decision" class="text-button" hidden>لغو انتخاب؛ حفظ یادداشت‌ها</button>
         <details class="prompt-details"><summary>دیدن پرامپت ساخت تصویر</summary><pre id="viewer-prompt" dir="auto"></pre></details>
-        <div class="keyboard-hint"><kbd>←</kbd> <kbd>→</kbd> ایده‌ها <span>·</span> <kbd>↑</kbd> <kbd>↓</kbd> جمله‌ها <span>·</span> <kbd>Esc</kbd> بستن</div>
+        <div class="keyboard-hint"><kbd>←</kbd> <kbd>→</kbd> ایده‌ها <span>·</span> <kbd>↑</kbd> <kbd>↓</kbd> جمله‌ها <span>·</span> <kbd>[</kbd> <kbd>]</kbd> نسخه‌ها <span>·</span> <kbd>Esc</kbd> بستن</div>
       </aside>
     </div>
   </dialog>
-  <dialog id="help" class="help-dialog"><h2>بررسی سریع‌تر</h2><p>یک تصویر را باز کنید و با این کلیدها جلو بروید. جای نوشتن نظر کنار تصویر است.</p><dl><dt dir="ltr">← / →</dt><dd>ایدهٔ قبلی / بعدی</dd><dt dir="ltr">↑ / ↓</dt><dd>جملهٔ قبلی / بعدی</dd><dt>۱–۵</dt><dd>رفتن مستقیم به یک ایده</dd><dt dir="ltr">F</dt><dd>رفتن به کادر یادداشت</dd><dt dir="ltr">Esc</dt><dd>بستن تصویر بزرگ</dd></dl><p class="muted">هنگام نوشتن، کلیدهای پیمایش غیرفعال‌اند. انتخاب نهایی با دکمهٔ مشخص انجام می‌شود.</p><button id="close-help" class="button primary">متوجه شدم</button></dialog>
+  <dialog id="help" class="help-dialog"><h2>بررسی سریع‌تر</h2><p>یک تصویر را باز کنید و با این کلیدها جلو بروید. جای نوشتن نظر کنار تصویر است.</p><dl><dt dir="ltr">← / →</dt><dd>ایدهٔ قبلی / بعدی</dd><dt dir="ltr">↑ / ↓</dt><dd>جملهٔ قبلی / بعدی</dd><dt dir="ltr">[ / ]</dt><dd>نسخهٔ پیشین / بعدیِ همین تصویر</dd><dt>۱–۵</dt><dd>رفتن مستقیم به یک ایده</dd><dt dir="ltr">F</dt><dd>رفتن به کادر یادداشت</dd><dt dir="ltr">Esc</dt><dd>بستن تصویر بزرگ</dd></dl><p class="muted">هنگام نوشتن، کلیدهای پیمایش غیرفعال‌اند. انتخاب نهایی با دکمهٔ مشخص انجام می‌شود.</p><button id="close-help" class="button primary">متوجه شدم</button></dialog>
   <div id="toast" role="status" aria-live="polite"></div>
   <noscript>برای نمایش تصاویر و ذخیرهٔ نظرها، جاوااسکریپت مرورگر باید فعال باشد.</noscript>
 </body>

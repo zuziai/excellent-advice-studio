@@ -1,0 +1,53 @@
+{
+  "sentenceId": 159,
+  "english": "When hitchhiking, look like the person you want to pick you up.",
+  "persian": "وقتی کنار جاده منتظر می‌مونی کسی سوارت کنه، ظاهرت شبیه همون کسی باشه که دوست داری برات نگه داره.",
+  "sourceRow": 160,
+  "coreMeaning": "A roadside hitchhiker should present an appearance that feels familiar and relatable to the kind of adult driver they hope will stop, without implying wealth or moral superiority.",
+  "referencePaths": [
+    "Images/155.png",
+    "Images/156.png"
+  ],
+  "status": "in_progress",
+  "ideas": [
+    {
+      "id": "159-a-20261019-v1",
+      "sentenceId": 159,
+      "version": 1,
+      "titleFa": "هم‌سفرِ کوه",
+      "summaryFa": "ظاهرِ آشنای سفر، به راننده می‌گوید این مسافر از جنس هم‌سفرهای اوست.",
+      "storyFa": "مسافر سبز با کوله و پوشش کوه‌پیمایی کنار جاده منتظر است. رانندهٔ بنفش با همان سبک پوشش در ونِ متوقف‌شده او را می‌بیند و با لبخند جا نشان می‌دهد؛ شباهت بامزهٔ کلاه‌ها، حس آشنایی را بیشتر می‌کند.",
+      "meaningFa": "برای پیدا کردن نوع هم‌سفری که می‌خواهی، ظاهر تو هم باید با دنیای او هم‌خوان باشد؛ مقصود تقلید طبقه یا ثروت نیست، بلکه یک نشانهٔ سادهٔ آشنایی و اعتماد است.",
+      "outputPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.png",
+      "sha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+      "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+      "imageSha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+      "bytes": 2595438,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story.\nCreate ONE complete finished square illustration for an adult illustrated book of advice. Input Images 1 and 2 are STYLE REFERENCES ONLY, not edit targets. Match their established character family and moderate hand-painted watercolor, but tell the entirely new story specified below. Do not copy their actual carpenter or bus stop.\nPaint: overlapping translucent watercolor washes visibly inside heads, torsos, limbs and hands, with broad gentle irregular changes of pigment density, soft pooling and luminous textured white paper. Natural irregular edges, clean white paper margins on all four sides. Moderate layered watercolor, never uniform fine crystalline noise, marker, pencil, crayon, shiny 3D or flat vector.\nAll characters are adults with simple neutral medium-build bodies matching the references: neither chubby round torsos nor long skinny sticks. Heads are genuinely CIRCULAR, equal width and height, with no chin, jaw or flattened bottom; no necks, heads directly join shoulders. Subtle darker local-color contact shadow beneath head. Colored contours are a darker version of each body's own color, not black. Eyes are the same SMALL vertical dark ovals as the references, each with one tiny white glint INSIDE the dark oval, no white sclera around a pupil. Gentle brows and mouth, no noses, ears or hair. Blush, where present, is a faint diffused translucent rosy wash, never a hard round dot. If a character is female, add only two short fine curved lashes to the OUTER UPPER EDGE of the same small eye; do not enlarge or redesign eyes. All torsos neutral, no bust, pinched waist, hips, buttock emphasis or gendered bulges. Every fully visible hand has three fingers and one thumb, four digits TOTAL, naturally gripping objects. No extra limbs. Maintain identity and body color through all panels. Full bodies, feet, vehicles and essential objects safely inside frame. Gentle humane wit for adult readers, easy concrete visual cause and effect, no moralizing lecture.\nOnly the explicitly specified short Persian text may appear inside the image, joined Persian letters and correct RTL. No English, branding, watermarks, panel numbers, extra labels or long explanatory captions. Speech/thought bubbles must clearly belong to their speaker. Multi-panel reading is right-to-left for side-by-side panels, or top-to-bottom for stacked panels, with a narrow white gutter and no heavy comic borders.\n\nAdvice meaning: \"When hitchhiking, look like the person you want to pick you up.\" Literal adult roadside affinity through appearance. Do not turn it into a story about wealth, morality, social media or changing one's identity.\nComposition: ONE clear square scene, an uncomplicated sunny country roadside turnout with a modest pale-cream camping van COMPLETELY STOPPED off the traffic lane. Full van with two sensible visible wheels fits on the left; one GREEN adult hitchhiker stands fully on the safe shoulder on the right with a small backpack and thumb up. A VIOLET adult driver leans naturally from the open driver's window, hand gesturing to the empty passenger seat. The crucial visual connection is their matching simple muted khaki outdoor waistcoats, rolled casual sleeves, walking shoes and similarly shaped soft sun hats, worn over the same neutral body shapes. Clothing is required by this sentence; BOTH adults are consistently dressed. Their body colors remain different. They look at EACH OTHER with warm recognition. The hitchhiker has a folded walking map sticking out of the backpack; the driver has one pair of hiking poles tucked visibly behind the seats. The small humorous surprise is how closely their travel hats match, almost like finding a familiar fellow traveler. One small speech bubble attached to the DRIVER reads exactly «تو هم اهل کوهی؟ بپر بالا!». No other text. The driver is not moving or steering while gesturing. The van is ordinary, no luxury/class cues; no children, danger or busy traffic. Keep scene airy, adult, and understated.\n",
+      "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptSha256": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
+      "fullGenerationPromptEnglishSha256": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
+      "referencePaths": [
+        "Images/155.png",
+        "Images/156.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationMode": "new_story_with_approved_style_references",
+      "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1549b-3cae-7882-a76d-a6d0648c7a4c\\exec-bbfb1c8c-f875-47c4-b9fe-6ea889a7c03b.png",
+      "generatedAtUtc": "2026-10-19T15:31:09.526166+00:00",
+      "status": "candidate_pending_user_review",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "referenceInspected": true,
+        "conceptReviewedBeforeGeneration": true,
+        "result": "review_ready_for_user_selection",
+        "persianTextReviewed": true,
+        "notesFa": "تصویر نهایی با view_image دیده شد. ون و سپرها و چرخ‌های قابل مشاهده کامل در کادرند؛ مسافر تمام‌قد روی شانهٔ امن جاده و راننده پشت فرمانِ خودروی متوقف است. پوشش هر دو به ضرورت موضوع مشابه و خنثی است. حباب «تو هم اهل کوهی؟ بپر بالا!» درست خوانده می‌شود. دستِ دعوت و علامت شست ساده و چهاررقمی‌اند؛ انگشت‌های دستِ در حال گرفتن بند کوله به طور طبیعی پوشیده‌اند. برای کادربندی دو اصلاح محدود انجام شد.",
+        "limitations": "Naturally occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+      }
+    }
+  ]
+}

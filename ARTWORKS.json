@@ -1,0 +1,211 @@
+{
+  "activeWaveId": "wave-157-161-2026-10-19-progress-01",
+  "publishedCurrentAndAncestors": [
+    {
+      "id": "151-k-v1",
+      "image": "art/151-k-v1.png",
+      "imageHash": "6daaf0d497f926dd49dfd0fa9494952693b34df2d1a906b69d11e6790662cbc1",
+      "version": 1
+    },
+    {
+      "id": "151-o-v2",
+      "image": "art/151-o-v2.png",
+      "imageHash": "470c73658e520bdadaa18473e657e42ded1c640b03f984b99689f3f29366464e",
+      "version": 2
+    },
+    {
+      "id": "152-g-v1",
+      "image": "art/152-g-v1.png",
+      "imageHash": "1690c4c053dc1aa685ea9682bd60ae7dc68587c72f3dc766980b429429a07e8e",
+      "version": 1
+    },
+    {
+      "id": "152-g-v2",
+      "image": "art/152-g-v2.png",
+      "imageHash": "64a1b460e1797e0824ac4f6971178258360991297278275e52d2ba1545a9f1f5",
+      "version": 2
+    },
+    {
+      "id": "152-g-v3",
+      "image": "art/152-g-v3.png",
+      "imageHash": "fa72705b96bb9932ee30ad44406c2749ea4bde5c7019f5f3cf421d96e4cd3543",
+      "version": 3
+    },
+    {
+      "id": "152-g-v4",
+      "image": "art/152-g-v4.png",
+      "imageHash": "986b4c5b8e05981b9fc0ec08b93d48467c0e97800251e7381e76ce3eb42e2945",
+      "version": 4
+    },
+    {
+      "id": "152-g-v5",
+      "image": "art/152-g-v5.png",
+      "imageHash": "a5d861255a4789cd46727ab5b5ff9967b273e7fc7197b5fe2727bf8ebfd6cd4b",
+      "version": 5
+    },
+    {
+      "id": "153-g-v1",
+      "image": "art/153-g-v1.png",
+      "imageHash": "ac619206ca4bb48449be0eeb21b0279a56bb3bc3c7345e0c8fce559294c38f14",
+      "version": 1
+    },
+    {
+      "id": "153-g-v2",
+      "image": "art/153-g-v2.png",
+      "imageHash": "8643a8b57a5a4a71c2b99bc6d2df58dfedc4bd93694d8352a7077633b90a8153",
+      "version": 2
+    },
+    {
+      "id": "154-a-20261019-v1",
+      "image": "art/154-a-20261019-v1.png",
+      "imageHash": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+      "version": 1
+    },
+    {
+      "id": "154-b-20261019-v1",
+      "image": "art/154-b-20261019-v1.png",
+      "imageHash": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+      "version": 1
+    },
+    {
+      "id": "154-c-20261019-v1",
+      "image": "art/154-c-20261019-v1.png",
+      "imageHash": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+      "version": 1
+    },
+    {
+      "id": "154-d-20261019-v1",
+      "image": "art/154-d-20261019-v1.png",
+      "imageHash": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+      "version": 1
+    },
+    {
+      "id": "154-d-20261019-v2",
+      "image": "art/154-d-20261019-v2.png",
+      "imageHash": "be24face4bce92aa4e6a74deda1c00d33050462a0d8d0f65848ce6a5437e284a",
+      "version": 2
+    },
+    {
+      "id": "155-a-20261019-v1",
+      "image": "art/155-a-20261019-v1.png",
+      "imageHash": "a2bcebe98eeaf3134882c71f5dbf0429971b4a71fda57d1b8fa81b381df24efd",
+      "version": 1
+    },
+    {
+      "id": "155-b-20261019-v1",
+      "image": "art/155-b-20261019-v1.png",
+      "imageHash": "90075fbdf20c68248aed4b01cd20834f0c4e79d5d669c3fa4d2e2bc73767e499",
+      "version": 1
+    },
+    {
+      "id": "155-b-20261019-v2",
+      "image": "art/155-b-20261019-v2.png",
+      "imageHash": "84678bfb8f60b36918cd4675000c0a6d69e5c76cf42cd971dacfec2fcbf4a736",
+      "version": 2
+    },
+    {
+      "id": "155-c-20261019-v1",
+      "image": "art/155-c-20261019-v1.png",
+      "imageHash": "8bbaa904c9ebff8e23ad54cd9247776f4c9934b65852f7da5cf7b02e585dfe24",
+      "version": 1
+    },
+    {
+      "id": "155-d-20261019-v1",
+      "image": "art/155-d-20261019-v1.png",
+      "imageHash": "d23258b627a033af59039400e9ffaf00a457dbbd1f230126325833419047cc16",
+      "version": 1
+    },
+    {
+      "id": "156-a-20261019-v1",
+      "image": "art/156-a-20261019-v1.png",
+      "imageHash": "dafb776d91dae7a404020800da619d0be608ab3fd851b7f04f5880b98713260f",
+      "version": 1
+    },
+    {
+      "id": "156-b-20261019-v1",
+      "image": "art/156-b-20261019-v1.png",
+      "imageHash": "3c2d0858fab0736dfec91cd98592730566c366034e2c201aec59f7d043609928",
+      "version": 1
+    },
+    {
+      "id": "156-c-20261019-v1",
+      "image": "art/156-c-20261019-v1.png",
+      "imageHash": "88cf2a2864a579869f7d5b96a1009373d8115e5a911ee99bf1daf9a7b5c8528e",
+      "version": 1
+    },
+    {
+      "id": "156-d-20261019-v1",
+      "image": "art/156-d-20261019-v1.png",
+      "imageHash": "855003cdabc188cfe1408cfcffb8b21f84b7c674f9676febac3b9cf815c35a17",
+      "version": 1
+    },
+    {
+      "id": "156-d-20261019-v2",
+      "image": "art/156-d-20261019-v2.png",
+      "imageHash": "269d1b1b06088f5fa70c81776b83979876cefbb0d316dc6f7c572b9a173b1d41",
+      "version": 2
+    },
+    {
+      "id": "157-a-20261019-v1",
+      "image": "art/157-a-20261019-v1.png",
+      "imageHash": "efd32842549586555c8c39ff67363920fbffd4b0c21f8fba344a67d4892f382a",
+      "version": 1
+    },
+    {
+      "id": "157-b-20261019-v1",
+      "image": "art/157-b-20261019-v1.png",
+      "imageHash": "34027196a679d60fda7e7aa27158ede77de947794d9b7978a93503f6f721a1d7",
+      "version": 1
+    },
+    {
+      "id": "157-c-20261019-v1",
+      "image": "art/157-c-20261019-v1.png",
+      "imageHash": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
+      "version": 1
+    },
+    {
+      "id": "157-d-20261019-v1",
+      "image": "art/157-d-20261019-v1.png",
+      "imageHash": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+      "version": 1
+    }
+  ],
+  "approvedImages": [
+    {
+      "sentenceId": 151,
+      "ideaId": "151-o-v2",
+      "path": "Images/151.png",
+      "imageHash": "470c73658e520bdadaa18473e657e42ded1c640b03f984b99689f3f29366464e"
+    },
+    {
+      "sentenceId": 152,
+      "ideaId": "152-g-v5",
+      "path": "Images/152.png",
+      "imageHash": "a5d861255a4789cd46727ab5b5ff9967b273e7fc7197b5fe2727bf8ebfd6cd4b"
+    },
+    {
+      "sentenceId": 153,
+      "ideaId": "153-g-v2",
+      "path": "Images/153.png",
+      "imageHash": "8643a8b57a5a4a71c2b99bc6d2df58dfedc4bd93694d8352a7077633b90a8153"
+    },
+    {
+      "sentenceId": 154,
+      "ideaId": "154-d-20261019-v2",
+      "path": "Images/154.png",
+      "imageHash": "be24face4bce92aa4e6a74deda1c00d33050462a0d8d0f65848ce6a5437e284a"
+    },
+    {
+      "sentenceId": 155,
+      "ideaId": "155-b-20261019-v2",
+      "path": "Images/155.png",
+      "imageHash": "84678bfb8f60b36918cd4675000c0a6d69e5c76cf42cd971dacfec2fcbf4a736"
+    },
+    {
+      "sentenceId": 156,
+      "ideaId": "156-d-20261019-v2",
+      "path": "Images/156.png",
+      "imageHash": "269d1b1b06088f5fa70c81776b83979876cefbb0d316dc6f7c572b9a173b1d41"
+    }
+  ]
+}

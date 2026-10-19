@@ -1,0 +1,26 @@
+{
+  "reviewedAt": "2026-10-19T14:19:54.2968839Z",
+  "items": [
+    {
+      "id": "154-d-20261019-v2",
+      "imageHash": "be24face4bce92aa4e6a74deda1c00d33050462a0d8d0f65848ce6a5437e284a",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Both friends are green; the held treasure map has a dotted route ending at a blue person rather than a chest. Its symbol faces the readers. Original two panels, speech text and character identities remain. Grip naturally obscures some fingers."
+    },
+    {
+      "id": "156-d-20261019-v2",
+      "imageHash": "269d1b1b06088f5fa70c81776b83979876cefbb0d316dc6f7c572b9a173b1d41",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual result preserves rain, delayed bus, cast, calm-spreading gestures and Persian bubbles. Open eyes have small internal glints without white sclera. Pink has fine lashes in both panels; soft blush appears most clearly on blue/violet. Open palms and hanging hands have readable contours. Crossed hands and watch-touching fingers have natural overlap."
+    },
+    {
+      "id": "155-b-20261019-v2",
+      "imageHash": "84678bfb8f60b36918cd4675000c0a6d69e5c76cf42cd971dacfec2fcbf4a736",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual final image has slimmer balanced arms and a straighter moderate torso, without skinny limbs. Lighter broader purple washes and head highlights are visible; some original fine texture remains for the owner to judge. Workshop, apron, clamped wood, two-handed outward chisel cut and Persian label are retained."
+    }
+  ]
+}

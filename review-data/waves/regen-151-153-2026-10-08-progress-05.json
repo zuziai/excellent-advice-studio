@@ -1,0 +1,157 @@
+{
+  "id": "regen-151-153-2026-10-08-progress-05",
+  "title": "New ideas for sentences 151–153",
+  "titleFa": "طرح‌های تازهٔ ۱۵۱، ۱۵۲ و ۱۵۳",
+  "totalSentences": 460,
+  "coveredEvidenceCount": 118,
+  "earlierUnresolvedCount": 32,
+  "nextWaveSize": 10,
+  "sentences": [
+    {
+      "id": 151,
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "sourceRow": 152,
+      "shortTitleFa": "کار برای رشد خودت",
+      "ideas": [
+        {
+          "titleFa": "وسایل بیشتر یا توان بیشتر؟",
+          "summaryFa": "یکی وسایل تمرین جمع می‌کند؛ دیگری تمرین می‌کند. وقتِ بالا بردن ساک، نتیجه در توانایی خودشان دیده می‌شود.",
+          "storyFa": "در ستون راست، آدمک زرد وسایل ورزشی نو جمع می‌کند و بعد برای بالا بردن ساک خرید از یک پلهٔ کوتاه به زحمت می‌افتد. در ستون چپ، آدمک سبز با یک وزنه تمرین می‌کند و بعد همان ساک با همان بار را راحت از همان پله بالا می‌برد.",
+          "meaningFa": "تمرین، توانایی خودِ فرد را رشد می‌دهد؛ داشتن وسایل به‌تنهایی جای این رشد را نمی‌گیرد. تفاوت در حالت و انجام یک کار یکسان دیده می‌شود، نه در بدن یا بار ساک.",
+          "prompt": "Use case: precise-object-edit. The attached square watercolor image is the exact EDIT TARGET. Make ONE tiny local replacement only.\n\nIn the BOTTOM LEFT scene, on the turquoise exercise mat near its left end, there is currently a solitary round turquoise weight disk. Replace ONLY this solitary disk with ONE COMPLETE SMALL TURQUOISE DUMBBELL lying on its side on the mat. A complete dumbbell has TWO round cylindrical end weights CONNECTED by ONE short central handle/bar, all clearly visible together as ONE object. Match the exact simple turquoise dumbbell model that the green character holds in the TOP LEFT scene. Position the replacement horizontally or slightly diagonally along the mat so BOTH circular end weights AND their connecting central handle are easily recognizable. It must be small and fit fully inside the mat with no overlap of the character. Do NOT leave a detached disk; do NOT create two dumbbells; do NOT remove the top-left held dumbbell. The only changed area is the current disk and the minimal immediately adjacent mat area needed for the complete small dumbbell.\n\nSTRICTLY KEEP EVERY OTHER PIXEL AND VISUAL DETAIL AS CLOSE AS POSSIBLE TO THE CURRENT TARGET. Keep the four scenes, all characters and their poses, neutral bodies and proportions, round heads, eyes, faces, hands, plain yellow bodies with NO APRONS, green bodies, grocery bags and groceries, steps, every background object, upper-left held dumbbell, right-column exercise equipment, watercolor washes and local-color contours exactly unchanged. Preserve the two Persian headings \"وسایل بیشتر\" and \"تمرین بیشتر\", square dimensions, white margins and scene gaps. NO clothing or apron may reappear. No added text, no restyling, no recomposition, no other object changes. Only replace the incomplete lower-left disk with ONE recognizable complete dumbbell matching the upper-left model.\n",
+          "id": "151-k-v1",
+          "title": "وسایل بیشتر یا توان بیشتر؟",
+          "image": "art/151-k-v1.png",
+          "alt": "در ستون راست، آدمک زرد وسایل ورزشی نو جمع می‌کند و بعد برای بالا بردن ساک خرید از یک پلهٔ کوتاه به زحمت می‌افتد. در ستون چپ، آدمک سبز با یک وزنه تمرین می‌کند و بعد همان ساک با همان بار را راحت از همان پله بالا می‌برد.",
+          "width": 1254,
+          "height": 1254,
+          "version": 1,
+          "sourceCandidate": "K",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-08-color-square-clear-story",
+          "imageHash": "6daaf0d497f926dd49dfd0fa9494952693b34df2d1a906b69d11e6790662cbc1"
+        },
+        {
+          "titleFa": "از ترس تا راهنمایی",
+          "summaryFa": "راهنمای تازه‌کار نخست با کمک از پل می‌گذرد؛ چند ماه بعد خودش همراهی مردد را راهنمایی می‌کند.",
+          "storyFa": "در قاب بالا، آدمک صورتیِ تازه‌کار با کولهٔ قهوه‌ای از قدم‌گذاشتن روی پل کوتاه مردد است و راهنمای فیروزه‌ای دستش را می‌گیرد. در قاب پایین، همان آدمک صورتی روی همان پل با آرامش دست همراه بنفش را گرفته و او را جلو می‌برد؛ همراه زرد هم پشت سر آنهاست. تابلوی «تور طبیعت» موقعیت کاری را نشان می‌دهد.",
+          "meaningFa": "تجربهٔ کار، اعتمادبه‌نفس و توانایی راهنمای تازه‌کار را رشد داده است؛ اکنون می‌تواند حمایتی را که قبلاً گرفته بود به دیگری بدهد.",
+          "prompt": "Use case: precise-object-edit.\nAsset type: square watercolor book illustration, exact attached image is the EDIT TARGET.\n\nMake only these two local corrections to the PINK character, preserving the whole existing illustration as closely as possible.\n\n1. In BOTH the upper and lower scene, correct only the pink adult's TORSO, WAIST AND PELVIS silhouette to the neutral, balanced medium adult body type of the TURQUOISE guide in the upper scene. Give pink gently almost-parallel sides and a natural simple torso-to-leg transition, with no pinched/narrow waist, no flared hips, no protruding buttocks or breasts, and no curves that suggest a gendered body. This must remain a plain pink body, with no new clothes or apron. Keep the SAME height, head size, limb length, pose, pink color and watercolor washes. Do not make her thicker, fat, muscular, smaller, younger or chibi; only remove the waist/hip exaggeration and match the turquoise guide's neutral medium proportions.\n\n2. In the UPPER scene only, clarify pink's raised forward foot placement for a natural safe step on the bridge. The lifted foot should be clearly ABOVE THE OPEN SPACE OVER THE WOODEN WALKING DECK, moving toward the next deck board, not sitting on a rail, behind a rail, or touching a railing. Keep the character holding turquoise's hand and making the same cautious forward step. Keep her grounded other foot, bridge, brook and hand action fixed. A tiny natural adjustment of only the raised foot and its immediate leg area is allowed to resolve the foot/rail alignment; do not redraw the bridge or move any other figure.\n\nKeep everything else exactly: two stacked scenes, square original dimensions and white paper margins; SAME pink identity, perfectly circular heads, dark oval eyes with tiny inner glints, a few short fine outer-upper eyelashes, expressions, eyebrows and mouths, heads directly joining shoulders with local-color contact shadows, hands and natural hand grips, brown backpack, turquoise helper, purple hesitant companion and lemon companion. Keep all other characters and poses, all props, park landscape, SAME bridge, watercolor medium and local darker-body-color contours. Keep the top heading exactly «روز اول کار», lower heading exactly «چند ماه بعد» and both signs exactly «تور طبیعت». No new text, objects, clothing, facial features, broad restyling or recomposition. Authentic moderate overlapping translucent watercolor inside the corrected pink body areas must match the existing paint, not flat/vector fills or uniform marker grain.\n",
+          "id": "151-l-v1",
+          "title": "از ترس تا راهنمایی",
+          "image": "art/151-l-v1.png",
+          "alt": "در قاب بالا، آدمک صورتیِ تازه‌کار با کولهٔ قهوه‌ای از قدم‌گذاشتن روی پل کوتاه مردد است و راهنمای فیروزه‌ای دستش را می‌گیرد. در قاب پایین، همان آدمک صورتی روی همان پل با آرامش دست همراه بنفش را گرفته و او را جلو می‌برد؛ همراه زرد هم پشت سر آنهاست. تابلوی «تور طبیعت» موقعیت کاری را نشان می‌دهد.",
+          "width": 1254,
+          "height": 1254,
+          "version": 1,
+          "sourceCandidate": "L",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-08-color-square-clear-story",
+          "imageHash": "c0a222c86d95cb9f2b000b097a7f20e72528c1c574e52b28641e42adc7128997"
+        },
+        {
+          "titleFa": "حقوق و چیزی که یاد گرفتم",
+          "summaryFa": "کارگر با یادگرفتن استفاده از دو غلطک موجود، جعبه را راحت‌تر حرکت می‌دهد و به همکار تازه کمک می‌کند.",
+          "storyFa": "بالا سمت راست، آدمک بنفش برای هل‌دادن جعبه زحمت می‌کشد و دو غلطک کنار آن بلااستفاده‌اند. بالا سمت چپ، همکار فیروزه‌ای جعبه را روی همان دو غلطک حرکت می‌دهد و بنفش نگاه می‌کند. پایین، بنفش همین روش را برای جعبهٔ همکار صورتی به‌کار می‌برد و می‌گوید «حالا بلدم!». پاکت کوچک «حقوق» روی میز کنار صحنه است.",
+          "meaningFa": "در کنار درآمد، کار توانایی فرد را با یادگیری یک روش مفید رشد می‌دهد؛ او بعداً آنچه یاد گرفته به دیگری کمک می‌کند.",
+          "prompt": "Use case: illustration-story. Create ONE new square 1:1 watercolor book illustration at normal original quality. Three scenes: upper RIGHT first, upper LEFT second, one wide lower scene last; white separation without heavy borders.\n\nThe attached approved illustration is a STYLE reference only: watercolor, circular heads, modest dark oval eyes, local-color contours, balanced medium adult proportions and white margins. NEVER copy its apron, tailor, sewing machine, room or props. ALL three characters have PLAIN single-color bodies, NO APRONS OR CLOTHES.\n\nStory: work teaches an existing useful method, which the worker then shares. Simple restrained warehouse; plain unmarked cardboard boxes, sparse shelf and floor, no English.\nUPPER RIGHT: purple novice struggles to push a large box along the floor, leaning with effort and a mildly comic frustrated face. TWO short brown wooden cylindrical rollers already lie visibly beside that box, unused.\nUPPER LEFT: turquoise colleague demonstrates by placing THOSE SAME TWO rollers under the SAME box, one front and one back, and moving it easily. Purple watches attentively. Show recognizable cylinders and their support of the box, not wheels or new equipment.\nLOWER: SAME purple now confidently places the SAME TWO wooden rollers under another box belonging to a new pink adult colleague, helping that box move easily. Pink stands beside it, impressed and relieved. Purple speech bubble exactly «حالا بلدم!». A small peripheral pay envelope on a side table reads exactly «حقوق». Learning and helping are the visual focus; the envelope is secondary. No extra tools, rollers, rewards or trophies.\n\nAll characters keep fixed body colors and identity. Pink has only a few fine short upper-outer lashes on the SAME dark oval eyes; no large doll eyes or white sclera. Tiny interior eye glints allowed. Every head is a PERFECT CIRCLE, no jaw, chin or neck; directly joins shoulders with soft local-color contact shadow. No noses, ears or hair. Same neutral medium adult body build: gently almost-parallel torso sides, NO breasts, pinched waist, wide hips or buttocks, neither stretched/thin nor chunky/chibi. Visible hands exactly THREE fingers plus ONE thumb; natural grip occlusion allowed.\n\nAuthentic moderate watercolor: broad overlapping irregular translucent washes INSIDE all heads, torsos, limbs and hands plus setting, subtle pooling and luminous paper. Darker-local-body-color outlines, never black body outlines. No flat/vector fill, uniform fine marker grain, glossy 3D or heavy mottling.\n\nFully include feet, bodies, boxes and cylinders within clean white paper margins. Sparse purposeful setting, natural irregular painted endings; pigment never reaches file edges. Correct connected RTL Persian; only the TWO specified texts. Warm gentle family-friendly humor.",
+          "id": "151-m-v1",
+          "title": "حقوق و چیزی که یاد گرفتم",
+          "image": "art/151-m-v1.png",
+          "alt": "بالا سمت راست، آدمک بنفش برای هل‌دادن جعبه زحمت می‌کشد و دو غلطک کنار آن بلااستفاده‌اند. بالا سمت چپ، همکار فیروزه‌ای جعبه را روی همان دو غلطک حرکت می‌دهد و بنفش نگاه می‌کند. پایین، بنفش همین روش را برای جعبهٔ همکار صورتی به‌کار می‌برد و می‌گوید «حالا بلدم!». پاکت کوچک «حقوق» روی میز کنار صحنه است.",
+          "width": 1254,
+          "height": 1254,
+          "version": 1,
+          "sourceCandidate": "M",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-08-color-square-clear-story",
+          "imageHash": "32d24a109b7a2b30f5623e2916a4ab105886bf13908c8302fe2afe706b7440f5"
+        },
+        {
+          "titleFa": "صبوری هم یاد گرفتم",
+          "summaryFa": "کارمند کافه به‌تدریج یاد می‌گیرد به اشتباه مشتری با آرامش و کمک پاسخ دهد.",
+          "storyFa": "در قاب بالا، مشتری خاکستری فنجان را روی میز ریخته؛ کارمند مرجانی اخم می‌کند و همکار فیروزه‌ای با آرامش دستمال می‌آورد. در قاب پایین همان مشتری و فنجانِ ریخته دیده می‌شوند، اما مرجانی با لبخند دستمال و فنجان تازه می‌دهد و می‌گوید «عیبی نداره!». هر دو کارمند پیش‌بند کرم یکسان دارند و پاکت کوچک «حقوق» در هر دو قاب روی قفسه است.",
+          "meaningFa": "کار در کنار درآمد می‌تواند صبوری و شیوهٔ برخورد مهربانانهٔ فرد را رشد دهد.",
+          "prompt": "Use case: precise-object-edit. The attached square watercolor picture is the EXACT EDIT TARGET. Correct only two defects while preserving this same café story and artwork.\n\n1. Remove the English word \"Coffee\" from the chalkboard in BOTH scenes. Restore only matching chalkboard background where the letters were. Keep its harmless drawn cup and short chalk marks. Add NO replacement word. All writing must now consist ONLY of the existing correct Persian headings «اول کار» and «مدتی بعد», speech «عیبی نداره!» and both envelope labels «حقوق».\n\n2. Reframe BOTH scenes 25% wider: uniformly reduce each entire existing scene to about 75–80% of its current scale, preserving every head-to-body proportion, and extend its floor downward enough to show the COMPLETE lower legs and BOTH FEET of all three adults within each scene's painted ground and white paper margins. The current characters, chair legs and table are cut at the lower scene edges; complete their natural existing shapes and include full feet on the floor. Gray remains seated at the same table; its feet are visibly below the table. Coral and turquoise remain standing in the same positions. Natural table/chair occlusion of upper legs is allowed, but NO feet or lower legs are clipped by scene edges. Allow that uniform 20–25% reduction of each entire scene and a little additional café floor below so nothing is cropped. Keep a square 1:1 image with two scenes stacked and white separation. Do not stretch bodies or shorten legs to force the fit.\n\nKEEP everything else: SAME adult identities and fixed coral, turquoise and light-gray colors; neutral medium bodies, perfectly circular heads with no necks, eyes and expressions; SAME straight cream aprons on both staff, hands, cloth, fresh cup, identical tipped cup/spill, table, chairs, envelopes, all other props and existing setting. Upper coral impatient, lower coral calm and helpful; customer same identity, turquoise calm. Preserve moderate authentic watercolor inside all bodies and setting, local-color outlines, original-quality finish, natural paint endings and clean outer white margins. No new clothing, noses, hair, objects, text or broad stylistic changes. Only remove the English letters and provide complete framing.",
+          "id": "151-n-v1",
+          "title": "صبوری هم یاد گرفتم",
+          "image": "art/151-n-v1.png",
+          "alt": "در قاب بالا، مشتری خاکستری فنجان را روی میز ریخته؛ کارمند مرجانی اخم می‌کند و همکار فیروزه‌ای با آرامش دستمال می‌آورد. در قاب پایین همان مشتری و فنجانِ ریخته دیده می‌شوند، اما مرجانی با لبخند دستمال و فنجان تازه می‌دهد و می‌گوید «عیبی نداره!». هر دو کارمند پیش‌بند کرم یکسان دارند و پاکت کوچک «حقوق» در هر دو قاب روی قفسه است.",
+          "width": 1254,
+          "height": 1254,
+          "version": 1,
+          "sourceCandidate": "N",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-08-color-square-clear-story",
+          "imageHash": "f7b6bf207bbbb9e41ebe117015f2599072524b5d36ff3dd2abc9851781f6c177"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "english": "When you are young, have friends who are older; when you are old, have friends who are younger.",
+      "persian": "وقتی جوونی، دوست‌های بزرگ‌تر از خودت داشته باش؛ وقتی پیری، دوست‌های جوون‌تر.",
+      "sourceRow": 154,
+      "shortTitleFa": "دوستی با نسل دیگر",
+      "ideas": [
+        {
+          "titleFa": "تولدهای دو نسل",
+          "summaryFa": "دو جشن تولد کنار همان در؛ دوست بزرگ‌تر در جوانی و دوست جوان‌تر در سال‌های بعد.",
+          "storyFa": "آدمک زردِ جوان در خانه را باز می‌کند و دوست بنفشِ مسن‌تر با کیک تبریک می‌گوید. سال‌ها بعد همان آدمک زرد با عینک و چین‌های صورت، کنار همان در، از دوست سبزِ جوان کیک می‌گیرد و خوشحال می‌شود.",
+          "meaningFa": "دوستی با نسل‌های دیگر در هر سن، شادی و همراهی تازه به زندگی می‌آورد.",
+          "prompt": "Use case: illustration-story. Create one NEW square 1:1 book illustration, two scenes stacked top to bottom, for friendships across generations. The supplied image is a STYLE reference only: preserve its warm character drawing and watercolor; do not copy its tailor, apron, sewing machine, room, story, text, or portrait layout.\n\nScene 1, heading exactly «جوانی»: At a small cozy home's open wooden front door, a YOUNG ADULT yellow friend, with no glasses or wrinkles, opens the door and smiles in happy surprise. An OLDER ADULT purple friend, wearing simple clear glasses and a few small wrinkles, visits carrying a small birthday cake on a plate, with three lit candles and no numbers. The purple friend's speech bubble says exactly «تولدت مبارک، رفیق!». They meet as warm, equal friends, both adult-sized and capable. Cake plate supported by naturally gripping hands.\n\nScene 2, heading exactly «سال‌ها بعد»: SAME yellow character, SAME yellow color, neutral body, SAME wooden house door, threshold and little potted plant. Yellow is now an OLDER ADULT, with clear glasses and a few wrinkles, smiling in surprised delight. A YOUNG ADULT green friend arrives with a small birthday cake, three lit candles, no numbers, saying exactly «تولدت مبارک، رفیق!». Make continuity unmistakable. All four figures are full-bodied, both feet visible, equal adult stature; nobody is a child or a nursing dependent.\n\nComposition: two roomy horizontal scenes within the square, white gap between, no panel borders. Clean generous white paper margins on ALL edges. BOTH scenes fully contain every body, foot, cake, plate, bubble and complete visible doorway; no edge cropping. Sparse purposeful setting, gentle humane humor.\n\nCharacter geometry is strict: heads PERFECT CIRCLES, never oval, jawed, flattened-bottom or chin-shaped. No hair, ears, nose or neck; circular head joins shoulders directly with a soft local-color crescent contact shadow. Medium adult proportions. Neutral straight bodies with almost parallel torso sides: no breast, pinched waist, hip/butt bulge or torso notch, no extra garments. Small dark oval eyes with optional tiny glint INSIDE, no white sclera. Each visible hand has three fingers plus one thumb; natural occlusion allowed.\n\nMedium: genuine MODERATE hand-painted layered translucent watercolor visible INSIDE heads, bodies, limbs and hands as well as setting. Broad softly irregular washes, luminous paper, varied pigment density and subtle pooling. Contours are darker versions of each local body color, never black. Avoid flat vector fills, marker, uniform colored-pencil grain, glossy 3D, heavy mottling. All writing only the specified connected RTL Persian, accurate and legible; no English, age numbers or other labels.",
+          "id": "153-e-v1",
+          "title": "تولدهای دو نسل",
+          "image": "art/153-e-v1.png",
+          "alt": "آدمک زردِ جوان در خانه را باز می‌کند و دوست بنفشِ مسن‌تر با کیک تبریک می‌گوید. سال‌ها بعد همان آدمک زرد با عینک و چین‌های صورت، کنار همان در، از دوست سبزِ جوان کیک می‌گیرد و خوشحال می‌شود.",
+          "width": 1254,
+          "height": 1254,
+          "version": 1,
+          "sourceCandidate": "E",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-08-color-square-clear-story",
+          "imageHash": "d7fa023691156e182025f6fc97f93e4068132af5a37181e6523cee0a152a4af2"
+        }
+      ]
+    }
+  ],
+  "styleRevision": {
+    "method": "edit actual book references, preserving their character design and watercolor",
+    "updatedAt": "2026-10-07T09:26:40.766Z",
+    "status": "awaiting-user-review",
+    "rules": [
+      "circular heads",
+      "darker local-body-color contours",
+      "reference eyes with interior glint and no white sclera",
+      "neutral adult bodies",
+      "Persian colloquial dialogue"
+    ]
+  },
+  "summaryFa": "۵ از ۱۲ طرح تازه آماده · تولید ادامه دارد",
+  "styleVersion": "style-2026-10-08-color-square-clear-story",
+  "plannedSentenceIds": [
+    151,
+    152,
+    153
+  ],
+  "plannedIdeaCount": 12,
+  "readyIdeaCount": 5,
+  "inProgress": true,
+  "createdAt": "2026-10-09T19:48:07.389560+00:00",
+  "styleContractHash": "b0c156a7bbba793a15b6972d1d29ac3ffb66c10a061df568bab978fa9739b3cb",
+  "activeSentenceIds": [
+    151,
+    153
+  ]
+}

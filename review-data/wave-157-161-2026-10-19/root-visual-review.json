@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "157-c-20261019-v1",
+      "imageHash": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual two-panel room retains same table, book, lamp and window. Friend correctly identifies darkness but proposes a stronger lamp; owner agrees about darkness and opens the blocking curtain. Light changes causally; all figures and feet fit. Pink has subtle lashes and neutral body."
+    },
+    {
+      "id": "157-d-20261019-v1",
+      "imageHash": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual right-to-left panels show jammed trolley wheel with a clearly wrapped blue strap, accurate symptom but unnecessary new-wheel advice, then owner removing that same strap from the axle. Full figures, wheels and trolley fit; short Persian speech attribution and continuity are coherent."
+    },
+    {
+      "id": "159-a-20261019-v1",
+      "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual square scene has a fully contained parked van, hiking passenger and hiking driver with clearly matching hats/vests and outdoor gear. Driver invites passenger in Persian; affinity of appearance is visible without class/wealth comparison. Full passenger and vehicle fit in white margins; natural driver/window occlusion is appropriate."
+    },
+    {
+      "id": "157-a-20261019-v1",
+      "imageHash": "efd32842549586555c8c39ff67363920fbffd4b0c21f8fba344a67d4892f382a",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual three panels show accurate wobble feedback, an unexecuted suggestion to saw a leg, inspection of a loose bolt, and tightening that bolt on the same single chair. Adviser stands in the final panel; no duplicate chair remains. Bodies and essential props fit."
+    },
+    {
+      "id": "157-b-20261019-v1",
+      "imageHash": "34027196a679d60fda7e7aa27158ede77de947794d9b7978a93503f6f721a1d7",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual final reframed right panel now fully contains the purple figure and both feet. Same wilted plant stays wilted; pooled water and draining pot show that more water was the wrong remedy. Pink has subtle lashes and both figures retain neutral bodies and eye glints."
+    }
+  ]
+}

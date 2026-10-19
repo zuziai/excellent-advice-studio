@@ -1,0 +1,67 @@
+{
+  "id": "regen-151-153-2026-10-08-progress-01",
+  "title": "New ideas for sentences 151–153",
+  "titleFa": "طرح‌های تازهٔ ۱۵۱، ۱۵۲ و ۱۵۳",
+  "totalSentences": 460,
+  "coveredEvidenceCount": 118,
+  "earlierUnresolvedCount": 32,
+  "nextWaveSize": 10,
+  "sentences": [
+    {
+      "id": 151,
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "sourceRow": 152,
+      "shortTitleFa": "کار برای رشد خودت",
+      "ideas": [
+        {
+          "titleFa": "وسایل بیشتر یا توان بیشتر؟",
+          "summaryFa": "یکی وسایل تمرین جمع می‌کند؛ دیگری تمرین می‌کند. وقتِ بالا بردن ساک، نتیجه در توانایی خودشان دیده می‌شود.",
+          "storyFa": "در ستون راست، آدمک زرد وسایل ورزشی نو جمع می‌کند و بعد برای بالا بردن ساک خرید از یک پلهٔ کوتاه به زحمت می‌افتد. در ستون چپ، آدمک سبز با یک وزنه تمرین می‌کند و بعد همان ساک با همان بار را راحت از همان پله بالا می‌برد.",
+          "meaningFa": "تمرین، توانایی خودِ فرد را رشد می‌دهد؛ داشتن وسایل به‌تنهایی جای این رشد را نمی‌گیرد. تفاوت در حالت و انجام یک کار یکسان دیده می‌شود، نه در بدن یا بار ساک.",
+          "prompt": "Use case: precise-object-edit. The attached square watercolor image is the exact EDIT TARGET. Make ONE tiny local replacement only.\n\nIn the BOTTOM LEFT scene, on the turquoise exercise mat near its left end, there is currently a solitary round turquoise weight disk. Replace ONLY this solitary disk with ONE COMPLETE SMALL TURQUOISE DUMBBELL lying on its side on the mat. A complete dumbbell has TWO round cylindrical end weights CONNECTED by ONE short central handle/bar, all clearly visible together as ONE object. Match the exact simple turquoise dumbbell model that the green character holds in the TOP LEFT scene. Position the replacement horizontally or slightly diagonally along the mat so BOTH circular end weights AND their connecting central handle are easily recognizable. It must be small and fit fully inside the mat with no overlap of the character. Do NOT leave a detached disk; do NOT create two dumbbells; do NOT remove the top-left held dumbbell. The only changed area is the current disk and the minimal immediately adjacent mat area needed for the complete small dumbbell.\n\nSTRICTLY KEEP EVERY OTHER PIXEL AND VISUAL DETAIL AS CLOSE AS POSSIBLE TO THE CURRENT TARGET. Keep the four scenes, all characters and their poses, neutral bodies and proportions, round heads, eyes, faces, hands, plain yellow bodies with NO APRONS, green bodies, grocery bags and groceries, steps, every background object, upper-left held dumbbell, right-column exercise equipment, watercolor washes and local-color contours exactly unchanged. Preserve the two Persian headings \"وسایل بیشتر\" and \"تمرین بیشتر\", square dimensions, white margins and scene gaps. NO clothing or apron may reappear. No added text, no restyling, no recomposition, no other object changes. Only replace the incomplete lower-left disk with ONE recognizable complete dumbbell matching the upper-left model.\n",
+          "id": "151-k-v1",
+          "title": "وسایل بیشتر یا توان بیشتر؟",
+          "image": "art/151-k-v1.png",
+          "alt": "در ستون راست، آدمک زرد وسایل ورزشی نو جمع می‌کند و بعد برای بالا بردن ساک خرید از یک پلهٔ کوتاه به زحمت می‌افتد. در ستون چپ، آدمک سبز با یک وزنه تمرین می‌کند و بعد همان ساک با همان بار را راحت از همان پله بالا می‌برد.",
+          "width": 1254,
+          "height": 1254,
+          "version": 1,
+          "sourceCandidate": "K",
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null,
+          "styleVersion": "style-2026-10-08-color-square-clear-story",
+          "imageHash": "6daaf0d497f926dd49dfd0fa9494952693b34df2d1a906b69d11e6790662cbc1"
+        }
+      ]
+    }
+  ],
+  "styleRevision": {
+    "method": "edit actual book references, preserving their character design and watercolor",
+    "updatedAt": "2026-10-07T09:26:40.766Z",
+    "status": "awaiting-user-review",
+    "rules": [
+      "circular heads",
+      "darker local-body-color contours",
+      "reference eyes with interior glint and no white sclera",
+      "neutral adult bodies",
+      "Persian colloquial dialogue"
+    ]
+  },
+  "summaryFa": "۱ از ۱۲ طرح تازه آماده · تولید ادامه دارد",
+  "styleVersion": "style-2026-10-08-color-square-clear-story",
+  "plannedSentenceIds": [
+    151,
+    152,
+    153
+  ],
+  "plannedIdeaCount": 12,
+  "readyIdeaCount": 1,
+  "inProgress": true,
+  "createdAt": "2026-10-09T14:16:29.751535+00:00",
+  "styleContractHash": "b0c156a7bbba793a15b6972d1d29ac3ffb66c10a061df568bab978fa9739b3cb",
+  "activeSentenceIds": [
+    151
+  ]
+}

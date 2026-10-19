@@ -1,0 +1,260 @@
+{
+  "sentenceId": 157,
+  "english": "When someone tells you something is wrong, they’re usually right. When they tell you how to fix it, they’re usually wrong.",
+  "persian": "وقتی کسی می‌گه یه جای کار ایراد داره، معمولاً درست می‌گه. وقتی می‌گه چطور درستش کنی، معمولاً اشتباه می‌کنه.",
+  "sourceRow": 158,
+  "coreMeaning": "Recognize accurate feedback about a real symptom while checking the proposed remedy independently and investigating its actual cause.",
+  "referencePaths": [
+    "Images/155.png",
+    "Images/156.png"
+  ],
+  "status": "ready_for_review",
+  "ideas": [
+    {
+      "id": "157-a-20261019-v1",
+      "sentenceId": 157,
+      "version": 1,
+      "titleFa": "پایه کوتاه نبود؛ پیچ شل بود",
+      "summaryFa": "مهمان لقی صندلی را درست حس می‌کند، اما پیشنهاد کوتاه‌کردن پایه علت واقعی را حل نمی‌کند.",
+      "storyFa": "در قاب راست صندلی زیر مهمان لق می‌زند و او کوتاه‌کردن پایه را پیشنهاد می‌دهد. در قاب چپ صاحب سبز علامت را می‌پذیرد و پیچ شل را پیدا می‌کند. پایین، همان یک صندلی را با پیچ‌گوشتی محکم می‌کند؛ مهمان با لبخند کنار آن ایستاده است.",
+      "meaningFa": "درست‌بودنِ مشاهدهٔ یک مشکل به معنی درست‌بودن راه‌حل پیشنهادی نیست؛ شنیدن بازخورد باید آغاز بررسی علت باشد.",
+      "outputPath": "review-data/wave-157-161-2026-10-19/157/157-a-20261019-v1.png",
+      "sha256": "efd32842549586555c8c39ff67363920fbffd4b0c21f8fba344a67d4892f382a",
+      "imageHash": "efd32842549586555c8c39ff67363920fbffd4b0c21f8fba344a67d4892f382a",
+      "imageSha256": "efd32842549586555c8c39ff67363920fbffd4b0c21f8fba344a67d4892f382a",
+      "bytes": 2340858,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. Create ONE NEW square narrative watercolor illustration for sentence 157 of an adult Persian illustrated wisdom book. Input image 1 is the APPROVED purple carpenter style/anatomy reference and input image 2 is the APPROVED eye/glint/cheek/lash reference. They are STYLE REFERENCES ONLY, not edit targets.\nMEANING: A visitor correctly experiences a real problem, but their proposed fix is mistaken. The maker accepts the symptom without defensiveness and investigates the actual cause rather than blindly using the suggested remedy. Be concrete, warm and immediately readable.\n\nLAYOUT: Three clear panels in a square: two equal panels across the top read RIGHT to LEFT, followed by one wider panel at the bottom. Same modest home dining corner, same simple wooden chair with four equal-length legs, same green owner and coral-red visitor. No extra cast.\nTOP RIGHT: The coral visitor, seated normally in the wooden chair with both feet safely on the floor, feels the chair wobble. The chair is just slightly rocking, not collapsing. Small motion marks and an uneven seat angle make the symptom obvious. A small imagined saw next to one chair leg appears ONLY INSIDE the visitor's thought/speech bubble, with no physical cutting. The visitor says exactly, in one bubble: \"صندلی لق می‌زنه؛ پایه‌شو کوتاه کن!\" The green owner standing beside the chair listens with a kind concerned face and looks at the chair.\nTOP LEFT: Both adults stand safely beside the SAME chair now turned on its side to expose its under-seat corner joint. Green crouches naturally, examines that joint with their face directed at it, and says exactly \"لقه، درست می‌گی.\" One visibly loose metal SCREW in the corner brace directly beneath the seat has its head protruding and a gap between the wooden joints; this is the actual cause. All four legs remain equal length and uncut. The coral visitor looks at the SAME loose joint, not elsewhere.\nBOTTOM WIDE: The green owner has tightened that screw with a normal screwdriver, which is still in their hand immediately beside the under-seat joint. The chair is upright, all FOUR EQUAL uncut legs on the flat floor, the coral visitor now STANDING to the right beside that SAME ONE chair, with an appreciative smile and both feet on the floor. There is exactly ONE chair in this bottom panel, no extra chair under the visitor. The green owner stands beside the stable chair and says exactly \"مشکل از پیچش بود!\" The SAME unused saw may rest safely on a high wall hook in the background; it must never touch the chair. Quiet joke: a big proposed operation was unnecessary; careful listening plus checking one tiny loose screw solved the real wobble. Do not ridicule the visitor. No red crosses, instruction numbers, trophy, English or extra text.\n\nART DIRECTION AND CHARACTER INVARIANTS: Match the attached approved book illustrations ONLY for character design and authentic restrained hand-painted watercolor, not their settings. Softly irregular broad overlapping transparent washes INSIDE the head, torso, arms, legs and hands, varying pigment density and subtle pooling, luminous paper; moderate watercolor strength. No colored-pencil or marker grain, no flat vector, no glossy 3D, no uniform embossed/crystalline texture. Contours are a darker shade of each character's own body color, not black. Every head is a simple true circle of equal width and height, never oval, no flattened chin, no ears/hair/nose. Head joins torso directly with NO NECK and a soft crescent of deeper local color under the head. Moderately built ADULT bodies exactly like the approved references: not chubby, not skinny, no bulging arms, no chibi. All bodies have the same simple neutral torso and pelvis, absolutely no breasts/bust, protruding buttocks, broad hips, pinched waist or gendered bulges. Female cue only two tiny fine upper-outer eyelashes on otherwise IDENTICAL small dark vertical oval eyes. Each dark eye MUST have one tiny reflected white glint INSIDE its dark shape; never white sclera around a pupil, never human eyeballs or frightening blank black eyes. Add subtle translucent diffuse rosy cheeks with soft watercolor edges, never flat pink discs. Minimal expressive brows and mouth. Exactly THREE fingers and ONE thumb on each visible hand (four digits total); anatomically coherent grips and limbs. No unmotivated selective clothing; aprons only if the occupation needs them. Identity and body color stay consistent in every panel.\nCOMPOSITION AND READABILITY: One complete square image, spacious book illustration with a clear cause and effect narrative. All full bodies, feet, hands and important objects stay completely inside the painting, never cropped at the bottom. Clean white outer paper margin, paint not touching file edges; vary natural airy watercolor vignette edges using a simple background ending naturally, no heavy black panel frames. Thin white gutters between panels. Horizontal sequences read RIGHT TO LEFT and vertical sequence TOP TO BOTTOM. Short accurate connected Persian RTL text only as specified, no English, no watermark, no captions explaining the moral. Bubble tails must point to the correct speaker. Purposeful sparse adult everyday setting, warm kind mood and gentle human wit. Every gaze, pointing hand and action must target its actual object; match perspective, physical contact and object continuity.\n",
+      "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/157/157-a-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptSha256": "2c3224a74250b5bf251dd3e25363cf429eaa14e61923aed40e0cebc9d755d624",
+      "fullGenerationPromptEnglishSha256": "2c3224a74250b5bf251dd3e25363cf429eaa14e61923aed40e0cebc9d755d624",
+      "referencePaths": [
+        "Images/155.png",
+        "Images/156.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationMode": "new_story_then_targeted_prepublication_correction",
+      "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a1549a-af04-7f51-b89f-5d7e07040111/exec-08e61669-b3f9-4d53-83f8-e0e95d70effa.png",
+      "generatedAtUtc": "2026-10-19T15:41:33.525052+00:00",
+      "status": "candidate_pending_user_review",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "referenceInspected": true,
+        "conceptReviewedBeforeGeneration": true,
+        "result": "review_ready_for_user_selection",
+        "persianTextReviewed": true,
+        "notesFa": [
+          "تصویر نهایی واقعی پس از اصلاحِ حذف صندلی اضافه دیده شد؛ پایین فقط یک صندلی هست و مهمان ایستاده است.",
+          "پیشنهاد اره‌کردن صرفاً در حباب آمده؛ هیچ پایه‌ای بریده نشده و اره استفاده نمی‌شود.",
+          "پیچ شل در زیر صندلی و پیچ‌گوشتیِ روی همان اتصال روشن‌اند؛ سه مرحله علت و نتیجه دارند.",
+          "متن‌های فارسی صحیح‌اند؛ پاها کامل داخل تصویرند، چشم‌های باز برق کوچک دارند."
+        ],
+        "limitations": "Occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+      },
+      "generationHistory": [
+        {
+          "type": "provider_call_no_output",
+          "status": "cancelled_after_extended_wait",
+          "outputProduced": false,
+          "note": "First imagegen call remained pending while subsequent calls completed. Cancelled once, verified no file/result, then retried once."
+        },
+        {
+          "type": "initial_new_story",
+          "outputPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-a.initial.png",
+          "sha256": "b1263bb41db5985176026b172d214e28413f86b2873bc74779361e9f6036805a",
+          "status": "retained_unpublished_draft"
+        },
+        {
+          "type": "targeted_edit",
+          "description": "Removed the wrongly duplicated chair in the bottom panel; kept one original chair and made the visitor stand beside it.",
+          "editTargetPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-a.initial.png",
+          "editPromptPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-a.single-chair-edit.en.txt",
+          "editPromptEnglish": "Use case: precise-object-edit. The supplied square three-panel watercolor comic has ONE narrative continuity mistake ONLY in the BOTTOM panel: it wrongly shows TWO CHAIRS, while the story is about the SAME ONE chair. Correct ONLY this.\nKeep the TOP TWO PANELS absolutely unchanged: their characters, exact Persian dialogue, positions, chair inspection and loose screw. Keep the BOTTOM green character, screwdriver, EXACT \"مشکل از پیچش بود!\" bubble, the single chair currently being repaired, loose-screw plate and room background.\nBOTTOM ONLY: REMOVE the extra chair UNDER the coral-red visitor. Red is now STANDING beside the ONE chair green is repairing, on the RIGHT side of the bottom panel, with BOTH FEET on the floor fully inside the frame. Red smiles gratefully and looks at the tightened screw; hands rest together naturally in front of their own neutral torso. Do not leave any second chair, seat, bench or wooden furniture leg behind/beneath red. The retained ONE chair has FOUR equal uncut legs resting on the floor, one seat and one backrest, the same chair design seen above. Green's screwdriver rests at the same under-seat screw. Do not add another chair. All character full bodies and feet inside white margins. Exact true-circle heads, tiny interior white eye glints, neutral adult bodies, layered watercolor, darker local body-colored outlines unchanged. No new text, no change of concept.\n",
+          "outputPath": "review-data/wave-157-161-2026-10-19/157/157-a-20261019-v1.png",
+          "sha256": "efd32842549586555c8c39ff67363920fbffd4b0c21f8fba344a67d4892f382a",
+          "status": "review_candidate"
+        }
+      ],
+      "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/157/157-a-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishHash": "2c3224a74250b5bf251dd3e25363cf429eaa14e61923aed40e0cebc9d755d624"
+    },
+    {
+      "id": "157-b-20261019-v1",
+      "sentenceId": 157,
+      "version": 1,
+      "titleFa": "گیاه تشنه نیست",
+      "summaryFa": "دوست، پژمردگی را درست می‌بیند اما پیشنهاد آب بیشتر برای گیاهی که در آب مانده درست نیست.",
+      "storyFa": "در قاب راست آدمک بنفش پژمردگی گلدان را می‌بیند و آب بیشتر پیشنهاد می‌کند. صاحب صورتی علامت را می‌پذیرد؛ سپس گلدان داخلی را بالا می‌آورد و آب جمع‌شدهٔ ظرف بیرونی علت واقعی را نشان می‌دهد.",
+      "meaningFa": "بازخوردِ تجربه‌شده را جدی بگیر؛ اما پیش از اجرای نسخهٔ پیشنهادی، علت را بررسی کن. گاهی همان درمان پیشنهادی مشکل را بدتر می‌کند.",
+      "outputPath": "review-data/wave-157-161-2026-10-19/157/157-b-20261019-v1.png",
+      "sha256": "34027196a679d60fda7e7aa27158ede77de947794d9b7978a93503f6f721a1d7",
+      "imageHash": "34027196a679d60fda7e7aa27158ede77de947794d9b7978a93503f6f721a1d7",
+      "imageSha256": "f35125632c5a5a9dab4999120a3e4791d9045d663eec4a5326e1a1353deb7708",
+      "bytes": 2613937,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. One NEW square adult Persian visual-book watercolor comic, TWO panels read RIGHT TO LEFT. Image 1 is the approved adult body/watercolor reference, image 2 the approved glints, cheeks and subtle lashes reference. No copying their stories.\nMEANING: Someone is accurately noticing the symptom, but their suggested cure may be the very thing making it worse. Listen sincerely to the observation, investigate the cause, and do not blindly accept the prescription.\nRIGHT PANEL: In a simple bright home conservatory, a coral-pink adult with two fine upper-outer lashes has a potted leafy houseplant whose leaves are obviously limp and drooping. The simple terracotta INNER POT sits inside a deep blue waterproof decorative OUTER POT. Visible dark wet soil and one small water puddle indicate overwatering, without labels. The violet visiting adult points kindly at the wilted leaves and holds a full small watering can, NOT yet pouring. One bubble from violet reads exactly \"پژمرده‌ست؛ بیشتر آب بده!\" Pink looks at the very same leaves, nods thoughtfully, and answers in a small bubble exactly \"پژمرده‌ست، درست می‌گی.\" Expressions are concerned, not argumentative.\nLEFT PANEL: The SAME pink owner has lifted the SAME terracotta inner pot out of the SAME deep blue decorative outer pot. The blue outer pot is almost full of trapped water, clearly visible to us from a slightly elevated view; a little water drains out of the terracotta pot's drainage hole above it. Pink holds the pot with TWO coherent supporting hands, enough scale for readable fingers, and looks into the trapped water with a small realizing smile. The violet friend has lowered the unused watering can and looks with interest at the trapped water. Pink says exactly \"از زیادیِ آب بود!\" The plant is still somewhat drooping: it has not magically recovered in seconds. The visual payoff is that pouring in more water would worsen the actual problem; accepting the correct report led to a different solution. No plant uprooting, floating roots, toxic bottle, dead plant, ridicule, long moral caption or extra objects.\nART DIRECTION AND CHARACTER INVARIANTS: Match the attached approved book illustrations ONLY for character design and authentic restrained hand-painted watercolor, not their settings. Softly irregular broad overlapping transparent washes INSIDE the head, torso, arms, legs and hands, varying pigment density and subtle pooling, luminous paper; moderate watercolor strength. No colored-pencil or marker grain, no flat vector, no glossy 3D, no uniform embossed/crystalline texture. Contours are a darker shade of each character's own body color, not black. Every head is a simple true circle of equal width and height, never oval, no flattened chin, no ears/hair/nose. Head joins torso directly with NO NECK and a soft crescent of deeper local color under the head. Moderately built ADULT bodies exactly like the approved references: not chubby, not skinny, no bulging arms, no chibi. All bodies have the same simple neutral torso and pelvis, absolutely no breasts/bust, protruding buttocks, broad hips, pinched waist or gendered bulges. Female cue only two tiny fine upper-outer eyelashes on otherwise IDENTICAL small dark vertical oval eyes. Each dark eye MUST have one tiny reflected white glint INSIDE its dark shape; never white sclera around a pupil, never human eyeballs or frightening blank black eyes. Add subtle translucent diffuse rosy cheeks with soft watercolor edges, never flat pink discs. Minimal expressive brows and mouth. Exactly THREE fingers and ONE thumb on each visible hand (four digits total); anatomically coherent grips and limbs. No unmotivated selective clothing; aprons only if the occupation needs them. Identity and body color stay consistent in every panel.\nCOMPOSITION AND READABILITY: One complete square image, spacious book illustration with a clear cause and effect narrative. All full bodies, feet, hands and important objects stay completely inside the painting, never cropped at the bottom. Clean white outer paper margin, paint not touching file edges; vary natural airy watercolor vignette edges using a simple background ending naturally, no heavy black panel frames. Thin white gutters between panels. Horizontal sequences read RIGHT TO LEFT and vertical sequence TOP TO BOTTOM. Short accurate connected Persian RTL text only as specified, no English, no watermark, no captions explaining the moral. Bubble tails must point to the correct speaker. Purposeful sparse adult everyday setting, warm kind mood and gentle human wit. Every gaze, pointing hand and action must target its actual object; match perspective, physical contact and object continuity.\n",
+      "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/157/157-b-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptSha256": "7d9cf713ca0d538cc3eaff3e5987df6988cbe558d8d67bf5927d1c3d98a0dbe0",
+      "fullGenerationPromptEnglishSha256": "7d9cf713ca0d538cc3eaff3e5987df6988cbe558d8d67bf5927d1c3d98a0dbe0",
+      "referencePaths": [
+        "Images/155.png",
+        "Images/156.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationMode": "new_story_with_approved_style_references",
+      "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1549a-af04-7f51-b89f-5d7e07040111\\exec-e67241a0-e774-44a9-b79e-0c6a1db7360c.png",
+      "generatedAtUtc": "2026-10-19T15:08:46.649993+00:00",
+      "status": "candidate_pending_user_review",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "referenceInspected": true,
+        "conceptReviewedBeforeGeneration": true,
+        "result": "review_ready_for_user_selection",
+        "persianTextReviewed": true,
+        "notesFa": [
+          "تصویر واقعی با view_image دیده شد؛ هر سه حباب فارسی درست و خوانا هستند.",
+          "گلدان و رنگ شخصیت‌ها در دو قاب ثابت‌اند، آبِ جمع‌شده و زهکشی در قاب دوم خواناست، گیاه ناگهان سالم نشده است.",
+          "چشم‌ها برق کوچک داخلی دارند و صورتی فقط با مژه مشخص می‌شود؛ بدن‌ها خنثی و تمام پاها داخل کادرند.",
+          "بخشی از انگشت‌های درگیر گرفتن گلدان از دید پوشیده‌اند و شمارش مستقل همهٔ آن‌ها ممکن نیست."
+        ],
+        "limitations": "Occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+      },
+      "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/157/157-b-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishHash": "7d9cf713ca0d538cc3eaff3e5987df6988cbe558d8d67bf5927d1c3d98a0dbe0",
+      "framingCorrectionSource": "C:\\Users\\zohre\\.codex\\generated_images\\01a1549a-af04-7f51-b89f-5d7e07040111\\exec-e67241a0-e774-44a9-b79e-0c6a1db7360c.png",
+      "framingCorrectionInstruction": "Preserve the story, plant and text; pull back only the right panel enough to show the entire purple figure and both feet within clean white margins."
+    },
+    {
+      "id": "157-c-20261019-v1",
+      "sentenceId": 157,
+      "version": 1,
+      "titleFa": "لامپ قوی‌تر یا پردهٔ باز؟",
+      "summaryFa": "مهمان اتاق تاریک را درست تشخیص می‌دهد، اما به‌جای خرید لامپ، کنارزدن پرده مشکل را حل می‌کند.",
+      "storyFa": "بالا، مهمان برای خواندن به زحمت افتاده و لامپ قوی‌تر پیشنهاد می‌کند؛ صاحب صورتی تاریکی را می‌پذیرد. پایین، همان لامپ بدون تغییر مانده و بازکردن پرده نور روز را روی همان کتاب می‌اندازد.",
+      "meaningFa": "وقتی کسی از تجربهٔ یک مشکل می‌گوید به آن گوش کن، ولی گزارش مشکل را با علت و درمان آن یکی نگیر.",
+      "outputPath": "review-data/wave-157-161-2026-10-19/157/157-c-20261019-v1.png",
+      "sha256": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
+      "imageHash": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
+      "imageSha256": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
+      "bytes": 2459936,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. Make one NEW square illustration, a TWO-panel comic stacked TOP TO BOTTOM, for an adult Persian wisdom book. The two approved inputs provide only character proportions, watercolor medium, tiny white glints, soft cheeks and eye/lash design.\nMEANING: A user's experience of a problem can be true, even when their proposed technical fix is wrong. Respect the report and investigate before choosing a remedy. A large expensive fix is not always needed.\nTOP PANEL: A simple home reading room at midday is dim because a THICK opaque dark-purple curtain is pulled completely across a large window. Daylight peeks around the curtain's edge. A mint-green adult visitor is standing by a small table looking with genuine difficulty at a simple open book facing THEM correctly; the book has no readable writing. The ceiling pendant lamp already shines weakly. Mint says exactly \"اینجا تاریکه؛ لامپِ قوی‌تر بخر!\" A rose-pink owner, with only two subtle upper-outer eyelashes and otherwise the same neutral anatomy, stands beside the visitor, listens kindly and agrees exactly \"تاریکه، درست می‌گی.\" The owner is looking around the dim room, not dismissing the complaint. No giant replacement bulb is physically installed.\nBOTTOM PANEL: The SAME room, SAME lamp unchanged and same table/book. Pink has gently pulled the SAME curtain to ONE SIDE, revealing clear daylight and a plain window looking onto a simple leafy tree. Natural warm sun now falls onto the open book and brightens the whole room, making reading easy. The mint visitor looks relieved and smiles appreciatively toward the owner. Pink holds the curtain edge in one hand and says with quiet gentle humor exactly \"مشکل از پرده بود!\" Both bodies and feet are completely visible. The visual difference must be the curtain open versus closed, not a magical new lamp or a different room. Never ridicule the visitor: darkness was a real experience, a stronger lamp was merely the wrong first remedy. Sparse props; no extra plants or extraneous decorative objects, no long explanation.\nART DIRECTION AND CHARACTER INVARIANTS: Match the attached approved book illustrations ONLY for character design and authentic restrained hand-painted watercolor, not their settings. Softly irregular broad overlapping transparent washes INSIDE the head, torso, arms, legs and hands, varying pigment density and subtle pooling, luminous paper; moderate watercolor strength. No colored-pencil or marker grain, no flat vector, no glossy 3D, no uniform embossed/crystalline texture. Contours are a darker shade of each character's own body color, not black. Every head is a simple true circle of equal width and height, never oval, no flattened chin, no ears/hair/nose. Head joins torso directly with NO NECK and a soft crescent of deeper local color under the head. Moderately built ADULT bodies exactly like the approved references: not chubby, not skinny, no bulging arms, no chibi. All bodies have the same simple neutral torso and pelvis, absolutely no breasts/bust, protruding buttocks, broad hips, pinched waist or gendered bulges. Female cue only two tiny fine upper-outer eyelashes on otherwise IDENTICAL small dark vertical oval eyes. Each dark eye MUST have one tiny reflected white glint INSIDE its dark shape; never white sclera around a pupil, never human eyeballs or frightening blank black eyes. Add subtle translucent diffuse rosy cheeks with soft watercolor edges, never flat pink discs. Minimal expressive brows and mouth. Exactly THREE fingers and ONE thumb on each visible hand (four digits total); anatomically coherent grips and limbs. No unmotivated selective clothing; aprons only if the occupation needs them. Identity and body color stay consistent in every panel.\nCOMPOSITION AND READABILITY: One complete square image, spacious book illustration with a clear cause and effect narrative. All full bodies, feet, hands and important objects stay completely inside the painting, never cropped at the bottom. Clean white outer paper margin, paint not touching file edges; vary natural airy watercolor vignette edges using a simple background ending naturally, no heavy black panel frames. Thin white gutters between panels. Horizontal sequences read RIGHT TO LEFT and vertical sequence TOP TO BOTTOM. Short accurate connected Persian RTL text only as specified, no English, no watermark, no captions explaining the moral. Bubble tails must point to the correct speaker. Purposeful sparse adult everyday setting, warm kind mood and gentle human wit. Every gaze, pointing hand and action must target its actual object; match perspective, physical contact and object continuity.\nFRAMING: A visible strip of floor is present BELOW EVERY full foot in BOTH panels; no toe touches the middle white gutter or painting boundary. The table and characters are small enough within each panel to leave breathing room.\n",
+      "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/157/157-c-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptSha256": "cd88f698b7c998a52619138afe7afea448e2a4f1f8cc524ab4620f8be6164aea",
+      "fullGenerationPromptEnglishSha256": "cd88f698b7c998a52619138afe7afea448e2a4f1f8cc524ab4620f8be6164aea",
+      "referencePaths": [
+        "Images/155.png",
+        "Images/156.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationMode": "new_story_then_targeted_prepublication_correction",
+      "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a1549a-af04-7f51-b89f-5d7e07040111/exec-29df6a40-95f5-4e05-adc1-8cca18774c51.png",
+      "generatedAtUtc": "2026-10-19T15:21:01.159632+00:00",
+      "status": "candidate_pending_user_review",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "referenceInspected": true,
+        "conceptReviewedBeforeGeneration": true,
+        "result": "review_ready_for_user_selection",
+        "persianTextReviewed": true,
+        "notesFa": [
+          "نسخهٔ واقعی پس از اصلاح قاب‌بندی با view_image دیده شد؛ همهٔ پاها داخل قاب‌اند.",
+          "پرده از بسته به باز تغییر کرده، لامپ و کتاب و اتاق ثابت مانده‌اند؛ تفاوت نور واقعی و قابل پیگیری است.",
+          "سه حباب فارسی صحیح‌اند و جهتشان به گوینده درست وصل است.",
+          "قاب‌ها به‌جای کنارهم، عمودی‌اند؛ پرامپت مستقل نهایی برای همین چیدمان و حاشیهٔ کامل اصلاح شد."
+        ],
+        "limitations": "Occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+      },
+      "generationHistory": [
+        {
+          "type": "initial_new_story",
+          "outputPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-c.initial.png",
+          "sha256": "c947fa26e926ce0c076b923858ebc94152642a25910701efbeec9922d3adc966",
+          "status": "retained_unpublished_draft"
+        },
+        {
+          "type": "targeted_edit",
+          "description": "Expanded both stacked panels to include complete feet and floor below.",
+          "editTargetPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-c.initial.png",
+          "editPromptPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-c.framing-edit.en.txt",
+          "editPromptEnglish": "Use case: precise-object-edit. Edit ONLY framing of this approved-style two-panel watercolor comic. Keep the EXACT two stacked panels, story, every Persian word, bubble speaker, character identity/colors, circular head shapes, anatomy, body paint, glints, lashes, cheeks, room perspective, same lamp unchanged, book orientation, and thick curtain closed in the TOP panel and opened in the BOTTOM panel.\nCRITICAL CHANGE: ZOOM OUT/EXPAND THE COMPOSITION of EACH PANEL enough that all character bodies and especially ALL FEET are COMPLETELY INSIDE their panel with a visible strip of FLOOR BELOW every foot. In the TOP panel both characters' feet currently hit/cross the white middle gutter and are cut off; redraw/extend these bottom feet fully, then leave floor space before the gutter. In the BOTTOM panel also keep both full feet and all important table parts inside the image. The image remains SQUARE overall, with two equally spacious stacked panels and a thin white horizontal gutter. Slightly reduce characters within each panel if needed; do NOT squash or elongate bodies or heads. No extra furniture, new objects, changed poses or rewritten text. Preserve white outer margin and genuine layered restrained watercolor. All heads true circles, neutral bodies, no breasts or hips, no neck. Natural hands with three fingers and one thumb. This is only a targeted framing correction, not a redesign.\n",
+          "outputPath": "review-data/wave-157-161-2026-10-19/157/157-c-20261019-v1.png",
+          "sha256": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
+          "status": "review_candidate"
+        }
+      ],
+      "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/157/157-c-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishHash": "cd88f698b7c998a52619138afe7afea448e2a4f1f8cc524ab4620f8be6164aea"
+    },
+    {
+      "id": "157-d-20261019-v1",
+      "sentenceId": 157,
+      "version": 1,
+      "titleFa": "چرخ نو لازم نبود",
+      "summaryFa": "گیرکردن چرخ واقعی است؛ اما عوض‌کردن چرخ راه‌حلش نیست، چون نوار بسته‌بندی دور محور پیچیده است.",
+      "storyFa": "بنفش گیرکردن چرخ را گزارش می‌کند و چرخ نو پیشنهاد می‌دهد. صورتی مشکل را می‌پذیرد؛ با بیرون‌کشیدن نوار آبیِ دور محور، همان چرخ سالم دوباره آزاد می‌شود.",
+      "meaningFa": "بین تجربهٔ واقعی کاربر و حدس او دربارهٔ راه‌حل فرق بگذار؛ برای یافتن علت اصلی از همان بازخورد شروع کن.",
+      "outputPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.png",
+      "sha256": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+      "imageHash": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+      "imageSha256": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+      "bytes": 2421026,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. One NEW square watercolor illustration for an adult Persian wisdom book. TWO spacious panels arranged RIGHT TO LEFT, same scene at two successive moments. Use approved input 1 only for neutral adult anatomy and layered watercolor; approved input 2 for tiny white glints in dark eyes, diffuse cheeks and subtle lashes.\nMEANING: The customer accurately reports a real malfunction but may be mistaken about the fix. Acknowledging the symptom and looking for its actual cause is wiser than simply rejecting the complaint or obeying the suggested replacement.\nRIGHT PANEL: A plain small flower-delivery courtyard. A simple two-wheeled HAND TROLLEY has a single cardboard parcel strapped securely to it. Both sturdy wheels are visible from a three-quarter view, including the nearer large wheel. The trolley is standing still because a long BLUE strip of plastic packing ribbon is tangled tightly AROUND THE NEAR AXLE, just between that wheel and the frame. Make the blue ribbon unmistakable without an inset diagram. A lavender adult client points at the stuck near wheel with concern and says exactly \"چرخش گیر داره؛ چرخِ نو بخر!\" A warm coral-pink delivery owner with two tiny fine eyelashes stands on the other side holding the handle in a physically coherent posture, feels the resistance and says exactly \"گیر داره، درست می‌گی.\" No wheel is actually removed or replaced.\nLEFT PANEL: The SAME pink owner has tilted the SAME trolley securely back onto its support foot, the parcel still strapped. They crouch beside the SAME near axle and have just unwrapped the offending SAME BLUE ribbon, holding it free in one four-digit hand while the other hand steadies the trolley. The near wheel remains mounted, intact and identical, now free from the ribbon. A small curved motion mark shows it turning freely, not the whole trolley floating. The lavender client watches the actual ribbon with a relieved appreciative expression. Pink says exactly \"نوار دورِ محور پیچیده بود!\" The contrast is clear: real stuck wheel, suggested new wheel, actual obstruction removed instead. Keep all limbs, feet, trolley and important ribbon inside the image. No magic wrench, discarded wheel, unnecessary replacement part, ridicule or long moral caption.\nART DIRECTION AND CHARACTER INVARIANTS: Match the attached approved book illustrations ONLY for character design and authentic restrained hand-painted watercolor, not their settings. Softly irregular broad overlapping transparent washes INSIDE the head, torso, arms, legs and hands, varying pigment density and subtle pooling, luminous paper; moderate watercolor strength. No colored-pencil or marker grain, no flat vector, no glossy 3D, no uniform embossed/crystalline texture. Contours are a darker shade of each character's own body color, not black. Every head is a simple true circle of equal width and height, never oval, no flattened chin, no ears/hair/nose. Head joins torso directly with NO NECK and a soft crescent of deeper local color under the head. Moderately built ADULT bodies exactly like the approved references: not chubby, not skinny, no bulging arms, no chibi. All bodies have the same simple neutral torso and pelvis, absolutely no breasts/bust, protruding buttocks, broad hips, pinched waist or gendered bulges. Female cue only two tiny fine upper-outer eyelashes on otherwise IDENTICAL small dark vertical oval eyes. Each dark eye MUST have one tiny reflected white glint INSIDE its dark shape; never white sclera around a pupil, never human eyeballs or frightening blank black eyes. Add subtle translucent diffuse rosy cheeks with soft watercolor edges, never flat pink discs. Minimal expressive brows and mouth. Exactly THREE fingers and ONE thumb on each visible hand (four digits total); anatomically coherent grips and limbs. No unmotivated selective clothing; aprons only if the occupation needs them. Identity and body color stay consistent in every panel.\nCOMPOSITION AND READABILITY: One complete square image, spacious book illustration with a clear cause and effect narrative. All full bodies, feet, hands and important objects stay completely inside the painting, never cropped at the bottom. Clean white outer paper margin, paint not touching file edges; vary natural airy watercolor vignette edges using a simple background ending naturally, no heavy black panel frames. Thin white gutters between panels. Horizontal sequences read RIGHT TO LEFT and vertical sequence TOP TO BOTTOM. Short accurate connected Persian RTL text only as specified, no English, no watermark, no captions explaining the moral. Bubble tails must point to the correct speaker. Purposeful sparse adult everyday setting, warm kind mood and gentle human wit. Every gaze, pointing hand and action must target its actual object; match perspective, physical contact and object continuity.\nFRAMING: Zoom out enough to include BOTH figures' complete arms/hands/feet and the ENTIRE trolley, both wheels, parcel, support foot and handle inside EACH panel, with breathing room before the white gutter and outer painting edge. Do not let the lavender figure touch the right edge. Leave floor below all feet.\n",
+      "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptSha256": "45dc83a78f6cef727c0006d77353ea7c792df37b964953ffd4581a6a20c5be87",
+      "fullGenerationPromptEnglishSha256": "45dc83a78f6cef727c0006d77353ea7c792df37b964953ffd4581a6a20c5be87",
+      "referencePaths": [
+        "Images/155.png",
+        "Images/156.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationMode": "new_story_then_targeted_prepublication_correction",
+      "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a1549a-af04-7f51-b89f-5d7e07040111/exec-27ff6c7a-1edd-4393-a37b-f94cc61e1951.png",
+      "generatedAtUtc": "2026-10-19T15:24:12.686353+00:00",
+      "status": "candidate_pending_user_review",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "referenceInspected": true,
+        "conceptReviewedBeforeGeneration": true,
+        "result": "review_ready_for_user_selection",
+        "persianTextReviewed": true,
+        "notesFa": [
+          "نسخهٔ واقعی پس از اصلاح قاب‌بندی باز شد؛ تمام بدن‌ها و چرخ‌ها و گاری داخل قاب‌اند.",
+          "رنگ، بسته، گاری و چرخ یکسان حفظ شده‌اند؛ نوار آبی از پیچیده‌دور محور در راست به نوارِ برداشته‌شده در چپ رسیده است.",
+          "متن فارسی درست و نشانهٔ حرکت چرخ در قاب نتیجه کوچک و روشن است.",
+          "گل‌های پس‌زمینه اندکی بیشتر از حداقل لازم هستند، ولی موضوع و علت اصلی مشخص مانده‌اند."
+        ],
+        "limitations": "Occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+      },
+      "generationHistory": [
+        {
+          "type": "initial_new_story",
+          "outputPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-d.initial.png",
+          "sha256": "1b4137c6d9dde3a02ce39e6bd524bf3c9f53086cec8844d53c87b7894b74275a",
+          "status": "retained_unpublished_draft"
+        },
+        {
+          "type": "targeted_edit",
+          "description": "Zoomed out both panels to include full purple body and complete trolley.",
+          "editTargetPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-d.initial.png",
+          "editPromptPath": "review-data/wave-157-161-2026-10-19/157/generation-history/157-d.framing-edit.en.txt",
+          "editPromptEnglish": "Use case: precise-object-edit. Edit ONLY the framing of the supplied TWO side-by-side watercolor panels. Preserve the exact story, Persian text, bubble tails, characters/colors, circular heads, small dark oval eyes and glints, pink subtle lashes, neutral adult anatomy, blue ribbon tangled around the same trolley axle in the RIGHT panel and removed from the same intact mounted wheel in the LEFT panel.\nREQUIRED: ZOOM OUT WITHIN BOTH PANELS, slightly reduce the complete scene (never squash bodies), so ALL bodies, arms, hands and feet and the COMPLETE TROLLEY remain safely INSIDE each panel. In the RIGHT panel the lavender adult's right arm and outer foot are currently cut off by the outer edge: reveal the whole body and leave visible background to the right. In the LEFT panel the trolley handle, parcel and support frame are cut by the middle gutter: reveal their complete outlines and leave breathing room before the white gutter. All objects, characters, wheels, trolley handle, box, ribbon and all feet must be fully contained with floor below them and white outer paper margins. Keep square overall, two panels right-to-left, no added frames, no changed story or text, no extra props or cast. Same layered authentic moderate watercolor, darker local-color body contours, three fingers plus one thumb. ONLY framing correction.\n",
+          "outputPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.png",
+          "sha256": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
+          "status": "review_candidate"
+        }
+      ],
+      "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/157/157-d-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishHash": "45dc83a78f6cef727c0006d77353ea7c792df37b964953ffd4581a6a20c5be87"
+    }
+  ]
+}

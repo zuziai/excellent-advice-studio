@@ -4,6 +4,7 @@ const STORAGE_KEY = 'excellent-advice-review-v1';
 const LOCAL_ORIGIN = ['127.0.0.1','localhost'].includes(location.hostname);
 let localDisconnected = false;
 const state = {wave:null, sentenceIndex:0, ideaIndex:0, feedback:{}, customPanels:{}, local:false, localToken:null, storage:true, saveTimer:null, saveChain:Promise.resolve(), revision:0, syncedRevision:0, wavePoll:null, refreshingWave:false, finalizations:{}, finalizing:{}, approvalDownloads:new Set()};
+const imageHistory = {key:null, versions:[], selectedId:null, loading:false, error:false, serial:0, cache:new Map()};
 const labels = {pending:'در انتظار بررسی',approved:'انتخاب نهایی',revise:'نیاز به ویرایش',revise_all:'ویرایش همهٔ ایده‌ها',custom_idea:'۵ طرح از ایدهٔ شما',rejected:'ساخت دوبارهٔ ایده‌ها'};
 const faNumber = (n) => Number(n).toLocaleString('fa-IR');
 const escapeHTML = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -29,7 +30,7 @@ function applyFinalizationResults(results,allowDownload=false){
   if(state.wave&&$('viewer').open)drawFinalizationActivity();
 }
 function drawFinalizationActivity(){
-  const r=record(),i=idea(),active=r.status==='approved'&&r.chosenIdeaId===i.id;
+  const r=record(),i=idea(),active=!viewingPreviousVersion()&&r.status==='approved'&&r.chosenIdeaId===i.id;
   $('finalization-activity').hidden=!active;
   if(!active)return;
   const result=state.finalizations[sentence().id],matches=result?.ideaId===i.id,busy=!!state.finalizing[sentence().id],done=matches&&result.status==='finalized';
@@ -58,6 +59,56 @@ async function retryFinalization(){
 }
 function record(s=sentence()) {return state.feedback[s.id] ||= {sentenceId:s.id,waveId:state.wave.id,candidateIds:s.ideas.map(i=>i.id),status:'pending',chosenIdeaId:null,ideaNotes:{},note:'',customIdea:'',requestedVariants:null,updatedAt:null};}
 const candidateVersion = (i) => i.version||Number(i.id.match(/-v(\d+)$/)?.[1])||1;
+const displayedIdea = () => imageHistory.versions.find(i=>i.id===imageHistory.selectedId)||idea();
+const viewingPreviousVersion = () => !!state.wave&&displayedIdea().id!==idea().id;
+function resetImageHistory(){imageHistory.key=null;imageHistory.versions=[];imageHistory.selectedId=null;imageHistory.loading=false;imageHistory.error=false;imageHistory.serial++;}
+function prepareImageHistory(){
+  const current=idea(),key=`${state.wave.id}:${current.id}`;
+  if(imageHistory.key===key)return;
+  resetImageHistory();imageHistory.key=key;imageHistory.selectedId=current.id;imageHistory.versions=[current];
+  if(imageHistory.cache.has(key)){imageHistory.versions=imageHistory.cache.get(key);return;}
+  void loadImageHistory();
+}
+async function loadImageHistory(){
+  const key=imageHistory.key,current=idea(),serial=++imageHistory.serial;
+  imageHistory.loading=true;imageHistory.error=false;drawImageHistory();
+  try{
+    const response=await fetch(`/api/image-history?ideaId=${encodeURIComponent(current.id)}`,{cache:'no-store'});
+    if(!response.ok)throw new Error('Image history unavailable');
+    const data=await response.json();
+    if(data.currentIdeaId!==current.id||!Array.isArray(data.versions))throw new Error('Invalid image history');
+    const ids=new Set(),versions=data.versions.filter(i=>i&&typeof i.id==='string'&&typeof i.image==='string'&&!ids.has(i.id)&&ids.add(i.id)).map(i=>i.id===current.id?current:i);
+    if(!ids.has(current.id))versions.push(current);
+    if(imageHistory.key!==key||imageHistory.serial!==serial)return;
+    imageHistory.versions=versions;imageHistory.cache.set(key,versions);
+  }catch{
+    if(imageHistory.key!==key||imageHistory.serial!==serial)return;
+    imageHistory.error=true;
+  }finally{
+    if(imageHistory.key===key&&imageHistory.serial===serial){imageHistory.loading=false;drawImageHistory();}
+  }
+}
+function drawImageHistory(){
+  if(!state.wave||!imageHistory.key)return;
+  const current=idea(),versions=imageHistory.versions,index=Math.max(0,versions.findIndex(i=>i.id===imageHistory.selectedId)),historical=viewingPreviousVersion();
+  $('image-history').setAttribute('aria-busy',String(imageHistory.loading));
+  $('history-select').innerHTML=versions.map(i=>`<option value="${escapeHTML(i.id)}">نسخهٔ ${faNumber(candidateVersion(i))} · ${i.id===current.id?'فعلی':'پیشین'}</option>`).join('');
+  $('history-select').value=imageHistory.selectedId;
+  $('history-select').disabled=imageHistory.loading||versions.length<2;
+  $('history-previous').disabled=imageHistory.loading||index===0;
+  $('history-next').disabled=imageHistory.loading||index===versions.length-1;
+  $('history-status').textContent=imageHistory.loading?'در حال دریافت فهرست نسخه‌ها…':imageHistory.error?'فهرست نسخه‌های پیشین دریافت نشد؛ تصویر فعلی در دسترس است.':versions.length>1?`${faNumber(versions.length)} نسخه؛ تصویر هر نسخه با انتخاب شما باز می‌شود.`:'این تصویر هنوز نسخهٔ پیشین ندارد.';
+  $('history-retry').hidden=!imageHistory.error;
+  $('historical-preview').hidden=!historical;
+}
+function previewImageVersion(id){
+  if(!imageHistory.versions.some(i=>i.id===id))return;
+  imageHistory.selectedId=id;drawViewer();
+}
+function stepImageVersion(delta){
+  const index=imageHistory.versions.findIndex(i=>i.id===imageHistory.selectedId),next=imageHistory.versions[index+delta];
+  if(next)previewImageVersion(next.id);
+}
 function revisionStatus(r){return r.status==='revise'&&r.revisionRequest?(['queued','in_progress','failed'].includes(r.revisionProgress?.status)&&r.revisionProgress.requestId===r.revisionRequest.requestId?r.revisionProgress.status:'queued'):null;}
 function decisionLabel(r){return revisionStatus(r)?{queued:'در انتظار شروع ویرایش',in_progress:'در حال ویرایش',failed:'ویرایش انجام نشد'}[revisionStatus(r)]:labels[r.status];}
 function choiceText(i,r){return r.status==='revise_all'?'✓ ویرایش کلی درخواست شده':r.chosenIdeaId===i.id?(r.status==='approved'?'✓ انتخاب نهایی':decisionLabel(r)):'';}
@@ -85,7 +136,7 @@ function drawBatchDraftState(){
   }
 }
 function drawRevisionActivity(){
-  const r=record(),i=idea(),active=r.status==='revise'&&r.chosenIdeaId===i.id&&!!r.revisionRequest,status=active?revisionStatus(r):null;
+  const r=record(),i=idea(),active=!viewingPreviousVersion()&&r.status==='revise'&&r.chosenIdeaId===i.id&&!!r.revisionRequest,status=active?revisionStatus(r):null;
   $('revision-activity').hidden=!active;$('revision-activity').className='revision-activity '+(status||'');
   $('revision-spinner').hidden=status!=='in_progress';$('edit-hint').hidden=!active||status==='in_progress';
   document.querySelector('.art-pane').classList.toggle('is-processing',status==='in_progress');
@@ -198,7 +249,9 @@ function drawSentence(){
   drawNavigation();
 }
 function drawViewer(){
-  const s=sentence(),i=idea(),r=record();
+  prepareImageHistory();
+  const s=sentence(),i=displayedIdea(),r=record(),historical=viewingPreviousVersion();
+  drawImageHistory();
   $('viewer-counter').textContent=`جملهٔ ${faNumber(s.id)} · ایدهٔ ${faNumber(state.ideaIndex+1)} از ${faNumber(s.ideas.length)} · نسخهٔ ${faNumber(candidateVersion(i))}`;
   $('viewer-title').textContent=i.titleFa||i.title;$('viewer-sentence-id').textContent=`جملهٔ ${faNumber(s.id)}`;
   $('viewer-en').textContent=s.english;$('viewer-fa').textContent=s.persian;
@@ -207,29 +260,34 @@ function drawViewer(){
   $('viewer-prompt').textContent=i.fullGenerationPromptEnglish||i.prompt||'پرامپت کامل در فایل‌های پروژه ذخیره شده است.';
   $('full-image').src=i.image;$('full-image').alt=i.storyFa||i.alt||i.story;
   $('viewer-download').href=downloadHref(i);$('viewer-download').download=downloadName(i);$('viewer-download').title=imageDimensions(i);$('viewer-download').textContent=`دانلود همین نسخه (${faNumber(candidateVersion(i))}) با کیفیت کامل`;
-  $('viewer-version-status').hidden=!i.parentIdeaId||(r.status==='revise'&&r.chosenIdeaId===i.id);
+  $('viewer-version-status').hidden=historical||!i.parentIdeaId||(r.status==='revise'&&r.chosenIdeaId===i.id);
   $('viewer-version-status').textContent=i.parentIdeaId?`ویرایش شما آماده است؛ نسخهٔ ${faNumber(candidateVersion(i))}. ${i.revisionSummaryFa||''} می‌توانید بررسی، انتخاب نهایی یا دوباره ویرایش کنید.`:'';
   $('idea-note').value=r.ideaNotes[i.id]||'';
+  for(const id of ['approve','revise','submit-revision','idea-note','viewer-reject','clear-decision','retry-finalization'])$(id).disabled=historical;
   $('image-scroll').classList.remove('zoomed');$('zoom').textContent='اندازهٔ واقعی';$('image-scroll').scrollTop=0;$('image-scroll').scrollLeft=0;
   $('approve').textContent=r.status==='approved'&&r.chosenIdeaId===i.id?'✓ انتخاب نهایی ثبت شد':'انتخاب نهایی';
   $('revise').textContent=candidateVersion(i)>1?'ویرایش دوبارهٔ تصویر':'ویرایش تصویر';
   $('edit-error').hidden=true;$('idea-note').removeAttribute('aria-invalid');
   drawEditState();
-  $('viewer-decision').textContent=r.status==='custom_idea'?'درخواست پنج طراحی متفاوت از ایدهٔ شما ثبت شده است.':r.status==='revise_all'?'ویرایش کلی برای همهٔ ایده‌ها ثبت شده است؛ این تصویر هم بر اساس نظر کلی شما اصلاح می‌شود.':r.chosenIdeaId===i.id?(r.status==='approved'?'این تصویر انتخاب نهایی شماست.':r.status==='revise'?'':''):r.status==='rejected'?'برای این جمله ایده‌های تازه می‌سازیم.':'';
+  $('viewer-decision').textContent=historical?'':r.status==='custom_idea'?'درخواست پنج طراحی متفاوت از ایدهٔ شما ثبت شده است.':r.status==='revise_all'?'ویرایش کلی برای همهٔ ایده‌ها ثبت شده است؛ این تصویر هم بر اساس نظر کلی شما اصلاح می‌شود.':r.chosenIdeaId===i.id?(r.status==='approved'?'این تصویر انتخاب نهایی شماست.':r.status==='revise'?'':''):r.status==='rejected'?'برای این جمله ایده‌های تازه می‌سازیم.':'';
   $('clear-decision').hidden=r.status==='pending';
   drawFinalizationActivity();
 }
 function openIdea(n){
-  state.ideaIndex=n;drawViewer();if(!$('viewer').open)$('viewer').showModal();
+  resetImageHistory();state.ideaIndex=n;drawViewer();if(!$('viewer').open)$('viewer').showModal();
   $('viewer').scrollTop=0;document.querySelector('.viewer-layout').scrollTop=0;document.querySelector('.review-pane').scrollTop=0;
   $('close-viewer').focus({preventScroll:true});
 }
 function requestRevision(n=state.ideaIndex){
   if(!$('viewer').open||n!==state.ideaIndex)openIdea(n);
+  if(viewingPreviousVersion())return;
   $('idea-note').focus();
   $('idea-feedback').scrollIntoView({block:'nearest'});
 }
 function drawEditState(){
+  if(viewingPreviousVersion()){
+    $('submit-revision').textContent='ویرایش نسخهٔ فعلی';$('edit-draft-status').textContent='یادداشت نسخهٔ پیشین فقط برای مشاهده است. برای ثبت نظر به نسخهٔ فعلی برگردید.';drawRevisionActivity();return;
+  }
   const r=record(),i=idea(),active=r.status==='revise'&&r.chosenIdeaId===i.id;
   const matches=active&&r.revisionRequest?.baseIdeaId===i.id&&r.revisionRequest.comment===($('idea-note').value||'').trim();
   $('submit-revision').textContent=matches&&revisionStatus(r)==='failed'?'ثبت دوبارهٔ درخواست':matches?'✓ درخواست ویرایش ثبت شد':active?'ثبت تغییرات جدید':'ثبت درخواست ویرایش';
@@ -238,6 +296,7 @@ function drawEditState(){
 }
 function createRevisionRequest(i,comment){return {requestId:crypto.randomUUID(),baseIdeaId:i.id,baseVersion:candidateVersion(i),comment:comment.trim(),submittedAt:new Date().toISOString()};}
 function submitImageRevision(){
+  if(viewingPreviousVersion())return;
   const r=record(),i=idea(),comment=$('idea-note').value.trim();
   if(!comment){$('edit-error').textContent='ابتدا تغییر مدنظر خود را بنویسید.';$('edit-error').hidden=false;$('idea-note').setAttribute('aria-invalid','true');$('idea-note').focus();return;}
   if(r.status==='revise'&&r.chosenIdeaId===i.id&&r.revisionRequest?.baseIdeaId===i.id&&r.revisionRequest.comment===comment&&revisionStatus(r)!=='failed'){toast(revisionStatus(r)==='in_progress'?'این درخواست در حال انجام است؛ نتیجه پس از آماده‌شدن نمایش داده می‌شود.':'این درخواست قبلاً ثبت شده است؛ برای شروع ویرایش در چت خبر بدهید.');return;}
@@ -322,6 +381,12 @@ async function init(){
 $('retry-connection').addEventListener('click',()=>location.reload());
 $('retry-finalization').addEventListener('click',retryFinalization);
 $('close-viewer').addEventListener('click',()=>$('viewer').close());
+$('viewer').addEventListener('close',resetImageHistory);
+$('history-select').addEventListener('change',e=>previewImageVersion(e.target.value));
+$('history-previous').addEventListener('click',()=>stepImageVersion(-1));
+$('history-next').addEventListener('click',()=>stepImageVersion(1));
+$('history-current').addEventListener('click',()=>previewImageVersion(idea().id));
+$('history-retry').addEventListener('click',()=>void loadImageHistory());
 $('prev-idea').addEventListener('click',()=>stepIdea(-1));$('next-idea').addEventListener('click',()=>stepIdea(1));
 $('zoom').addEventListener('click',()=>{const zoomed=$('image-scroll').classList.toggle('zoomed');$('zoom').textContent=zoomed?'نمای کامل تصویر':'اندازهٔ واقعی';});
 $('idea-note').addEventListener('input',()=>{record().ideaNotes[idea().id]=$('idea-note').value;$('edit-error').hidden=true;$('idea-note').removeAttribute('aria-invalid');persist();drawEditState();});
@@ -345,7 +410,8 @@ document.addEventListener('keydown',e=>{
   if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();stepIdea(e.key==='ArrowRight'?1:-1);}
   else if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();switchSentence(state.sentenceIndex+(e.key==='ArrowDown'?1:-1));}
   else if(digit>=1&&digit<=Math.min(5,sentence().ideas.length)){e.preventDefault();openIdea(digit-1);}
-  else if(e.key.toLowerCase()==='f'){e.preventDefault();$('idea-note').focus();}
+  else if(e.key==='['||e.key===']'||e.code==='BracketLeft'||e.code==='BracketRight'){e.preventDefault();stepImageVersion(e.key===']'||e.code==='BracketRight'?1:-1);}
+  else if(e.key.toLowerCase()==='f'&&!viewingPreviousVersion()){e.preventDefault();$('idea-note').focus();}
 });
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&state.local)flushLocal();});
 window.addEventListener('storage',e=>{if(e.key!==STORAGE_KEY||!e.newValue||!state.wave)return;try{const saved=JSON.parse(e.newValue);mergeRecords(saved.records);drawSentence();if($('viewer').open)drawViewer();}catch{}});

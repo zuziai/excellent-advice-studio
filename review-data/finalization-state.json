@@ -880,8 +880,345 @@
       },
       "downloadUrl": "/download/152-g-v5.png",
       "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 154,
+      "ideaId": "154-d-20261019-v2",
+      "prompt": "Use case: illustration-story. Create a square hand-painted watercolor two-panel comic for an adult Persian visual life-advice book. Read the panels RIGHT TO LEFT, with the question at right and the quietly witty realization at left. Meaning: discovering your own purpose is itself your mission; the treasure to discover is yourself, rather than money or a chest of rewards.\n\nSETTING AND LAYOUT: Two related side-by-side courtyard scenes, thin clean white gutter, no heavy panel borders. Warm pale plaster walls and a few leafy green plants, a quiet blue door, gentle sunshine, pale blue sky. Keep the people, short dialogue and map the focus. The watercolor scene ends in irregular natural brush edges before a generous clean white outer margin. Everything important, including feet and the map, is fully inside the frame.\n\nCHARACTERS: One cool BLUE adult seeker and one fresh GREEN adult friend, identical in size, color, proportions and identity between panels. Blue has a small practical burgundy backpack. Otherwise both have the same simple neutral adult colored body as the established book figures, no ordinary clothing, no sexed anatomy, no hair. Moderate, balanced limbs and torsos, neither chubby/chibi nor extremely thin. Heads are plain true circles, equal width and height, without jaws, chins or flattened lower arcs. Draw a soft shadow in the local body color beneath each head to distinguish the head from the torso. Outlines are darker shades of their own body colors, deep blue for blue and deep green for green, never black outlines around bodies. Simple eyebrows, expressive small mouth, small dark vertical oval eyes with tiny light-reflection glints, absolutely no white sclera or human eyeballs. No need for eyelashes in this scene. Each visible full hand has exactly three fingers plus one thumb, attached naturally to its single arm; exactly two arms and two hands per figure.\n\nRIGHT PANEL, QUESTION: Blue stands on the right, puzzled, looking at green. Blue touches the chin with one hand and holds a small closed brown spiral personal notebook against the chest with the other. The notebook cover is plain, without letters. The friend stands on the left, listening kindly, hands naturally behind the back, not a teacher or official. One white speech bubble with tail to BLUE says exactly in Persian: \"مأموریت اصلی‌م کی شروع می‌شه؟\" No other text in this panel.\n\nLEFT PANEL, REALIZATION: Same two people: green at left and blue at right. Both look down together at a large single unfolded tan parchment TREASURE MAP held by GREEN. Green supports the lower edge with one hand and points to its destination with the other. Blue leans in slightly with a dawn of recognition, warm small smile and hands gently clasped near the chest. The green pointing fingertip is close to the blue-self destination on the actual paper. The sheet is an unfolded map, NOT a spiral notebook, poster or three pictures. Give it modest irregular parchment edges and sparse painted mountain, tree and river marks. A simple dotted red route winds across the paper and ends at ONE small unmistakable BLUE HUMANOID SYMBOL, matching the seeker: a circular blue head, simple neutral blue torso and limbs, tiny simple smiling face. This is a flat painted pictogram on the paper, not a miniature living person. The route's treasure is the seeker himself; NO chest, gold, gems, trophy, money or other prize. A few small warm radiating strokes emphasize that blue-self destination, without adding text. Keep the map naturally angled toward its TWO READERS: the blue pictogram's head is toward the nearer/lower edge of the paper and its feet toward the farther/upper edge, hence upside-down to the external viewer. Do not turn the map's icon upright to the external viewer at the cost of its correct orientation to the characters. The map must remain large and clear, not crammed with decorative marks. One white speech bubble with its tail correctly attached to GREEN says exactly: \"همین پیدا کردن راه خودت!\" No caption, labels or other words on the map.\n\nMEDIUM: Luminous but moderate REAL hand-painted watercolor, translucent overlapping wash layers visible inside bodies as well as scenery. Notice textured paper, subtle pigment pooling, soft natural watercolor blooms and varying wash density. Keep soft local-color volume and a few restrained highlights without making plastic or shiny 3D. No marker, colored-pencil hatching, vector flats, dense digital noise or thick black figure contours. Warm, kind, memorable human humor, family friendly, suitable for adult readers and readily understood without an explanatory caption. Only the two specified short Persian speech texts, legible correct right-to-left lettering. No English, watermark, logo, panel numbers, extra panels, added people or props.\n\n",
+      "promptPath": "review-data/revisions-154-156-2026-10-19/154/154-d-20261019-v2.full-generation.en.txt",
+      "promptSource": "review-data/revisions-154-156-2026-10-19/154/154-d-20261019-v2.metadata.json",
+      "promptSha256": "c598da85b8ab7f93a7e60e11e72175127ad8dfabb57d645eeec85bc46da3da51",
+      "sourcePromptSha256": "c598da85b8ab7f93a7e60e11e72175127ad8dfabb57d645eeec85bc46da3da51",
+      "promptCellSha256": "a99d97c628da52bf08b87c8a5837cdf4b9f576235ee7b418cc7ebe345c8ed774",
+      "imageHash": "be24face4bce92aa4e6a74deda1c00d33050462a0d8d0f65848ce6a5437e284a",
+      "source": "book-review/dist/art/154-d-20261019-v2.png",
+      "savedPath": "Images/154.png",
+      "approvedAt": "2026-10-19T14:28:32.553Z",
+      "feedback": {
+        "sentenceId": 154,
+        "waveId": "wave-154-156-2026-10-19-v2",
+        "candidateIds": [
+          "154-a-20261019-v1",
+          "154-b-20261019-v1",
+          "154-c-20261019-v1",
+          "154-d-20261019-v2"
+        ],
+        "status": "approved",
+        "chosenIdeaId": "154-d-20261019-v2",
+        "ideaNotes": {
+          "154-d-20261019-v1": "این ایده رو دوست دارم اما بهتر اینه که دست آدمک خاکسترییک نقشه گنج باشه که به جای گنج خود آدمک آبی باشه. رنگ آدمک خاکستری رو هم سبز کن"
+        },
+        "note": "",
+        "customIdea": "",
+        "requestedVariants": null,
+        "updatedAt": "2026-10-19T14:28:32.553Z",
+        "history": [
+          {
+            "sentenceId": 154,
+            "waveId": "wave-152-154-v2",
+            "candidateIds": [
+              "154-a-v1",
+              "154-b-v1",
+              "154-c-v1",
+              "154-d-v1"
+            ],
+            "status": "pending",
+            "chosenIdeaId": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-07T18:54:49.648Z"
+          },
+          {
+            "sentenceId": 154,
+            "waveId": "wave-154-156-2026-10-19-v1",
+            "candidateIds": [
+              "154-a-20261019-v1",
+              "154-b-20261019-v1",
+              "154-c-20261019-v1",
+              "154-d-20261019-v1"
+            ],
+            "status": "revise",
+            "chosenIdeaId": "154-d-20261019-v1",
+            "ideaNotes": {
+              "154-d-20261019-v1": "این ایده رو دوست دارم اما بهتر اینه که دست آدمک خاکسترییک نقشه گنج باشه که به جای گنج خود آدمک آبی باشه. رنگ آدمک خاکستری رو هم سبز کن"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-19T14:06:19.035Z",
+            "revisionRequest": {
+              "requestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
+              "baseIdeaId": "154-d-20261019-v1",
+              "baseVersion": 1,
+              "comment": "این ایده رو دوست دارم اما بهتر اینه که دست آدمک خاکسترییک نقشه گنج باشه که به جای گنج خود آدمک آبی باشه. رنگ آدمک خاکستری رو هم سبز کن",
+              "submittedAt": "2026-10-19T13:59:09.651Z"
+            },
+            "revisionProgress": {
+              "requestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
+              "status": "in_progress",
+              "message": "ویرایش نقشهٔ گنج و تغییر رنگ دوست به سبز شروع شد.",
+              "updatedAt": "2026-10-19T14:06:19.035Z",
+              "startedAt": "2026-10-19T14:06:19.035Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "decisionIntent": {
+              "id": "ba962923-31a4-4b05-8bd7-1daf2c5dfb5c",
+              "status": "revise",
+              "chosenIdeaId": "154-d-20261019-v1",
+              "submittedAt": "2026-10-19T13:59:09.652Z"
+            }
+          }
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "latestRevisionResult": {
+          "ideaId": "154-d-20261019-v2",
+          "parentIdeaId": "154-d-20261019-v1",
+          "revisionRequestId": "75271db8-b4bd-4cb4-936c-1818889c96bc",
+          "version": 2,
+          "publishedAt": "2026-10-19T14:23:20.301703+00:00"
+        },
+        "decisionIntent": {
+          "id": "48bd4a55-a40d-480d-9f23-a0713e836025",
+          "status": "approved",
+          "chosenIdeaId": "154-d-20261019-v2",
+          "submittedAt": "2026-10-19T14:28:32.553Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-19T14:29:14.237395+00:00",
+      "copiedAt": "2026-10-19T14:29:14.237395+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 154,
+        "ideaId": "154-d-20261019-v2",
+        "row": 155,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "a99d97c628da52bf08b87c8a5837cdf4b9f576235ee7b418cc7ebe345c8ed774",
+        "sourcePromptSha256": "c598da85b8ab7f93a7e60e11e72175127ad8dfabb57d645eeec85bc46da3da51",
+        "characters": 4790
+      },
+      "downloadUrl": "/download/154-d-20261019-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 155,
+      "ideaId": "155-b-20261019-v2",
+      "prompt": "Use case: illustration-story.\nAsset type: a finished, square, print-quality narrative illustration for a Persian visual book of Kevin Kelly's advice.\nSource sentence: \"With sharp things, always cut away from yourself.\"\nInterpret the sentence as a concrete everyday direction-of-cut safety habit. Do not turn it into a philosophical metaphor. The blade's travel AWAY from the cutter's body must be the instantly readable main idea, readable by a twelve-year-old without any external explanation.\n\nESTABLISHED BOOK CHARACTER AND PAINTING STYLE:\nTrue hand-painted transparent watercolor on visible fine cold-press paper. Build the characters themselves out of overlapping translucent pigment washes: softly varied patches of light and medium color, gentle wet-on-dry edges, occasional restrained pigment gathering along an edge, darker watercolor shading under the perfectly circular head where head meets shoulders. Layered watercolor should also appear in the objects, floor, and quiet background. Soft natural white outer margins, an irregular yet controlled painted scene boundary fading into white paper; never flood paint to the image file edge. This is an attractive published-book painting, not a flat vector diagram, not marker, wax crayon, colored pencil, plastic, glossy 3D, airbrushed gradients or computer cel shading.\nSimple adult humanoids in the approved book's family: a perfectly circular head (same width and height in its visible frontal plane, never egg-shaped), balanced moderate adult body with comfortably long legs and arms, a simple straight neutral torso and moderate rather than inflated arm thickness; no puffy upper arms, ballooned forearms, chunky mitten hands or protruding barrel abdomen. Do not make the figure skeletal, excessively thin or noodle-like. No neck. Smooth gender-neutral torso with no breasts, cleavage, narrow waist, wide hips or buttock emphasis; all genders share the same body silhouette. No hair. Where a female character is specified, indicate it only with two short delicate eyelashes attached to the SAME small oval eye design; do not change the eyes into makeup eyes. Eyes are tiny friendly dark ovals with optionally one tiny white highlight dot, NO white eyeball/sclera and NO prominent oversized pupils. Simple expressive curved eyebrows and mouth. No hard circular pink cheek stamps. Outlines are thin painted darker local body color, never a black character contour. Each visible hand has exactly THREE fingers plus ONE thumb, four digits total, with simple elegant shapes, not a mitten, not five digits. No clothing except a specified functional apron; no anatomical nudity details, completely family friendly.\n\nSTORYTELLING:\nOne uncluttered situation, one visible cutting action, modest adult-friendly humor through a small situational detail. Both the hand controlling the tool and the other hand stay BEHIND or safely to the SIDE of the blade's advancing direction. Nobody, no pet and no limb stands in front of the blade. No injuries, blood, threat, weapons or self-harm. A single short painted curved arrow beside the tool, parallel to the actual cut line, may clarify the direction from the cutter's side outward. Its arrowhead must point away from the torso, never toward the body or toward the other hand. Do not use conflicting arrows.\nOnly necessary Persian in-image text. No English text, no Latin letters, no numbers, no watermark, no title of the source sentence. Put the short Persian label \"دور از خودت\" near the outward arrow, legibly in authentic connected Persian lettering. Integrate that one label gently into the painting, not an infographic banner. Allow generous breathing room around it.\nShow all hands, feet, objects and tool fully inside the scene, with comfortable margins; no cropped limbs. Keep faces kind and attentive, not frightening.\n\nSCENE B — CARVING A WOODEN SPOON:\nA small friendly adult woodcraft workshop with one sturdy pale wooden workbench, a single clamp and almost no background decoration. The character is lavender-purple, with gender-neutral adult proportions and only a simple ochre apron. It stands on the LEFT of the bench, body clearly to the LEFT of the active cutting area. A narrow wooden spoon blank lies horizontally on the workbench, fixed firmly in a small wooden clamp at the LEFT end, with its working end extending toward the RIGHT away from the character. Use a high three-quarter side view to expose the geometry: body on the left, two hands gripping a wooden-handled broad carving gouge from BEHIND its cutting edge, edge advancing toward the right along the wood. Both hands remain together behind the edge, never ahead of it. The gouge is pushed RIGHT, away from torso, into the wood surface, making one thin curling pale wood shaving that rolls outward like a harmless ribbon. A small painted arrow parallel to the shaving and cutting direction points RIGHT, away from the character; the Persian \"دور از خودت\" sits next to it. An already finished simple wooden spoon rests at the very back corner of the bench, away from the cutting zone; it explains the purpose of the work without clutter. The character has a small pleased focused smile, a perfectly circular head and friendly small dark oval eyes, no white eyeballs. Show full body and feet, complete bench legs, and the clamp holding wood securely. Make the gouge unmistakably a woodworking tool cutting wood, no weapon. No mallet, no extra blades. The charming long curl of wood is the only visual joke.\n\nFINAL CHARACTER CONSTRUCTION AND PAINTING:\nThe lavender-purple craftsman has balanced adult proportions, a direct join between the perfectly circular head and upper shoulders, and a subdued local-purple contact shadow below the head. The shoulders, upper arms, forearms and hands are moderate in thickness; the straight neutral torso is naturally aligned with both complete legs underneath the functional cream-ochre apron. Its small dark oval eyes retain tiny interior light reflections but have no surrounding white sclera. Face looks down attentively toward the cutting action with a small kind closed smile.\nPaint the purple head and entire body with luminous, diluted lavender watercolor washes and overlapping medium-lilac patches, with soft irregular boundaries and restrained darker purple pigment around the lower edges. Broader lighter washes vary with richer lavender areas, while subtle paper grain remains visible. The thin painted outline is darker violet from the body's own color family. Preserve fine edges around hands and the gouge so the hand grip and cutting direction remain clear. Avoid flat marker filling, dense uniform artificial grain, crumpled-paper pattern, black outlines, glossy plastic or polished 3D lighting.\nThe square composition includes the craftsman's whole body and both feet at left, a large workbench filling the right and foreground, a wall window behind the figure, restrained warm workshop shelves and upright planks. The workpiece remains clamped securely; the carving gouge travels rightward away from torso, both hands behind its edge, and the pale curl and nearby arrow show that same outward travel. The exact connected Persian label is \"دور از خودت\". No English lettering or additional text appears. Keep warm restrained watercolor throughout the room, white paper margins and all important objects inside the painting.\n",
+      "promptPath": "review-data/revisions-154-156-2026-10-19/155/155-b-20261019-v2.full-generation.en.txt",
+      "promptSource": "review-data/revisions-154-156-2026-10-19/155/155-b-20261019-v2.metadata.json",
+      "promptSha256": "0cd931d72f0ada5f406dedef15c394a152acb8235a331aea6d6c63c99ed649b7",
+      "sourcePromptSha256": "0cd931d72f0ada5f406dedef15c394a152acb8235a331aea6d6c63c99ed649b7",
+      "promptCellSha256": "c1ce99c8cc422716b6cc121961edc535babf5b4bb48f1161c2c575034476c91e",
+      "imageHash": "84678bfb8f60b36918cd4675000c0a6d69e5c76cf42cd971dacfec2fcbf4a736",
+      "source": "book-review/dist/art/155-b-20261019-v2.png",
+      "savedPath": "Images/155.png",
+      "approvedAt": "2026-10-19T14:31:39.432Z",
+      "feedback": {
+        "sentenceId": 155,
+        "ideaNotes": {
+          "155-b-20261019-v1": "فرم بدن و رنگ آمیزی آدمک بنفش با الگوهای من فرق داره.... متفاوته. چاقه.... اما بقیه تصویر خوبه"
+        },
+        "note": "",
+        "history": [
+          {
+            "sentenceId": 155,
+            "ideaNotes": {
+              "155-b-20261019-v1": "فرم بدن و رنگ آمیزی آدمک بنفش با الگوهای من فرق داره.... متفاوته. چاقه.... اما بقیه تصویر خوبه"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "155-b-20261019-v1",
+            "waveId": "wave-154-156-2026-10-19-v1",
+            "candidateIds": [
+              "155-a-20261019-v1",
+              "155-b-20261019-v1",
+              "155-c-20261019-v1",
+              "155-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "34b7c108-9077-433a-9602-1abce1f16d72",
+              "baseIdeaId": "155-b-20261019-v1",
+              "baseVersion": 1,
+              "comment": "فرم بدن و رنگ آمیزی آدمک بنفش با الگوهای من فرق داره.... متفاوته. چاقه.... اما بقیه تصویر خوبه",
+              "submittedAt": "2026-10-19T14:01:06.950Z"
+            },
+            "revisionProgress": {
+              "requestId": "34b7c108-9077-433a-9602-1abce1f16d72",
+              "status": "in_progress",
+              "message": "اصلاح تناسب و آبرنگ بدن آدمک بنفش با حفظ صحنه شروع شد.",
+              "updatedAt": "2026-10-19T14:06:19.085Z",
+              "startedAt": "2026-10-19T14:06:19.085Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-19T14:06:19.085Z",
+            "decisionIntent": {
+              "id": "5a8643e8-c14b-4f33-baed-46d0bb1e1e6d",
+              "status": "revise",
+              "chosenIdeaId": "155-b-20261019-v1",
+              "submittedAt": "2026-10-19T14:01:06.951Z"
+            }
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "155-b-20261019-v2",
+        "waveId": "wave-154-156-2026-10-19-v2",
+        "candidateIds": [
+          "155-a-20261019-v1",
+          "155-b-20261019-v2",
+          "155-c-20261019-v1",
+          "155-d-20261019-v1"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-10-19T14:31:39.432Z",
+        "latestRevisionResult": {
+          "ideaId": "155-b-20261019-v2",
+          "parentIdeaId": "155-b-20261019-v1",
+          "revisionRequestId": "34b7c108-9077-433a-9602-1abce1f16d72",
+          "version": 2,
+          "publishedAt": "2026-10-19T14:23:20.301703+00:00"
+        },
+        "decisionIntent": {
+          "id": "f5a515f2-9b99-4fa2-a8f6-3acf08c82cc3",
+          "status": "approved",
+          "chosenIdeaId": "155-b-20261019-v2",
+          "submittedAt": "2026-10-19T14:31:39.432Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-19T14:31:58.857508+00:00",
+      "copiedAt": "2026-10-19T14:31:58.857508+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 155,
+        "ideaId": "155-b-20261019-v2",
+        "row": 156,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "c1ce99c8cc422716b6cc121961edc535babf5b4bb48f1161c2c575034476c91e",
+        "sourcePromptSha256": "0cd931d72f0ada5f406dedef15c394a152acb8235a331aea6d6c63c99ed649b7",
+        "characters": 7354
+      },
+      "downloadUrl": "/download/155-b-20261019-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 156,
+      "ideaId": "156-d-20261019-v2",
+      "prompt": "Use case: illustration-story.\nAsset: one complete finished square watercolor illustration for an illustrated Persian translation of Kevin Kelly's adult advice book. Depict the meaning of \"Calm is contagious. Be calm to help others.\" This English sentence must not appear inside the artwork.\nIllustration specification: create the complete original scene below with the consistent established character family, face treatment, layered watercolor paint and clear visual storytelling.\nVisual style: genuine hand-painted, moderately layered transparent watercolor on white textured paper. Show uneven translucent washes, gentle pigment pooling and overlapping color shapes inside the heads AND bodies, not only around the outer border. Natural irregular watercolor margins leave clean white paper all around. Warm, humane, artistically composed, readable at a glance. Neither flat vector nor wax crayon, marker, colored pencil, shiny plastic or 3D render. Contours are thin darkened local body colors, never black outlines. Subtle deeper local-color crescent immediately under each head separates head and torso; no visible neck.\nCharacter design: simple adult neutral figures, genuinely circular heads of equal width and height, soft slender-to-medium adult limbs and balanced proportions like the reference, never chubby arms, bulbous bodies, very thin stick bodies or chibi proportions. Every figure shares the SAME neutral torso silhouette: no breasts, hips, waist indentation, buttock emphasis, hairstyle or selective clothes. PINK is the female character: in BOTH panels add only two or three tiny fine curved lashes at the outer upper edge of each existing usual eye, without changing the eye shape or body. Blue, Red and Violet retain the standard unlashed eyes. Eyes are small dark vertical ovals, EACH OPEN eye with one tiny white reflected-light dot inside the dark oval. There is no white sclera or altered eye structure. Give the characters very subtle translucent warm rosy cheek washes with soft diffused watercolor edges, no flat pink circles. Minimal brows and warm expressive mouths. Every hand has exactly THREE fingers plus ONE thumb, FOUR digits total. Make the visible rounded finger lobes and thumb clearly readable in the existing gestures. Open welcoming palms show three fingers and one distinct thumb; hanging hands show three short finger lobes and one side thumb. Overlapped and folded hands preserve natural occlusion: do not invent extra arms, hands, digits or expose hidden fingers. Preserve the pink wristwatch interaction. Full bodies and significant objects remain safely inside the art. No special clothing is necessary. Stable character color and identity throughout all panels: emotions change through face and posture, never by changing a character's body color.\nReading: if multiple panels are described, read right to left, with discreet white gutters and no heavy boxes. Preserve the same location and props between the story beats. Maintain simple spatial continuity and clearly related cause and effect. The calm BLUE figure models calm, rather than merely smiling indifferently; the others visibly become calmer and repeat its approach. The underlying inconvenience need not vanish. Render only the explicitly listed short Persian dialogue, accurately and legibly in the bubble assigned to its speaker. No English, explanatory paragraph, panel labels, numbers, logos or watermark.\n\nStory and composition:\nComposition: square art, TWO horizontal panels of the same simple roofed bus shelter in gentle rain, the same frontal three-quarter view, a small wet curb and empty road. No traffic danger, accident or storm. A small ordinary bus-stop sign can use a bus pictogram only. Background spare and uncluttered. Blue, Red, Pink and Violet neutral adult figures, fully shown inside each relevant panel.\nTOP: BLUE waits peacefully beneath the roof with shoulders low and a quietly attentive expression, makes room with one gentle open hand for PINK. RED beside them is impatient, arms tense and brows knitted; PINK looks anxious at a wristwatch. BLUE addresses the others in one short Persian bubble: «آروم، بالاخره می‌رسه.» No bus appears and the road is visibly empty. BLUE does not ignore the others or meditate with closed eyes.\nBOTTOM: the same empty road, same falling rain, same shelter: nothing external has fixed the delay. BLUE stays calmly present. PINK's watch arm now hangs relaxed, and PINK no longer checks the time. RED has relaxed its shoulders and now echoes BLUE's gentle open-palm gesture while making room under the roof for VIOLET, who has just arrived damp and worried but is relaxing as RED welcomes it. RED's short bubble reads exactly: «بیا اینجا، جا هست.» The transition should make it visible that BLUE's calm presence has become RED's calm welcoming behavior and is reaching VIOLET. The gentle humor is the shelter occupants making an extra careful little sideways shuffle to fit everyone, not a pratfall. No umbrellas, cars or extra decorative props.\nFraming: pull back in each panel enough to show every full character, all feet, all furniture and a strip of floor beneath. Natural table/counter occlusion is allowed but no body part is cut by the panel border. Reduce all subjects to fit the wide scene inside each of the two panels.",
+      "promptPath": "review-data/revisions-154-156-2026-10-19/156/156-d-20261019-v2.full-generation.en.txt",
+      "promptSource": "review-data/revisions-154-156-2026-10-19/156/156-d-20261019-v2.metadata.json",
+      "promptSha256": "a7e40976184db429acd86455abcb4363b26eeebefd451e4c3861d993513e4a73",
+      "sourcePromptSha256": "a7e40976184db429acd86455abcb4363b26eeebefd451e4c3861d993513e4a73",
+      "promptCellSha256": "b6d85077415e07d0d711620531767df2d9f89211cfd2f1c40536a5d46f9f9d36",
+      "imageHash": "269d1b1b06088f5fa70c81776b83979876cefbb0d316dc6f7c572b9a173b1d41",
+      "source": "book-review/dist/art/156-d-20261019-v2.png",
+      "savedPath": "Images/156.png",
+      "approvedAt": "2026-10-19T14:36:19.944Z",
+      "feedback": {
+        "sentenceId": 156,
+        "ideaNotes": {
+          "156-d-20261019-v1": "بعضی از آدمک ها انگشت هاشون واضح نیست و اون نقطه سفید داخل چشمشون و یا لپ های سرخ و برخی هم که باید مژه داشته باشند رو ندارند. بقیه تصویر و ایده خوبه"
+        },
+        "note": "",
+        "history": [
+          {
+            "sentenceId": 156,
+            "ideaNotes": {
+              "156-d-20261019-v1": "بعضی از آدمک ها انگشت هاشون واضح نیست و اون نقطه سفید داخل چشمشون و یا لپ های سرخ و برخی هم که باید مژه داشته باشند رو ندارند. بقیه تصویر و ایده خوبه"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "156-d-20261019-v1",
+            "waveId": "wave-154-156-2026-10-19-v1",
+            "candidateIds": [
+              "156-a-20261019-v1",
+              "156-b-20261019-v1",
+              "156-c-20261019-v1",
+              "156-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+              "baseIdeaId": "156-d-20261019-v1",
+              "baseVersion": 1,
+              "comment": "بعضی از آدمک ها انگشت هاشون واضح نیست و اون نقطه سفید داخل چشمشون و یا لپ های سرخ و برخی هم که باید مژه داشته باشند رو ندارند. بقیه تصویر و ایده خوبه",
+              "submittedAt": "2026-10-19T14:03:38.167Z"
+            },
+            "revisionProgress": {
+              "requestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+              "status": "in_progress",
+              "message": "اصلاح انگشت‌ها و جزئیات چشم، گونه و مژه‌ها شروع شد.",
+              "updatedAt": "2026-10-19T14:06:19.152Z",
+              "startedAt": "2026-10-19T14:06:19.152Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-19T14:06:19.152Z",
+            "decisionIntent": {
+              "id": "b94706fd-0511-47b9-b6a1-69f8ad4d31a0",
+              "status": "revise",
+              "chosenIdeaId": "156-d-20261019-v1",
+              "submittedAt": "2026-10-19T14:03:38.167Z"
+            }
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "156-d-20261019-v2",
+        "waveId": "wave-154-156-2026-10-19-v2",
+        "candidateIds": [
+          "156-a-20261019-v1",
+          "156-b-20261019-v1",
+          "156-c-20261019-v1",
+          "156-d-20261019-v2"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-10-19T14:36:19.944Z",
+        "latestRevisionResult": {
+          "ideaId": "156-d-20261019-v2",
+          "parentIdeaId": "156-d-20261019-v1",
+          "revisionRequestId": "18e742b2-59c1-43d0-956c-01973dcb1d80",
+          "version": 2,
+          "publishedAt": "2026-10-19T14:23:20.301703+00:00"
+        },
+        "decisionIntent": {
+          "id": "a6834665-52c7-49ae-8558-c39d98bdf486",
+          "status": "approved",
+          "chosenIdeaId": "156-d-20261019-v2",
+          "submittedAt": "2026-10-19T14:36:19.944Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-19T14:36:30.197854+00:00",
+      "copiedAt": "2026-10-19T14:36:30.197854+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 156,
+        "ideaId": "156-d-20261019-v2",
+        "row": 157,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "b6d85077415e07d0d711620531767df2d9f89211cfd2f1c40536a5d46f9f9d36",
+        "sourcePromptSha256": "a7e40976184db429acd86455abcb4363b26eeebefd451e4c3861d993513e4a73",
+        "characters": 5300
+      },
+      "downloadUrl": "/download/156-d-20261019-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
     }
   ],
   "pending": {},
-  "updatedAt": "2026-10-19T13:52:09.843654+00:00"
+  "updatedAt": "2026-10-19T16:04:55.642946+00:00"
 }
