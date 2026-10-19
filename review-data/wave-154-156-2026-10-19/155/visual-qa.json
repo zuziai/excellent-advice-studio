@@ -1,0 +1,30 @@
+{
+  "a": {
+    "visualInspectionPerformed": true,
+    "pass": true,
+    "notesFa": "بدن سمت چپ، کاتر رو به راست و دور از بدن است؛ دست نگهدارنده عقب تیغه است. سر تقریباً کاملاً مدور، رنگ‌آمیزی لایه‌لایه و خطوط سبز تیره، متن فارسی صحیح. برش و فلش هم‌جهت‌اند.",
+    "safetyDirection": "Blade tip and arrow point to the right, away from torso; supporting hand behind the cutting tip.",
+    "limitations": "No strong visual joke; clarity prioritized for a practical sentence."
+  },
+  "b": {
+    "visualInspectionPerformed": true,
+    "pass": true,
+    "notesFa": "هر دو دست پشت لبهٔ برندهٔ مغار قرار دارند، چوب در گیره ثابت است و براده/فلش به راست و دور از بدن می‌روند. سر مدور، اندام خنثی بزرگسال، پیش‌بند مجاز و آبرنگ لایه‌لایه حفظ شده‌اند.",
+    "safetyDirection": "Both hands behind gouge cutting edge; secured wood; cutting action and arrow toward the right, away from torso.",
+    "limitations": "No extra joke beyond the curling wood shaving."
+  },
+  "c": {
+    "visualInspectionPerformed": true,
+    "pass": true,
+    "notesFa": "تیغهٔ گرد از سمت بدن به راست می‌رود، شکاف پارچه پشت چرخ است و دست آزاد عقب و کنار تیغه قرار دارد. اندام صورتی خنثی است و فقط مژهٔ ظریف اضافه شده. متن درست و استایل آبرنگی لایه‌لایه داخل بدن و زمینه رعایت شده.",
+    "safetyDirection": "Wheel leads right away from body; both hands behind or safely offset, slit behind wheel.",
+    "limitations": "No strong joke; long fabric strip supplies gentle visual rhythm."
+  },
+  "d": {
+    "visualInspectionPerformed": true,
+    "pass": true,
+    "notesFa": "پس از اصلاح موضعی، کاغذ جلوی قیچی یکپارچه و نبریده است و نوار جداشده در عقبِ سمت چپ می‌افتد. قیچی و فلش به راست و دور از بدن‌اند؛ دست آزاد بالاتر و کنار مسیر است. متن صحیح، اندام خنثی و سبک مصوب حفظ شده.",
+    "safetyDirection": "Scissor tips point right into uncut paper, away from torso; free hand safely offset above the cut line; offcut behind to left.",
+    "limitations": "The free hand is to the side of the tool, rather than directly behind it; it remains outside the advancing cut path."
+  }
+}

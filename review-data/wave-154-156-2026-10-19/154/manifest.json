@@ -1,0 +1,180 @@
+{
+  "sentenceId": 154,
+  "english": "You will complete your mission in life when you figure out what your mission in life is. Your purpose is to discover your purpose. This is not a paradox. This is the way.",
+  "persian": "مأموریت زندگی‌ت وقتی کامل می‌شه که بفهمی مأموریتت چیه. هدفت اینه که هدفت رو پیدا کنی. این تناقض نیست؛ راه همینه.",
+  "sourceRow": 155,
+  "coreMeaning": "The search to discover one's own purpose is itself meaningful life work. The journey of asking, testing and learning is the mission, rather than wasted time before the mission.",
+  "referencePaths": [
+    "Images/151.png"
+  ],
+  "status": "four_candidates_ready_for_parent_review_and_site_publication",
+  "ideas": [
+    {
+      "id": "154-a-20261019-v1",
+      "sentenceId": 154,
+      "titleFa": "پاکت مأموریت",
+      "summaryFa": "آدمک پاکتِ مأموریتی را که برای خودش ساخته باز می‌کند؛ مأموریتش همین پیدا کردن هدفش است.",
+      "storyFa": "در قاب راست، آدمک بنفش از پاکت شخصی‌اش برگهٔ «مأموریت من: کشف هدفم» را بیرون می‌آورد. در قاب چپ با کاشتن و گفت‌وگو و یادگرفتن، این جست‌وجو را در زندگی واقعی شروع می‌کند.",
+      "meaningFa": "برای شروع زندگیِ معنادار لازم نیست اول جواب نهایی هدف را داشته باشیم؛ خودِ تلاش برای شناختن راه خودمان بخشی از مأموریت زندگی است.",
+      "outputPath": "book-review/dist/art/154-a-20261019-v1.png",
+      "sha256": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+      "imageSha256": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+      "bytes": 2856830,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. Create one complete square Persian visual-book illustration, a warm, quietly witty two-panel watercolor comic read RIGHT TO LEFT. This is a NEW STORY, not a copy of the reference composition. Input image 1 (C:/Kevin/Kevin 1/Images/151.png) is strictly the art-direction reference: preserve its character anatomy, eyes, layered watercolor on bodies, tinted contours, paper texture, and attractive readable storytelling. Do not copy the carpentry setting, furniture story, or apron.\n\nCore idea to communicate instantly: discovering your own purpose is itself your meaningful mission in life; exploring is not wasted time before a supposedly real life starts. Do not imply wealth, status or a particular profession is the purpose.\n\nRIGHT PANEL: A moderately built violet adult round-headed figure has made a personal mission envelope for themself, at a small simple home desk with a pencil and their own open notebook. No authority, employer, boss, official uniform or courier. The envelope says in Persian exactly \"برای خودم\". The figure opens it with gentle amused surprise. A large cream card held naturally facing the viewer says, clearly and only, on two lines: \"مأموریت من:\" / \"کشفِ هدفم\". This tautological personal mission is the gentle joke, not a magic clue leading to hidden treasure. Keep the card large enough to read.\n\nLEFT PANEL: The SAME violet figure has begun actively exploring their interests in a welcoming shared garden. They are trying planting a small seedling beside a leaf-green adult, while asking a question and recording a discovery in the SAME notebook resting on a low simple table. A rose-pink adult nearby shares a simple illustrated book, showing conversation and learning as a possible next experiment. These are informal meaningful life experiences, not a job-selection test and not paid work. The violet figure looks curious, alert and content, not triumphant. Their one short thought bubble reads exactly \"پیدا کردنش هم کارِ منه!\" The personal envelope is tucked in their notebook, visibly linking the two panels. The visual emphasis is the shift from looking for a fixed instruction to learning by living. No concluding trophy, finished road, money, company or predestined answer.\n\nSTYLE AND ANATOMY MUST MATCH THE REFERENCE: real hand-painted transparent watercolor in several visible overlapping washes on both character bodies and environment, with gentle pigment pooling, subtle uneven brush edges and paper grain; balanced medium watercolor strength, luminous but not pale/flat. Smooth simplified adult bodies, neither skinny nor chubby, moderately slender arms, no inflated forearms. Every head a true circle, equal width and height, never oval. A soft dark shade under each circular head distinguishes head from torso. Body outlines are the deeper local BODY COLOR (violet, green, pink), never black. Simple small dark vertical oval eyes with a tiny restrained white reflected glint if useful, absolutely NO white sclera, no large realistic eyeballs, no creepy empty black eyes. Simple expressive eyebrows and mouth. All bodies use the same neutral form with no breasts, no prominent hips, no hourglass waist and no gendered silhouette; any female cue is only two tiny natural lashes attached to the same normal eye style. No hair, no selective clothing, no skirt, no jacket; anatomically simplified continuous colored body as in the reference. Each visible hand has exactly three fingers plus one thumb (four digits total), natural and unobtrusive, with no extra fingers. Adult, family-friendly tone.\n\nCOMPOSITION: exactly two clearly related panels side by side within a square page; a clean narrow white gutter, no heavy panel frames. Natural softly irregular watercolor vignette edges and clean white margin around the whole image; pigment does not meet file edges. Keep all characters, hands, feet, card and important props inside the composition. Sparse warm garden details, no decorative clutter. Persian lettering only, accurate right-to-left, exactly the short texts specified; no English, captions, number badges, watermark or added explanatory sentence.\n",
+      "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-a-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishSha256": "290c0ec74b447ab2ac00f94721dfb7e4f4111f275c18a73b351c64506657f539",
+      "fullGenerationPromptSha256": "290c0ec74b447ab2ac00f94721dfb7e4f4111f275c18a73b351c64506657f539",
+      "referencePaths": [
+        "Images/151.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-a-20261019-v1.generation-record.json",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "result": "review_ready_for_user_selection",
+        "conceptReviewedBeforeGeneration": true,
+        "persianTextReviewed": true,
+        "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+        "referenceInspected": true,
+        "notesFa": [
+          "متن‌های داخل تصویر صحیح و خوانا هستند.",
+          "روایت دو مرحله‌ای واضح و بدون شغل، ثروت یا هدف از پیش تعیین‌شده است.",
+          "بدن‌ها خنثی، خطوط هم‌رنگ تیره‌تر بدن و رنگ‌آمیزی چندلایه‌اند.",
+          "باغ از حداقل لازم کمی پُرجزئیات‌تر است؛ سر نزدیکِ قاب راست کمی پرسپکتیو دارد."
+        ],
+        "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+      },
+      "generatedAtUtc": "2026-10-19T08:58:12.742229+00:00",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "154-b-20261019-v1",
+      "sentenceId": 154,
+      "titleFa": "نقشه‌ای که با رفتن ساخته می‌شود",
+      "summaryFa": "نقشهٔ راهِ آدمک از قبل آماده نیست؛ با تجربه‌های زندگی، خودش مسیرش را روی کاغذ پیدا می‌کند.",
+      "storyFa": "ابتدا آدمک صورتی به نقشهٔ تقریباً سفیدش نگاه می‌کند و می‌پرسد راه من کجاست. سپس تجربه‌های یادگرفتن و کاشتن را پشت سر گذاشته و مسیر خودش را روی همان نقشه می‌کشد. صحنه‌های کوچکِ چپ خاطرات قبلی همین آدمک‌اند.",
+      "meaningFa": "راه و معنای شخصی با پرسیدن و تجربه‌کردن پیدا می‌شود؛ کشف همین مسیر خودش مأموریت است، نه اتلاف وقت پیش از رسیدن به مقصد.",
+      "outputPath": "book-review/dist/art/154-b-20261019-v1.png",
+      "sha256": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+      "imageSha256": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+      "bytes": 2590741,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. Generate one NEW square two-panel watercolor narrative for a Persian illustrated book of thoughtful life advice. Read RIGHT TO LEFT. Input reference 1, C:/Kevin/Kevin 1/Images/151.png, supplies ONLY character design and hand-painted watercolor technique. Change the story, setting and composition completely; no carpenter, repair, apron or wooden-chair plot.\n\nMEANING: finding one's own meaningful path through questioning and lived experiments is itself one's mission, rather than wasted time before life begins. Make a simple visual metaphor that a twelve-year-old can follow. No treasure, money, career ladder, winning trophy or map showing an already known final destiny.\n\nRIGHT PANEL: A rose-pink adult figure, with the EXACT neutral body and ordinary oval dark eyes of the reference plus only two small delicate lashes, stands at the first section of an ordinary footpath in an airy meadow. The figure holds a folded paper map LOWER AT WAIST HEIGHT, tilted FLATTER AND FACE-UP TOWARD THE CHARACTER in both hands. It is a map they can actually read, not a poster displayed to the camera. The title \"راهِ من\" and the little starting-person/terrain symbols must FACE THE CHARACTER: rotate the printed content 180 degrees relative to the external viewer, so the heading and little person appear UPSIDE-DOWN to us. There is NO RED ROUTE on this first map: only the heading, a starting-position person/dot and a few little green terrain marks on mostly blank paper. The character cannot see their purpose in advance. A small puzzled, warm thought bubble says exactly \"راهِ من کجاست؟\" Show both feet firmly inside the panel, no crossroads loaded with signs.\n\nLEFT PANEL: The SAME pink figure, color, circular head and body proportions unchanged, is now moving along the continuing path with a curious smile and drawing a new section on the SAME paper map. As in the right panel, the map is held LOWER AT WAIST HEIGHT and FLATTER, tilted FACE-UP TOWARD THE CHARACTER. Its heading \"راهِ من\" and little printed person/terrain symbols face the character and are therefore UPSIDE-DOWN TO THE EXTERNAL VIEWER. It visibly contains a short RED CURVING DASHED ROUTE, corresponding to the character's OWN curved trail of footprints on the ground. The pencil tip rests precisely on that red route; the other hand supports the map. Behind, along this ONE simple path, are two smaller earlier-moment vignettes of grounded life experiences that have helped them learn about themself: the same pink character planting a small seedling with a coral-red adult, and the same pink character learning from a pale-teal adult holding open a simple picture book. These small earlier moments are linked by the single winding path; the large foreground pink figure is the present moment, so the little pink figures are not different people. The map continues into blank paper beyond the new line. The figure's expression is the realization that discovering the way is meaningful work, not anxiety about being unfinished. One clear short bubble reads exactly \"کشفِ راهم، مأموریتِ منه.\" The visual joke is a map that is created by walking and learning instead of a ready-made map to a treasure. No magic glow, cosmic symbols, secret key or final destination. In both panels the main figure has exactly two arms and two hands; in the right panel both hands hold the map, with no extra hand at the chin.\n\nART: match the reference's authentic transparent watercolor in visible overlapping layers inside the figures as well as the surroundings. Paper grain, varied pigment density, soft darker pooled edges, luminous hand-painted washes. Medium-strength watercolor, neither flat/vector nor marker nor colored pencil, no plastic 3D shading. Clean expressive local-color linework: pink character outlined in deeper rose, teal in deeper teal, coral in deeper red; no black body outlines. Heads must be PERFECT CIRCLES with equal height and width, not oval. Each head separates from torso with a soft darker local-color shade under its bottom edge. Simplified balanced ADULT proportions; neither chibi/chubby nor too thin. Moderately slender arms. All figures have the same gender-neutral anatomical silhouette; absolutely no bust, breasts, emphasized buttocks, pinched waist, broad hips, high heels or gendered clothing. Any feminine cue ONLY tiny lashes on the same simple eyes. Dark small vertical oval eyes, a restrained tiny white reflection dot is allowed but absolutely NO white sclera, no human eyeballs, no frightening stare. Simple eyebrows and small expressive mouths. No hair. No selective outfits or accessories suggesting others are naked. Exactly three fingers plus one thumb on every visible hand, four digits total.\n\nLAYOUT: square overall page, two spacious side-by-side panels, right is beginning and left is continuation, thin clean white gutter, no heavy frames. Soft irregular watercolor edge vignettes, some sky and foreground fading into clean white margins; pigment must not reach the file edge. A simpler airy setting than the reference workshop, only props needed for the story. Everything important including heads, hands, feet, map and path stays inside the frame. Text only the three specified short Persian phrases, accurate readable Persian right-to-left. No English, numbering, added captions, watermark or logo.\n",
+      "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-b-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishSha256": "72ca94aeed2c4d631a42d14919d8f14fcac6ac01e499a782ed0581d64d84c10f",
+      "fullGenerationPromptSha256": "72ca94aeed2c4d631a42d14919d8f14fcac6ac01e499a782ed0581d64d84c10f",
+      "referencePaths": [
+        "Images/151.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-b-20261019-v1.generation-record.json",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "result": "review_ready_for_user_selection",
+        "conceptReviewedBeforeGeneration": true,
+        "persianTextReviewed": true,
+        "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+        "referenceInspected": true,
+        "notesFa": [
+          "در تولید اولیه دست سوم زیر چانه وجود داشت؛ با یک ویرایش ضروری حذف و نتیجه دوباره بصری بررسی شد.",
+          "نسخهٔ تحویلی دو دست برای شخصیت قاب راست دارد؛ هر دو نقشه را نگه می‌دارند.",
+          "متن‌ها صحیح؛ نقشهٔ نهایی مقصد گنج یا موفقیت مالی ندارد.",
+          "صحنه‌های کوچک زمان‌های قبلی‌اند؛ برای بعضی خوانندگان ممکن است ترتیب تجربه‌ها اندکی نیاز به نگاه دوم داشته باشد.",
+          "جهت هر دو نقشه با ویرایش محدود اصلاح و واقعاً با view_image بررسی شد: نقشه‌ها پایین‌تر و افقی‌تر و رو به خود آدمک‌اند؛ عنوان و نشانه‌ها از دید بیننده وارونه‌اند. نقشهٔ راست هیچ خط مسیر قرمز ندارد؛ نقشهٔ چپ مسیر قرمز زیر نوک مداد دارد. دو حباب و کل صحنه حفظ شدند. خروجی ناموفقِ میانی هرگز منتشر نشد."
+        ],
+        "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+      },
+      "generatedAtUtc": "2026-10-19T13:28:30.260893+00:00",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "154-c-20261019-v1",
+      "sentenceId": 154,
+      "titleFa": "موضوع کتاب زندگی",
+      "summaryFa": "آدمک می‌پرسد کتابِ زندگی‌اش درباره چیست؛ تجربه‌هایش نشان می‌دهند موضوع کتاب، کشف راه خودش است.",
+      "storyFa": "دفترِ آدمک سبز در قاب راست هنوز عنوان روشنی ندارد. در قاب چپ تجربه‌های نواختن، کاشتن و یادگرفتن در همان دفتر ثبت شده و عنوان «کشف راه خودم» را دارد. هر دو دفتر روی میز رو به خودِ آدمک هستند؛ نوشته و تصاویر دفتر برای بیننده عمداً وارونه دیده می‌شوند.",
+      "meaningFa": "زندگی پیش از داشتن پاسخ قطعی بی‌معنا نیست؛ تلاش زنده برای پیدا کردن آن پاسخ، خودش موضوع ارزشمند زندگی است.",
+      "outputPath": "book-review/dist/art/154-c-20261019-v1.png",
+      "sha256": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+      "imageSha256": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+      "bytes": 2437016,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. Make a NEW thoughtful square two-panel Persian visual-book illustration, narrative read RIGHT TO LEFT, about discovering the meaning of one's own life. Input reference image 1 at C:/Kevin/Kevin 1/Images/151.png is ONLY the art and character style guide: preserve its neutral adult anatomy, circular heads, simple expressive eyes, colored contours and layered real watercolor. Do not reproduce its workshop, chair repair story or clothing.\n\nCORE MESSAGE: a person's meaningful life mission includes the exploration by which they find their own purpose. Their life has not been empty or wasted before they can name a purpose. Use a LIFE BOOK that gains its subject through real living, not a resume or job application.\n\nRIGHT PANEL, THE QUESTION: In a quiet warm home beside a simple desk, a leaf-green adult sits behind an open large personal notebook which rests FACE UP FLAT ON THE DESKTOP with a believable shallow tabletop perspective. The blank cream spread faces the GREEN READER, never displayed vertically to the viewer. Its reddish-brown binding is visible. The character looks curious and thoughtful with raised inner brows, not depressed. BOTH hands gently steady the notebook at the far edge near the character, exactly two arms; no extra thinking hand at the chin. A single thought bubble reads clearly in Persian exactly \"زندگیِ من دربارهٔ چیه؟\" A pencil lies on the desk. Keep the book, hands and circular face large. Sparse background: one open window, soft light, a plain chair; no shelves full of decorative clutter.\n\nLEFT PANEL, THE DISCOVERY: Some time later in the SAME simple room, the SAME green adult is calmly pleased and records personal experiences in the SAME open notebook. It rests FACE UP FLAT ON THE DESKTOP in a natural shallow perspective, facing the GREEN WRITER behind the desk. The top of the page content points toward the VIEWER, so the whole page design, including the heading and all diary pictures, is ROTATED 180 DEGREES RELATIVE TO THE VIEWER and reads right-side up for the green character. This deliberate upside-down-to-viewer orientation is physically correct. Never mirror individual Persian glyphs. The handwritten Persian heading exactly \"کشف راه خودم\" is on the writer's right page, which appears on the viewer's left. Three little watercolor diary-picture vignettes across the open spread show lived experiments: this green person playing a simple hand drum with a rose-pink friend, planting a tiny seedling, and sharing a picture book with a soft-blue friend. All three pictures face the writer, thus upside down to the viewer. They are pictures on flat paper, not floating scenes. The pen hand writes or draws naturally beside a diary picture while the other hand steadies the notebook, exactly two arms and two hands. The gentle realizing smile says that seeking one's own path is already the subject of one's life. These are personal moments of learning, making, connecting and helping; no uniforms, employment, money, report cards or success medals. No speech bubble explaining the moral; the question and now-filled book supply the answer.\n\nSTORY LOGIC: empty pages are open possibilities, not a declaration that earlier life was worthless. The change is that the character can recognize and name the ongoing search. Do not show a single final answer as a profession. Keep the full notebook visually connected in both panels by its same reddish-brown binding.\n\nSTYLE: authentic hand-painted watercolor on textured paper, visible semitransparent layered washes INSIDE character bodies, variations in pigment, soft wet edges and gentle pooled darker pigment, medium watercolor strength. Not marker, colored pencil, vector, flat fill, plasticky digital 3D or airbrushed gradient. The adult figures have reference-matched balanced simple bodies, neither skinny nor obese, no stubby baby/chibi build, no inflated arms. Heads strictly TRUE CIRCLES with equal width and height; a soft darker local-color shade under each head separates it from torso. Outlines follow each local body color but darker (deep green for green figure, rose for pink, blue for blue), never black body outlines. Eyes small ordinary dark vertical ovals, with tiny white reflected glints allowed, absolutely no white sclera or realistic eyeball. Same eye structure for all, feminine cues only two very subtle lashes where appropriate. No breasts, prominent buttocks, hourglass waist or gendered body contours. Bodies uniformly neutral, no hair, no selective special outfits, no skirts or coats. Exactly three fingers and one thumb per visible hand, four total digits, natural grasp and pen gesture.\n\nFORMAT: one square image with two related side-by-side panels, right beginning, left later, narrow white gutter and no heavy comic borders. Natural irregular watercolor scene edges with a clean white border around the whole square, color never touches the file edge. Soft warm earthy home colors contrast the green main figure; avoid an all-blue/orange/yellow cast. All important heads, hands, book, feet if shown and props stay uncut inside the frame. Accurate legible Persian text ONLY the two specified phrases; no English, extra captions, panel numbers, logo or watermark.\n",
+      "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-c-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishSha256": "91b79f7656ff39c4021f8218b1599f0941826b3d1e3c14e01cd1ee7ad30499b9",
+      "fullGenerationPromptSha256": "91b79f7656ff39c4021f8218b1599f0941826b3d1e3c14e01cd1ee7ad30499b9",
+      "referencePaths": [
+        "Images/151.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-c-20261019-v1.generation-record.json",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "result": "review_ready_for_user_selection",
+        "conceptReviewedBeforeGeneration": true,
+        "persianTextReviewed": true,
+        "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+        "referenceInspected": true,
+        "notesFa": [
+          "جهت هر دو دفتر با یک ویرایش محدود اصلاح شد: دفترها روی میز و رو به خودِ آدمک قرار دارند، نه نمایش‌داده‌شده به بیننده.",
+          "عنوان و تصویرهای تجربه در دفتر چپ عمداً نسبت به بیننده وارونه‌اند تا از دید نویسنده درست باشند؛ فکر بالای قاب راست حفظ شده است.",
+          "بازبینی بصری پس از اصلاح: سه تصویر تجربه و هر دو دست اصلی حفظ شده‌اند؛ دست اضافه یا اندام زنانه دیده نشد.",
+          "بخشی از بدن‌ها پشت میز پنهان است و انگشتان پوشیده‌شده با اشیا مستقلاً قابل شمارش نیستند."
+        ],
+        "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+      },
+      "generatedAtUtc": "2026-10-19T13:00:12.392987+00:00",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "154-d-20261019-v1",
+      "sentenceId": 154,
+      "titleFa": "مأموریت اصلی کی شروع می‌شود؟",
+      "summaryFa": "آدمک فکر می‌کند هنوز مأموریت اصلی زندگی‌اش آغاز نشده؛ دوستش دفتر تجربه‌ها را نشان می‌دهد و یادآوری می‌کند همین جست‌وجو مأموریت بوده است.",
+      "storyFa": "در قاب راست، آدمک آبی از دوست خاکستری می‌پرسد مأموریت اصلی‌اش کی شروع می‌شود. در قاب چپ، دوست دقیقاً به تجربه‌های ثبت‌شده در دفتر او اشاره می‌کند: همین پیدا کردن راه خودت.",
+      "meaningFa": "کشف هدف یک زمانِ بی‌ارزش پیش از زندگی نیست؛ همین پرسیدن، آزمودن و شناختن مسیر، کار معنادار زندگی است.",
+      "outputPath": "book-review/dist/art/154-d-20261019-v1.png",
+      "sha256": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+      "imageSha256": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+      "bytes": 2243915,
+      "width": 1254,
+      "height": 1254,
+      "fullGenerationPromptEnglish": "Use case: illustration-story. Create a new square two-panel Persian narrative watercolor for an adult life-advice visual book, read RIGHT TO LEFT, with a gentle human punchline. Reference image 1 at C:/Kevin/Kevin 1/Images/151.png is only for the neutral adult figure design, expressive simple eyes, colored body contours, layered watercolor and paper texture. The new scene is an uncluttered neighborhood courtyard, not a carpentry workshop.\n\nMEANING: While you are asking questions, trying experiences and discovering your own direction, you are already doing the meaningful work of your life. The purpose is to discover your purpose. Do not suggest years before a final career choice have been worthless, or a boss must assign you a destiny.\n\nRIGHT PANEL: A cool-blue adult seeker with a small practical burgundy backpack has arrived in a simple courtyard and talks earnestly to a warm-gray adult friend. The backpack is a useful story object, not a costume. Both figures otherwise have the same simple unclothed-in-the-stylized-mannequin-sense neutral colored body, family-friendly exactly like the reference. The blue figure looks mildly puzzled, holding a closed brown spiral-bound personal notebook against the chest with one hand and touching the chin with the other; exactly two arms and two hands. The gray friend is listening kindly with hands naturally behind the back, an ordinary equal friend, not a teacher, guru, supervisor or official. One speech bubble from blue reads EXACTLY: \"مأموریتِ اصلی‌م کِی شروع می‌شه؟\" The notebook cover is unlettered. No other text in this panel.\n\nLEFT PANEL: SAME two adult figures with identical colors, proportions, eyes and circular heads, now looking down together at that same notebook, which the gray friend holds OPEN in ONE hand and points into with the OTHER hand. Exactly two hands on the gray character; the pointing fingertip lands INSIDE THE NOTEBOOK'S PICTURE PAGE, never the other person's body or the floor. Both characters stand behind the far/top edge of the book, so ALL diary illustrations must FACE THE CHARACTERS: the three little painted blue people have their heads toward the notebook's nearer/bottom edge and their feet toward its farther/top edge. They are therefore UPSIDE-DOWN TO THE VIEWER, which is correct for the two people reading the notebook. Do not orient the diary pictures toward the external viewer. Keep the three-quarter notebook tilt and coherent spine/cover. The blue seeker leans in, hands lightly held together near the chest, and has a small dawning smile. Inside the open spread are three little simple diary watercolor pictures of this same blue figure trying things: trying a simple hand drum in the upper-left page area, planting a small seedling in the upper-right area, and learning from a picture book in the lower-right area; the little burgundy backpack may remain in these memories. These are memories recorded on paper, NOT living miniature figures outside the book. No jobs, money, reward badges, final destination or career label. The gray friend's speech bubble, tail correctly connected to GRAY, says exactly: \"همین پیدا کردنِ راهِ خودت!\" The punchline is that the seeker thought the real mission had not begun, while the friend's precise gesture reveals the valuable search already lived. Blue's expression is relief and amused recognition, not shock or despair.\n\nART REQUIREMENTS: Real transparent hand-painted watercolor built in visibly overlapping washes inside bodies and surroundings, textured paper, gentle pigment variation, soft wet-on-wet blooms and darker pooled edges. Moderate luminous watercolor, no flat digital fills, vector, marker, colored pencil or plastic 3D. Reference-matched simple ADULT figures with balanced neutral torsos and moderate limbs; not fat, babyish, chibi or extremely thin. Heads must be genuine circles with equal width and height, never oval. Add soft local-color shading immediately under each head to mark its lower boundary. Character contours are a deeper shade of that same body color, not black: deep blue around blue, warm slate-gray around gray, dark rose around pink. Faces have simple expressive brows, mouth and SMALL dark vertical oval eyes; tiny white light-reflection glints are allowed, but absolutely no white sclera, realistic human eyeballs or scary black stare. Female cues only two very delicate lashes, with exactly the same eye shape and neutral adult body as the others. No bust, prominent hips/buttocks, pinched waist, gendered curves, hair, skirts, jackets, trousers or selective costume. No clothing beyond an optional practical object such as this small backpack. Every visible hand has exactly three fingers plus one thumb, four digits total, with clear natural connections to its single arm.\n\nLAYOUT: square overall page, two related side-by-side panels, beginning on right, punchline on left, narrow clean white gutter and no heavy frames. Keep the faces, diary, pointing gesture and short dialogue the large clear focus. Courtyard with warm pale wall, soft lavender distant shade and very few plants, no dense decorative garden. Natural uneven watercolor vignette borders fading to a generous clean white margin, pigment not touching file edges. All important limbs, feet if shown, backpack and notebook entirely inside the frame. Only the specified short Persian texts, legible and accurate right-to-left; no English, moral caption, panel numbers, watermark or logo.\n",
+      "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-d-20261019-v1.full-generation.en.txt",
+      "fullGenerationPromptEnglishSha256": "7bee96c032373e420b34ad25e161b6a969b35781ad8276f6e409ac74f57f0f11",
+      "fullGenerationPromptSha256": "7bee96c032373e420b34ad25e161b6a969b35781ad8276f6e409ac74f57f0f11",
+      "referencePaths": [
+        "Images/151.png"
+      ],
+      "generationTool": "built-in image_gen",
+      "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-d-20261019-v1.generation-record.json",
+      "qa": {
+        "visualInspectionPerformed": true,
+        "imageOpenedWith": "view_image",
+        "result": "review_ready_for_user_selection",
+        "conceptReviewedBeforeGeneration": true,
+        "persianTextReviewed": true,
+        "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+        "referenceInspected": true,
+        "notesFa": [
+          "هر دو جمله فارسی درست و خوانا؛ حباب اول از آدمک آبی و حباب پاسخ از دوست خاکستری است.",
+          "دفتر دقیقاً دفتر همان شخص آبی است و سه تجربهٔ پیشین او را نشان می‌دهد؛ هر دو به دفتر توجه دارند.",
+          "دوست داخل صفحهٔ دفتر اشاره می‌کند؛ نوک انگشت نزدیک فضای میان دو تصویر است، نه روی یک شیء بیرونی.",
+          "بدن‌ها خنثی و بدون لباس خاص، سرها گرد و رنگ‌آمیزی آبرنگی چندلایه‌اند. دست اضافه دیده نشد.",
+          "تلاش نخست پس از انتظار طولانی بدون خروجی متوقف شد؛ فقط یک بار با شرح اجرایی کوتاه‌تر تلاش شد و تصویر حاصل واقعاً بازبینی شد.",
+          "جهت هر سه تصویرِ داخل دفتر در ویرایش محدود اصلاح و دوباره با view_image بررسی شد؛ تصاویر اکنون رو به خود دو آدمک و نسبت به بیننده وارونه‌اند. دو حباب و تمام صحنه حفظ شدند."
+        ],
+        "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+      },
+      "generatedAtUtc": "2026-10-19T13:03:27.975785+00:00",
+      "status": "candidate_pending_user_review"
+    }
+  ]
+}

@@ -6,8 +6,8 @@
 
 - تمام ۴۶۰ جملهٔ انگلیسی و ترجمهٔ فارسی در اکسل و دادهٔ ساخت‌یافته.
 - رابط فارسی بررسی تصاویر: بزرگ‌نمایی، جابه‌جایی با کلیدها، ثبت نظر، درخواست ویرایش، انتخاب نهایی و دانلود نسخهٔ اصلی.
-- ۱۲ تصویر موج فعلی برای جمله‌های ۱۵۱، ۱۵۲ و ۱۵۳، و سه تصویر تأییدشده در `Images`.
-- پرامپت‌ها، ۴۲ فایل metadata، راهنمای سبک، نمونهٔ پرامپت ۱۳۳ و بازخوردهای ذخیره‌شده.
+- ۱۲ تصویر تازهٔ موج فعلی برای جمله‌های ۱۵۴، ۱۵۵ و ۱۵۶، همگی منتظر بازبینی و تأیید کاربر؛ ۱۲ طرح موج قبلی نیز حفظ شده‌اند و سه تصویر تأییدشدهٔ ۱۵۱ تا ۱۵۳ در `Images` قرار دارند.
+- پرامپت‌ها، ۵۴ فایل metadata، راهنمای سبک، نمونهٔ پرامپت ۱۳۳ و بازخوردهای ذخیره‌شده.
 - ذخیرهٔ تصویر تأییدشده و پرامپت کامل انگلیسی آن در اکسل. ترتیب ستون‌ها: **A شماره، B متن انگلیسی، C ترجمهٔ فارسی، D پرامپت انگلیسی**.
 
 آخرین انتخاب‌های نهایی: `151-o-v2`، `152-g-v5` و `153-g-v2`. نسخهٔ آزمایشی ۱۵۲ با نام v6 تأیید نشده و نباید جایگزین تصویر نهایی شود.
@@ -58,4 +58,4 @@ python book-review/server.py
 
 ## English hand-off
 
-Open this repository root in Codex and read `AGENTS.md`. Run `python setup.py --check`, then `python setup.py` to link the existing Codex spreadsheet dependencies without a network install. Start `python book-review/server.py`; on Windows, use `Open Book Review.cmd`. The current wave contains twelve candidates; the three approved image originals and all full prompts are included. Persian translations are in Excel column C and image prompts in D. Image generation remains a Codex-assisted workflow, not an unattended service started by the review button. Historical full-resolution reference artwork is a separate archive. Never publish this project to a different GitHub account or a public repository without the owner's instruction.
+Open this repository root in Codex and read `AGENTS.md`. Run `python setup.py --check`, then `python setup.py` to link the existing Codex spreadsheet dependencies without a network install. Start `python book-review/server.py`; on Windows, use `Open Book Review.cmd`. The current wave contains twelve pending candidates for sentences 154–156; the previous twelve gallery candidates are retained; the three approved image originals and all full prompts are included. Persian translations are in Excel column C and image prompts in D. Image generation remains a Codex-assisted workflow, not an unattended service started by the review button. Historical full-resolution reference artwork is a separate archive. Never publish this project to a different GitHub account or a public repository without the owner's instruction.

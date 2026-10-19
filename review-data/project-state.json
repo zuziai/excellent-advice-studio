@@ -1,6 +1,6 @@
 {
   "phase": "calibration-review",
-  "activeWave": "final-review-151-153-2026-10-10-v5",
+  "activeWave": "wave-154-156-2026-10-19-v1",
   "nextContinuation": 151,
   "feedbackFile": "review-data/feedback.json",
   "styleContract": "review-data/style-contract.md",

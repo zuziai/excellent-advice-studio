@@ -1,0 +1,53 @@
+{
+  "id": "154-b-20261019-v1",
+  "sentenceId": 154,
+  "titleFa": "نقشه‌ای که با رفتن ساخته می‌شود",
+  "summaryFa": "نقشهٔ راهِ آدمک از قبل آماده نیست؛ با تجربه‌های زندگی، خودش مسیرش را روی کاغذ پیدا می‌کند.",
+  "storyFa": "ابتدا آدمک صورتی به نقشهٔ تقریباً سفیدش نگاه می‌کند و می‌پرسد راه من کجاست. سپس تجربه‌های یادگرفتن و کاشتن را پشت سر گذاشته و مسیر خودش را روی همان نقشه می‌کشد. صحنه‌های کوچکِ چپ خاطرات قبلی همین آدمک‌اند.",
+  "meaningFa": "راه و معنای شخصی با پرسیدن و تجربه‌کردن پیدا می‌شود؛ کشف همین مسیر خودش مأموریت است، نه اتلاف وقت پیش از رسیدن به مقصد.",
+  "outputPath": "book-review/dist/art/154-b-20261019-v1.png",
+  "sha256": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+  "imageSha256": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+  "bytes": 2590741,
+  "width": 1254,
+  "height": 1254,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. Generate one NEW square two-panel watercolor narrative for a Persian illustrated book of thoughtful life advice. Read RIGHT TO LEFT. Input reference 1, C:/Kevin/Kevin 1/Images/151.png, supplies ONLY character design and hand-painted watercolor technique. Change the story, setting and composition completely; no carpenter, repair, apron or wooden-chair plot.\n\nMEANING: finding one's own meaningful path through questioning and lived experiments is itself one's mission, rather than wasted time before life begins. Make a simple visual metaphor that a twelve-year-old can follow. No treasure, money, career ladder, winning trophy or map showing an already known final destiny.\n\nRIGHT PANEL: A rose-pink adult figure, with the EXACT neutral body and ordinary oval dark eyes of the reference plus only two small delicate lashes, stands at the first section of an ordinary footpath in an airy meadow. The figure holds a folded paper map LOWER AT WAIST HEIGHT, tilted FLATTER AND FACE-UP TOWARD THE CHARACTER in both hands. It is a map they can actually read, not a poster displayed to the camera. The title \"راهِ من\" and the little starting-person/terrain symbols must FACE THE CHARACTER: rotate the printed content 180 degrees relative to the external viewer, so the heading and little person appear UPSIDE-DOWN to us. There is NO RED ROUTE on this first map: only the heading, a starting-position person/dot and a few little green terrain marks on mostly blank paper. The character cannot see their purpose in advance. A small puzzled, warm thought bubble says exactly \"راهِ من کجاست؟\" Show both feet firmly inside the panel, no crossroads loaded with signs.\n\nLEFT PANEL: The SAME pink figure, color, circular head and body proportions unchanged, is now moving along the continuing path with a curious smile and drawing a new section on the SAME paper map. As in the right panel, the map is held LOWER AT WAIST HEIGHT and FLATTER, tilted FACE-UP TOWARD THE CHARACTER. Its heading \"راهِ من\" and little printed person/terrain symbols face the character and are therefore UPSIDE-DOWN TO THE EXTERNAL VIEWER. It visibly contains a short RED CURVING DASHED ROUTE, corresponding to the character's OWN curved trail of footprints on the ground. The pencil tip rests precisely on that red route; the other hand supports the map. Behind, along this ONE simple path, are two smaller earlier-moment vignettes of grounded life experiences that have helped them learn about themself: the same pink character planting a small seedling with a coral-red adult, and the same pink character learning from a pale-teal adult holding open a simple picture book. These small earlier moments are linked by the single winding path; the large foreground pink figure is the present moment, so the little pink figures are not different people. The map continues into blank paper beyond the new line. The figure's expression is the realization that discovering the way is meaningful work, not anxiety about being unfinished. One clear short bubble reads exactly \"کشفِ راهم، مأموریتِ منه.\" The visual joke is a map that is created by walking and learning instead of a ready-made map to a treasure. No magic glow, cosmic symbols, secret key or final destination. In both panels the main figure has exactly two arms and two hands; in the right panel both hands hold the map, with no extra hand at the chin.\n\nART: match the reference's authentic transparent watercolor in visible overlapping layers inside the figures as well as the surroundings. Paper grain, varied pigment density, soft darker pooled edges, luminous hand-painted washes. Medium-strength watercolor, neither flat/vector nor marker nor colored pencil, no plastic 3D shading. Clean expressive local-color linework: pink character outlined in deeper rose, teal in deeper teal, coral in deeper red; no black body outlines. Heads must be PERFECT CIRCLES with equal height and width, not oval. Each head separates from torso with a soft darker local-color shade under its bottom edge. Simplified balanced ADULT proportions; neither chibi/chubby nor too thin. Moderately slender arms. All figures have the same gender-neutral anatomical silhouette; absolutely no bust, breasts, emphasized buttocks, pinched waist, broad hips, high heels or gendered clothing. Any feminine cue ONLY tiny lashes on the same simple eyes. Dark small vertical oval eyes, a restrained tiny white reflection dot is allowed but absolutely NO white sclera, no human eyeballs, no frightening stare. Simple eyebrows and small expressive mouths. No hair. No selective outfits or accessories suggesting others are naked. Exactly three fingers plus one thumb on every visible hand, four digits total.\n\nLAYOUT: square overall page, two spacious side-by-side panels, right is beginning and left is continuation, thin clean white gutter, no heavy frames. Soft irregular watercolor edge vignettes, some sky and foreground fading into clean white margins; pigment must not reach the file edge. A simpler airy setting than the reference workshop, only props needed for the story. Everything important including heads, hands, feet, map and path stays inside the frame. Text only the three specified short Persian phrases, accurate readable Persian right-to-left. No English, numbering, added captions, watermark or logo.\n",
+  "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-b-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishSha256": "72ca94aeed2c4d631a42d14919d8f14fcac6ac01e499a782ed0581d64d84c10f",
+  "fullGenerationPromptSha256": "72ca94aeed2c4d631a42d14919d8f14fcac6ac01e499a782ed0581d64d84c10f",
+  "referencePaths": [
+    "Images/151.png"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-b-20261019-v1.generation-record.json",
+  "qa": {
+    "visualInspectionPerformed": true,
+    "imageOpenedWith": "view_image",
+    "result": "review_ready_for_user_selection",
+    "conceptReviewedBeforeGeneration": true,
+    "persianTextReviewed": true,
+    "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+    "referenceInspected": true,
+    "notesFa": [
+      "در تولید اولیه دست سوم زیر چانه وجود داشت؛ با یک ویرایش ضروری حذف و نتیجه دوباره بصری بررسی شد.",
+      "نسخهٔ تحویلی دو دست برای شخصیت قاب راست دارد؛ هر دو نقشه را نگه می‌دارند.",
+      "متن‌ها صحیح؛ نقشهٔ نهایی مقصد گنج یا موفقیت مالی ندارد.",
+      "صحنه‌های کوچک زمان‌های قبلی‌اند؛ برای بعضی خوانندگان ممکن است ترتیب تجربه‌ها اندکی نیاز به نگاه دوم داشته باشد.",
+      "جهت هر دو نقشه با ویرایش محدود اصلاح و واقعاً با view_image بررسی شد: نقشه‌ها پایین‌تر و افقی‌تر و رو به خود آدمک‌اند؛ عنوان و نشانه‌ها از دید بیننده وارونه‌اند. نقشهٔ راست هیچ خط مسیر قرمز ندارد؛ نقشهٔ چپ مسیر قرمز زیر نوک مداد دارد. دو حباب و کل صحنه حفظ شدند. خروجی ناموفقِ میانی هرگز منتشر نشد."
+    ],
+    "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+  },
+  "generatedAtUtc": "2026-10-19T13:28:30.260893+00:00",
+  "status": "candidate_pending_user_review",
+  "version": 1,
+  "imageHash": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+  "fullGenerationPromptEnglishHash": "72ca94aeed2c4d631a42d14919d8f14fcac6ac01e499a782ed0581d64d84c10f",
+  "fullGenerationPromptEnglishPath": "review-data/wave-154-156-2026-10-19/154/154-b-20261019-v1.full-generation.en.txt",
+  "rootVisualReview": {
+    "id": "154-b-20261019-v1",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "imageHash": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+    "notes": "Viewed corrected final PNG: maps now face upward toward the pink reader/writer, all labels face that character, first map has no red route and second route sits under pencil tip. Same circular heads, neutral silhouette, watercolor and Persian bubbles preserved."
+  }
+}

@@ -5,6 +5,7 @@
 - Speak Persian with the owner. Keep progress reports short and truthful. The owner is concerned about elapsed time and network use: avoid redundant image uploads, polling, large dumps and repeated regeneration.
 - The GitHub owner is `zuziai`; the owner completed GitHub and Git Credential Manager login and authorized this project transfer. The private repository is https://github.com/zuziai/excellent-advice-studio. Do not upload through another connected account or make the project public.
 - Do not generate another wave or revise approved artwork merely because this folder was opened. First read the owner's current task and saved feedback.
+- Current gallery wave: `wave-154-156-2026-10-19-v1`, with four new candidates each for sentences 154, 155 and 156. All twelve await the owner's review; none is approved or saved into final `Images` or workbook prompts.
 - Current final approvals: sentence 151 = `151-o-v2`; sentence 152 = `152-g-v5`; sentence 153 = `153-g-v2`. Their original PNGs are `Images/151.png`, `152.png`, `153.png`. An unpublished 152 v6 draft is not an approval and must not replace v5.
 
 ## Data and run contract

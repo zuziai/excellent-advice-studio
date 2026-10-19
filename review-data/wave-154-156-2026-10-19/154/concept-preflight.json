@@ -1,0 +1,36 @@
+{
+  "sentenceId": 154,
+  "english": "You will complete your mission in life when you figure out what your mission in life is. Your purpose is to discover your purpose. This is not a paradox. This is the way.",
+  "persian": "مأموریت زندگی‌ت وقتی کامل می‌شه که بفهمی مأموریتت چیه. هدفت اینه که هدفت رو پیدا کنی. این تناقض نیست؛ راه همینه.",
+  "status": "parent_concepts_approved_generated_and_visually_reviewed",
+  "coreMeaning": "The search to discover one's own purpose is itself meaningful life work. The journey of asking, testing and learning is the mission, rather than wasted time before the mission.",
+  "referencePaths": [
+    "Images/151.png"
+  ],
+  "ideas": [
+    {
+      "id": "154-a-20261019-v1",
+      "titleFa": "پاکت مأموریت",
+      "centralDevice": "A solemn mission envelope contains the instruction to discover one's own path; opening it leads directly to active exploration.",
+      "risk": "Avoid a boss or external authority assigning a predetermined purpose."
+    },
+    {
+      "id": "154-b-20261019-v1",
+      "titleFa": "نقشه‌ای که با قدم‌ها ساخته می‌شود",
+      "centralDevice": "A blank map gains one's own path through lived experiments, with no treasure or wealth destination.",
+      "risk": "Prevent a generic travel interpretation; the map is explicitly the character's own life path."
+    },
+    {
+      "id": "154-c-20261019-v1",
+      "titleFa": "کتاب زندگی",
+      "centralDevice": "A character wondering what their life book is about fills it with lived experiments, then discovers the title is the search for their own path.",
+      "risk": "Activities are ordinary noncommercial experiences, not a job-choice test."
+    },
+    {
+      "id": "154-d-20261019-v1",
+      "titleFa": "مأموریت از کی شروع می‌شود؟",
+      "centralDevice": "A seeker with a notebook of experiments asks when their real mission will start; a friend points out that discovering their own path was already the mission.",
+      "risk": "The completed notebook must clearly contain active lived experiences rather than an empty plan."
+    }
+  ]
+}

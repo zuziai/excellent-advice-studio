@@ -1,0 +1,136 @@
+{
+  "verifiedAt": "2026-10-19T13:52:58.928261+00:00",
+  "waveId": "wave-154-156-2026-10-19-v1",
+  "sentences": [
+    154,
+    155,
+    156
+  ],
+  "ideasEach": 4,
+  "httpHeadChecks": 24,
+  "workbookSha256": "5487d3a1ec6ce86b3082303540fc3af7bb25d993eafd62438c73dbdd0adf0038",
+  "workbookUnchanged": true,
+  "earlierApprovalsPreserved": true,
+  "checks": [
+    {
+      "id": "154-a-20261019-v1",
+      "imageHash": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+      "fullPromptHash": "290c0ec74b447ab2ac00f94721dfb7e4f4111f275c18a73b351c64506657f539",
+      "originalBytes": 2856830,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "154-b-20261019-v1",
+      "imageHash": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+      "fullPromptHash": "72ca94aeed2c4d631a42d14919d8f14fcac6ac01e499a782ed0581d64d84c10f",
+      "originalBytes": 2590741,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "154-c-20261019-v1",
+      "imageHash": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+      "fullPromptHash": "91b79f7656ff39c4021f8218b1599f0941826b3d1e3c14e01cd1ee7ad30499b9",
+      "originalBytes": 2437016,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "154-d-20261019-v1",
+      "imageHash": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+      "fullPromptHash": "7bee96c032373e420b34ad25e161b6a969b35781ad8276f6e409ac74f57f0f11",
+      "originalBytes": 2243915,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "155-a-20261019-v1",
+      "imageHash": "a2bcebe98eeaf3134882c71f5dbf0429971b4a71fda57d1b8fa81b381df24efd",
+      "fullPromptHash": "3e86e0033ced7e368de54247d81133fdfaefb19c3c343378b3d25aa3d91df646",
+      "originalBytes": 2559542,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "155-b-20261019-v1",
+      "imageHash": "90075fbdf20c68248aed4b01cd20834f0c4e79d5d669c3fa4d2e2bc73767e499",
+      "fullPromptHash": "42a93f1f7502ce2a8a76a904cd4ad325ecf17edb40d23906bca6e444b16cf298",
+      "originalBytes": 2638009,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "155-c-20261019-v1",
+      "imageHash": "8bbaa904c9ebff8e23ad54cd9247776f4c9934b65852f7da5cf7b02e585dfe24",
+      "fullPromptHash": "110f1b8d3722383cb0db378c5c87431d36afb9e2e9e7216800d2a8c7c68c95da",
+      "originalBytes": 2709062,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "155-d-20261019-v1",
+      "imageHash": "d23258b627a033af59039400e9ffaf00a457dbbd1f230126325833419047cc16",
+      "fullPromptHash": "f745e0d317e7f644be3c38f9a3202e9c9b477024d106346aa92d6fe3bda48791",
+      "originalBytes": 2372268,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "156-a-20261019-v1",
+      "imageHash": "dafb776d91dae7a404020800da619d0be608ab3fd851b7f04f5880b98713260f",
+      "fullPromptHash": "960a6d43c3b5384d7eeec8a641c0265c9be0c85a49767d81073043b0e22b5c29",
+      "originalBytes": 2759807,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "156-b-20261019-v1",
+      "imageHash": "3c2d0858fab0736dfec91cd98592730566c366034e2c201aec59f7d043609928",
+      "fullPromptHash": "6430384fce4937aa91ffb61322b552396781e6276e04cb291b13270e6c1fc1bf",
+      "originalBytes": 2490449,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "156-c-20261019-v1",
+      "imageHash": "88cf2a2864a579869f7d5b96a1009373d8115e5a911ee99bf1daf9a7b5c8528e",
+      "fullPromptHash": "87744b7cd881bcc8a0498fae1ca6f969558774a20c1148596b44d2b2b6619e2f",
+      "originalBytes": 2687531,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    },
+    {
+      "id": "156-d-20261019-v1",
+      "imageHash": "855003cdabc188cfe1408cfcffb8b21f84b7c674f9676febac3b9cf815c35a17",
+      "fullPromptHash": "c912017f01e4928baffd8a34766230d9582eea61a61e36df7e3cadae2f42a820",
+      "originalBytes": 2981542,
+      "assetHead": 200,
+      "downloadHead": 200,
+      "attachment": true,
+      "status": "pending"
+    }
+  ]
+}

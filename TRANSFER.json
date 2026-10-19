@@ -1,9 +1,9 @@
 {
   "prepared": true,
   "destination": ".",
-  "files": 175,
-  "bytes": 40357081,
-  "waveId": "final-review-151-153-2026-10-10-v5",
+  "files": 251,
+  "bytes": 72578881,
+  "waveId": "wave-154-156-2026-10-19-v1",
   "sentences": 460,
   "activeArtworks": 12,
   "approvedImages": [
@@ -32,8 +32,22 @@
     "excelPromptColumn": "D",
     "persianColumn": "C",
     "portableExcelWriterOutsideRootVerified": true,
-    "packagesDownloaded": false
+    "packagesDownloaded": false,
+    "activeFullEnglishPromptsVerified": 12,
+    "activeMetadataHashesVerified": 12,
+    "originalRuntimeFilesPreserved": true,
+    "workbookUnchanged": true,
+    "dependencyJunctionExcluded": true
   },
-  "filesBeforeChecksum": 185,
-  "intendedGitHubRepository": "https://github.com/zuziai/excellent-advice-studio"
+  "filesBeforeChecksum": 250,
+  "intendedGitHubRepository": "https://github.com/zuziai/excellent-advice-studio",
+  "activeSentenceIds": [
+    154,
+    155,
+    156
+  ],
+  "activeApprovalStatus": "pending owner review",
+  "metadataFiles": 54,
+  "includedPreviousGalleryArtworks": 12,
+  "refreshedAtUtc": "2026-10-19T13:54:40.466464+00:00"
 }

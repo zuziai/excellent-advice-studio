@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "154-a-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+      "notes": "Viewed actual final PNG: right-to-left personal mission letter then active exploration with the same purple figure; Persian text legible, neutral silhouettes, local-color contours and watercolor. Garden has more detail than minimum but story remains readable."
+    },
+    {
+      "id": "155-a-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "a2bcebe98eeaf3134882c71f5dbf0429971b4a71fda57d1b8fa81b381df24efd",
+      "notes": "Viewed actual final PNG: green figure on left, utility knife directed right away from torso and stabilizing hand; slit follows tool, arrow agrees with real cutting direction, Persian label correct, full kneeling body inside image."
+    },
+    {
+      "id": "156-a-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "dafb776d91dae7a404020800da619d0be608ab3fd851b7f04f5880b98713260f",
+      "notes": "Viewed actual final framed PNG: same cafe, blue calm figure starts clearing spilled tea; red/pink relax and help, tea still on table; circular heads, neutral adult figures, Persian bubble and all feet inside margins."
+    },
+    {
+      "id": "156-b-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "3c2d0858fab0736dfec91cd98592730566c366034e2c201aec59f7d043609928",
+      "notes": "Viewed final framed PNG: payment terminal stays broken in both scenes, calm blue speaks first and the formerly angry red repeats the calm words to purple. Same queue and identities, clear causal emotional change, full feet, correct Persian text."
+    },
+    {
+      "id": "155-b-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "90075fbdf20c68248aed4b01cd20834f0c4e79d5d669c3fa4d2e2bc73767e499",
+      "notes": "Viewed actual final PNG: purple woodworker keeps both hands behind chisel edge, wood held in vise, motion away from body agrees with arrow. Circular head, neutral apron/body, all feet inside margin."
+    },
+    {
+      "id": "155-c-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "8bbaa904c9ebff8e23ad54cd9247776f4c9934b65852f7da5cf7b02e585dfe24",
+      "notes": "Viewed actual final PNG: pink figure has restrained lashes and neutral silhouette, rotary cutter rolls right away from body; stabilizing hand behind and outside cut path. Fabric cut trails behind blade. Persian label legible."
+    },
+    {
+      "id": "155-d-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "d23258b627a033af59039400e9ffaf00a457dbbd1f230126325833419047cc16",
+      "notes": "Viewed corrected final PNG: turquoise figure cuts gift paper rightward away from torso; cut/notch remains behind scissors and uncut paper ahead. Adult neutral body and hands, original-quality watercolor and full feet visible."
+    },
+    {
+      "id": "156-c-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "88cf2a2864a579869f7d5b96a1009373d8115e5a911ee99bf1daf9a7b5c8528e",
+      "notes": "Viewed actual final PNG: same sofa and doorway; red and purple stop contradictory pointing after calm blue intervenes, then coordinate with relaxed faces. Sofa remains grounded; same identities and complete bodies within frame."
+    },
+    {
+      "id": "156-d-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "855003cdabc188cfe1408cfcffb8b21f84b7c674f9676febac3b9cf815c35a17",
+      "notes": "Viewed actual final PNG: rain and delayed bus remain unresolved; formerly angry red adopts blue calm welcoming behavior and offers shelter to a worried purple newcomer. Persian text correct and full figures visible."
+    },
+    {
+      "id": "154-c-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+      "notes": "Viewed corrected final PNG: both journals now lie open face-up on the table toward the green reader/writer; all page pictures and title rotated to that reader. Blank-to-lived-experience contrast, Persian thought bubble and watercolor retained."
+    },
+    {
+      "id": "154-d-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+      "notes": "Viewed corrected final PNG: same blue traveler and gray friend with clear Persian dialogue; three journal pictures rotated toward their readers, gray pointing at the actual experience pages, complete neutral adult bodies and circular heads."
+    },
+    {
+      "id": "154-b-20261019-v1",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "imageHash": "23d68b033d9242dd446bdefeb02585252e42f5aa8e0a2584b55f30c2469fce93",
+      "notes": "Viewed corrected final PNG: maps now face upward toward the pink reader/writer, all labels face that character, first map has no red route and second route sits under pencil tip. Same circular heads, neutral silhouette, watercolor and Persian bubbles preserved."
+    }
+  ]
+}

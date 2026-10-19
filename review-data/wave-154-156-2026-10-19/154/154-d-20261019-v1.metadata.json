@@ -1,0 +1,54 @@
+{
+  "id": "154-d-20261019-v1",
+  "sentenceId": 154,
+  "titleFa": "مأموریت اصلی کی شروع می‌شود؟",
+  "summaryFa": "آدمک فکر می‌کند هنوز مأموریت اصلی زندگی‌اش آغاز نشده؛ دوستش دفتر تجربه‌ها را نشان می‌دهد و یادآوری می‌کند همین جست‌وجو مأموریت بوده است.",
+  "storyFa": "در قاب راست، آدمک آبی از دوست خاکستری می‌پرسد مأموریت اصلی‌اش کی شروع می‌شود. در قاب چپ، دوست دقیقاً به تجربه‌های ثبت‌شده در دفتر او اشاره می‌کند: همین پیدا کردن راه خودت.",
+  "meaningFa": "کشف هدف یک زمانِ بی‌ارزش پیش از زندگی نیست؛ همین پرسیدن، آزمودن و شناختن مسیر، کار معنادار زندگی است.",
+  "outputPath": "book-review/dist/art/154-d-20261019-v1.png",
+  "sha256": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+  "imageSha256": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+  "bytes": 2243915,
+  "width": 1254,
+  "height": 1254,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. Create a new square two-panel Persian narrative watercolor for an adult life-advice visual book, read RIGHT TO LEFT, with a gentle human punchline. Reference image 1 at C:/Kevin/Kevin 1/Images/151.png is only for the neutral adult figure design, expressive simple eyes, colored body contours, layered watercolor and paper texture. The new scene is an uncluttered neighborhood courtyard, not a carpentry workshop.\n\nMEANING: While you are asking questions, trying experiences and discovering your own direction, you are already doing the meaningful work of your life. The purpose is to discover your purpose. Do not suggest years before a final career choice have been worthless, or a boss must assign you a destiny.\n\nRIGHT PANEL: A cool-blue adult seeker with a small practical burgundy backpack has arrived in a simple courtyard and talks earnestly to a warm-gray adult friend. The backpack is a useful story object, not a costume. Both figures otherwise have the same simple unclothed-in-the-stylized-mannequin-sense neutral colored body, family-friendly exactly like the reference. The blue figure looks mildly puzzled, holding a closed brown spiral-bound personal notebook against the chest with one hand and touching the chin with the other; exactly two arms and two hands. The gray friend is listening kindly with hands naturally behind the back, an ordinary equal friend, not a teacher, guru, supervisor or official. One speech bubble from blue reads EXACTLY: \"مأموریتِ اصلی‌م کِی شروع می‌شه؟\" The notebook cover is unlettered. No other text in this panel.\n\nLEFT PANEL: SAME two adult figures with identical colors, proportions, eyes and circular heads, now looking down together at that same notebook, which the gray friend holds OPEN in ONE hand and points into with the OTHER hand. Exactly two hands on the gray character; the pointing fingertip lands INSIDE THE NOTEBOOK'S PICTURE PAGE, never the other person's body or the floor. Both characters stand behind the far/top edge of the book, so ALL diary illustrations must FACE THE CHARACTERS: the three little painted blue people have their heads toward the notebook's nearer/bottom edge and their feet toward its farther/top edge. They are therefore UPSIDE-DOWN TO THE VIEWER, which is correct for the two people reading the notebook. Do not orient the diary pictures toward the external viewer. Keep the three-quarter notebook tilt and coherent spine/cover. The blue seeker leans in, hands lightly held together near the chest, and has a small dawning smile. Inside the open spread are three little simple diary watercolor pictures of this same blue figure trying things: trying a simple hand drum in the upper-left page area, planting a small seedling in the upper-right area, and learning from a picture book in the lower-right area; the little burgundy backpack may remain in these memories. These are memories recorded on paper, NOT living miniature figures outside the book. No jobs, money, reward badges, final destination or career label. The gray friend's speech bubble, tail correctly connected to GRAY, says exactly: \"همین پیدا کردنِ راهِ خودت!\" The punchline is that the seeker thought the real mission had not begun, while the friend's precise gesture reveals the valuable search already lived. Blue's expression is relief and amused recognition, not shock or despair.\n\nART REQUIREMENTS: Real transparent hand-painted watercolor built in visibly overlapping washes inside bodies and surroundings, textured paper, gentle pigment variation, soft wet-on-wet blooms and darker pooled edges. Moderate luminous watercolor, no flat digital fills, vector, marker, colored pencil or plastic 3D. Reference-matched simple ADULT figures with balanced neutral torsos and moderate limbs; not fat, babyish, chibi or extremely thin. Heads must be genuine circles with equal width and height, never oval. Add soft local-color shading immediately under each head to mark its lower boundary. Character contours are a deeper shade of that same body color, not black: deep blue around blue, warm slate-gray around gray, dark rose around pink. Faces have simple expressive brows, mouth and SMALL dark vertical oval eyes; tiny white light-reflection glints are allowed, but absolutely no white sclera, realistic human eyeballs or scary black stare. Female cues only two very delicate lashes, with exactly the same eye shape and neutral adult body as the others. No bust, prominent hips/buttocks, pinched waist, gendered curves, hair, skirts, jackets, trousers or selective costume. No clothing beyond an optional practical object such as this small backpack. Every visible hand has exactly three fingers plus one thumb, four digits total, with clear natural connections to its single arm.\n\nLAYOUT: square overall page, two related side-by-side panels, beginning on right, punchline on left, narrow clean white gutter and no heavy frames. Keep the faces, diary, pointing gesture and short dialogue the large clear focus. Courtyard with warm pale wall, soft lavender distant shade and very few plants, no dense decorative garden. Natural uneven watercolor vignette borders fading to a generous clean white margin, pigment not touching file edges. All important limbs, feet if shown, backpack and notebook entirely inside the frame. Only the specified short Persian texts, legible and accurate right-to-left; no English, moral caption, panel numbers, watermark or logo.\n",
+  "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-d-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishSha256": "7bee96c032373e420b34ad25e161b6a969b35781ad8276f6e409ac74f57f0f11",
+  "fullGenerationPromptSha256": "7bee96c032373e420b34ad25e161b6a969b35781ad8276f6e409ac74f57f0f11",
+  "referencePaths": [
+    "Images/151.png"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-d-20261019-v1.generation-record.json",
+  "qa": {
+    "visualInspectionPerformed": true,
+    "imageOpenedWith": "view_image",
+    "result": "review_ready_for_user_selection",
+    "conceptReviewedBeforeGeneration": true,
+    "persianTextReviewed": true,
+    "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+    "referenceInspected": true,
+    "notesFa": [
+      "هر دو جمله فارسی درست و خوانا؛ حباب اول از آدمک آبی و حباب پاسخ از دوست خاکستری است.",
+      "دفتر دقیقاً دفتر همان شخص آبی است و سه تجربهٔ پیشین او را نشان می‌دهد؛ هر دو به دفتر توجه دارند.",
+      "دوست داخل صفحهٔ دفتر اشاره می‌کند؛ نوک انگشت نزدیک فضای میان دو تصویر است، نه روی یک شیء بیرونی.",
+      "بدن‌ها خنثی و بدون لباس خاص، سرها گرد و رنگ‌آمیزی آبرنگی چندلایه‌اند. دست اضافه دیده نشد.",
+      "تلاش نخست پس از انتظار طولانی بدون خروجی متوقف شد؛ فقط یک بار با شرح اجرایی کوتاه‌تر تلاش شد و تصویر حاصل واقعاً بازبینی شد.",
+      "جهت هر سه تصویرِ داخل دفتر در ویرایش محدود اصلاح و دوباره با view_image بررسی شد؛ تصاویر اکنون رو به خود دو آدمک و نسبت به بیننده وارونه‌اند. دو حباب و تمام صحنه حفظ شدند."
+    ],
+    "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+  },
+  "generatedAtUtc": "2026-10-19T13:03:27.975785+00:00",
+  "status": "candidate_pending_user_review",
+  "version": 1,
+  "imageHash": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+  "fullGenerationPromptEnglishHash": "7bee96c032373e420b34ad25e161b6a969b35781ad8276f6e409ac74f57f0f11",
+  "fullGenerationPromptEnglishPath": "review-data/wave-154-156-2026-10-19/154/154-d-20261019-v1.full-generation.en.txt",
+  "rootVisualReview": {
+    "id": "154-d-20261019-v1",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "imageHash": "1eaeed1c60db6392279f7e21a8e71035b581916af905cce098303cc08fc21425",
+    "notes": "Viewed corrected final PNG: same blue traveler and gray friend with clear Persian dialogue; three journal pictures rotated toward their readers, gray pointing at the actual experience pages, complete neutral adult bodies and circular heads."
+  }
+}

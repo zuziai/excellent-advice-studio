@@ -1,0 +1,52 @@
+{
+  "id": "154-a-20261019-v1",
+  "sentenceId": 154,
+  "titleFa": "پاکت مأموریت",
+  "summaryFa": "آدمک پاکتِ مأموریتی را که برای خودش ساخته باز می‌کند؛ مأموریتش همین پیدا کردن هدفش است.",
+  "storyFa": "در قاب راست، آدمک بنفش از پاکت شخصی‌اش برگهٔ «مأموریت من: کشف هدفم» را بیرون می‌آورد. در قاب چپ با کاشتن و گفت‌وگو و یادگرفتن، این جست‌وجو را در زندگی واقعی شروع می‌کند.",
+  "meaningFa": "برای شروع زندگیِ معنادار لازم نیست اول جواب نهایی هدف را داشته باشیم؛ خودِ تلاش برای شناختن راه خودمان بخشی از مأموریت زندگی است.",
+  "outputPath": "book-review/dist/art/154-a-20261019-v1.png",
+  "sha256": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+  "imageSha256": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+  "bytes": 2856830,
+  "width": 1254,
+  "height": 1254,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. Create one complete square Persian visual-book illustration, a warm, quietly witty two-panel watercolor comic read RIGHT TO LEFT. This is a NEW STORY, not a copy of the reference composition. Input image 1 (C:/Kevin/Kevin 1/Images/151.png) is strictly the art-direction reference: preserve its character anatomy, eyes, layered watercolor on bodies, tinted contours, paper texture, and attractive readable storytelling. Do not copy the carpentry setting, furniture story, or apron.\n\nCore idea to communicate instantly: discovering your own purpose is itself your meaningful mission in life; exploring is not wasted time before a supposedly real life starts. Do not imply wealth, status or a particular profession is the purpose.\n\nRIGHT PANEL: A moderately built violet adult round-headed figure has made a personal mission envelope for themself, at a small simple home desk with a pencil and their own open notebook. No authority, employer, boss, official uniform or courier. The envelope says in Persian exactly \"برای خودم\". The figure opens it with gentle amused surprise. A large cream card held naturally facing the viewer says, clearly and only, on two lines: \"مأموریت من:\" / \"کشفِ هدفم\". This tautological personal mission is the gentle joke, not a magic clue leading to hidden treasure. Keep the card large enough to read.\n\nLEFT PANEL: The SAME violet figure has begun actively exploring their interests in a welcoming shared garden. They are trying planting a small seedling beside a leaf-green adult, while asking a question and recording a discovery in the SAME notebook resting on a low simple table. A rose-pink adult nearby shares a simple illustrated book, showing conversation and learning as a possible next experiment. These are informal meaningful life experiences, not a job-selection test and not paid work. The violet figure looks curious, alert and content, not triumphant. Their one short thought bubble reads exactly \"پیدا کردنش هم کارِ منه!\" The personal envelope is tucked in their notebook, visibly linking the two panels. The visual emphasis is the shift from looking for a fixed instruction to learning by living. No concluding trophy, finished road, money, company or predestined answer.\n\nSTYLE AND ANATOMY MUST MATCH THE REFERENCE: real hand-painted transparent watercolor in several visible overlapping washes on both character bodies and environment, with gentle pigment pooling, subtle uneven brush edges and paper grain; balanced medium watercolor strength, luminous but not pale/flat. Smooth simplified adult bodies, neither skinny nor chubby, moderately slender arms, no inflated forearms. Every head a true circle, equal width and height, never oval. A soft dark shade under each circular head distinguishes head from torso. Body outlines are the deeper local BODY COLOR (violet, green, pink), never black. Simple small dark vertical oval eyes with a tiny restrained white reflected glint if useful, absolutely NO white sclera, no large realistic eyeballs, no creepy empty black eyes. Simple expressive eyebrows and mouth. All bodies use the same neutral form with no breasts, no prominent hips, no hourglass waist and no gendered silhouette; any female cue is only two tiny natural lashes attached to the same normal eye style. No hair, no selective clothing, no skirt, no jacket; anatomically simplified continuous colored body as in the reference. Each visible hand has exactly three fingers plus one thumb (four digits total), natural and unobtrusive, with no extra fingers. Adult, family-friendly tone.\n\nCOMPOSITION: exactly two clearly related panels side by side within a square page; a clean narrow white gutter, no heavy panel frames. Natural softly irregular watercolor vignette edges and clean white margin around the whole image; pigment does not meet file edges. Keep all characters, hands, feet, card and important props inside the composition. Sparse warm garden details, no decorative clutter. Persian lettering only, accurate right-to-left, exactly the short texts specified; no English, captions, number badges, watermark or added explanatory sentence.\n",
+  "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-a-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishSha256": "290c0ec74b447ab2ac00f94721dfb7e4f4111f275c18a73b351c64506657f539",
+  "fullGenerationPromptSha256": "290c0ec74b447ab2ac00f94721dfb7e4f4111f275c18a73b351c64506657f539",
+  "referencePaths": [
+    "Images/151.png"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-a-20261019-v1.generation-record.json",
+  "qa": {
+    "visualInspectionPerformed": true,
+    "imageOpenedWith": "view_image",
+    "result": "review_ready_for_user_selection",
+    "conceptReviewedBeforeGeneration": true,
+    "persianTextReviewed": true,
+    "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+    "referenceInspected": true,
+    "notesFa": [
+      "متن‌های داخل تصویر صحیح و خوانا هستند.",
+      "روایت دو مرحله‌ای واضح و بدون شغل، ثروت یا هدف از پیش تعیین‌شده است.",
+      "بدن‌ها خنثی، خطوط هم‌رنگ تیره‌تر بدن و رنگ‌آمیزی چندلایه‌اند.",
+      "باغ از حداقل لازم کمی پُرجزئیات‌تر است؛ سر نزدیکِ قاب راست کمی پرسپکتیو دارد."
+    ],
+    "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+  },
+  "generatedAtUtc": "2026-10-19T08:58:12.742229+00:00",
+  "status": "candidate_pending_user_review",
+  "version": 1,
+  "imageHash": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+  "fullGenerationPromptEnglishHash": "290c0ec74b447ab2ac00f94721dfb7e4f4111f275c18a73b351c64506657f539",
+  "fullGenerationPromptEnglishPath": "review-data/wave-154-156-2026-10-19/154/154-a-20261019-v1.full-generation.en.txt",
+  "rootVisualReview": {
+    "id": "154-a-20261019-v1",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "imageHash": "5b5efe725042b46b7c6225e90500440050e524892c19cd3d8de46b8530b03f7f",
+    "notes": "Viewed actual final PNG: right-to-left personal mission letter then active exploration with the same purple figure; Persian text legible, neutral silhouettes, local-color contours and watercolor. Garden has more detail than minimum but story remains readable."
+  }
+}

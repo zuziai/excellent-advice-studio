@@ -1,0 +1,52 @@
+{
+  "id": "154-c-20261019-v1",
+  "sentenceId": 154,
+  "titleFa": "موضوع کتاب زندگی",
+  "summaryFa": "آدمک می‌پرسد کتابِ زندگی‌اش درباره چیست؛ تجربه‌هایش نشان می‌دهند موضوع کتاب، کشف راه خودش است.",
+  "storyFa": "دفترِ آدمک سبز در قاب راست هنوز عنوان روشنی ندارد. در قاب چپ تجربه‌های نواختن، کاشتن و یادگرفتن در همان دفتر ثبت شده و عنوان «کشف راه خودم» را دارد. هر دو دفتر روی میز رو به خودِ آدمک هستند؛ نوشته و تصاویر دفتر برای بیننده عمداً وارونه دیده می‌شوند.",
+  "meaningFa": "زندگی پیش از داشتن پاسخ قطعی بی‌معنا نیست؛ تلاش زنده برای پیدا کردن آن پاسخ، خودش موضوع ارزشمند زندگی است.",
+  "outputPath": "book-review/dist/art/154-c-20261019-v1.png",
+  "sha256": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+  "imageSha256": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+  "bytes": 2437016,
+  "width": 1254,
+  "height": 1254,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. Make a NEW thoughtful square two-panel Persian visual-book illustration, narrative read RIGHT TO LEFT, about discovering the meaning of one's own life. Input reference image 1 at C:/Kevin/Kevin 1/Images/151.png is ONLY the art and character style guide: preserve its neutral adult anatomy, circular heads, simple expressive eyes, colored contours and layered real watercolor. Do not reproduce its workshop, chair repair story or clothing.\n\nCORE MESSAGE: a person's meaningful life mission includes the exploration by which they find their own purpose. Their life has not been empty or wasted before they can name a purpose. Use a LIFE BOOK that gains its subject through real living, not a resume or job application.\n\nRIGHT PANEL, THE QUESTION: In a quiet warm home beside a simple desk, a leaf-green adult sits behind an open large personal notebook which rests FACE UP FLAT ON THE DESKTOP with a believable shallow tabletop perspective. The blank cream spread faces the GREEN READER, never displayed vertically to the viewer. Its reddish-brown binding is visible. The character looks curious and thoughtful with raised inner brows, not depressed. BOTH hands gently steady the notebook at the far edge near the character, exactly two arms; no extra thinking hand at the chin. A single thought bubble reads clearly in Persian exactly \"زندگیِ من دربارهٔ چیه؟\" A pencil lies on the desk. Keep the book, hands and circular face large. Sparse background: one open window, soft light, a plain chair; no shelves full of decorative clutter.\n\nLEFT PANEL, THE DISCOVERY: Some time later in the SAME simple room, the SAME green adult is calmly pleased and records personal experiences in the SAME open notebook. It rests FACE UP FLAT ON THE DESKTOP in a natural shallow perspective, facing the GREEN WRITER behind the desk. The top of the page content points toward the VIEWER, so the whole page design, including the heading and all diary pictures, is ROTATED 180 DEGREES RELATIVE TO THE VIEWER and reads right-side up for the green character. This deliberate upside-down-to-viewer orientation is physically correct. Never mirror individual Persian glyphs. The handwritten Persian heading exactly \"کشف راه خودم\" is on the writer's right page, which appears on the viewer's left. Three little watercolor diary-picture vignettes across the open spread show lived experiments: this green person playing a simple hand drum with a rose-pink friend, planting a tiny seedling, and sharing a picture book with a soft-blue friend. All three pictures face the writer, thus upside down to the viewer. They are pictures on flat paper, not floating scenes. The pen hand writes or draws naturally beside a diary picture while the other hand steadies the notebook, exactly two arms and two hands. The gentle realizing smile says that seeking one's own path is already the subject of one's life. These are personal moments of learning, making, connecting and helping; no uniforms, employment, money, report cards or success medals. No speech bubble explaining the moral; the question and now-filled book supply the answer.\n\nSTORY LOGIC: empty pages are open possibilities, not a declaration that earlier life was worthless. The change is that the character can recognize and name the ongoing search. Do not show a single final answer as a profession. Keep the full notebook visually connected in both panels by its same reddish-brown binding.\n\nSTYLE: authentic hand-painted watercolor on textured paper, visible semitransparent layered washes INSIDE character bodies, variations in pigment, soft wet edges and gentle pooled darker pigment, medium watercolor strength. Not marker, colored pencil, vector, flat fill, plasticky digital 3D or airbrushed gradient. The adult figures have reference-matched balanced simple bodies, neither skinny nor obese, no stubby baby/chibi build, no inflated arms. Heads strictly TRUE CIRCLES with equal width and height; a soft darker local-color shade under each head separates it from torso. Outlines follow each local body color but darker (deep green for green figure, rose for pink, blue for blue), never black body outlines. Eyes small ordinary dark vertical ovals, with tiny white reflected glints allowed, absolutely no white sclera or realistic eyeball. Same eye structure for all, feminine cues only two very subtle lashes where appropriate. No breasts, prominent buttocks, hourglass waist or gendered body contours. Bodies uniformly neutral, no hair, no selective special outfits, no skirts or coats. Exactly three fingers and one thumb per visible hand, four total digits, natural grasp and pen gesture.\n\nFORMAT: one square image with two related side-by-side panels, right beginning, left later, narrow white gutter and no heavy comic borders. Natural irregular watercolor scene edges with a clean white border around the whole square, color never touches the file edge. Soft warm earthy home colors contrast the green main figure; avoid an all-blue/orange/yellow cast. All important heads, hands, book, feet if shown and props stay uncut inside the frame. Accurate legible Persian text ONLY the two specified phrases; no English, extra captions, panel numbers, logo or watermark.\n",
+  "fullGenerationPromptPath": "review-data/wave-154-156-2026-10-19/154/154-c-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishSha256": "91b79f7656ff39c4021f8218b1599f0941826b3d1e3c14e01cd1ee7ad30499b9",
+  "fullGenerationPromptSha256": "91b79f7656ff39c4021f8218b1599f0941826b3d1e3c14e01cd1ee7ad30499b9",
+  "referencePaths": [
+    "Images/151.png"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationRecordPath": "review-data/wave-154-156-2026-10-19/154/154-c-20261019-v1.generation-record.json",
+  "qa": {
+    "visualInspectionPerformed": true,
+    "imageOpenedWith": "view_image",
+    "result": "review_ready_for_user_selection",
+    "conceptReviewedBeforeGeneration": true,
+    "persianTextReviewed": true,
+    "standaloneEnglishPromptIncludesCompleteStoryAndStyle": true,
+    "referenceInspected": true,
+    "notesFa": [
+      "جهت هر دو دفتر با یک ویرایش محدود اصلاح شد: دفترها روی میز و رو به خودِ آدمک قرار دارند، نه نمایش‌داده‌شده به بیننده.",
+      "عنوان و تصویرهای تجربه در دفتر چپ عمداً نسبت به بیننده وارونه‌اند تا از دید نویسنده درست باشند؛ فکر بالای قاب راست حفظ شده است.",
+      "بازبینی بصری پس از اصلاح: سه تصویر تجربه و هر دو دست اصلی حفظ شده‌اند؛ دست اضافه یا اندام زنانه دیده نشد.",
+      "بخشی از بدن‌ها پشت میز پنهان است و انگشتان پوشیده‌شده با اشیا مستقلاً قابل شمارش نیستند."
+    ],
+    "limitations": "Occluded fingers cannot be counted independently. These are review candidates, not user-approved final images."
+  },
+  "generatedAtUtc": "2026-10-19T13:00:12.392987+00:00",
+  "status": "candidate_pending_user_review",
+  "version": 1,
+  "imageHash": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+  "fullGenerationPromptEnglishHash": "91b79f7656ff39c4021f8218b1599f0941826b3d1e3c14e01cd1ee7ad30499b9",
+  "fullGenerationPromptEnglishPath": "review-data/wave-154-156-2026-10-19/154/154-c-20261019-v1.full-generation.en.txt",
+  "rootVisualReview": {
+    "id": "154-c-20261019-v1",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "imageHash": "de42a1a97c5cb6fec22d18b24a94b502a981b19d287151cc8126c65ad50131a1",
+    "notes": "Viewed corrected final PNG: both journals now lie open face-up on the table toward the green reader/writer; all page pictures and title rotated to that reader. Blank-to-lived-experience contrast, Persian thought bubble and watercolor retained."
+  }
+}
