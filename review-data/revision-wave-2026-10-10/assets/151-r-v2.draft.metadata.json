@@ -1,0 +1,34 @@
+{
+  "id": "151-r-v2",
+  "stage": "draft_before_framing_wallpaper_edit",
+  "sourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-ba0b29f2-4252-403f-b5f4-b48d68add35d.png",
+  "path": "review-data/revision-wave-2026-10-10/assets/151-r-v2.draft.png",
+  "sha256": "608690136291ff6abc003be88b668ef919fd0980971f460e7621be64011e1ba3",
+  "generatedBy": "built-in image_gen",
+  "seed": {
+    "id": "151-r-v2",
+    "parentIdeaId": "151-n-v1",
+    "titleFa": "گره‌ای که صبوری یاد داد",
+    "summaryFa": "خیاط هنگام روبه‌روشدن با دشواری کار، برخوردی را می‌آموزد که بعداً به شاگردش برمی‌گرداند.",
+    "storyFa": "خیاط آبی ابتدا با فکرِ درآمد، گرهٔ نخِ همکار تازه‌کار زرد را با عصبانیت سرزنش می‌کند. سپس خودش با همان مشکل روبه‌رو می‌شود و زرد با بردباری به کمکش می‌آید. در پایان، آبی هنگام گره‌خوردن دوبارهٔ نخِ زرد کنار او می‌نشیند و به‌جای سرزنش، با آرامش همراهش مشکل را حل می‌کند.",
+    "meaningFa": "کار می‌تواند انسان را بردبارتر و متواضع‌تر کند؛ تغییر اصلی در برخورد با آدم‌هاست و از تجربهٔ خودِ کار می‌آید.",
+    "concept": "Working through difficulty and receiving patience changes one's treatment of a coworker; growth of patience and humility, not acquiring tailoring ability.",
+    "risk": "Repeating the cafe idea too closely or depicting only skill training; no training diagram, make reversal of human treatment and source of compassion explicit.",
+    "prompt": "Use case: illustration-story. Create a NEW square narrative book illustration, not a copy of either reference scene. Input image 1 (97): reference ONLY for medium adult neutral full-body proportions, simple eyes and local-colored contours. Input image 2 (131): reference ONLY for genuine layered watercolor, luminous pigment and paper; disregard its scene and sharp blush. Match this existing book's painterly visual identity. Broad overlapping translucent watercolor washes visible INSIDE heads, torsos, limbs and hands, gentle pigment pooling, restrained hand-painted texture; no marker, colored-pencil grain, flat vector, glossy/3D paint. Heads are PERFECT CIRCLES, width equals height, no oval, chin, jaw, ears, nose, hair or neck. Medium balanced adult neutral bodies, modest arms, not skinny or chunky; female bodies identical to other bodies, no breast, narrow waist, hip or buttock bulge, indentations. Gender if needed only a few short fine upper-outer eyelashes on the SAME small dark oval eyes. Tiny internal white glints allowed; NO surrounding white sclera. No sharp circular pink cheeks: either omit blush or extremely faint diffuse watercolor. Outlines are darker shades of each body's own color, never black body outlines. Soft local-color crescent contact shadow under each round head joining shoulders directly. Visible hands have THREE fingers PLUS ONE thumb, normal natural grips. Every foot and important prop fully INSIDE the image, no accidental clipping. Generous irregular watercolor edges with clean white paper margins. All writing ONLY short correctly connected colloquial Persian; no English. Family-friendly, warm, gentle human wit. Read scenes right-to-left then downward, thin WHITE gutters, no heavy frames. Calm uncluttered composition for an ADULT audience, not preschool/chibi.\nThree wide stacked narrative panels inside a square, warm restrained adult sewing workshop. BLUE adult tailor is primary; LEMON-YELLOW adult junior coworker, NOT a child. Both balanced neutral bodies in matching simple straight cream aprons, no gendered silhouettes and no additional clothes. Minimal sewing machine and ordinary cloth on large worktable, full seated feet visible beneath table. A distinctive messy loose dark thread tangle on red fabric is the repeated challenge; make it realistic and small, not a monster.\nTOP, beginning of work: blue impatiently points to yellow's tangled thread, harsh eyebrows and small speech «باز گره خورد؟!» Yellow looks discouraged with hands near fabric. Blue has a SMALL thought bubble of just banknotes; concern for output/income dominates. No money labels elsewhere. No needles pointed at anyone.\nMIDDLE, during work: BLUE's own red fabric has the SAME kind of tangle. Blue stops, frustrated and then embarrassed; YELLOW sits beside blue and gently holds the thread with natural three-fingers-plus-thumb hands, compassionate eyes, saying «آروم، درستش می‌کنیم.» Blue visibly receives patience, not a technical sewing lesson. No instructional arrows, diagrams or miraculous new machine; the workplace difficulty reveals human vulnerability.\nBOTTOM, later: yellow again has a thread tangle; now BLUE moves own chair next to yellow and calmly helps untangle with a warm smile, no pointing or blame, short speech «با هم درستش می‌کنیم.» Yellow brightens and relaxes. Both full lower bodies naturally aligned with seated torsos; no twisted feet, feminine waist or bust. Keep blue/yellow identities and same small tools continuous. This is a more patient and humble PERSON formed by work experience, not simply a more skilled seamstress or a recipient of more money. No diploma/trophy. Soft humor in the boss learning patience from the junior adult. Only the three quoted short Persian lines, natural joined Persian. Real layered watercolor and white irregular paper margins.",
+    "sentenceNumber": 151,
+    "version": 2,
+    "referencePaths": [
+      "Images/97.jpg",
+      "Images/131.jpg"
+    ],
+    "status": "pending"
+  },
+  "parentIdeaId": "151-n-v1",
+  "revisionRequestId": "b1f14a6f-0264-4a7c-9ae7-a393e3c11ce2",
+  "userApproval": "pending",
+  "issues": [
+    "Top and middle panels crop seated lower bodies and table",
+    "Unintended slogan and heart on bottom wall paper"
+  ],
+  "savedUtc": "2026-10-10T07:23:42.2071629Z"
+}

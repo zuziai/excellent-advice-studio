@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>کارگاه تصویرسازی کتاب</title>
+  <meta name="description" content="بررسی ایده‌های تصویری کتاب، انتخاب تصویر و ثبت درخواست ویرایش.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%233c2857'/%3E%3Cpath d='M7 8h8v17H7zm10 0h8v17h-8' fill='%23ffdc97'/%3E%3Cpath d='M16 7v19' stroke='%233c2857' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css?v=20261003-edit-progress">
+  <script src="app.js?v=20261019-prompt-column-d" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./"><span class="book-mark" aria-hidden="true">ک</span><span>کارگاه تصویرسازی<span class="brand-sub">کتاب Excellent Advice</span></span></a>
+    <div class="top-actions"><span id="save-state" class="save-state" role="status">در حال بازکردن تصاویر…</span><button id="export" class="button secondary">دانلود بازخورد</button></div>
+  </header>
+  <aside id="connection-alert" role="status" hidden style="margin:16px;padding:16px;background:#fff3dc;border:1px solid #e7c98e;border-radius:8px">
+    <strong>ارتباط با پوشهٔ تصاویر قطع شده است.</strong>
+    <p>تصاویر و نظرهای ذخیره‌شده محفوظ‌اند. فایل «Open Book Review.cmd» در پوشهٔ کتاب را اجرا کنید تا صفحه دوباره راه بیفتد، سپس دکمهٔ زیر را بزنید.</p>
+    <button id="retry-connection" class="button secondary">تلاش دوباره برای نمایش تصاویر</button>
+  </aside>
+  <div class="workspace">
+    <aside class="sidebar">
+      <div class="section-label">مرحلهٔ فعلی</div>
+      <h2 id="wave-title">هماهنگ‌کردن سبک</h2>
+      <p id="wave-summary" class="muted"></p>
+      <nav id="sentence-nav" aria-label="جمله‌های این مرحله"></nav>
+      <div class="queue-note"><div class="section-label">مرحلهٔ بعد</div><p>پس از هماهنگی سبک، در هر مرحله تا ۱۰ جمله و برای هر جمله چهار ایده بررسی می‌کنیم.</p></div>
+      <div class="sidebar-bottom"><span id="book-summary"></span><button class="text-button" id="shortcuts">راهنمای کلیدها</button></div>
+    </aside>
+    <main id="main">
+      <section class="sentence-header" aria-labelledby="sentence-en">
+        <div class="eyebrow"><span id="sentence-number"></span><span id="decision-badge" class="badge">در انتظار بررسی شما</span></div>
+        <h1 id="sentence-en" lang="en" dir="ltr"></h1>
+        <p id="sentence-fa" class="persian sentence-fa" lang="fa" dir="rtl"></p>
+      </section>
+      <div class="gallery-heading"><h2>پنج ایده برای این جمله</h2><span class="muted">برای دیدن تصویر بزرگ، روی آن کلیک کنید.</span></div>
+      <section id="ideas" class="idea-grid" aria-label="ایده‌های تصویرسازی"></section>
+      <section class="wave-feedback">
+        <div><h2>هیچ‌کدام مناسب نیست؟</h2><p class="muted">توضیح کلی را بنویسید و مشخص کنید همین ایده‌ها ویرایش شوند یا ایده‌های تازه ساخته شوند.</p></div>
+        <textarea id="sentence-note" rows="2" dir="auto" placeholder="چه چیزی را عوض کنیم؟ چه ایده یا فضایی را ترجیح می‌دهید؟" aria-label="نظر کلی دربارهٔ این جمله"></textarea>
+        <div class="overall-actions"><button id="revise-all" class="button edit-button">درخواست ویرایش همهٔ ایده‌ها</button><button id="reject-all" class="button reject">رد همه و ساخت ایده‌های تازه</button><button id="open-custom-idea" class="button secondary" aria-expanded="false" aria-controls="custom-idea-panel">ایدهٔ خودم را پیشنهاد می‌دهم</button><button id="clear-overall-revision" class="text-button" hidden>لغو درخواست ویرایش کلی</button></div>
+        <p id="overall-feedback-message" class="overall-feedback-message" role="status" hidden></p>
+        <div id="custom-idea-panel" class="custom-idea-panel" hidden>
+          <label for="custom-idea">ایدهٔ شما برای این جمله</label>
+          <p class="muted">داستان، شخصیت‌ها و پیامی را که می‌خواهید تصویر برساند توضیح دهید.</p>
+          <textarea id="custom-idea" rows="4" maxlength="10000" dir="auto" placeholder="ایدهٔ من این است که…" aria-describedby="custom-idea-help custom-idea-error"></textarea>
+          <p id="custom-idea-error" class="custom-idea-error" role="alert" hidden></p>
+          <div class="custom-idea-actions"><button id="submit-custom-idea" class="button primary">ثبت درخواست ۵ طرح از ایدهٔ من</button><button id="clear-custom-request" class="text-button" hidden>لغو درخواست؛ حفظ متن ایده</button></div>
+          <p id="custom-idea-status" class="custom-idea-status" role="status" hidden></p>
+          <p id="custom-idea-help" class="footnote">پس از ثبت، در همین چت خبر بدهید تا درخواست را از صفحهٔ باز شما بخوانم و پنج طراحی متفاوت آماده کنم. ارسال فایل «دانلود بازخورد» هم راه جایگزین است.</p>
+        </div>
+      </section>
+      <p id="feedback-instructions" class="footnote"></p>
+    </main>
+  </div>
+  <dialog id="viewer" class="viewer" aria-label="بررسی تصویر بزرگ">
+    <div class="viewer-top"><div><span class="section-label" id="viewer-counter"></span><strong id="viewer-title"></strong></div><div class="viewer-controls"><button id="zoom" class="button secondary">اندازهٔ واقعی</button><button id="close-viewer" class="icon-button" aria-label="بستن تصویر بزرگ">✕</button></div></div>
+    <div class="viewer-layout">
+      <div class="art-pane"><button id="prev-idea" class="art-nav prev" aria-label="ایدهٔ قبلی">‹</button><div id="image-scroll" class="image-scroll"><img id="full-image" alt=""></div><button id="next-idea" class="art-nav next" aria-label="ایدهٔ بعدی">›</button></div>
+      <aside class="review-pane">
+        <div class="viewer-sentence"><span id="viewer-sentence-id" class="section-label"></span><p id="viewer-en" lang="en" dir="ltr"></p><p id="viewer-fa" class="persian" lang="fa" dir="rtl"></p></div>
+        <div class="decision-buttons"><button id="approve" class="button primary">انتخاب نهایی</button><button id="revise" class="button edit-button">ویرایش تصویر</button><a id="viewer-download" class="button secondary download-button" href="#" download>دانلود همین نسخه با کیفیت کامل</a></div>
+        <div id="viewer-version-status" class="version-status" role="status" hidden></div>
+        <div id="viewer-decision" class="decision-message" role="status"></div>
+        <div id="finalization-activity" class="revision-activity" role="status" aria-live="polite" hidden><div class="activity-heading"><span id="finalization-spinner" class="progress-spinner" aria-hidden="true" hidden></span><strong id="finalization-title"></strong></div><p id="finalization-description"></p><button id="retry-finalization" class="button secondary" hidden>تلاش دوباره برای ذخیرهٔ نهایی</button></div>
+        <div id="idea-feedback"><label for="idea-note">نظر یا تغییر مدنظر شما</label><textarea id="idea-note" rows="4" maxlength="10000" dir="auto" placeholder="مثلاً حالت چهره، متن حباب، رنگ یا بخشی از داستان را تغییر بده…" aria-describedby="edit-draft-status edit-error"></textarea><p id="edit-error" class="custom-idea-error" role="alert" hidden></p><p id="edit-draft-status" class="note-hint">یادداشت خودکار ذخیره می‌شود؛ برای درخواست ویرایش، دکمهٔ زیر را بزنید.</p><button id="submit-revision" class="button primary submit-revision">ثبت درخواست ویرایش</button><div id="revision-activity" class="revision-activity" role="status" aria-live="polite" hidden><div class="activity-heading"><span id="revision-spinner" class="progress-spinner" aria-hidden="true" hidden></span><strong id="revision-activity-title"></strong></div><p id="revision-activity-description"></p></div><div id="edit-hint" class="edit-handoff" hidden><p>برای شروع ویرایش، در همین چت خبر بدهید تا درخواست را از صفحهٔ باز شما بخوانم. با شروع واقعی کار، نشانگر «در حال ویرایش» فعال می‌شود و پس از آماده‌شدن نتیجه، تصویر تازه اینجا نمایش داده می‌شود.</p><button id="export-revisions" class="button secondary">دانلود بازخورد برای ارسال در چت</button></div></div>
+        <div class="story-explanation"><h2>داستان تصویر</h2><p id="viewer-story"></p></div>
+        <div class="meaning-explanation"><h2>پیام ایده</h2><p id="viewer-meaning"></p></div>
+        <button id="viewer-reject" class="text-button danger">رد همهٔ ایده‌های این جمله</button>
+        <button id="clear-decision" class="text-button" hidden>لغو انتخاب؛ حفظ یادداشت‌ها</button>
+        <details class="prompt-details"><summary>دیدن پرامپت ساخت تصویر</summary><pre id="viewer-prompt" dir="auto"></pre></details>
+        <div class="keyboard-hint"><kbd>←</kbd> <kbd>→</kbd> ایده‌ها <span>·</span> <kbd>↑</kbd> <kbd>↓</kbd> جمله‌ها <span>·</span> <kbd>Esc</kbd> بستن</div>
+      </aside>
+    </div>
+  </dialog>
+  <dialog id="help" class="help-dialog"><h2>بررسی سریع‌تر</h2><p>یک تصویر را باز کنید و با این کلیدها جلو بروید. جای نوشتن نظر کنار تصویر است.</p><dl><dt dir="ltr">← / →</dt><dd>ایدهٔ قبلی / بعدی</dd><dt dir="ltr">↑ / ↓</dt><dd>جملهٔ قبلی / بعدی</dd><dt>۱–۵</dt><dd>رفتن مستقیم به یک ایده</dd><dt dir="ltr">F</dt><dd>رفتن به کادر یادداشت</dd><dt dir="ltr">Esc</dt><dd>بستن تصویر بزرگ</dd></dl><p class="muted">هنگام نوشتن، کلیدهای پیمایش غیرفعال‌اند. انتخاب نهایی با دکمهٔ مشخص انجام می‌شود.</p><button id="close-help" class="button primary">متوجه شدم</button></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript>برای نمایش تصاویر و ذخیرهٔ نظرها، جاوااسکریپت مرورگر باید فعال باشد.</noscript>
+</body>
+</html>

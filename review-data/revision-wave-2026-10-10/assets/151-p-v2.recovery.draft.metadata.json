@@ -1,0 +1,12 @@
+{
+  "id": "151-p-v2",
+  "stage": "recovery_draft_before_camera_edit",
+  "sourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-89df4570-cbe4-4cb9-96e3-67a5a950c6b6.png",
+  "path": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.draft.png",
+  "sha256": "a04e985bf686004211ae0e0ef12cc8bfea37cc74addee95eab9475712e8ca7cb",
+  "tool": "built-in image_gen",
+  "styleReferencePath": "review-data/revision-wave-2026-10-10/assets/151-o-v2.png",
+  "userApproval": "pending",
+  "issue": "Camera body lens direction toward both artists is ambiguous",
+  "savedUtc": "2026-10-10T07:44:38.3269027Z"
+}

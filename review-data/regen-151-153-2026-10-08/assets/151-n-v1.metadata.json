@@ -1,0 +1,40 @@
+{
+  "id": "151-n-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "صبوری هم یاد گرفتم",
+  "summaryFa": "کارمند کافه به‌تدریج یاد می‌گیرد به اشتباه مشتری با آرامش و کمک پاسخ دهد.",
+  "storyFa": "در قاب بالا، مشتری خاکستری فنجان را روی میز ریخته؛ کارمند مرجانی اخم می‌کند و همکار فیروزه‌ای با آرامش دستمال می‌آورد. در قاب پایین همان مشتری و فنجانِ ریخته دیده می‌شوند، اما مرجانی با لبخند دستمال و فنجان تازه می‌دهد و می‌گوید «عیبی نداره!». هر دو کارمند پیش‌بند کرم یکسان دارند و پاکت کوچک «حقوق» در هر دو قاب روی قفسه است.",
+  "meaningFa": "کار در کنار درآمد می‌تواند صبوری و شیوهٔ برخورد مهربانانهٔ فرد را رشد دهد.",
+  "prompt": "Use case: precise-object-edit. The attached square watercolor picture is the EXACT EDIT TARGET. Correct only two defects while preserving this same café story and artwork.\n\n1. Remove the English word \"Coffee\" from the chalkboard in BOTH scenes. Restore only matching chalkboard background where the letters were. Keep its harmless drawn cup and short chalk marks. Add NO replacement word. All writing must now consist ONLY of the existing correct Persian headings «اول کار» and «مدتی بعد», speech «عیبی نداره!» and both envelope labels «حقوق».\n\n2. Reframe BOTH scenes 25% wider: uniformly reduce each entire existing scene to about 75–80% of its current scale, preserving every head-to-body proportion, and extend its floor downward enough to show the COMPLETE lower legs and BOTH FEET of all three adults within each scene's painted ground and white paper margins. The current characters, chair legs and table are cut at the lower scene edges; complete their natural existing shapes and include full feet on the floor. Gray remains seated at the same table; its feet are visibly below the table. Coral and turquoise remain standing in the same positions. Natural table/chair occlusion of upper legs is allowed, but NO feet or lower legs are clipped by scene edges. Allow that uniform 20–25% reduction of each entire scene and a little additional café floor below so nothing is cropped. Keep a square 1:1 image with two scenes stacked and white separation. Do not stretch bodies or shorten legs to force the fit.\n\nKEEP everything else: SAME adult identities and fixed coral, turquoise and light-gray colors; neutral medium bodies, perfectly circular heads with no necks, eyes and expressions; SAME straight cream aprons on both staff, hands, cloth, fresh cup, identical tipped cup/spill, table, chairs, envelopes, all other props and existing setting. Upper coral impatient, lower coral calm and helpful; customer same identity, turquoise calm. Preserve moderate authentic watercolor inside all bodies and setting, local-color outlines, original-quality finish, natural paint endings and clean outer white margins. No new clothing, noses, hair, objects, text or broad stylistic changes. Only remove the English letters and provide complete framing.",
+  "referencePaths": [
+    "review-data/regen-151-153-2026-10-08/assets/151-n-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1205b-55d6-74f1-ac00-4a182829384e\\exec-91aa8224-861c-4cb3-bfc2-9b5483ac25b4.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f7b6bf207bbbb9e41ebe117015f2599072524b5d36ff3dd2abc9851781f6c177",
+  "QA": {
+    "agentObservation": "خروجی اصلاح‌شده دیداری بررسی شد: Coffee از هر دو تخته کامل حذف شده و فقط نقش فنجان باقی است؛ دو پای کامل مرجانی و فیروزه‌ای و پاهای مشتری خاکستری زیر میز در هر دو قاب دیده می‌شوند و قطع نیستند. ترتیب داستان، رنگ‌ها، سرهای دایره، چشم‌ها، دو پیش‌بند کرم یکسان، فنجان و لکهٔ تکرارشده و همهٔ متن‌های فارسی حفظ شده‌اند. آبرنگ داخل بدن و حاشیهٔ سفید باقی است. دست‌های درگیر گرفتن اشیا پوشیده‌اند و شمار همهٔ انگشتان قطعی نیست. برای بازبینی Root آماده است، نه تأیید نهایی کاربر.",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-09T19:47:41.126606+00:00",
+      "observed": "Viewed final edited PNG: English removed, full feet in both scenes, coherent patience learned at work, matching staff aprons, circular heads and watercolor.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  },
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.edit-1.prompt.txt",
+  "generation": {
+    "mode": "built-in image_gen edit",
+    "editAttempt": 1,
+    "startedUtc": "2026-10-09 19:29:39 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.edit-1.result.json"
+  },
+  "originalGeneration": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09 19:14:51 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.result.json"
+  },
+  "inputTargetSnapshotPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.draft.png"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "153-f-v1",
+  "sentenceNumber": 153,
+  "status": "pending",
+  "titleFa": "خاطرهٔ قدیمی، عکس تازه",
+  "summaryFa": "آلبوم قدیمی در جوانی، عکس تازه با دوست جوان‌تر در سال‌های بعد.",
+  "storyFa": "آدمک صورتیِ جوان با دوست فیروزه‌ایِ مسن‌تر روی نیمکت آلبوم می‌بیند. سال‌ها بعد همان صورتی با عینک و چین صورت، کنار دوست زردِ جوان عکس تازه می‌گیرد؛ آلبوم روی همان نیمکت باز مانده است.",
+  "meaningFa": "دوست‌های بزرگ‌تر خاطره و تجربه می‌آورند و دوست‌های جوان‌تر فرصت تجربه‌های تازه.",
+  "prompt": "Use case: illustration-story. Make one NEW square 1:1 watercolor book illustration about friendships with older people in youth and younger people later. Two generous scenes stacked top to bottom, no borders. The attached approved illustration is STYLE ONLY: match its warm character drawing, expressive dark oval eyes and hand-painted pigment; do not reproduce its tailor, apron, room, objects, story, text or portrait layout.\n\nTop scene, heading exactly «جوانی»: A YOUNG ADULT pink friend, a few fine SHORT outer-upper eyelashes, sits on a simple park bench beside an OLDER ADULT turquoise friend with clear round glasses and a few small wrinkles. Pink is on the left; turquoise on the right. They are equal, adult-sized friends, warmly laughing TOGETHER at an open photo album resting across their knees. Its visible photograph shows a charming comically lopsided snowman, no words. Pink points gently at that funny memory, turquoise holds the album naturally. Both are active and capable, not a parent and child.\n\nBottom scene, heading exactly «سال‌ها بعد»: SAME pink character on the LEFT, SAME pink color, circular head, eye shape and tiny eyelashes, now OLDER ADULT with clear glasses and a few wrinkles. Beside pink sits a YOUNG ADULT lemon-yellow friend on the RIGHT. Lemon holds a smartphone at arm's length to take a joyful new SELFIE of BOTH friends. Pink smiles into the phone with delight. SAME photo album lies OPEN on the SAME bench beside them, preserving the connection between old memories and new shared experiences. No third photographer. Smartphone can show only tiny picture shapes/icons, absolutely no text. Old pink is capable, not frail or dependent.\n\nFrame both scenes with ALL feet, full bodies, full bench and phone safely inside generous clean white paper margins. Sparse purposeful park: one small tree or shrub, soft path and pale sky wash, all naturally ending before the file edges. Keep characters large enough to read, but no important cropped object.\n\nSTRICT cast design: every head is a PERFECT CIRCLE, no oval, jaw, chin or flattened lower curve. No nose, hair, ears or neck. Head directly joins shoulders with a soft local-color crescent contact shadow. Medium ADULT proportions for EVERYONE, no children. Neutral straight torso with near-parallel sides: no breasts, pinched waists, bulging hips/buttocks or gendered notches. No clothing. Small DARK oval eyes, optional tiny interior glint, NO white sclera; female eyes retain this SAME size/shape with only a few fine SHORT lashes. Each visible hand exactly THREE fingers plus ONE thumb; natural grip/occlusion permitted.\n\nGenuine MODERATE layered translucent watercolor must show INSIDE heads, bodies, limbs and hands: broad softly irregular overlapping washes, luminous paper, varied pigment density, subtle pooling. Locally colored darker contours, never black body outlines. Avoid flat/vector, marker, uniform pencil grain, glossy 3D or heavy mottling. Warm gentle humor. Only the two specified headings in accurate connected RTL Persian; no dialogue, English, dates or labels.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a12228-4f6a-7ad3-aa28-53c98d93c99c/exec-d960617e-3824-4bd5-a89a-4f99c921386e.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/153-f-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "6037c2f6333ef30bf4a3300a0b25257ba44efe724e876a8ccbd2c97cb5325566",
+  "generationTool": "built-in image_gen",
+  "QA": {
+    "agentObservation": "پاها، نیمکت، گوشی و آلبوم کامل‌اند؛ صورتی، نیمکت و آلبوم تداوم دارند و سن با عینک و چین روشن است. متن فقط دو عنوان فارسی است؛ آبرنگ در بدن‌ها دیده می‌شود. چشم‌های دو مسن در خنده بسته‌اند؛ عکس آدم‌برفی از درخواستِ کج‌ومعوج معمولی‌تر شده است.",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-09T19:53:58.740761+00:00",
+      "observed": "Viewed PNG: pink adult ages consistently, same album and bench, old turquoise friend then young lemon friend, complete feet and props, watercolor inside bodies, minimal dark or smiling eyes and local color contours.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  }
+}

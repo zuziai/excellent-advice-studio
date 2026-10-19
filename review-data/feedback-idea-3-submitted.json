@@ -1,0 +1,74 @@
+{
+  "format": "excellent-advice-feedback",
+  "version": 1,
+  "waveId": "pilot-151-v1",
+  "exportedAt": "2026-10-03T08:20:46.147Z",
+  "records": [
+    {
+      "sentenceId": 151,
+      "waveId": "pilot-151-v1",
+      "candidateIds": [
+        "151-a-v1",
+        "151-b-v1",
+        "151-c-v1",
+        "151-d-v1",
+        "151-e-v1"
+      ],
+      "status": "revise",
+      "chosenIdeaId": "151-c-v1",
+      "ideaNotes": {
+        "151-a-v1": "سر آدمک بیضی شده. اندام های آدمک شبیه اندام استایل من نیستو و یکم بیشتر از حد کشیده شده . آدمک چوبی در یک دست فقط دو انگشت داره. ایده هم تناسبی با جمله نداره اصلا\n",
+        "151-c-v1": "سایه روی دیوار رو حذف کن. قد آدمک ها خیلی بلنده و آدمک سبز مژه داشته باشه و داخل خونه شبیه کارگاه نجاری نباشه"
+      },
+      "note": "",
+      "updatedAt": "2026-10-03T08:17:23.334Z",
+      "requestedVariants": null,
+      "revisionRequest": {
+        "requestId": "ea5d1a22-c866-4fc5-997c-198f790be95f",
+        "baseIdeaId": "151-c-v1",
+        "baseVersion": 1,
+        "comment": "سایه روی دیوار رو حذف کن. قد آدمک ها خیلی بلنده و آدمک سبز مژه داشته باشه و داخل خونه شبیه کارگاه نجاری نباشه",
+        "submittedAt": "2026-10-03T08:17:23.334Z"
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": 151,
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "ideas": [
+        {
+          "id": "151-a-v1",
+          "title": "The sculptor’s real masterpiece",
+          "titleFa": "شاهکارِ واقعیِ پیکرتراش",
+          "image": "art/151-a.png"
+        },
+        {
+          "id": "151-b-v1",
+          "title": "The potter grows too",
+          "titleFa": "سفالگر هم شکل می‌گیرد",
+          "image": "art/151-b.png"
+        },
+        {
+          "id": "151-c-v1",
+          "title": "What are you taking home?",
+          "titleFa": "سوغاتیِ کارگاه: خودم!",
+          "image": "art/151-c.png"
+        },
+        {
+          "id": "151-d-v1",
+          "title": "A workshop full of tools",
+          "titleFa": "یک خرید دیگر یا یک تمرین دیگر؟",
+          "image": "art/151-d.png"
+        },
+        {
+          "id": "151-e-v1",
+          "title": "The gardener’s other harvest",
+          "titleFa": "باغبان هم رشد می‌کند",
+          "image": "art/151-e.png"
+        }
+      ]
+    }
+  ]
+}

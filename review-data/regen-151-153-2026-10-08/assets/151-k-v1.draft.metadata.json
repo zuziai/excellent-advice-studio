@@ -1,0 +1,70 @@
+{
+  "id": "151-k-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "وسایل بیشتر یا توان بیشتر؟",
+  "summaryFa": "یکی وسایل تمرین جمع می‌کند؛ دیگری تمرین می‌کند. وقتِ بالا بردن ساک، نتیجه در توانایی خودشان دیده می‌شود.",
+  "storyFa": "در ستون راست، آدمک زرد وسایل ورزشی نو جمع می‌کند و بعد برای بالا بردن ساک خرید از یک پلهٔ کوتاه به زحمت می‌افتد. در ستون چپ، آدمک سبز با یک وزنه تمرین می‌کند و بعد همان ساک با همان بار را راحت از همان پله بالا می‌برد.",
+  "meaningFa": "تمرین، توانایی خودِ فرد را رشد می‌دهد؛ داشتن وسایل به‌تنهایی جای این رشد را نمی‌گیرد. تفاوت در حالت و انجام یک کار یکسان دیده می‌شود، نه در بدن یا بار ساک.",
+  "prompt": "Use case: illustration-story. Create one independent square 1:1 watercolor book illustration on white paper, understandable from the picture by a twelve-year-old.\n\nReference: the attached 151-f-v1.png is ONLY a positive reference for genuine moderate watercolor, round heads, local-color contours, eyes, neutral proportions and warm narrative clarity. Do not copy its sewing story, room, objects, poses or text. Previously inspected book references 131 and 110 define the same character style; retain those rules below.\n\nLayout: four spacious scenes in two columns and two rows, separated by soft white paper gaps, without heavy panel borders. Each column reads TOP TO BOTTOM. RIGHT column: only the SAME warm yellow adult. LEFT column: only the SAME light green adult. Exactly one character in each scene, four appearances total. Above the right column write ONLY \"وسایل بیشتر\". Above the left column write ONLY \"تمرین بیشتر\". Correct connected Persian RTL lettering. No other writing, labels, captions, numbers or speech bubbles.\n\nTOP RIGHT: yellow happily opens a modest package of new exercise equipment. Beside the character, two new exercise weights and one exercise ball are recognizable, still unused. Excited expression about acquiring the objects.\nTOP LEFT: green actually practices with ONE simple small dumbbell. Mild effort is visible through pose and expression, without added muscles or body transformation.\nBOTTOM RIGHT: later, the SAME yellow character, with the SAME unused equipment nearby, struggles to lift a moderately full grocery tote up ONE short step. Both hands grip its handles naturally, effort visible in posture and facial expression. The bag is still below the step. Warm gentle humor, no ridicule.\nBOTTOM LEFT: later, the SAME green character after practicing, with the SAME single dumbbell resting nearby, easily lifts an IDENTICAL loaded grocery tote up an IDENTICAL short step. The bag is just above the step; expression calm and satisfied, posture stable and balanced.\n\nCritical comparison: both bottom bags are exactly the SAME color, size, shape, fullness and weight. Both contain the SAME visible groceries: one baguette, one leafy vegetable, two round fruit. Both steps have exactly the SAME short height and shape. Entire characters, feet, bags, equipment and steps remain fully visible. Both adults have the SAME moderate height, build and apparent age. Difference comes ONLY from effort, posture and practiced ability: never muscles, a fat/thin contrast, or lighter groceries. The top row clearly contrasts unused possessions with practice; the bottom row shows the resulting ability doing the SAME everyday task.\n\nSetting: a simple inhabited home exercise corner in daylight, consistent neutral warm surroundings, sparse tiny turquoise accents, minimal decoration. Allow clear negative space around actions. Broad clean WHITE margins surround the complete painting; pigment never touches file edges. Ground and wash endings can be irregular and naturally open, not four identical rectangular frames.\n\nPainting: authentic restrained hand-painted watercolor. INSIDE every head, torso, limb and hand, paint broad overlapping translucent washes with softly irregular pigment density, luminous paper and subtle pooling. Keep watercolor evident inside characters, not merely behind them. Clear contour lines use a DARKER SHADE OF THE SAME LOCAL BODY COLOR: yellow-brown around yellow, dark green around green. No black body outlines, uniform fine grain, marker/colored-pencil texture, flat vector fills, heavy splashes, crystalline texture or glossy 3D modeling.\n\nAnatomy: balanced simple NEUTRAL adult bodies, neither chunky/chibi nor excessively slender or stretched. No bust, pinched waist, prominent hips or buttocks. Completely CIRCULAR heads, no oval, jaw, chin or flattened lower arc. Heads join shoulders directly, NO NECK or gap; soft local-color crescent shadow immediately beneath each head. No hair, nose or ears. Same plain character design; no special clothes or costume on one alone.\nEyes: SMALL dark simple oval eyes, optionally a tiny white glint INSIDE; no white sclera surrounding a pupil. NO EYELASHES for either character here. Keep eye size and placement consistent; express emotions with subtle eyebrows, mouths and poses.\nHands: EXACTLY THREE FINGERS PLUS ONE THUMB on every visible hand. Natural gripping occlusion allowed; no mitten shapes or extra fingers.\n\nThe message is growth through practice, not condemnation of buying or income. Only the TWO specified Persian headings appear. No English, watermark or book quotation.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a11a32-6062-7950-b23c-16389ef8f724\\exec-08fb4d32-af2a-4180-8e89-d286e1ecb714.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "QA": {
+    "state": "needs_review",
+    "visualInspectionPerformed": true,
+    "inspectionMethod": "Generated image visually inspected; exact workspace output also opened using view_image twice (high and original).",
+    "layout": {
+      "result": "pass",
+      "observed": "Square; four scenes in 2x2; yellow on right and green on left, continuity top to bottom; all important objects remain within white margins."
+    },
+    "text": {
+      "result": "pass",
+      "observed": "Only two correct Persian headings: وسایل بیشتر at right and تمرین بیشتر at left."
+    },
+    "semanticComparison": {
+      "result": "pass_with_continuity_issue",
+      "observed": "Bottom groceries, bag sizes/fullness and short steps are visually similar; yellow's strained lift and green's easy lift are clear. However two dumbbells appear near green in the lower scene instead of the single practiced dumbbell."
+    },
+    "identity": {
+      "result": "pass",
+      "observed": "Yellow and green retain body color between appearances; no added muscles or large physique transformation."
+    },
+    "anatomy": {
+      "result": "needs_review",
+      "observed": "Round heads directly join shoulders, neutral adult silhouettes, no noses/ears/hair. Most fingers are naturally occluded in grips, so exact digit counts cannot be confirmed on every hand; free hand in green top scene is simplified."
+    },
+    "eyes": {
+      "result": "pass",
+      "observed": "Small dark ovals with tiny inner glints where open; no surrounding white sclera, no eyelashes. Closed eyes during exertion are expressive."
+    },
+    "watercolor": {
+      "result": "pass",
+      "observed": "Moderate translucent irregular watercolor washes visible within heads, torsos and limbs; local darker body-color contours."
+    },
+    "clothingConsistency": {
+      "result": "fail",
+      "observed": "Yellow has a cream apron in both appearances; green is plain. This violates the instruction against special clothing on only one character."
+    },
+    "overall": "Pending human review; clothing consistency and single-dumbbell continuity are recorded defects. No approval assigned."
+  },
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.attempt-2.prompt.txt",
+  "inspectedStyleReferencePaths": [
+    "Images/131.jpg",
+    "Images/110.jpg",
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "sha256": "D1DBB7E0D37F6013C1E01912F497C426766985241D03B49B9EB37AE2E9B86A8A",
+  "generation": {
+    "mode": "built-in image_gen",
+    "successfulAttempt": 2,
+    "execCellId": "g2:3",
+    "startedUtc": "2026-10-08 07:32:28 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.attempt-2.result.json",
+    "previousFailureLogPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.attempt-1-failure.json"
+  }
+}

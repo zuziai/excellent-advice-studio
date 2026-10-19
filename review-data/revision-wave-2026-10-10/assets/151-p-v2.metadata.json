@@ -1,0 +1,148 @@
+{
+  "id": "151-p-v2",
+  "parentIdeaId": "151-l-v1",
+  "titleFa": "امضایی که دو نفره شد",
+  "summaryFa": "هنرمند در جریان یک کار مشترک، از خواستنِ اعتبار برای خودش به انصاف و قدردانی می‌رسد.",
+  "storyFa": "هنرمند سبز در آغاز نام‌بردن فقط از خودش را می‌خواهد و تابلوی «اثر من» را کنار نقاشی مشترک می‌گذارد. هنگام کار، همکار مرجانی بخش مهمی از نقاشی را با او می‌سازد و سبز سهم او را می‌بیند. در پایان، سبز تابلو را به «اثر ما» تغییر می‌دهد و همکارش را برای عکسِ اثر کنار خودش می‌آورد.",
+  "meaningFa": "کار می‌تواند انسان را منصف‌تر و قدردان‌تر کند؛ رشدِ منش در شیوهٔ تقسیم اعتبار و احترام به همکار دیده می‌شود.",
+  "concept": "Work changes a self-centered desire for personal status into fairness and gratitude, visible through sharing authorship.",
+  "risk": "Could read as simply admitting help. Make shared labor substantial and deliberate changed credit the final choice.",
+  "prompt": "Use case: precise-object-edit. Make ONE tiny local edit to this supplied finished square three-panel watercolor illustration. Change ONLY the CAMERA BODY on the tripod at the FAR RIGHT of the BOTTOM PANEL. Its current broad rear LCD faces the viewer and the camera aiming direction is ambiguous. Redraw only that camera body in a clear THREE-QUARTER SIDE VIEW: its cylindrical lens protrudes LEFTWARD and a little backward, directly toward the GREEN and CORAL artists standing together at center-left of the bottom panel. Show the side/body and lens so the optical axis toward the artists is obvious. Keep a recognizable small ordinary camera, attached to the SAME tripod mount. A rear LCD should not be the visible broad face; if a narrow rear edge is visible, show no picture of people on it. Lens faces the artists, never the wall behind them or the outside edge. Keep the tripod itself and ALL THREE legs exactly the same size and positions, complete and safely inside the white margin. Do not change camera position, add people, lens rays or other objects.\n\nEverything else stays exactly as it is: all THREE panels, every GREEN and CORAL character, circular heads, faces, eye shapes/glints/short lashes, neutral medium bodies, hands, gestures, cream aprons, both full feet, mural tree/river and painting progress, buckets/brushes, thought trophy, the Persian cards «اثر من» and «اثر ما», speech «کار هر دومونه!», courtyard, clean white gutters and margins. Preserve exactly the current watercolor texture inside heads and bodies, local colored contours and soft paint. No new captions, no English, no restyling or reframing. ONLY clarify that one camera body's lens direction toward BOTH artists.\n",
+  "sentenceNumber": 151,
+  "version": 2,
+  "referencePaths": [
+    "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-89df4570-cbe4-4cb9-96e3-67a5a950c6b6.png"
+  ],
+  "status": "pending",
+  "seed": {
+    "id": "151-p-v2",
+    "parentIdeaId": "151-l-v1",
+    "titleFa": "امضایی که دو نفره شد",
+    "summaryFa": "هنرمند در جریان یک کار مشترک، از خواستنِ اعتبار برای خودش به انصاف و قدردانی می‌رسد.",
+    "storyFa": "هنرمند سبز در آغاز نام‌بردن فقط از خودش را می‌خواهد و تابلوی «اثر من» را کنار نقاشی مشترک می‌گذارد. هنگام کار، همکار مرجانی بخش مهمی از نقاشی را با او می‌سازد و سبز سهم او را می‌بیند. در پایان، سبز تابلو را به «اثر ما» تغییر می‌دهد و همکارش را برای عکسِ اثر کنار خودش می‌آورد.",
+    "meaningFa": "کار می‌تواند انسان را منصف‌تر و قدردان‌تر کند؛ رشدِ منش در شیوهٔ تقسیم اعتبار و احترام به همکار دیده می‌شود.",
+    "concept": "Work changes a self-centered desire for personal status into fairness and gratitude, visible through sharing authorship.",
+    "risk": "Could read as simply admitting help. Make shared labor substantial and deliberate changed credit the final choice.",
+    "prompt": "Use case: illustration-story. Create a NEW square narrative book illustration, not a copy of either reference scene. Input image 1 (97): reference ONLY for medium adult neutral full-body proportions, simple eyes and local-colored contours. Input image 2 (131): reference ONLY for genuine layered watercolor, luminous pigment and paper; disregard its scene and sharp blush. Match this existing book's painterly visual identity. Broad overlapping translucent watercolor washes visible INSIDE heads, torsos, limbs and hands, gentle pigment pooling, restrained hand-painted texture; no marker, colored-pencil grain, flat vector, glossy/3D paint. Heads are PERFECT CIRCLES, width equals height, no oval, chin, jaw, ears, nose, hair or neck. Medium balanced adult neutral bodies, modest arms, not skinny or chunky; female bodies identical to other bodies, no breast, narrow waist, hip or buttock bulge, indentations. Gender if needed only a few short fine upper-outer eyelashes on the SAME small dark oval eyes. Tiny internal white glints allowed; NO surrounding white sclera. No sharp circular pink cheeks: either omit blush or extremely faint diffuse watercolor. Outlines are darker shades of each body's own color, never black body outlines. Soft local-color crescent contact shadow under each round head joining shoulders directly. Visible hands have THREE fingers PLUS ONE thumb, normal natural grips. Every foot and important prop fully INSIDE the image, no accidental clipping. Generous irregular watercolor edges with clean white paper margins. All writing ONLY short correctly connected colloquial Persian; no English. Family-friendly, warm, gentle human wit. Read scenes right-to-left then downward, thin WHITE gutters, no heavy frames. Calm uncluttered composition for an ADULT audience, not preschool/chibi.\nThree panels stacked as three broad horizontal scenes WITHIN a square; airy small simple same community-art courtyard. PRIMARY GREEN neutral adult artist, a few fine short eyelashes, and CORAL neutral adult coworker. Both same plain straight cream work aprons, full feet, no other clothes. A large colorful wall mural of a flowing blue river and broad leafy tree is visibly their shared project.\nTOP: early green artist places a modest hand-lettered card «اثر من» beside the unfinished mural and proudly gestures as if only green made it. Coral is plainly also working, carrying a paint bucket and brush, overlooked but not caricatured or crying. A SMALL green thought bubble of a simple gold award/crown establishes pursuit of personal fame; no words in that thought bubble. Keep ambition mild and human.\nMIDDLE: DURING the difficult mural work, coral and green paint together at ground level, no ladder or precarious geometry. Coral completes a significant missing flowing section connecting green's disconnected branches/river strokes. Green pauses, genuinely sees the coworker's important contribution, lowers own brush and turns toward coral with thoughtful soft expression. The two brushes and related painted zones make joint creation immediately visible; this is not a master teaching technique.\nBOTTOM: finished same recognizable mural, the card now «اثر ما». Green warmly invites coral beside herself for a simple photo, openly pointing toward coral as contributor; one short green speech «کار هر دومونه!» A small ordinary camera on stable low tripod is fully visible aimed at BOTH, geometrically believable. Coral holds own paint-stained brush and smiles warmly. Green has gained fairness and gratitude, no new prize or money pile in the final scene. Keep the two bodies neutral, balanced, identical build; green female cue ONLY short lashes. Colored lines, authentic overlapping watercolor, clean irregular white margins. No English, only the two cards and the one short final speech.",
+    "sentenceNumber": 151,
+    "version": 2,
+    "referencePaths": [
+      "Images/97.jpg",
+      "Images/131.jpg"
+    ],
+    "status": "pending"
+  },
+  "userApproval": "pending",
+  "revisionRequestId": "ab0da728-6e42-4179-8f29-a91fafc3cefa",
+  "submittedRevision": {
+    "requestId": "ab0da728-6e42-4179-8f29-a91fafc3cefa",
+    "baseIdeaId": "151-l-v1",
+    "baseVersion": 1,
+    "comment": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+    "submittedAt": "2026-10-10T06:56:28.058Z"
+  },
+  "promptPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.edit-1.prompt.txt",
+  "inspectedStyleReferencePaths": [
+    "review-data/revision-wave-2026-10-10/assets/151-o-v2.png"
+  ],
+  "originalStyleReferencePaths": [
+    "Images/97.jpg",
+    "Images/131.jpg"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-113d88f4-9c22-41b9-8458-b8959e4ca856.png",
+  "outputPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f653e3c4c0659644c1f49e76424b0f300d7a2f6eb19bbbc6a8aee48bef45485c",
+  "imageHash": "f653e3c4c0659644c1f49e76424b0f300d7a2f6eb19bbbc6a8aee48bef45485c",
+  "QA": {
+    "state": "ready_for_owner_review",
+    "visualInspectionPerformed": true,
+    "inspectionMethod": "Recovery generated output, exact saved tool source, and canonical workspace PNG all inspected with view_image.",
+    "inspectedAt": "2026-10-10T11:16:58.810223+03:30",
+    "layout": {
+      "result": "pass",
+      "observed": "Three stacked scenes; green and coral fully framed with both feet in every appearance. Mural, cards, buckets/brushes and complete camera/tripod within white margins."
+    },
+    "text": {
+      "result": "pass",
+      "observed": "Only exact Persian effect-credit cards اثر من and اثر ما and final green speech کار هر دومونه!."
+    },
+    "meaning": {
+      "result": "ready_for_review",
+      "observed": "Green initially claims shared mural and imagines recognition; sees coral significant tree/river contribution during work; finally changes credit to plural and invites coral for joint photo. Sharing credit is deliberate human change, not a technique lesson."
+    },
+    "style": {
+      "result": "pass",
+      "observed": "Authentic translucent overlapping watercolor washes inside heads, bodies and setting, dark local-color outlines, modest expressive oval eyes, no white sclera or sharp blush spots."
+    },
+    "anatomy": {
+      "result": "pass_with_limit",
+      "observed": "Neutral medium adult bodies without female chest/waist/hip shaping. Green has short lashes on same small dark oval eye geometry. Both aprons matching, continuous legs and feet. Exact digit counts partly occluded by brushes/arms; no all-grips count claim."
+    },
+    "camera": {
+      "result": "pass",
+      "observed": "Targeted local edit replaced ambiguous rear-LCD view with visible side camera body and lens pointing left toward both artists; tripod size/location and full legs preserved."
+    },
+    "invariants": {
+      "result": "pass_visual",
+      "observed": "Three scenes, mural progression, body colors/eye forms, credit cards, dialogue and watercolor visually retained after camera-only edit."
+    },
+    "ownerReviewPerformed": false,
+    "humanComprehensionTestPerformed": false,
+    "userApproval": "pending",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-10T07:55:01.595510+00:00",
+      "observed": "Viewed final corrected PNG: shared mural credit changes from my work to our work, coworker visibly paints substantial river section and is invited to shared photo. Camera lens now aims left toward both. Full feet, matching neutral aprons, same dark oval eyes, round heads and layered watercolor retained.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  },
+  "generation": {
+    "mode": "built-in image_gen recovery generation followed by precise camera edit",
+    "editAttempt": 1,
+    "startedUtc": "2026-10-10 07:44:38 UTC",
+    "completedUtc": "2026-10-10T11:16:58.810223+03:30",
+    "serializedResultPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.edit-1.result.json",
+    "result": {
+      "id": "151-p-v2",
+      "stage": "recovery_camera_edit",
+      "tool": "built-in image_gen",
+      "startedUtc": "2026-10-10 07:44:38 UTC",
+      "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-113d88f4-9c22-41b9-8458-b8959e4ca856.png",
+      "output_hint": "Generated images are saved to C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6 as C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-113d88f4-9c22-41b9-8458-b8959e4ca856.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "referencedImagePaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-89df4570-cbe4-4cb9-96e3-67a5a950c6b6.png"
+      ],
+      "promptPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.edit-1.prompt.txt",
+      "transparentBackground": false
+    }
+  },
+  "inputTargetSnapshotPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.draft.png",
+  "inputTargetSha256": "a04e985bf686004211ae0e0ef12cc8bfea37cc74addee95eab9475712e8ca7cb",
+  "recoveryGeneration": {
+    "id": "151-p-v2",
+    "stage": "recovery_generation",
+    "tool": "built-in image_gen",
+    "startedUtc": "2026-10-10 07:40:49 UTC",
+    "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-89df4570-cbe4-4cb9-96e3-67a5a950c6b6.png",
+    "output_hint": "Generated images are saved to C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6 as C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-2334-7de0-8968-e38a9d0ff8d6\\exec-89df4570-cbe4-4cb9-96e3-67a5a950c6b6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "referencedImagePaths": [
+      "review-data/revision-wave-2026-10-10/assets/151-o-v2.png"
+    ],
+    "promptPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.prompt.txt",
+    "transparentBackground": false
+  },
+  "recoveryPromptPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.prompt.txt",
+  "draftMetadataPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.recovery.draft.metadata.json",
+  "initialRequest": {
+    "promptPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.prompt.txt",
+    "preflightPath": "review-data/revision-wave-2026-10-10/assets/151-p-v2.preflight.json",
+    "reportedRootExecCellId": "27",
+    "statusAtRecoveryStart": "Original root27 remained running over20min at recovery start; parent subsequently terminated root27/root36 after real recovery output existed. No original result fabricated.",
+    "sourcePathInvented": false
+  },
+  "fullGenerationPromptEnglish": "Create one finished square, 1:1 narrative watercolor illustration for a thoughtful visual book for adults and teenagers. Arrange THREE broad horizontal scenes stacked from top to bottom, with slender clean white gutters and no heavy comic frames. The story is an artist changing from seeking personal recognition to acknowledging a coworker's contribution during the actual work. Make the same courtyard and the progress of the same wall mural recognizable across all three scenes. Use only TWO characters: a GREEN adult artist on the left and a CORAL adult artist on the right. Their colors, builds, faces and matching cream work aprons remain consistent. The narrative must be immediately understandable through the actions, shared artwork and authorship cards; do not add an explanation of the book's advice to the picture.\n\nPAINTING MEDIUM AND BOOK STYLE\nPaint a genuine, moderately textured hand-painted watercolor on white watercolor paper. Use luminous overlapping translucent washes, broad varied strokes and gentle pigment pooling at a few natural edges. This layered watercolor must visibly exist INSIDE the characters' heads, torsos, arms, legs and hands, as well as in the mural, masonry and paving. Leave some lighter paper showing through the paint. Avoid smooth flat fills, vector shapes, marker shading, colored-pencil grain, plastic gloss, airbrushed 3D surfaces and exaggerated stains. Define the green character with restrained darker green contours and the coral character with darker coral or burgundy contours, never black outlines around their bodies. Faces use small dark facial marks. Ground the people with quiet watercolor contact shadows under their feet. The outer painted edges are organic and irregular, with clean white paper around all four sides. Keep every body, both feet, brush, bucket, sign and the entire tripod within its own scene with breathing room. The top and middle must be fully framed, rather than showing cropped bodies above a gutter.\n\nCHARACTER DESIGN\nThese are stylized adult book characters with medium, balanced, neutral bodies. Their torsos are simple and almost straight sided; their arms are modest in width, their legs have believable adult length, and their rounded feet are planted naturally. They are neither skinny nor swollen, and they are not babies, chibi figures or toys. Every head is a true CIRCLE of equal width and height, with no oval extension, pointed chin, jaw, ears, nose, hair or separate neck. The head joins the shoulders directly; show a soft darker local-color crescent contact shadow beneath the round head so its boundary is visible. Gender never changes the silhouette: no breasts, pinched waist, accentuated hips or buttocks, bulges or indentations. Green can have a few fine SHORT upper-outer eyelashes attached to the SAME small dark oval eyes as the other character. Do not enlarge the eyes or turn them into a different eye style. Tiny white glints may occur INSIDE the dark eyes; there is no surrounding white sclera. Closed happy arc eyes are appropriate for coral in the last scene. Use small expressive eyebrows and a friendly curved mouth, occasionally a small open happy mouth. No sharp pink blush circles; any cheek warmth is an extremely soft wash blended into the local body color. Each hand has THREE fingers and ONE thumb; a brush or bucket handle can naturally obscure some digits. Use believable grips and connected limbs, not floating hands. Both wear the SAME plain, straight, knee-length cream artist apron, with simple shoulder straps, one small front pocket and restrained green, blue and warm paint marks. No other clothing, accessories or gendered styling.\n\nCOURTYARD AND SHARED MURAL\nAcross all three panels, show a warm, compact community-art courtyard with cream and pale ocher stone walls, a tiled or irregular warm stone floor, and a large wall mural immediately behind the artists. The mural depicts a broad leafy green tree with a branching brown trunk on its left half and a winding blue river passing through low green vegetation to the right. This is clearly PAINTED ON THE WALL, not a real tree growing out of the floor. Preserve the tree's trunk, branch arrangement, river course and wall position as the painted work becomes more complete. A simple low wooden bench and two ordinary paint cans stand at the far left; trailing leaves and small potted flowers flank the mural without cluttering it. The cans carry visible green and blue drips with no printed labels. The right edge has a modest potted flowering plant and hanging greenery. Show enough floor to include complete feet and naturally placed tools. The setting supports the story but must not distract from the characters' changed interaction.\n\nTOP SCENE: SEEKING SOLE RECOGNITION\nThe GREEN artist stands at the left, fully visible. She holds her own paint-stained brush near her torso in one hand and opens the other arm proudly toward the unfinished mural. Her pleased face and presentation gesture suggest that she wants all the recognition for herself. Above her is a small white thought cloud containing ONE simple gold award cup, with a few short warm emphasis marks and NO text. At floor level, slightly to her right and in front of the mural, a small cream freestanding card has a thin brown border and exactly this readable Persian text: \"اثر من\". The thought cloud and card belong clearly to green.\nThe CORAL artist stands at the right with both feet visible, raising her brush to paint leaves or a still incomplete area of the same tree mural. Her other hand holds the handle of an ordinary metal paint bucket. Coral is visibly making a substantial contribution, with a calm small smile, while green is taking the credit. Do not portray coral as crying or as a villain. The tree already has a broad painted form, but parts of the river and vegetation remain unfinished or show pale unpainted wall. No speech bubble appears in this panel.\n\nMIDDLE SCENE: SEEING THE COWORKER'S CONTRIBUTION\nReturn to the same courtyard during the shared work. The GREEN artist is still at the left, now with her paint-stained brush lowered diagonally across the front of her apron. Her expression is thoughtful and appreciative, and her gaze follows coral's work rather than an imaginary prize. There is no award thought cloud in this scene. The CORAL artist at the right bends forward slightly and paints an important flowing BLUE section of the river with her brush; her free hand holds the blue-dripped paint bucket low at her side. Both are full adults with complete bodies and feet. The mural's tree and foliage are more complete, and coral's visible blue strokes connect the river scene into a coherent whole. Green's lowered brush still shows that she has contributed too. This is equal coworkers making a joint artwork, rather than one teaching a technique to a student. Keep the painterly wall, bench, plants and floor consistent. No new sign, speech, instructional arrow, caption or extra person is needed.\n\nBOTTOM SCENE: DELIBERATELY SHARING AUTHORSHIP\nThe same tree-and-river mural is now complete, with a gentle light blue sky wash and fuller green vegetation. Green and coral stand close together near the center, both fully visible. Green has one arm warmly around coral's shoulders and opens her other arm outward in an inclusive gesture. Coral smiles with closed friendly arc eyes and holds her paint-stained brush in her free hand. Their equal stance and genuine warmth show the change in green's character. Above them, a single speech bubble belongs to GREEN and reads exactly: \"کار هر دومونه!\". At the lower left in front of the wall, the same cream authorship card now reads exactly: \"اثر ما\". Keep it similar in size, shape and location to the original card, with the changed word easy to notice.\nAt the FAR RIGHT is one ordinary dark camera on a stable three-legged tripod, aimed toward BOTH artists for a shared photograph. Show the camera in an unmistakable side or three-quarter view: its cylindrical lens protrudes LEFTWARD toward the two people, while the side of the camera body is visible. Its optical axis points at the artists, not at the outside edge or the wall behind it. Keep all THREE tripod legs complete and inside the painted floor. There is no photographer, monitor portrait, lens ray or extra character. Keep the bench and blue/green paint cans at the far left. The result is shared recognition and an appreciative human relationship; do not introduce a new trophy, payment, title or reward in the last scene.\n\nTEXT AND FINAL COMPOSITION\nThe ONLY writing anywhere in the image is the two authorship cards and the final dialogue, using the three exact Persian strings quoted above. Render natural connected Persian letters, readable at book size, in dark hand-lettered marks. No English, numbers, signature, watermark, label, banner or moralizing slogan. Preserve the wide three-row rhythm, clean white gutters, organic watercolor edges, moderate layered washes within the characters and every full foot safely inside its panel. Keep the emotional tone warm and gently witty: an artist initially presenting a shared work as her own finally recognizes and includes the person who helped make it.\n",
+  "fullGenerationPromptEnglishPath": "review-data/finalization-2026-10-10/prompts/151-p-v2.en.txt",
+  "fullGenerationPromptEnglishHash": "583e3cd131a2d3babcf02f56d0e3d628083dd659124963b8e19b4150e865cee0"
+}

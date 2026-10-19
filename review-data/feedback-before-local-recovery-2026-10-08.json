@@ -1,0 +1,306 @@
+{
+  "format": "excellent-advice-feedback",
+  "version": 1,
+  "waveId": "wave-152-154-v2",
+  "styleVersion": "style-2026-10-07-approved-151-f",
+  "exportedAt": "2026-10-08T05:51:59.424Z",
+  "records": [
+    {
+      "sentenceId": 151,
+      "waveId": "wave-152-154-v2",
+      "candidateIds": [
+        "151-f-v1"
+      ],
+      "status": "approved",
+      "chosenIdeaId": "151-f-v1",
+      "ideaNotes": {},
+      "note": "",
+      "updatedAt": "2026-10-07T16:49:54.754Z",
+      "history": [
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "updatedAt": null
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {},
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-03T06:28:30.884Z"
+        }
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null,
+      "requestedVariants": null
+    },
+    {
+      "sentenceId": 152,
+      "waveId": "wave-152-154-v2",
+      "candidateIds": [
+        "152-a-v1",
+        "152-b-v1",
+        "152-c-v1",
+        "152-d-v1"
+      ],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "ideaNotes": {},
+      "note": "",
+      "customIdea": "",
+      "requestedVariants": null,
+      "updatedAt": "2026-10-07T17:51:29.573Z",
+      "history": [
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {},
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": null
+        }
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null
+    },
+    {
+      "sentenceId": 153,
+      "waveId": "wave-152-154-v2",
+      "candidateIds": [
+        "153-a-v1",
+        "153-b-v1",
+        "153-c-v2",
+        "153-d-v1"
+      ],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "ideaNotes": {
+        "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+      },
+      "note": "",
+      "customIdea": "",
+      "requestedVariants": null,
+      "updatedAt": "2026-10-07T18:54:49.648Z",
+      "batchRequest": null,
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "history": [
+        {
+          "status": "revise",
+          "chosenIdeaId": "153-c-v1",
+          "revisionRequest": {
+            "requestId": "79d95e00-52a0-49ed-9511-84172e6047d4",
+            "baseIdeaId": "153-c-v1",
+            "baseVersion": 1,
+            "comment": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی",
+            "submittedAt": "2026-10-07T17:44:37.902Z"
+          },
+          "revisionProgress": {
+            "requestId": "79d95e00-52a0-49ed-9511-84172e6047d4",
+            "status": "in_progress",
+            "message": "در حال آماده‌کردن و اجرای ویرایش برای افزودن عینک به دو شخصیت مسن هستم؛ چروک‌های صورت و بقیهٔ نقاشی حفظ می‌شوند.",
+            "updatedAt": "2026-10-07T18:21:17.088Z",
+            "startedAt": "2026-10-07T18:21:17.088Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "ideaNotes": {
+            "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-07T18:21:17.088Z"
+        }
+      ]
+    },
+    {
+      "sentenceId": 154,
+      "waveId": "wave-152-154-v2",
+      "candidateIds": [
+        "154-a-v1",
+        "154-b-v1",
+        "154-c-v1",
+        "154-d-v1"
+      ],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "ideaNotes": {},
+      "note": "",
+      "customIdea": "",
+      "requestedVariants": null,
+      "updatedAt": "2026-10-07T18:54:49.648Z"
+    }
+  ],
+  "sentences": [
+    {
+      "id": 151,
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "ideas": [
+        {
+          "id": "151-f-v1",
+          "title": "The machine is the same; the tailor has changed",
+          "titleFa": "چرخ همونه؛ حالا خودم بلدم!",
+          "image": "art/151-f-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "english": "Contemplating the weaknesses of others is easy; contemplating the weaknesses in yourself is hard, but it pays a much higher reward.",
+      "persian": "فکر کردن به ضعف‌های بقیه آسونه؛ فکر کردن به ضعف‌های خودت سخته، ولی پاداش خیلی بیشتری داره.",
+      "ideas": [
+        {
+          "id": "152-a-v1",
+          "title": "اول باغچهٔ خودم",
+          "titleFa": "اول باغچهٔ خودم",
+          "image": "art/152-a-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "152-b-v1",
+          "title": "پنکیکِ خودم کجاست؟",
+          "titleFa": "پنکیکِ خودم کجاست؟",
+          "image": "art/152-b-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "152-c-v1",
+          "title": "این بار گوش می‌دم",
+          "titleFa": "این بار گوش می‌دم",
+          "image": "art/152-c-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "152-d-v1",
+          "title": "اول میز خودمو مرتب کنم",
+          "titleFa": "اول میز خودمو مرتب کنم",
+          "image": "art/152-d-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "english": "When you are young, have friends who are older; when you are old, have friends who are younger.",
+      "persian": "وقتی جوونی، دوست‌های بزرگ‌تر از خودت داشته باش؛ وقتی پیری، دوست‌های جوون‌تر.",
+      "ideas": [
+        {
+          "id": "153-a-v1",
+          "title": "همان نیمکت، دوست‌های تازه",
+          "titleFa": "همان نیمکت، دوست‌های تازه",
+          "image": "art/153-a-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "153-b-v1",
+          "title": "بادبادک بین نسل‌ها",
+          "titleFa": "بادبادک بین نسل‌ها",
+          "image": "art/153-b-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "153-c-v2",
+          "title": "از نهال تا سایهٔ دوستی",
+          "titleFa": "از نهال تا سایهٔ دوستی",
+          "image": "art/153-c-v2.png",
+          "version": 2,
+          "parentIdeaId": "153-c-v1",
+          "revisionRequestId": "79d95e00-52a0-49ed-9511-84172e6047d4",
+          "batchRequestId": null
+        },
+        {
+          "id": "153-d-v1",
+          "title": "ریتم عوض می‌شه، دوستی می‌مونه",
+          "titleFa": "ریتم عوض می‌شه، دوستی می‌مونه",
+          "image": "art/153-d-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "english": "You will complete your mission in life when you figure out what your mission in life is. Your purpose is to discover your purpose. This is not a paradox. This is the way.",
+      "persian": "مأموریت زندگی‌ت وقتی کامل می‌شه که بفهمی مأموریتت چیه. هدفت اینه که هدفت رو پیدا کنی. این تناقض نیست؛ راه همینه.",
+      "ideas": [
+        {
+          "id": "154-a-v1",
+          "title": "کسی تنها نمونه",
+          "titleFa": "کسی تنها نمونه",
+          "image": "art/154-a-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "154-b-v1",
+          "title": "تجربه کن تا پیداش کنی",
+          "titleFa": "تجربه کن تا پیداش کنی",
+          "image": "art/154-b-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "154-c-v1",
+          "title": "راه من شاید کمک‌کردنه",
+          "titleFa": "راه من شاید کمک‌کردنه",
+          "image": "art/154-c-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "154-d-v1",
+          "title": "مراقب زندگی باشم",
+          "titleFa": "مراقب زندگی باشم",
+          "image": "art/154-d-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    }
+  ]
+}

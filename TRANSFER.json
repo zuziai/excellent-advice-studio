@@ -1,0 +1,39 @@
+{
+  "prepared": true,
+  "destination": ".",
+  "files": 175,
+  "bytes": 40357081,
+  "waveId": "final-review-151-153-2026-10-10-v5",
+  "sentences": 460,
+  "activeArtworks": 12,
+  "approvedImages": [
+    151,
+    152,
+    153
+  ],
+  "excluded": [
+    "full original reference-image archive",
+    "source PDF and Word",
+    "machine runtimes and node_modules",
+    "old Git history and hosting account data",
+    "raw image-generation responses, logs, locks, tokens"
+  ],
+  "status": "Verified portable project snapshot",
+  "ready": true,
+  "intendedGitHubOwner": "zuziai",
+  "intendedVisibility": "private",
+  "preparedAtUtc": "2026-10-19T08:42:44.508021+00:00",
+  "validation": {
+    "backendFixtureTestsPassed": 8,
+    "sentencesPreserved": 460,
+    "activeOriginalImagesVerified": 12,
+    "approvedImagesAndPromptsVerified": 3,
+    "localHttpEndpointsVerified": 26,
+    "excelPromptColumn": "D",
+    "persianColumn": "C",
+    "portableExcelWriterOutsideRootVerified": true,
+    "packagesDownloaded": false
+  },
+  "filesBeforeChecksum": 185,
+  "intendedGitHubRepository": "https://github.com/zuziai/excellent-advice-studio"
+}

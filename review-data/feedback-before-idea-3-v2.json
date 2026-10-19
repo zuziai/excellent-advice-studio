@@ -1,0 +1,70 @@
+{
+  "format": "excellent-advice-feedback",
+  "version": 1,
+  "waveId": "pilot-151-v1",
+  "exportedAt": "2026-10-03T06:42:30.296Z",
+  "records": [
+    {
+      "sentenceId": 151,
+      "waveId": "pilot-151-v1",
+      "candidateIds": [
+        "151-a-v1",
+        "151-b-v1",
+        "151-c-v1",
+        "151-d-v1",
+        "151-e-v1"
+      ],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "ideaNotes": {},
+      "note": "",
+      "updatedAt": "2026-10-03T06:35:33.135Z",
+      "history": [
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "updatedAt": null
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "updatedAt": "2026-10-03T06:28:30.884Z"
+        }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": 151,
+      "english": "Work to become, not to acquire.",
+      "persian": "کار کن برای اینکه کسی بشی، نه برای اینکه چیزی داشته باشی.",
+      "ideas": [
+        {
+          "id": "151-a-v1",
+          "title": "The sculptor’s real masterpiece",
+          "image": "art/151-a.png"
+        },
+        {
+          "id": "151-b-v1",
+          "title": "The potter grows too",
+          "image": "art/151-b.png"
+        },
+        {
+          "id": "151-c-v1",
+          "title": "What are you taking home?",
+          "image": "art/151-c.png"
+        },
+        {
+          "id": "151-d-v1",
+          "title": "A workshop full of tools",
+          "image": "art/151-d.png"
+        },
+        {
+          "id": "151-e-v1",
+          "title": "The gardener’s other harvest",
+          "image": "art/151-e.png"
+        }
+      ]
+    }
+  ]
+}

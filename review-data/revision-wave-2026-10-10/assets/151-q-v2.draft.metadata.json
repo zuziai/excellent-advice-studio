@@ -1,0 +1,37 @@
+{
+  "id": "151-q-v2",
+  "parentIdeaId": "151-m-v1",
+  "titleFa": "رئیسی که کنار همکارش ایستاد",
+  "summaryFa": "آشپز با تجربه‌کردن زحمتِ کار، شیوهٔ برخوردش با همکار را تغییر می‌دهد.",
+  "storyFa": "آشپز صورتی ابتدا با فکرِ جایزه فقط دستور می‌دهد و همکار فیروزه‌ای بار سینی‌ها را می‌برد. در میانهٔ شلوغی، خودش همان بار را تجربه می‌کند و سختی آن را می‌فهمد. در پایان، سینی سنگین را از همکار خسته می‌گیرد و همراه او کار می‌کند؛ نگاهش به انسان کنار دستش تغییر کرده است.",
+  "meaningFa": "فرآیند کار می‌تواند خودمحوری را به احترام و همدلی تبدیل کند؛ ارزشِ حاصل در کیفیت رفتار با دیگران دیده می‌شود.",
+  "concept": "Experienced labor leads to human respect, not merely a more efficient worker. First status fixation, shared difficult process, final respect in action.",
+  "risk": "Generic kindness possible; the middle scene must visibly connect own experience of the SAME heavy load to final changed treatment.",
+  "prompt": "Use case: illustration-story. Create a NEW square narrative book illustration, not a copy of either reference scene. Input image 1 (97): reference ONLY for medium adult neutral full-body proportions, simple eyes and local-colored contours. Input image 2 (131): reference ONLY for genuine layered watercolor, luminous pigment and paper; disregard its scene and sharp blush. Match this existing book's painterly visual identity. Broad overlapping translucent watercolor washes visible INSIDE heads, torsos, limbs and hands, gentle pigment pooling, restrained hand-painted texture; no marker, colored-pencil grain, flat vector, glossy/3D paint. Heads are PERFECT CIRCLES, width equals height, no oval, chin, jaw, ears, nose, hair or neck. Medium balanced adult neutral bodies, modest arms, not skinny or chunky; female bodies identical to other bodies, no breast, narrow waist, hip or buttock bulge, indentations. Gender if needed only a few short fine upper-outer eyelashes on the SAME small dark oval eyes. Tiny internal white glints allowed; NO surrounding white sclera. No sharp circular pink cheeks: either omit blush or extremely faint diffuse watercolor. Outlines are darker shades of each body's own color, never black body outlines. Soft local-color crescent contact shadow under each round head joining shoulders directly. Visible hands have THREE fingers PLUS ONE thumb, normal natural grips. Every foot and important prop fully INSIDE the image, no accidental clipping. Generous irregular watercolor edges with clean white paper margins. All writing ONLY short correctly connected colloquial Persian; no English. Family-friendly, warm, gentle human wit. Read scenes right-to-left then downward, thin WHITE gutters, no heavy frames. Calm uncluttered composition for an ADULT audience, not preschool/chibi.\nThree clear scenes: upper RIGHT beginning, upper LEFT middle, wide LOWER result. Small warm restaurant kitchen for adult workers, not toy cooking. PINK head chef and TURQUOISE coworker, both medium neutral adult plain bodies with identical simple straight cream aprons, no hats/hair/shirts. Primary pink has a few subtle short upper outer lashes ONLY; do not curve the hips/waist.\nUPPER RIGHT: pink stands comfortably beside prep counter, pointing an impatient order to turquoise, who carries a plainly HEAVY tray stacked with ordinary clean ceramic plates. A small thought bubble above PINK contains just a gold award cup on a pedestal, showing fixation on recognition, not a speech. One short pink speech «زودتر!» Turquoise bends only slightly under load, adult shoulders tense, tired brow, not distorted; all body parts and complete tray fit. No falling plates.\nUPPER LEFT: during same busy work, PINK herself now carries that SAME heavy plate tray, both arms visibly supporting it, tired straining eyebrows and weight-bearing stance, feet solidly planted; turquoise works at the sink nearby. She experiences the load rather than showing a silly accident. A small respectful pause and gaze toward coworker make reflection visible; NO moralizing text, no extra thought bubbles.\nWIDE LOWER: PINK kindly takes the heavy tray herself from exhausted turquoise, looking at the person, calm concerned smile; turquoise rests hands on a simple counter and gratefully exhales, then helps with a smaller tray. Pink says only «این یکی با من.» She has stopped merely issuing orders and voluntarily shares unpleasant work. The gold-award thought has vanished; no trophy is awarded. Human transformation is caring respectful action earned through her own experience of labor. Gentle visual humor: pink discovers how heavy the same tray is in middle, not humiliation. Both workers neutral medium anatomy, torso and legs aligned. Authentic watercolor inside bodies, local colored outlines, white margins and full feet.",
+  "sentenceNumber": 151,
+  "version": 2,
+  "referencePaths": [
+    "Images/97.jpg",
+    "Images/131.jpg"
+  ],
+  "status": "pending",
+  "batchRequestId": null,
+  "revisionRequestId": "2e63f44f-f821-4292-9dff-4ab7ae0f6022",
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-ce8fc161-d2b9-4ae3-a40e-f9c67f28a4e6.png",
+  "outputPath": "review-data/revision-wave-2026-10-10/assets/151-q-v2.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "2f7ef0002dd042729bfe600704d0f92bcb23dd03604a3df17e0fe76857a7dc5f",
+  "promptPath": "review-data/revision-wave-2026-10-10/assets/151-q-v2.prompt.txt",
+  "preflightPath": "review-data/revision-wave-2026-10-10/assets/151-q-v2.preflight.json",
+  "revisionSummaryFa": "ایدهٔ تازه با محور رشد منش در فرآیند کار و تلاش.",
+  "generation": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-10 07:18:36 UTC",
+    "serializedResultPath": "review-data/revision-wave-2026-10-10/assets/151-q-v2.result.json"
+  },
+  "QA": {
+    "state": "awaiting_owner_visual_review",
+    "humanApproval": "pending"
+  }
+}

@@ -1,0 +1,887 @@
+{
+  "format": "excellent-advice-finalization",
+  "version": 1,
+  "entries": [
+    {
+      "sentenceId": 151,
+      "ideaId": "151-o-v2",
+      "prompt": "Use case: illustration-story.\nAsset: a square 1:1, hand-painted watercolor narrative illustration for an adult visual book, warm, thoughtful and lightly humorous. Create a complete new image from this description. The story shows a paid carpenter choosing responsibility for his work after the payment is already complete.\n\nCOMPOSITION AND READING ORDER\nThree connected comic scenes within one square: two equally sized upper panels separated by a narrow clean white vertical gutter, and one wide lower panel across the full width. Read the upper RIGHT first, upper LEFT second, and LOWER scene last. The upper scenes together occupy approximately the upper half; the final scene occupies approximately the lower half. Use thin white gaps, no heavy black panel frames. Each scene has softly irregular watercolor endings, and clean white paper remains around all outer edges. Set the view wide enough to include every complete character, both feet or kneeling feet, the chair, table legs and all essential tools. Nothing is cut by a panel edge. Objects may naturally overlap, but torso-to-leg connections must remain physically continuous.\n\nCONSISTENT CAST\nThe same PURPLE adult carpenter appears in all three scenes. The same LIGHT GRAY adult customer appears in the upper-right and lower scenes. They have identical medium, balanced, neutral adult builds: gently near-parallel torso sides, moderately sized arms, natural legs, neither thin and stretched nor round/chubby, no childlike or chibi proportions. No breasts, narrowed waist, protruding hips or buttocks, body indentations or gendered silhouette. No hair, ears, noses or necks. Heads are genuinely PERFECT CIRCLES with equal width and height, without a jaw, chin, oval shape or flattened lower edge, joining shoulders directly. A soft crescent of darker local watercolor under the head distinguishes it from the torso. Purple wears the SAME simple straight CREAM work apron in every appearance: shoulder straps, unwaisted rectangular bib and skirt, a small work pocket containing a pencil/ruler or small tool, and a modest tie. Gray has a plain gray body. No other clothing or shoes; feet are the same body color.\nFaces have modest dark oval eyes with optional tiny white glints INSIDE the dark eye, simple eyebrows and minimal mouths; no surrounding white sclera. The customer's happy upper-right eyes are small closed upward arcs; the lower customer's eyes are open dark ovals. Do not add eyelashes to either character. Purple's face changes from pleased attention to payment, to thoughtful concern, to a calm responsible smile. Each anatomically complete hand has THREE fingers and ONE thumb; use simple natural grips without extra digits, allowing normal object occlusion.\n\nUPPER RIGHT: PAYMENT AND DELIVERY\nA modest warm wooden carpentry workshop doorway. Gray stands on the LEFT and holds the repaired small wooden chair; purple stands on the RIGHT, smiling eagerly and receiving a small cream payment envelope. The envelope clearly reads exactly \"دستمزد\". Purple's attention is on the payment. Gray is pleased and unaware of any problem. The chair is recognizable honey-brown wood with a simple solid backrest, flat seat, four legs and a horizontal brace beneath the seat. On the near-side horizontal brace joint is one clearly EMPTY dark screw hole, with two small unobtrusive emphasis strokes below it. The chair has not collapsed and nobody is hurt. Keep the chair complete and its perspective coherent.\nThe workshop background contains a few hanging hand tools, upright wooden boards, a small overhead warm lamp, a pale stone/tile floor and one modest green potted plant. A small hanging wooden shop sign at upper right reads exactly \"نجاری\". Keep both standing figures and their two feet fully visible inside this panel.\n\nUPPER LEFT: THE MISSED SCREW\nLater, the SAME purple carpenter stands alone behind a wooden workbench, wearing the same cream apron. His entire neutral body and both feet are visible beneath the tabletop; the bench's legs frame rather than hide both feet. In his hand on the image-right he holds ONE small distinctive brass screw. His other hand rests thoughtfully near his chin, with worried brows: he has realized the screw was left out. A closed payment envelope already lies at the left of the bench and again reads exactly \"دستمزد\". A black-shaft screwdriver with a red handle lies horizontally on the bench at image-right. Spare boards, a small tool holder and hanging workshop tools stay in the restrained warm background.\nA white thought bubble above him, connected by small thought circles, contains a close-up of the wooden chair's brace meeting a leg and its EMPTY screw hole. It also contains the exact short Persian thought \"این پیچ جا مونده!\", comfortably arranged on two lines. This inset is a thought image, not a second real chair in the workshop. The brass screw and the matching empty joint make the discovery understandable at a glance.\n\nLOWER WIDE SCENE: RESPONSIBILITY AFTER PAYMENT\nAt the gray customer's warm, simple home doorway, gray stands full-bodied on the LEFT, surprised kindly, with hands raised near his chest. The SAME wooden chair stands fully visible near center. Purple is to its RIGHT, kneeling naturally with continuous torso, hips, bent legs and complete feet, still in the same cream apron. He calmly uses the red-handled screwdriver to place the brass screw into the EXACT near-side horizontal-brace joint that was empty in the first scene. His other hand steadies the chair. The customer had not complained or discovered the fault; the carpenter has returned voluntarily. No additional money is exchanged.\nGray's speech bubble at upper-left of this scene, with a clear tail to gray, says exactly \"ولی پولت رو گرفته بودی!\", arranged on two readable lines. Purple's white speech bubble at upper-right, with a clear tail to purple, says exactly \"کارم باید درست باشه.\", arranged on two lines. Their expressions convey genuine surprise and quiet responsibility, without grandstanding. The setting has a pale peach wall, warm wooden doorframe at left, a simple patterned rug beneath the figures and chair, and a small cabinet, modest framed landscape and leafy potted plant at right. All bodies, feet, chair legs and screwdriver fit inside the scene.\n\nWATERCOLOR AND FINISH\nAuthentic moderate hand-painted watercolor on visibly textured warm white paper. Show broad irregular overlapping translucent washes INSIDE heads, torsos, arms, legs and hands as well as backgrounds; luminous lighter patches, gently varied pigment density, soft natural bleeding and subtle pooling near some edges. Soft painted highlights, never glossy 3D shading. The character contours are darker versions of each character's OWN body color: deep purple around purple and slate gray around gray, never black body outlines. Keep cheeks within their own local translucent body wash: no sharp pink round spots or sticker-like blush. Wood is built from warm transparent washes and modest grain; backgrounds are purposeful and subordinate to faces, screw and chair. Maintain bright, gentle book illustration warmth without excessive decoration, heavy mottling, flat vector fills, marker strokes or uniform colored-pencil grain.\n\nTEXT AND LIMITS\nAll in-image writing is ONLY the five exact connected Persian strings quoted above: \"نجاری\", \"دستمزد\", \"این پیچ جا مونده!\", \"ولی پولت رو گرفته بودی!\", and \"کارم باید درست باشه.\" The payment label may appear on the two envelopes as described. Use correct joined right-to-left Persian, dark legible lettering and clear bubble tails. Do not place the English book sentence in the image. No extra captions, moral slogans, English, numbers, logos or watermarks. No injuries, broken chair accident, new reward, money pile, trophy, extra people or new narrative event. Keep the causal sequence clear: payment received, omitted screw recognized, voluntary repair after payment.\n",
+      "promptPath": "review-data/finalization-2026-10-10/prompts/151-o-v2.en.txt",
+      "promptSource": "review-data/finalization-2026-10-10/approved-prompts.json",
+      "promptSha256": "ee931c426dc5e3cefdb9ab65a4b089ac922f58303b9468ad6303c5296178db23",
+      "sourcePromptSha256": "ee931c426dc5e3cefdb9ab65a4b089ac922f58303b9468ad6303c5296178db23",
+      "promptCellSha256": "9d86af50160ffe16bba2da5a261f22e3bfb59b158274e02ab6fcbf53bc1c89cc",
+      "imageHash": "470c73658e520bdadaa18473e657e42ded1c640b03f984b99689f3f29366464e",
+      "source": "book-review/dist/art/151-o-v2.png",
+      "savedPath": "Images/151.png",
+      "approvedAt": "2026-10-10T08:36:24.731Z",
+      "feedback": {
+        "sentenceId": 151,
+        "waveId": "final-review-151-153-2026-10-10-v3",
+        "candidateIds": [
+          "151-o-v2",
+          "151-p-v2",
+          "151-q-v2",
+          "151-r-v2"
+        ],
+        "status": "approved",
+        "chosenIdeaId": "151-o-v2",
+        "ideaNotes": {
+          "151-k-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+          "151-l-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+          "151-m-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+          "151-n-v1": "پاهای آدمک نارنجی در امتداد بدنش نیست. اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی."
+        },
+        "note": "",
+        "updatedAt": "2026-10-10T08:36:24.731Z",
+        "history": [
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "updatedAt": null
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-03T06:28:30.884Z"
+          },
+          {
+            "status": "approved",
+            "chosenIdeaId": "151-f-v1",
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-07T16:49:54.754Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T18:40:51.476Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T18:45:51.648Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T19:10:51.601Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T19:54:01.600Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T20:04:41.606Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "151-k-v1",
+            "revisionRequest": {
+              "requestId": "56f004ff-53c2-429a-925c-6383fc30b1e5",
+              "baseIdeaId": "151-k-v1",
+              "baseVersion": 1,
+              "comment": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "submittedAt": "2026-10-10T06:56:20.805Z"
+            },
+            "revisionProgress": {
+              "requestId": "56f004ff-53c2-429a-925c-6383fc30b1e5",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:56:20.805Z"
+            },
+            "updatedAt": "2026-10-10T06:56:26.452Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "151-l-v1",
+            "revisionRequest": {
+              "requestId": "ab0da728-6e42-4179-8f29-a91fafc3cefa",
+              "baseIdeaId": "151-l-v1",
+              "baseVersion": 1,
+              "comment": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "submittedAt": "2026-10-10T06:56:28.058Z"
+            },
+            "revisionProgress": {
+              "requestId": "ab0da728-6e42-4179-8f29-a91fafc3cefa",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:56:28.058Z"
+            },
+            "updatedAt": "2026-10-10T06:56:34.933Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "151-m-v1",
+            "revisionRequest": {
+              "requestId": "2e63f44f-f821-4292-9dff-4ab7ae0f6022",
+              "baseIdeaId": "151-m-v1",
+              "baseVersion": 1,
+              "comment": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "submittedAt": "2026-10-10T06:56:36.780Z"
+            },
+            "revisionProgress": {
+              "requestId": "2e63f44f-f821-4292-9dff-4ab7ae0f6022",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:56:36.780Z"
+            },
+            "updatedAt": "2026-10-10T06:57:00.695Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "151-n-v1",
+            "revisionRequest": {
+              "requestId": "b1f14a6f-0264-4a7c-9ae7-a393e3c11ce2",
+              "baseIdeaId": "151-n-v1",
+              "baseVersion": 1,
+              "comment": "پاهای آدمک نارنجی در امتداد بدنش نیست. اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "submittedAt": "2026-10-10T06:57:03.911Z"
+            },
+            "revisionProgress": {
+              "requestId": "b1f14a6f-0264-4a7c-9ae7-a393e3c11ce2",
+              "status": "in_progress",
+              "message": "بازاندیشی چهار داستانِ ۱۵۱ با محور رشد منش در جریان کار شروع شده است.",
+              "updatedAt": "2026-10-10T07:09:38.991Z",
+              "startedAt": "2026-10-10T07:09:38.991Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "151-k-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-l-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-m-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-n-v1": "پاهای آدمک نارنجی در امتداد بدنش نیست. اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی."
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T07:26:34.749Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "151-k-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-l-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-m-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-n-v1": "پاهای آدمک نارنجی در امتداد بدنش نیست. اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی."
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T07:34:24.765Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "151-k-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-l-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-m-v1": "تصاویر خوب هستند اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی.",
+              "151-n-v1": "پاهای آدمک نارنجی در امتداد بدنش نیست. اما اصلا آیا این جمله، این مفهوم رو داره؟ در اصل به نظر من تو باید به این موضوع میپرداختی که نباید به فکر رسیدن به جاه و مقام و پول و ثروت باشیم بلکه باید تلاش کنیم تا در طی فرآیند تلاشمون آدم بهتری بشیم. به نظر من تو مفهوم جمله رو خوب درک و تفسیر نکردی. جملات کوین کلی خیلی عمیقه و واقعا لازمه که عمیق تر به مفهوم اصلی حرفاش فکر کنی."
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T07:44:34.698Z"
+          }
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-10T08:38:04.236176+00:00",
+      "copiedAt": "2026-10-10T08:38:04.236176+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 151,
+        "ideaId": "151-o-v2",
+        "row": 152,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "9d86af50160ffe16bba2da5a261f22e3bfb59b158274e02ab6fcbf53bc1c89cc",
+        "sourcePromptSha256": "ee931c426dc5e3cefdb9ab65a4b089ac922f58303b9468ad6303c5296178db23",
+        "characters": 7908
+      },
+      "downloadUrl": "/download/151-o-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 153,
+      "ideaId": "153-g-v2",
+      "prompt": "Use case: illustration-story.\nAsset: a square 1:1 watercolor illustration for an adult visual book. Create a complete new image of friendship across generations through making bread together. It is warm, bright, slightly playful and immediately readable, with two spacious horizontal scenes stacked vertically within a square.\n\nCOMPOSITION\nThe upper and lower scenes are approximately equal in height, separated by a clean narrow WHITE gap without heavy frames. Each is viewed from the front at a slight elevated angle that shows the tabletop and the standing friends' full bodies and both feet below it. Keep the complete wooden worktable, its legs, every foot and all important props INSIDE each scene. Leave clean white paper around the full image with softly irregular watercolor scene endings. The upper-left of each scene contains a pale cream watercolor paper-shaped heading panel. Upper heading is exactly \"جوانی\". Lower heading is exactly \"سال‌ها بعد\". No speech bubbles.\n\nCHARACTER SYSTEM\nThree distinct adult friends across the two scenes: GREEN is the continuing central character on the LEFT in both scenes. In the upper scene green is a YOUNG ADULT and the friend on the RIGHT is an OLDER BLUE ADULT. In the lower scene the SAME green person is now an OLDER ADULT, while the friend on the RIGHT is a YOUNG PINK ADULT. All are equally capable friends with comparable adult stature, not parent/child, nurse/patient or teacher/pupil.\nAll have simple medium, balanced neutral adult bodies, moderate arms and legs and near-parallel torso sides. Never chibi, childlike, very thin or bulky. No breasts, pinched waist, protruding hips or buttocks, waist indentations or gendered body shape. No hair, ears, noses or necks. Heads are true PERFECT CIRCLES, width equal to height, with no oval shape, jaw, chin or flattened bottom. Each head joins shoulders directly, distinguished by a soft crescent contact shadow in a darker shade of the local body color.\nEvery friend wears the SAME plain straight CREAM apron with simple shoulder straps and an unwaisted bib/skirt; no other clothing, no shoes. Apron hems are visible below the tabletop. The body's own color continues down the two legs into simple rounded feet, with physically continuous torso-to-leg alignment. Each complete hand has THREE fingers plus ONE thumb; use natural dough/cutter grips with normal overlap and no extra digits.\nEyes use the book's minimal friendly design: small dark oval eyes where open, optionally a tiny glint INSIDE the dark eye; absolutely no surrounding white sclera. Smiling closed eyes are small upward arcs. Only the young pink friend has a few SHORT fine upper-outer eyelashes, added to the SAME modest eye shape and size. No huge lashes or doll eyes. No lashes on green or blue. In the upper scene BOTH friends have cheerful closed arc eyes and open smiling mouths. Older blue wears simple round clear-lens, warm brown-rimmed glasses, plus TWO OR THREE fine short dark-local-blue crow's-feet strokes near the outer eye. In the lower scene older green wears similar round clear glasses, cheerful closed arc eyes and TWO OR THREE fine short dark-local-green wrinkles beside the outer eye. Do not turn glasses into opaque eye whites. Young pink has friendly open dark oval eyes with tiny internal glints, short lashes and an open delighted smile. All cheeks continue the face's OWN translucent green, blue or pink wash, with no distinct sharp pink circular blush patches.\n\nUPPER SCENE: YOUNG GREEN WITH AN OLDER BLUE FRIEND\nGreen stands on the LEFT and older blue on the RIGHT at a warm honey-brown wooden kitchen worktable. The heading \"جوانی\" is at upper-left. Both are happily making bread together. Green holds a soft, awkward, comically crooked long loop of pale golden dough with both hands; blue holds a tidier twisted pretzel with both hands. They laugh kindly together at the funny dough shape. Neither is pointing, scolding or instructing. Include a few short simple dark laughter/emphasis marks near the friends and dough, without words.\nOn the flour-dusted tabletop: at LEFT is one cream ceramic bowl with a blue horizontal band containing bread dough; near center is a small oval dough portion. At RIGHT is one complete shallow dark-gray-rimmed rectangular baking tray with a small pretzel-shaped piece and an oval dough portion. A red-and-white gingham cloth drapes naturally over the RIGHT table edge. Keep the tray, cloth and table complete, with enough room below the table to clearly show green's and blue's two feet.\n\nLOWER SCENE: THE SAME GREEN, NOW OLDER, WITH A YOUNG PINK FRIEND\nThe heading \"سال‌ها بعد\" is at upper-left. Green remains on the LEFT with exactly the same green identity, circular head and balanced body, now with round glasses and a few subtle eye wrinkles. The YOUNG ADULT pink friend is on the RIGHT in the identical straight cream apron. They are delightedly inventing playful bread shapes together. Green uses both hands to finish a small pale golden RABBIT-shaped dough loaf in front of him; its simple long ears, small body and one tiny dark dough-eye make the rabbit shape recognizable. Pink lifts a small silver STAR-shaped cutter near the chest with the hand at image-right; the other hand rests naturally beside the dough on the table. Pink's eyes and smile face the shared activity. Add a few restrained joy/emphasis marks near the friends and star cutter, without words.\nThe same blue-banded dough bowl remains at LEFT, and flour lightly dusts the tabletop. In front of pink at center-right lies a flat pale golden oval sheet of rolled dough with TWO clearly star-shaped holes. THREE small loose star-shaped dough pieces rest between the rabbit and the sheet. At far RIGHT lies a small warm wooden rolling pin, fully inside the table. The red-and-white gingham cloth again hangs from the table's right edge. Do not put the upper scene's metal baking tray in this lower scene. Show both friends' full lower legs and complete feet below the table, green at left and pink at right.\n\nKITCHEN SETTING AND CONTINUITY\nUse the SAME restrained cozy kitchen and wooden worktable in both scenes, matching the chosen visual narrative. Pale peach/pink walls and warm pale terracotta-tile floor. At background LEFT is a wooden-framed window with soft green foliage outdoors and a red/terracotta pot of leafy trailing greenery on its sill. At background RIGHT is a simple tall open wooden shelf: a trailing leafy plant in a red pot on top, a cream lidded jar with a simple BLUE FLOWER decoration on the upper shelf, and a cream utensil holder with two wooden spoons plus a small wooden cutting board on the lower shelf. Keep decorative plants modest and subordinate to the friends and bread. The repeating room makes green's continuity clear; it is not a different character merely sharing the same color. The blue friend is present only in the upper scene and the pink friend only in the lower scene; do not add extra people or portraits.\n\nWATERCOLOR FINISH\nReal moderate hand-painted watercolor on visible luminous textured paper. Broad irregular overlapping TRANSLUCENT washes must appear INSIDE every head, torso, limb and hand as well as the room and wood. Use soft natural pigment variation, delicate pooling at some edges, lighter paper showing through and gentle painted highlights. Character outlines are darker shades of their OWN body color: dark green for green, deep blue for blue, dark rose for pink; no black body outlines. Keep the soft local-color head-to-shoulder contact shadow. No marker look, colored-pencil grain, flat/vector fills, glossy 3D, plastic surfaces, excessive watercolor blooms or heavy mottling. Avoid all sharp round pink cheek spots: cheeks blend softly into the local face wash. The scene should feel bright, tender, playful and handmade, with clean white irregular outer margins and no paint stuck to the file edge.\n\nTEXT AND LIMITS\nThe ONLY writing anywhere in the illustration is exactly the two headings \"جوانی\" and \"سال‌ها بعد\", in dark, clear, correctly joined right-to-left Persian on the two cream heading panels. All other instructions are visual, not text to place in the image. No English, dialogue, labels, age numbers, dates, logos or watermark. No new story beats, prizes or moral slogans. The visible contrast is friendship with an older person in youth and with a younger person later: shared experience first, cheerful new shapes later, with the same green character continuing through both stages.\n",
+      "promptPath": "review-data/finalization-2026-10-10/prompts/153-g-v2.en.txt",
+      "promptSource": "review-data/finalization-2026-10-10/approved-prompts.json",
+      "promptSha256": "e7a076994a1d0d33332fbabb13685afd19bef49399b88aad2e8eae662fd48d56",
+      "sourcePromptSha256": "e7a076994a1d0d33332fbabb13685afd19bef49399b88aad2e8eae662fd48d56",
+      "promptCellSha256": "b401587d552caa46da31fce184a7ed51541fe6b08cf2fb17278ecdfb4fd9f722",
+      "imageHash": "8643a8b57a5a4a71c2b99bc6d2df58dfedc4bd93694d8352a7077633b90a8153",
+      "source": "book-review/dist/art/153-g-v2.png",
+      "savedPath": "Images/153.png",
+      "approvedAt": "2026-10-10T08:08:39.711Z",
+      "feedback": {
+        "sentenceId": 153,
+        "waveId": "final-review-151-153-2026-10-10-v3",
+        "candidateIds": [
+          "153-e-v2",
+          "153-f-v2",
+          "153-g-v2",
+          "153-h-v2"
+        ],
+        "status": "approved",
+        "chosenIdeaId": "153-g-v2",
+        "ideaNotes": {
+          "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی",
+          "153-e-v1": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. حتی کیک هم همونه. میتونی حالت چیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی",
+          "153-f-v1": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. حتی آلبوم عکس هم همونه. میتونی حالت چیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی. ضمنا آلبوم رو توی دستشون نباید برعکس بگیرند و تصاویر باید رو به خودشون باش یعنی کاملا 180 درجه تصاویر آلبوم باید بچرخه",
+          "153-g-v1": "سرخی گونه های آدمک ها طبیعی نیست و شارپه و شبیه استایلی که بهت دادم نیست.",
+          "153-h-v1": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. . میتونی حالت پیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی. ضمنا دوچرخه مشکل داره و یک چرخش دیده نمیشه"
+        },
+        "note": "",
+        "customIdea": "",
+        "requestedVariants": null,
+        "updatedAt": "2026-10-10T08:08:39.711Z",
+        "batchRequest": null,
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "history": [
+          {
+            "status": "revise",
+            "chosenIdeaId": "153-c-v1",
+            "revisionRequest": {
+              "requestId": "79d95e00-52a0-49ed-9511-84172e6047d4",
+              "baseIdeaId": "153-c-v1",
+              "baseVersion": 1,
+              "comment": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی",
+              "submittedAt": "2026-10-07T17:44:37.902Z"
+            },
+            "revisionProgress": {
+              "requestId": "79d95e00-52a0-49ed-9511-84172e6047d4",
+              "status": "in_progress",
+              "message": "در حال آماده‌کردن و اجرای ویرایش برای افزودن عینک به دو شخصیت مسن هستم؛ چروک‌های صورت و بقیهٔ نقاشی حفظ می‌شوند.",
+              "updatedAt": "2026-10-07T18:21:17.088Z",
+              "startedAt": "2026-10-07T18:21:17.088Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-07T18:21:17.088Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-07T18:54:49.648Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T19:48:11.665Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T19:54:01.600Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T20:04:41.606Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T20:13:01.882Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T20:41:42.185Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "153-e-v1",
+            "revisionRequest": {
+              "requestId": "ffb587e0-bd59-4515-9216-4d2835c38a04",
+              "baseIdeaId": "153-e-v1",
+              "baseVersion": 1,
+              "comment": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. حتی کیک هم همونه. میتونی حالت چیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی",
+              "submittedAt": "2026-10-10T06:46:46.538Z"
+            },
+            "revisionProgress": {
+              "requestId": "ffb587e0-bd59-4515-9216-4d2835c38a04",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:46:46.538Z"
+            },
+            "updatedAt": "2026-10-10T06:47:48.085Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "153-f-v1",
+            "revisionRequest": {
+              "requestId": "ea2c2314-87ff-4859-ae17-c3d924e9008a",
+              "baseIdeaId": "153-f-v1",
+              "baseVersion": 1,
+              "comment": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. حتی آلبوم عکس هم همونه. میتونی حالت چیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی. ضمنا آلبوم رو توی دستشون نباید برعکس بگیرند و تصاویر باید رو به خودشون باش یعنی کاملا 180 درجه تصاویر آلبوم باید بچرخه",
+              "submittedAt": "2026-10-10T06:47:49.789Z"
+            },
+            "revisionProgress": {
+              "requestId": "ea2c2314-87ff-4859-ae17-c3d924e9008a",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:47:49.789Z"
+            },
+            "updatedAt": "2026-10-10T06:48:24.866Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "153-g-v1",
+            "revisionRequest": {
+              "requestId": "c1705440-0bb0-4971-9761-7d9db504bb9a",
+              "baseIdeaId": "153-g-v1",
+              "baseVersion": 1,
+              "comment": "سرخی گونه های آدمک ها طبیعی نیست و شارپه و شبیه استایلی که بهت دادم نیست.",
+              "submittedAt": "2026-10-10T06:48:26.490Z"
+            },
+            "revisionProgress": {
+              "requestId": "c1705440-0bb0-4971-9761-7d9db504bb9a",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:48:26.490Z"
+            },
+            "updatedAt": "2026-10-10T06:49:11.021Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "153-h-v1",
+            "revisionRequest": {
+              "requestId": "d90a1ba2-068f-41a9-9d42-be48ea701a8f",
+              "baseIdeaId": "153-h-v1",
+              "baseVersion": 1,
+              "comment": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. . میتونی حالت پیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی. ضمنا دوچرخه مشکل داره و یک چرخش دیده نمیشه",
+              "submittedAt": "2026-10-10T06:49:18.773Z"
+            },
+            "revisionProgress": {
+              "requestId": "d90a1ba2-068f-41a9-9d42-be48ea701a8f",
+              "status": "in_progress",
+              "message": "اصلاح هر چهار طرحِ ۱۵۳: گذر زمان، جهت آلبوم، گونه‌ها و ساختمان دوچرخه شروع شده است.",
+              "updatedAt": "2026-10-10T07:09:39.074Z",
+              "startedAt": "2026-10-10T07:09:39.074Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "153-c-v1": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی",
+              "153-e-v1": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. حتی کیک هم همونه. میتونی حالت چیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی",
+              "153-f-v1": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. حتی آلبوم عکس هم همونه. میتونی حالت چیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی. ضمنا آلبوم رو توی دستشون نباید برعکس بگیرند و تصاویر باید رو به خودشون باش یعنی کاملا 180 درجه تصاویر آلبوم باید بچرخه",
+              "153-g-v1": "سرخی گونه های آدمک ها طبیعی نیست و شارپه و شبیه استایلی که بهت دادم نیست.",
+              "153-h-v1": "اینکه بعد از سال ها فضا همونه باعث میشه مخاطب با تصویر ارتباط نگیره. . میتونی حالت پیری رو با مقدار کمی خمیدگی در اندام هم نشون بدی. ضمنا دوچرخه مشکل داره و یک چرخش دیده نمیشه"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T07:09:39.074Z"
+          }
+        ]
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-10T08:38:04.260209+00:00",
+      "copiedAt": "2026-10-10T08:38:04.260209+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 153,
+        "ideaId": "153-g-v2",
+        "row": 154,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "b401587d552caa46da31fce184a7ed51541fe6b08cf2fb17278ecdfb4fd9f722",
+        "sourcePromptSha256": "e7a076994a1d0d33332fbabb13685afd19bef49399b88aad2e8eae662fd48d56",
+        "characters": 8473
+      },
+      "downloadUrl": "/download/153-g-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 152,
+      "ideaId": "152-g-v5",
+      "prompt": "Create one finished square 1:1 narrative watercolor illustration for a thoughtful Persian adult book. The message is that noticing and fixing our own weakness is more useful than spending attention on another person's small fault. Tell this clearly through three consecutive moments on the SAME simple jogging path, with BOTH people jogging first, yellow then stopping to notice the own laces, and yellow then sitting to tie them.\n\nCOMPOSITION AND SETTING\nTwo equal upper scenes and one wide lower scene, read upper RIGHT first, upper LEFT second, LOWER third. Narrow white gutters, no heavy comic borders. Soft irregular watercolor endings with generous clean white paper around all file edges. Full heads, bodies, hands, legs, feet and shoes stay inside the painting.\n\nThe setting is deliberately simple to make spatial continuity unmistakable. In ALL THREE scenes show ONE broad, straight, uninterrupted WARM TERRACOTTA RUNNING SURFACE from LEFT to RIGHT. The TOP EDGE of this surface is HORIZONTAL, with the same direction and perspective in every scene. Its lower edge fades naturally into WHITE PAPER with a soft watercolor ending. No bend, fork, crossroad, perpendicular path, second lane, new sitting area or change of viewpoint.\nABSOLUTELY NO SIGN, BENCH, foreground grass patch, bush island, planted divider or greenery inside the road in any scene. No decorative foreground shrub interrupting the continuous running surface. Behind the path are only a quiet simple park and blue lake. Keep environmental detail restrained: a single slender old-fashioned park lamp at the far right, distant soft city shapes beyond the lake, and quiet background greenery and a leafy tree at the left. No decorative props, crowds or competing activities. All greenery is behind the horizontal path edge, never inside the road or foreground.\nThe SAME MAIN RUNNING PATH is used throughout. In the first scene BOTH yellow and pink are JOGGING in the SAME left-to-right direction; do not make yellow stationary. Yellow then STOPS ON THAT SAME path to look down at the own shoes, and sits directly at that stopping spot to tie them. Maintaining the same path does not prohibit first-scene running. Keep the same camera direction, straight path and simple park/lake setting, never another trail or sitting area. The entire path remains clearly visible to both sides of yellow.\n\nCHARACTERS\nYELLOW is a warm-yellow adult, no eyelashes, small dark oval eyes, simple eyebrows and mouth. Mildly questioning first, surprised and self-aware second, gently smiling third.\nPINK is a warm-pink adult runner, with only a few very short fine upper-outer lashes as the main female cue. Pink appears ONLY in the FIRST upper-right scene. No pink figure, distant runner, reflection or silhouette anywhere in scenes two and three.\nBoth have cream running shoes with warm beige soles. Otherwise plain colored book figures, no ordinary clothes, hair, ears, noses or new accessories.\n\nFIRST, UPPER RIGHT — JUDGING A LOOSE LACE\nBOTH YELLOW AND PINK JOG toward the RIGHT on the SAME path. Yellow has a clear natural RUNNING STRIDE with coherent bent legs and moving arms, not two planted stationary feet. Yellow turns the FACE toward the RIGHT in a gentle three-quarter view, looking diagonally DOWN-RIGHT at PINK's ACTUAL UNTIED shoe as pink runs a little ahead. The small eye and facial marks sit naturally toward the right side of the circular head to establish this gaze; the round head silhouette remains unchanged. Yellow's eye-line terminates at PINK's shoe to the right, NOT at yellow's own shoes directly below. Yellow's arms have an ordinary balanced bent-arm JOGGING pose, with no pointing index finger. Attention is established by the rightward face and eye direction, clearly toward PINK's FRONT/GROUNDED near shoe with the two short loose lace ends, NEVER pink's tied shoe. The front grounded shoe's upper instep is visible in a gentle three-quarter view. Do not use arrows or change the reference eye design. Pink's medium neutral torso, pelvis and running limbs are coherent; no feminine body shaping.\nONE pink shoe has a naturally untied lace; the other has a small proper tied bow. Angle the near shoe three-quarter toward the viewer so its upper instep and top lacing are visible, and use this grounded near shoe for the open lace. TWO SHORT thin fabric ends emerge from its ACTUAL TOPMOST EYELETS on the upper front instep and fall close to that shoe under ordinary gravity. Nothing grows from a heel, sole, ankle or back of shoe. No giant floating ribbons, detached cords, tentacles or lace connecting shoes.\nYellow's OWN TWO shoes also have ordinary visible untied laces, each threaded through its own eyelets, with short separate free ends. Yellow has not noticed them.\nA white cloud-shaped thought bubble, linked unmistakably to yellow by small thought circles, says exactly:\n\"با این کفشا می‌دوه؟!\"\nThe criticism concerns the actual loose lace, not that the general type of cream shoe is bad.\n\nSECOND, UPPER LEFT — NOTICING BOTH OWN LACES\nONLY yellow, now STOPPED STANDING on the SAME unbroken straight terracotta RUNNING PATH. This is a pause in the jog, not a move to a different path. Feet a little apart. Here yellow's face turns DOWN toward BOTH OWN shoes directly beneath the body, with a modest surprised expression. This gaze is clearly different from the first scene's rightward attention to pink's shoe. Yellow looks only at the own naturally untied lace ends. Arms hang naturally, hands are not tying yet; yellow is not seated in this scene.\nA white cloud-shaped thought bubble belongs to yellow and reads exactly:\n\"بندهای خودم بازه!\"\nPink is absent even from the far background. No bench, sign, grass island, foreground bush or extra path. Keep the horizontal top edge of the path and the simple park/lake background unchanged.\n\nTHIRD, WIDE LOWER — FIXING THE OWN LACES RIGHT THERE\nONLY yellow, smiling warmly, seated directly on that same broad terracotta RUNNING SURFACE at the same spot where yellow STOPPED in the second scene. Neutral hips touch the path with a soft contact shadow. One leg bends naturally to bring a complete shoe within reach; the other extends comfortably toward the right. Both whole legs and complete shoes remain visible and naturally attached.\nBoth hands tie the reachable shoe's OWN ordinary short laces near the instep. The other shoe remains naturally untied until its turn. No connecting cord or impossible grip. The smile conveys kind useful self-correction, not shame or distress.\nNo pink, other person, thought bubble, caption or final running scene. The path extends uninterrupted from left to right on both sides of yellow, top edge horizontal, lower watercolor boundary ending in white paper. No planted island or new seating strip.\n\nSTRICT CHARACTER STYLE\nPERFECT CIRCLE heads, equal width and height, including when looking down; no oval, chin, jaw or neck. Heads join the upper torso directly with a soft darker local-color crescent beneath them.\nMEDIUM balanced ADULT neutral bodies for both genders, neither plump/chibi nor spindly. No breasts, narrow pinched waist, waist notch, projecting hips or buttocks. Natural shoulders, arms, pelvis, knees and ankles.\nModest SMALL DARK OVAL reference eyes. Tiny inner light glints allowed; NO surrounding white sclera, white eyeball with a separate pupil, enlarged doll eyes or frightening blank eyes. Pink's few short fine lashes remain on the upper outer edges of those same eyes without altering their structure. Simple eyebrows and friendly mouths. No sharply defined circular blush spots; any cheek warmth is barely visible, translucent and diffuse.\nOpenly visible hands have THREE FINGERS PLUS ONE THUMB, with natural occlusion during lace tying. No extra digits or mitten hands.\n\nPAINTING AND TEXT\nAuthentic MODERATE layered hand-painted WATERCOLOR on luminous textured white paper. Show broad softly overlapping translucent washes INSIDE heads, bodies, arms, legs and hands as well as the setting, varied pigment density and restrained edge pooling. Darker golden-yellow contours for yellow and deeper warm-pink contours for pink; NEVER black body outlines. Facial marks and Persian lettering may be dark. Gentle natural shadows and warm clear color.\nNo flat/vector fills, marker coloring, uniform fine colored-pencil grain, glossy plastic/3D finish, excessive mottling or splashing. Family-friendly, humane, subtly witty adult-book art.\nThe ONLY in-image text is the TWO exact Persian thoughts quoted above, correctly connected and right-to-left. No sign or other writing, English, captions, numbers, watermark or signature. Make the three actions and the unchanged simple location easy to understand without an outside explanation.\n\n",
+      "promptPath": "review-data/revision-152-g-2026-10-10/152-g-v5.full-generation.en.txt",
+      "promptSource": "review-data/revision-152-g-2026-10-10/152-g-v5.metadata.json",
+      "promptSha256": "653fddba7add8fdd3586f67e275bfc3ec5216e3f7e3bc9b2ba1e95d8e19fab99",
+      "sourcePromptSha256": "653fddba7add8fdd3586f67e275bfc3ec5216e3f7e3bc9b2ba1e95d8e19fab99",
+      "promptCellSha256": "3b5015517bc649374ec497ada5941f0d2f67bd555b3eaa6bbacb0f3a9745ad5e",
+      "imageHash": "a5d861255a4789cd46727ab5b5ff9967b273e7fc7197b5fe2727bf8ebfd6cd4b",
+      "source": "book-review/dist/art/152-g-v5.png",
+      "savedPath": "Images/152.png",
+      "approvedAt": "2026-10-19T08:00:12.473Z",
+      "feedback": {
+        "sentenceId": 152,
+        "waveId": "final-review-151-153-2026-10-10-v5",
+        "candidateIds": [
+          "152-e-v2",
+          "152-f-v2",
+          "152-g-v5",
+          "152-h-v2"
+        ],
+        "status": "approved",
+        "chosenIdeaId": "152-g-v5",
+        "ideaNotes": {
+          "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+          "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+          "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+          "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+          "152-g-v2": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد.",
+          "152-g-v3": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه",
+          "152-g-v4": "بندهای کفش آدمک صورتی کاملا غیر طبیعی هستند. گفتم در تصویر دوم و سوم که آدمک زرد متوجه باز شت بندهای خودش می شود، آدمک صورتی حضور نداشته باشد. و آدمک زرد هم همچنان در همان جایی که بود باشد یعنی در همان مسیر دویدن نهدر مکان دیگری!!!! ",
+          "152-g-v5": "ادامهٔ اصلاح تصویر ۱۵۲"
+        },
+        "note": "",
+        "customIdea": "",
+        "requestedVariants": null,
+        "updatedAt": "2026-10-19T08:00:12.473Z",
+        "history": [
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": null
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-07T17:51:29.573Z"
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {},
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-09T20:29:02.176Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-e-v1",
+            "revisionRequest": {
+              "requestId": "cb3e8672-7dd2-49aa-9cd4-2945bb63eca1",
+              "baseIdeaId": "152-e-v1",
+              "baseVersion": 1,
+              "comment": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "submittedAt": "2026-10-10T06:50:13.674Z"
+            },
+            "revisionProgress": {
+              "requestId": "cb3e8672-7dd2-49aa-9cd4-2945bb63eca1",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:50:13.674Z"
+            },
+            "updatedAt": "2026-10-10T06:51:04.456Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-f-v1",
+            "revisionRequest": {
+              "requestId": "c876aa0e-4954-4be2-8fbf-43c18feb6ad6",
+              "baseIdeaId": "152-f-v1",
+              "baseVersion": 1,
+              "comment": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "submittedAt": "2026-10-10T06:51:06.424Z"
+            },
+            "revisionProgress": {
+              "requestId": "c876aa0e-4954-4be2-8fbf-43c18feb6ad6",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:51:06.424Z"
+            },
+            "updatedAt": "2026-10-10T06:52:33.551Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v1",
+            "revisionRequest": {
+              "requestId": "fe12d787-f81f-4223-a9b3-0069cb9ad25d",
+              "baseIdeaId": "152-g-v1",
+              "baseVersion": 1,
+              "comment": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "submittedAt": "2026-10-10T06:52:36.561Z"
+            },
+            "revisionProgress": {
+              "requestId": "fe12d787-f81f-4223-a9b3-0069cb9ad25d",
+              "status": "queued",
+              "updatedAt": "2026-10-10T06:52:36.561Z"
+            },
+            "updatedAt": "2026-10-10T06:54:10.966Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-h-v1",
+            "revisionRequest": {
+              "requestId": "ec3d4e58-8150-4dc9-ad8c-d2f2bf42c928",
+              "baseIdeaId": "152-h-v1",
+              "baseVersion": 1,
+              "comment": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+              "submittedAt": "2026-10-10T06:54:12.707Z"
+            },
+            "revisionProgress": {
+              "requestId": "ec3d4e58-8150-4dc9-ad8c-d2f2bf42c928",
+              "status": "in_progress",
+              "message": "اصلاح هر چهار طرحِ ۱۵۲ با بررسی منطق صحنه، اندام‌ها و روایت بالغ شروع شده است.",
+              "updatedAt": "2026-10-10T07:09:39.037Z",
+              "startedAt": "2026-10-10T07:09:39.037Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T07:09:39.037Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v2",
+            "revisionRequest": {
+              "requestId": "729206be-e33d-4505-af4b-a9a5c44af545",
+              "baseIdeaId": "152-g-v2",
+              "baseVersion": 2,
+              "comment": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد.",
+              "submittedAt": "2026-10-10T08:07:08.627Z"
+            },
+            "revisionProgress": {
+              "requestId": "729206be-e33d-4505-af4b-a9a5c44af545",
+              "status": "queued",
+              "updatedAt": "2026-10-10T08:07:08.628Z"
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+              "152-g-v2": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد."
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T08:07:08.628Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v3",
+            "revisionRequest": {
+              "requestId": "aa1e517a-b313-43e1-b751-f6048266b3f8",
+              "baseIdeaId": "152-g-v3",
+              "baseVersion": 3,
+              "comment": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه",
+              "submittedAt": "2026-10-10T08:47:25.155Z"
+            },
+            "revisionProgress": {
+              "requestId": "aa1e517a-b313-43e1-b751-f6048266b3f8",
+              "status": "in_progress",
+              "message": "در حال اصلاح روایت سه قاب: بند باز صورتی، دیدن هر دو بند باز زرد، و بستن بندها با لبخند روی همان مسیر.",
+              "updatedAt": "2026-10-10T08:58:35.600Z",
+              "startedAt": "2026-10-10T08:58:35.600Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+              "152-g-v2": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد.",
+              "152-g-v3": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T08:58:35.600Z",
+            "waveId": "final-review-151-153-2026-10-10-v3",
+            "revisionResultIdeaId": "152-g-v4",
+            "resolvedAt": "2026-10-10T09:10:43.314139+00:00"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v3",
+            "revisionRequest": {
+              "requestId": "aa1e517a-b313-43e1-b751-f6048266b3f8",
+              "baseIdeaId": "152-g-v3",
+              "baseVersion": 3,
+              "comment": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه",
+              "submittedAt": "2026-10-10T08:47:25.155Z"
+            },
+            "revisionProgress": {
+              "requestId": "aa1e517a-b313-43e1-b751-f6048266b3f8",
+              "status": "in_progress",
+              "message": "در حال اصلاح روایت سه قاب: بند باز صورتی، دیدن هر دو بند باز زرد، و بستن بندها با لبخند روی همان مسیر.",
+              "updatedAt": "2026-10-10T08:58:35.600Z",
+              "startedAt": "2026-10-10T08:58:35.600Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+              "152-g-v2": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد.",
+              "152-g-v3": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T08:58:35.600Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v4",
+            "revisionRequest": {
+              "requestId": "4a2c9786-5370-4e21-bfa8-e3d32ac32d42",
+              "baseIdeaId": "152-g-v4",
+              "baseVersion": 4,
+              "comment": "بندهای کفش آدمک صورتی کاملا غیر طبیعی هستند. گفتم در تصویر دوم و سوم که آدمک زرد متوجه باز شت بندهای خودش می شود، آدمک صورتی حضور نداشته باشد. و آدمک زرد هم همچنان در همان جایی که بود باشد یعنی در همان مسیر دویدن نهدر مکان دیگری!!!!",
+              "submittedAt": "2026-10-10T09:12:47.352Z"
+            },
+            "revisionProgress": {
+              "requestId": "4a2c9786-5370-4e21-bfa8-e3d32ac32d42",
+              "status": "in_progress",
+              "message": "طبق راهنمایی تازهٔ شما، تابلو و نیمکت و چمن‌های داخل جاده حذف می‌شوند و سه قاب روی یک مسیر ساده و یکدست اصلاح می‌شوند.",
+              "updatedAt": "2026-10-10T09:20:35.551Z",
+              "startedAt": "2026-10-10T09:14:59.558Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+              "152-g-v2": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد.",
+              "152-g-v3": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه",
+              "152-g-v4": "بندهای کفش آدمک صورتی کاملا غیر طبیعی هستند. گفتم در تصویر دوم و سوم که آدمک زرد متوجه باز شت بندهای خودش می شود، آدمک صورتی حضور نداشته باشد. و آدمک زرد هم همچنان در همان جایی که بود باشد یعنی در همان مسیر دویدن نهدر مکان دیگری!!!! "
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T09:20:35.551Z",
+            "waveId": "final-review-151-153-2026-10-10-v4",
+            "revisionResultIdeaId": "152-g-v5",
+            "resolvedAt": "2026-10-10T09:28:41.621474+00:00"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v4",
+            "revisionRequest": {
+              "requestId": "4a2c9786-5370-4e21-bfa8-e3d32ac32d42",
+              "baseIdeaId": "152-g-v4",
+              "baseVersion": 4,
+              "comment": "بندهای کفش آدمک صورتی کاملا غیر طبیعی هستند. گفتم در تصویر دوم و سوم که آدمک زرد متوجه باز شت بندهای خودش می شود، آدمک صورتی حضور نداشته باشد. و آدمک زرد هم همچنان در همان جایی که بود باشد یعنی در همان مسیر دویدن نهدر مکان دیگری!!!!",
+              "submittedAt": "2026-10-10T09:12:47.352Z"
+            },
+            "revisionProgress": {
+              "requestId": "4a2c9786-5370-4e21-bfa8-e3d32ac32d42",
+              "status": "in_progress",
+              "message": "طبق راهنمایی تازهٔ شما، تابلو و نیمکت و چمن‌های داخل جاده حذف می‌شوند و سه قاب روی یک مسیر ساده و یکدست اصلاح می‌شوند.",
+              "updatedAt": "2026-10-10T09:20:35.551Z",
+              "startedAt": "2026-10-10T09:14:59.558Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "ideaNotes": {
+              "152-e-v1": "سرخی گونه ها طبیهی نیست و شبیه استایلی که بهت دادم نیست",
+              "152-f-v1": "قاعدتا باید توی آینه پشت آدمک دیده بشه و از نظر قوانین فیزیک تصویر رو غلط ساختی. ضمنا آدمک داخل آینه هم مشکل داره",
+              "152-g-v1": "آدمک صورتی اندام دفرمه ای داره. آدمک زرد هم در حال نگاه کردن به کفش های خودشه اما داره در مورد یکی دیگه نظر میده و خب اصلا جور در نمیاد. ضمنا بند کفش هاش نزدیک خط پایان به هم گره خورده؟! بهتره همون شروع دویدن باشه و بندها باز شده باشن. ضمنا اندام آدمک صورتی فاجعست نه یک طرح زیبا و درست",
+              "152-h-v1": "آدمک صورتی داره از آدمک سبز ایزاد میگیره که چرا برجش کجه اما برج خودش صافه! ایرادی نداره... قاعدتا باید برج خودش حالت به هم ریخته تری داشته باشه. ضمن اینکه این ایده خیلی ابتدایی! من دارم برای مخاطب بزرگسال تصویرسازی میکنم نه برای بچه مهدکودکی که وسایل بازی و برج سازی ایده باشه!",
+              "152-g-v2": "آدمک زرد باید در همان مسیر دویدن بنشیند و بندهایش را ببندد. و بهتر است ایرادی که میگیرد از کفش های ئونده صورتی باشد.",
+              "152-g-v3": "باز هم اشتباه کردی و آدمک رو هنگام بستن کفش ها در مسیر دیگری عمود بر مسیر اصلی نقاشی کردی. اشتباه دیگه تو اینه که نباید وقتی از کفش های آدمک صورتی ایراد میگیره، کفش ها دقیقا شبیه کفش های خودش باشه... بلکه بهتره بند یکی از کفش های آدمک صورتی باز باشه و بعد آدمک زرد در تصویر دوم متوجه بشه که بندهای هر دو کفش خودش بازه و در تصویر سوم با لبخند در حال بستن بندهای خودش باشه.... لازم نیست در تصویر سوم آدمک صورتی باشه",
+              "152-g-v4": "بندهای کفش آدمک صورتی کاملا غیر طبیعی هستند. گفتم در تصویر دوم و سوم که آدمک زرد متوجه باز شت بندهای خودش می شود، آدمک صورتی حضور نداشته باشد. و آدمک زرد هم همچنان در همان جایی که بود باشد یعنی در همان مسیر دویدن نهدر مکان دیگری!!!! "
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-10T09:20:35.551Z"
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "152-g-v5",
+            "revisionRequest": {
+              "requestId": "b6c9c925-ebcd-4a40-a701-cd856697d148",
+              "baseIdeaId": "152-g-v5",
+              "baseVersion": 5,
+              "comment": "ادامهٔ اصلاح تصویر ۱۵۲",
+              "submittedAt": "2026-10-14T10:34:44.833Z"
+            },
+            "revisionProgress": {
+              "requestId": "b6c9c925-ebcd-4a40-a701-cd856697d148",
+              "status": "in_progress",
+              "message": "تلاش دوبارهٔ تولید با دستور کوتاه‌تر برای اصلاح بندهای باز و جهت نگاه شروع شده؛ هنوز تصویر تازه دریافت نشده است.",
+              "updatedAt": "2026-10-14T11:03:05.216Z",
+              "startedAt": "2026-10-14T10:38:20.676Z",
+              "finishedAt": null
+            },
+            "updatedAt": "2026-10-14T11:03:05.216Z"
+          }
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "decisionIntent": {
+          "id": "17d8893a-bbc6-4773-9be8-184630804710",
+          "status": "approved",
+          "chosenIdeaId": "152-g-v5",
+          "submittedAt": "2026-10-19T08:00:12.473Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-19T08:01:52.160200+00:00",
+      "copiedAt": "2026-10-19T08:01:52.160200+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 152,
+        "ideaId": "152-g-v5",
+        "row": 153,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "3b5015517bc649374ec497ada5941f0d2f67bd555b3eaa6bbacb0f3a9745ad5e",
+        "sourcePromptSha256": "653fddba7add8fdd3586f67e275bfc3ec5216e3f7e3bc9b2ba1e95d8e19fab99",
+        "characters": 8720
+      },
+      "downloadUrl": "/download/152-g-v5.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    }
+  ],
+  "pending": {},
+  "updatedAt": "2026-10-19T08:20:23.295129+00:00"
+}

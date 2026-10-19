@@ -1,0 +1,34 @@
+{
+  "id": "151-o-v2",
+  "stage": "draft_before_framing_apron_edit",
+  "sourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-ea302dea-ff89-4145-a328-1d9a754f9cee.png",
+  "path": "review-data/revision-wave-2026-10-10/assets/151-o-v2.draft.png",
+  "sha256": "34282249880749c1ae993a25615d3744b6448b819cb7925d0d2c93bc131b7856",
+  "generatedBy": "built-in image_gen",
+  "seed": {
+    "id": "151-o-v2",
+    "parentIdeaId": "151-k-v1",
+    "titleFa": "پول را گرفتم؛ مسئولیت ماند",
+    "summaryFa": "تعمیرکار پس از دریافت دستمزد، برای درست‌کردن نقصی که مشتری ندیده برمی‌گردد.",
+    "storyFa": "در آغاز، تعمیرکار بنفش با نگاه به دستمزد صندلی را تحویل می‌دهد. هنگام جمع‌کردن کارگاه، پیچ جاافتاده را می‌بیند و می‌فهمد اتصال صندلی کامل نشده است. در پایان، با اینکه مشتری از نقص خبر نداشته و پول پرداخت شده، خودش برمی‌گردد و صندلی را بی‌هزینهٔ اضافه محکم می‌کند.",
+    "meaningFa": "حاصل مهم تلاش می‌تواند رشد وجدان و مسئولیت‌پذیری باشد؛ انجام کار به فرصتی برای بهترشدن خودِ انسان تبدیل می‌شود.",
+    "concept": "Growth of conscience through one's work; money was the starting focus, responsibility becomes the final conduct. Not merely increased skill.",
+    "risk": "Can read as ordinary warranty; show customer unaware and voluntary repair after payment, without making salary evil.",
+    "prompt": "Use case: illustration-story. Create a NEW square narrative book illustration, not a copy of either reference scene. Input image 1 (97): reference ONLY for medium adult neutral full-body proportions, simple eyes and local-colored contours. Input image 2 (131): reference ONLY for genuine layered watercolor, luminous pigment and paper; disregard its scene and sharp blush. Match this existing book's painterly visual identity. Broad overlapping translucent watercolor washes visible INSIDE heads, torsos, limbs and hands, gentle pigment pooling, restrained hand-painted texture; no marker, colored-pencil grain, flat vector, glossy/3D paint. Heads are PERFECT CIRCLES, width equals height, no oval, chin, jaw, ears, nose, hair or neck. Medium balanced adult neutral bodies, modest arms, not skinny or chunky; female bodies identical to other bodies, no breast, narrow waist, hip or buttock bulge, indentations. Gender if needed only a few short fine upper-outer eyelashes on the SAME small dark oval eyes. Tiny internal white glints allowed; NO surrounding white sclera. No sharp circular pink cheeks: either omit blush or extremely faint diffuse watercolor. Outlines are darker shades of each body's own color, never black body outlines. Soft local-color crescent contact shadow under each round head joining shoulders directly. Visible hands have THREE fingers PLUS ONE thumb, normal natural grips. Every foot and important prop fully INSIDE the image, no accidental clipping. Generous irregular watercolor edges with clean white paper margins. All writing ONLY short correctly connected colloquial Persian; no English. Family-friendly, warm, gentle human wit. Read scenes right-to-left then downward, thin WHITE gutters, no heavy frames. Calm uncluttered composition for an ADULT audience, not preschool/chibi.\nStory: work should form a more responsible human, beyond the money collected. Three connected scenes: TWO upper scenes, chronological upper RIGHT then upper LEFT, final WIDE lower scene.\nUpper RIGHT, small simple furniture workshop doorway: PURPLE adult carpenter in a straight cream work apron eagerly receives a small payment envelope marked «دستمزد» from a plain gray adult customer. He hands over a small warm wooden chair. One horizontal cross-brace joint has a clearly EMPTY screw hole; chair still stands, no accident. Carpenter's attention is on the payment, not the joint. Customer is pleased and unaware.\nUpper LEFT, later SAME purple carpenter alone clearing his bench: he finds ONE leftover distinctive brass screw beside his screwdriver, freezes thoughtfully with worried eyebrows. A SMALL thought image connects that screw to the empty joint hole in the chair he delivered; short thought text «این پیچ جا مونده!» Do not draw a second real chair in this panel. Payment envelope already lies closed aside, showing transaction complete. Calm single clear visual discovery, not chaos.\nWide LOWER: at gray customer's simple home doorway with room for both full bodies, purple carpenter voluntarily returns and kneels naturally beside the SAME wooden chair, placing that brass screw into the exact empty cross-brace hole with screwdriver. His entire torso-to-legs connection and kneeling feet must be anatomically continuous and plausible. Gray customer stands kindly surprised, not injured or complaining, one short speech bubble «ولی پولت رو گرفته بودی!» Purple replies «کارم باید درست باشه.» Both speech tails belong unambiguously to speaker. No further payment changes hands. Purple's expression is earnest and peaceful, not self-congratulatory. Only these short Persian lines plus envelope label and screw thought text.\nVisually show an inward human change in attitude: initial money-focused eagerness, thoughtful recognition during work, final honest responsibility to a person. No trophy, muscle growth, new tools or lesson about skill. Keep chair shape, screw joint, purple identity and neutral adult silhouette continuous; gray customer same. All shoes absent, plain colored feet. Gentle wit in the customer's surprise; original reference watercolor retained.",
+    "sentenceNumber": 151,
+    "version": 2,
+    "referencePaths": [
+      "Images/97.jpg",
+      "Images/131.jpg"
+    ],
+    "status": "pending"
+  },
+  "parentIdeaId": "151-k-v1",
+  "revisionRequestId": "56f004ff-53c2-429a-925c-6383fc30b1e5",
+  "userApproval": "pending",
+  "issues": [
+    "Upper panels crop character feet",
+    "Purple carpenter lacks cream apron in upper-left panel"
+  ],
+  "savedUtc": "2026-10-10T07:18:14.8170248Z"
+}

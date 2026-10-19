@@ -1,0 +1,33 @@
+{
+  "id": "151-m-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "حقوق و چیزی که یاد گرفتم",
+  "summaryFa": "کارگر با یادگرفتن استفاده از دو غلطک موجود، جعبه را راحت‌تر حرکت می‌دهد و به همکار تازه کمک می‌کند.",
+  "storyFa": "بالا سمت راست، آدمک بنفش برای هل‌دادن جعبه زحمت می‌کشد و دو غلطک کنار آن بلااستفاده‌اند. بالا سمت چپ، همکار فیروزه‌ای جعبه را روی همان دو غلطک حرکت می‌دهد و بنفش نگاه می‌کند. پایین، بنفش همین روش را برای جعبهٔ همکار صورتی به‌کار می‌برد و می‌گوید «حالا بلدم!». پاکت کوچک «حقوق» روی میز کنار صحنه است.",
+  "meaningFa": "در کنار درآمد، کار توانایی فرد را با یادگیری یک روش مفید رشد می‌دهد؛ او بعداً با آنچه آموخته به دیگری کمک می‌کند.",
+  "prompt": "Use case: illustration-story. Create ONE new square 1:1 watercolor book illustration at normal original quality. Three scenes: upper RIGHT first, upper LEFT second, one wide lower scene last; white separation without heavy borders.\n\nThe attached approved illustration is a STYLE reference only: watercolor, circular heads, modest dark oval eyes, local-color contours, balanced medium adult proportions and white margins. NEVER copy its apron, tailor, sewing machine, room or props. ALL three characters have PLAIN single-color bodies, NO APRONS OR CLOTHES.\n\nStory: work teaches an existing useful method, which the worker then shares. Simple restrained warehouse; plain unmarked cardboard boxes, sparse shelf and floor, no English.\nUPPER RIGHT: purple novice struggles to push a large box along the floor, leaning with effort and a mildly comic frustrated face. TWO short brown wooden cylindrical rollers already lie visibly beside that box, unused.\nUPPER LEFT: turquoise colleague demonstrates by placing THOSE SAME TWO rollers under the SAME box, one front and one back, and moving it easily. Purple watches attentively. Show recognizable cylinders and their support of the box, not wheels or new equipment.\nLOWER: SAME purple now confidently places the SAME TWO wooden rollers under another box belonging to a new pink adult colleague, helping that box move easily. Pink stands beside it, impressed and relieved. Purple speech bubble exactly «حالا بلدم!». A small peripheral pay envelope on a side table reads exactly «حقوق». Learning and helping are the visual focus; the envelope is secondary. No extra tools, rollers, rewards or trophies.\n\nAll characters keep fixed body colors and identity. Pink has only a few fine short upper-outer lashes on the SAME dark oval eyes; no large doll eyes or white sclera. Tiny interior eye glints allowed. Every head is a PERFECT CIRCLE, no jaw, chin or neck; directly joins shoulders with soft local-color contact shadow. No noses, ears or hair. Same neutral medium adult body build: gently almost-parallel torso sides, NO breasts, pinched waist, wide hips or buttocks, neither stretched/thin nor chunky/chibi. Visible hands exactly THREE fingers plus ONE thumb; natural grip occlusion allowed.\n\nAuthentic moderate watercolor: broad overlapping irregular translucent washes INSIDE all heads, torsos, limbs and hands plus setting, subtle pooling and luminous paper. Darker-local-body-color outlines, never black body outlines. No flat/vector fill, uniform fine marker grain, glossy 3D or heavy mottling.\n\nFully include feet, bodies, boxes and cylinders within clean white paper margins. Sparse purposeful setting, natural irregular painted endings; pigment never reaches file edges. Correct connected RTL Persian; only the TWO specified texts. Warm gentle family-friendly humor.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1205b-55d6-74f1-ac00-4a182829384e\\exec-1f97c573-3602-479c-bbcd-950ddb8cbab4.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-m-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "32d24a109b7a2b30f5623e2916a4ab105886bf13908c8302fe2afe706b7440f5",
+  "QA": {
+    "agentObservation": "بازبینی دیداری خروجی واقعی انجام شد: ترتیب سه صحنه راست‌به‌چپ و سپس پایین، دو غلطک موجود و تداوم یادگیری روشن‌اند؛ نوشته‌های فارسی متصل درست‌اند. سرها دایره، چشم‌ها بیضی تیره بدون سفیدی دور مردمک و بدن‌ها ساده بدون پیش‌بندند؛ رنگ شخصیت‌ها ثابت و آبرنگ داخل بدن‌ها و حاشیهٔ سفید دیده می‌شود. دست‌ها بیشتر در تماس با جعبه یا حالت جمع‌شده‌اند و شمار دقیق همهٔ انگشتان قابل تأیید نیست. تصویر برای بازبینی Root آماده است و تأیید نهایی نشده.",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-09T19:10:48.727309+00:00",
+      "observed": "Clear right-to-left novice strain then colleague demonstration, lower confident purple applies learned method. Same pair of existing wooden rollers; pay envelope peripheral. Round heads, plain neutral adult bodies, small dark eyes with fine pink lashes, colored contours and watercolor visible; feet and objects framed.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  },
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-m-v1.prompt.txt",
+  "generation": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09 18:49:57 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-m-v1.result.json"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "151-n-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "صبوری هم یاد گرفتم",
+  "summaryFa": "کارمند کافه به‌تدریج یاد می‌گیرد به اشتباه مشتری با آرامش و کمک پاسخ دهد.",
+  "storyFa": "در قاب بالا، مشتری خاکستری فنجان را روی میز ریخته؛ کارمند مرجانی اخم می‌کند و همکار فیروزه‌ای با آرامش دستمال می‌آورد. در قاب پایین همان مشتری و فنجانِ ریخته دیده می‌شوند، اما مرجانی با لبخند دستمال و فنجان تازه می‌دهد و می‌گوید «عیبی نداره!». هر دو کارمند پیش‌بند کرم یکسان دارند و پاکت کوچک «حقوق» در هر دو قاب روی قفسه است.",
+  "meaningFa": "کار در کنار درآمد می‌تواند صبوری و شیوهٔ برخورد مهربانانهٔ فرد را رشد دهد.",
+  "prompt": "Use case: illustration-story. ONE new square 1:1 watercolor book illustration at normal original quality. TWO spacious café scenes stacked top then bottom, separated by white paper without heavy borders.\n\nThe attached approved illustration is ONLY a STYLE reference for moderate watercolor, round heads, simple eyes, local-color contours, medium adult proportions and white margins. Do not copy its tailor, sewing machine, room or story.\n\nStory: café work develops patience alongside earning pay. SAME coral and turquoise staff, SAME light-gray adult customer, SAME café table and accidentally tipped cup/spill in both scenes. BOTH staff wear the SAME SIMPLE STRAIGHT CREAM APRON with parallel sides, no fitted waist. Gray customer is a plain body character. All three retain fixed colors and proportions.\n\nTOP: heading exactly «اول کار». Gray has accidentally tipped a cup, spilling a small puddle on the table, and looks sheepish. Coral staff frowns and reacts impatiently, gently comic and never frightening. Calm turquoise staff brings a clean folded cloth and demonstrates a respectful reassuring response to gray. Coral notices turquoise's calm action. A SMALL pay envelope labeled exactly «حقوق» sits unobtrusively on a side shelf.\n\nBOTTOM: heading exactly «مدتی بعد». SAME customer, SAME tipped cup and small spill on SAME table. SAME coral now has relaxed eyebrows and a kind smile, giving gray a cloth and a fresh cup. Gray looks relieved and comfortable. Coral's speech bubble exactly «عیبی نداره!». Turquoise stands nearby with a quiet approving smile. The SAME SMALL «حقوق» envelope remains in the SAME peripheral shelf position, identical in both scenes. The change is coral's learned behavior, not new possessions or a changed customer.\n\nSTRICT characters: all have the SAME balanced MEDIUM NEUTRAL ADULT body build, gently almost-parallel torso sides; no breasts, pinched waist, flared hips, buttocks, long thin limbs, fat/chunky or chibi forms. Every head is a PERFECT CIRCLE, directly joins shoulders without neck, jaw or chin; soft local-color contact shadow under head. No nose, ears or hair. Modest dark oval eyes, optional tiny interior white glint, NO white sclera or doll eyes. Every visible hand exactly THREE fingers plus ONE thumb; natural grips may occlude digits.\n\nAuthentic moderate watercolor: broad softly irregular overlapping translucent washes INSIDE heads, bodies, limbs and hands plus setting; subtle pooling and luminous paper. Outlines darker SAME local body color, never black. No vector flat fill, uniform marker/pencil grain, glossy 3D or heavy mottling.\n\nSparse purposeful café setting; all bodies, feet, cups and table fully within clean white margins, natural irregular paint endings. Only specified short connected RTL Persian text. Kind family-friendly gentle humor.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1205b-55d6-74f1-ac00-4a182829384e\\exec-2049025a-9d70-42f7-b172-5a5dbc9bdf50.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "73deccd15c5ace163b5cc83ee5dc9aa704747f400864a44e234be4eafbc4a9b6",
+  "QA": "بازبینی خروجی واقعی: روایت، رنگ‌های ثابت، دو پیش‌بند کرم هماهنگ، سرهای دایره و چشم‌های بیضی تیره درست‌اند؛ تغییر رفتار مرجانی و تداوم مشتری/فنجان/پاکت حقوق دیده می‌شود. دو نقص نیازمند اصلاح: نوشتهٔ انگلیسی Coffee روی تختهٔ هر دو قاب برخلاف متن فقط فارسی آمده و پاها در پایین هر دو صحنه بریده شده‌اند. دست‌های باز مرجانی طراحی سادهٔ سه انگشت و شست دارند؛ دست‌های درگیر گرفتن اشیا پوشیده‌اند. آبرنگ داخل بدن‌ها و حاشیهٔ سفید حفظ شده. نسخه pending است و بدون اصلاح قابل پاس‌دادن نیست.",
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.prompt.txt",
+  "generation": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09 19:14:51 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-n-v1.result.json"
+  }
+}

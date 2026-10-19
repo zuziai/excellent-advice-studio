@@ -1,0 +1,44 @@
+{
+  "id": "153-c-v2",
+  "parentIdeaId": "153-c-v1",
+  "revisionRequestId": "79d95e00-52a0-49ed-9511-84172e6047d4",
+  "version": 2,
+  "revisionRequestTextFa": "برای این تصویر برای نشان دادن فرد مسن. علاوه بر چروک های روی صورت میتونی از یک عینک دوربین هم استفاده کنی",
+  "prompt": "Use case: precise-object-edit. Edit the attached garden two-panel watercolor illustration ONLY by adding simple thin prescription eyeglasses to the TWO OLD adults, with transparent lenses. Preserve the entire existing image pixel-faithfully wherever possible: exact faces/eye shapes, round head geometry, wrinkles, colors, neutral bodies, hands, all feet, sapling and mature fruit tree, shared fruit/basket, Persian headings, watercolor brushwork, composition and white margins. DO NOT redesign, recolor or change the scene. Keep 1024x1536.\nTOP panel: Add a very thin simple lightweight dark-BLUE eyeglass frame to the OLD BLUE adult at LEFT. Small clear lenses surround the EXISTING small dark eyes in their existing positions. Lens interiors remain the SAME BLUE painted face underneath, NOT white. Keep tiny white glints INSIDE the existing dark eyes. Preserve the existing fine outer-eye wrinkles and mouth-corner age line. The YOUNG ORANGE adult at RIGHT in the top panel must NOT wear glasses.\nBOTTOM panel: Add a very thin simple lightweight burnt-ORANGE eyeglass frame to the OLD ORANGE adult at RIGHT. Small clear lenses surround the EXISTING small dark eyes without resizing/changing them. Lens interiors remain the SAME ORANGE watercolor face underneath, NOT white. Keep the existing tiny interior eye glints and delicate eyelashes. Preserve all fine eye/mouth age wrinkles. The YOUNG GREEN adult at LEFT in the bottom panel must NOT wear glasses.\nGlasses are modest simple round or gently oval clear optical lenses, a delicate bridge across the face and tiny fine side arms. No nose or ears added, no opaque/tinted lenses, dark filled lenses, huge goggle frames or thick black outlines. No white sclera, enlarged eyeballs, separate pupils on white eyes, harsh scary eyes, hair or other aging changes. Do not erase age wrinkles beneath/around spectacles. Spectacles follow the face angle naturally and do not alter the perfectly circular heads. Preserve exact Persian «وقتی جوون بودم» above and «سال‌ها بعد» below.\nFinal check: ONLY BLUE TOP and ORANGE BOTTOM have clear-lens thin-frame prescription glasses, color skin visible through lenses, existing small dark eyes/glints remain, age wrinkles remain. Young orange above and young green below unchanged. Everything else unchanged.",
+  "refPaths": [
+    "review-data/wave-152-154/153/153-c-v1.png"
+  ],
+  "source": "C:\\Users\\zohre\\.codex\\generated_images\\01a115f1-4722-7d31-91e2-0b1b337d5615\\exec-d56d220a-37e8-48c8-9e1a-6a130890b575.png",
+  "outputPath": "review-data/wave-152-154/153/revisions/153-c-v2.png",
+  "image": "review-data/wave-152-154/153/revisions/153-c-v2.png",
+  "width": 1024,
+  "height": 1536,
+  "dimensions": {
+    "width": 1024,
+    "height": 1536
+  },
+  "generationMethod": "built-in image_gen",
+  "imageGenerationCalls": 1,
+  "parentOriginalSha256Before": "8B65DD6B0B5C4F3D2EBC1E6A9255885B0AAAC8664307B86E85C93385DEBDDEE4",
+  "parentOriginalSha256After": "8B65DD6B0B5C4F3D2EBC1E6A9255885B0AAAC8664307B86E85C93385DEBDDEE4",
+  "outputSha256": "0D61C39ACC483C0304A7ACC55EE0924F336F34CE1585DFD20483FB11FACE56CA",
+  "qa": {
+    "status": "passed_visual_review",
+    "userDecision": "pending",
+    "inspectedLocalFile": true,
+    "checks": {
+      "glassesOnlyOnOldBlueTopAndOldOrangeBottom": true,
+      "youngOrangeTopAndYoungGreenBottomWithoutGlasses": true,
+      "thinSimpleFramesWithTransparentLenses": true,
+      "blueAndOrangeSkinColorsVisibleWithinLenses": true,
+      "smallDarkEyesAndTinyInteriorWhiteGlintsPreserved": true,
+      "noWhiteScleraOrScaryEyes": true,
+      "ageWrinklesPreserved": true,
+      "persianTextAndTreeStoryPreserved": true,
+      "neutralBodiesRoundHeadsCompleteFeetPreserved": true,
+      "watercolorAndWhiteMarginsPreserved": true,
+      "originalV1FileUnchanged": true
+    },
+    "notesFa": "عینک نازک آبی فقط برای آبیِ مسنِ قاب بالا و عینک نازک نارنجی فقط برای نارنجیِ مسنِ قاب پایین اضافه شده است. عدسی‌ها شفاف‌اند، رنگ پوست و چشم‌های تیره با برق کوچک داخلی باقی مانده، چروک‌های سن، روایت درخت، متن، بدن خنثی، سرهای گرد، پاهای کامل، آبرنگ و حاشیه در بررسی دیداری حفظ‌اند. نسخهٔ اول با مقایسهٔ SHA256 دست‌نخورده است."
+  }
+}

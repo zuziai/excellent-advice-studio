@@ -1,0 +1,29 @@
+{
+  "id": "152-g-v1",
+  "sentenceNumber": 152,
+  "status": "pending",
+  "titleFa": "اول بندهای خودم!",
+  "summaryFa": "آدمک زرد از کندی دیگری ایراد می‌گیرد، اما مشکل اصلی بند دو کفش خودش است که به هم گره خورده‌اند.",
+  "storyFa": "بالا، زرد دیگری را قضاوت می‌کند و تازه متوجه می‌شود بند کفش‌های خودش به هم بسته شده و نمی‌تواند آزاد قدم بردارد. پایین، بند هر کفش را جدا و درست بسته و حالا راحت به سوی خط پایان می‌دود.",
+  "meaningFa": "دیدن و اصلاح ضعف خود، حرکت خودمان را بهتر می‌کند؛ ایرادگرفتن از دیگران این مانع را برطرف نمی‌کند.",
+  "prompt": "Use case: illustration-story. Create ONE NEW square 1:1 watercolor illustration for a Persian visual advice book. TWO horizontal scenes stacked vertically, read top to bottom, white gap and no heavy panel frame. Attached image is a STYLE reference ONLY: copy moderate real watercolor, locally colored outlines, circular heads, modest eyes and balanced neutral ADULT proportions. Do NOT copy its tailor, apron, clothes, room, sewing machine or composition.\n\nStory, clear at a glance: paying attention to one's own weakness is more useful than judging someone else's. Two ADULT park runners: YELLOW and PINK. They both wear the same simple pale cream running SNEAKERS with ordinary visible dark laces and otherwise have their plain single-color bodies, no clothing, no shorts, no apron. PINK has only a few tiny fine upper-outer eyelashes on the same modest dark eyes as the reference, no feminine body curves.\n\nTOP SCENE: On a quiet park path yellow is trying to run, but THEIR OWN TWO SHOE LACES ARE TIED TO EACH OTHER ACROSS THEIR TWO FEET: unmistakable cord bridge between left shoe and right shoe with one knot in the middle, holding the shoes close and clearly limiting their stride. Keep this linked-shoelace detail large, clear and visible, no grass or objects covering it. Yellow's head is tilted down just noticing their OWN tangled connected shoes, surprised but not frightened; one hand gestures toward PINK farther along the same path, who jogs slowly and comfortably. Thought bubble belongs only to yellow, exact Persian «اون چرا اینقدر کنده؟». Do NOT show a fall, injury, humiliation or spectators. Humor is yellow's own silly oversight.\n\nBOTTOM SCENE: SAME yellow and SAME two cream shoes NOW have completely SEPARATE NORMAL LACES, each shoe tied with its OWN small normal bow ON THAT SHOE. A visible clear gap between the shoes, NO strand joining them. Yellow now runs freely, smiling with a comfortably wider stride, toward a simple finish line on the park path. Pink continues jogging calmly behind yellow. Both runners have the same colors, identities, neutral adult shapes, same eyes and same shoes as above. A tiny thought bubble belongs to yellow, exact Persian «اول بندهای خودم!». Finish sign may say only «پایان», short connected Persian. Improvement must visibly follow fixing yellow's OWN shoelaces, not acquiring shoes or mocking pink.\n\nSTRICT STYLE: perfect circular heads (not oval, jaw or chin), directly joined to shoulders with no neck. Medium balanced neutral ADULT build, gently near-parallel torso sides; no bust, pinched waist, prominent hips or buttocks, no bulky round limbs, no stretched thin/chibi proportions. Soft local-color crescent contact shadow just under each head. Modest dark oval eyes with optional TINY white internal glint, NO white sclera, no large doll eyes; pink only two or three short fine outer lashes. No nose, ears or hair. Every visible hand exactly THREE fingers plus ONE thumb, natural pose occlusion allowed.\nAuthentic MODERATE hand-painted watercolor including INSIDE heads, torso, arms, legs, hands: broad softly irregular OVERLAPPING translucent washes, varied pigment density, luminous paper, subtle edge pigment pooling. Clear contours in DARKER SHADE OF EACH BODY COLOR, never black body outlines. No vector/fill, marker/crayon grain, glossy 3D, heavy splatter or excessive mottling.\nWhite outer paper margins all around. All heads, bodies, FEET, SHOES, laces and finish props completely within each scene and file, generous breathing room; no lower-body clipping. Sparse trees and path; natural open watercolor borders, no dense decorative plants. Only specified short connected RTL Persian text, no English anywhere. Warm, gentle, family-friendly.",
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/152-g-v1.prompt.txt",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a12250-ee3e-7c21-a687-8511b2b67ec7\\exec-f0ccc85d-a5a3-4f8b-b7ce-f772ee7bad63.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/152-g-v1.png",
+  "generation": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09T20:27:28.509Z",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/152-g-v1.result.json"
+  },
+  "QA": {
+    "state": "ready_for_owner_review",
+    "visualInspectionPerformed": true,
+    "agentObservation": "Exact saved output viewed. Top yellow shoe laces visibly bridge both shoes with middle knot; below each shoe has its own laces and no bridging strand. All feet, shoes and finish inside margins. Same yellow and pink runners, plain bodies plus matching shoes, Persian texts correct and connected. Heads circular, dark modest eyes with inner glint, pink tiny fine lashes, locally colored outlines and watercolor layers visible. Pink bent running pose has a curved outer hip contour; Root should decide against strict neutral-body reference. Hands naturally bent/occluded so not every digit countable. Pending, no user approval."
+  },
+  "width": 1254,
+  "height": 1254,
+  "sha256": "e9a0f169e6a20f8ede7452e1d48671a4435e6271ad9228a1da4cefd1b87d729e"
+}

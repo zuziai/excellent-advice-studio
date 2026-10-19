@@ -1,0 +1,25 @@
+{
+  "id": "152-e-v1",
+  "sentenceNumber": 152,
+  "status": "pending",
+  "titleFa": "قایق خودم سوراخه!",
+  "summaryFa": "آدمک بنفش ابتدا پاروزدن دیگری را قضاوت می‌کند، سپس نشتی قایق خودش را می‌بیند و تعمیر می‌کند.",
+  "storyFa": "در قاب بالا راست، بنفش از قایق سبز انتقاد می‌کند و آب کف قایق خودش جمع شده است. بالا چپ، متوجه سوراخ قایق می‌شود و وصلهٔ چوبی روی آن می‌گذارد. پایین، همان قایق با نوار سبز و وصلهٔ مشخص خشک و سالم شده و بنفش با لبخند پارو می‌زند.",
+  "meaningFa": "توجه به ایراد خود و برطرف‌کردن آن، وضعیت خود فرد را بهتر می‌کند؛ قضاوت دربارهٔ دیگری این مشکل را حل نمی‌کند.",
+  "prompt": "Use case: illustration-story. ONE new square 1:1 watercolor book image at normal original quality. THREE scenes: upper RIGHT first, upper LEFT second, wide BOTTOM last. White gaps, no heavy borders.\n\nAttached approved illustration is STYLE ONLY: authentic moderate watercolor, circles, simple eyes, neutral medium adults, local-color contours and white margins. NEVER copy its apron, tailor, room, sewing machine or props. ALL characters plain single-color bodies, NO CLOTHES OR APRONS.\n\nStory: purple notices another rower's awkwardness before discovering and fixing their own leaking boat. SAME purple adult and SAME recognizable tan wooden rowboat with a small green stripe at the bow throughout. Calm shallow park lake, gentle humor, no danger.\n\nUPPER RIGHT: purple sits in their own boat, looking critically at a GREEN adult awkwardly rowing a DIFFERENT nearby boat. Purple thought bubble exactly «این چه پارو زدنیه؟!». Purple's OWN tan boat has a clearly visible small crack low in the front-facing hull at the waterline; a small stream of blue water visibly enters through that crack, accumulating in the inside bottom of PURPLE'S boat. Purple is distracted by green and has not noticed their own puddle. Both complete boats fit inside this scene.\n\nUPPER LEFT: SAME purple looks down, discovers their own water/puddle and crack, and presses a small square wooden patch over THAT SAME crack. Thought bubble clearly belongs to purple, exactly «قایق خودم سوراخه!». Show repair visibly, not merely a worried face. Same boat, green bow stripe and location. No new boat.\n\nBOTTOM: SAME recognizable tan boat, SAME green stripe and clearly visible square patch over the former crack now floats properly with a dry interior. Purple smiles and rows smoothly forward with the same oar. Subtle wake makes forward movement visible. Green and their separate boat may appear small in the distance. Improvement follows fixing purple's own fault. No moral caption.\n\nSTRICT: same neutral MEDIUM ADULT build, gently near-parallel torso sides; no pinched waist, breasts, hip/buttock bulges, stretched thin limbs or chunky/chibi bodies. PERFECTLY CIRCULAR heads directly join shoulders, NO neck/jaw/chin, hair, nose or ears. Soft local-color shadow under heads. Modest dark oval eyes, optional tiny INNER white glint, NO white sclera/doll eyes. Visible hands exactly THREE fingers + ONE thumb, natural gripping occlusion allowed.\n\nBroad softly irregular overlapping translucent watercolor INSIDE heads/bodies/limbs/hands and setting; moderate pigment pooling, luminous paper. Darker SAME local-color outlines, never black body outlines. No vector, uniform marker grain, glossy 3D or heavy mottling. Whole boats, oars and heads within clean white margins; feet naturally inside boats. Sparse purposeful shore; natural painted endings. Only specified connected RTL Persian texts.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1205b-55d6-74f1-ac00-4a182829384e\\exec-481ef597-834f-4c82-88e9-9527041ac555.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/152-e-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "3e5268a86ab7129c565fdffd4f8ed0f89c6f2b9a0d58fc0efbe69b3aef1a8435",
+  "QA": "خروجی واقعی دیداری بررسی شد: ترتیب راست‌به‌چپ و پایین، رنگ بنفش ثابت، نوار سبز قایق و وصلهٔ نهایی پیوسته‌اند؛ متن فارسی کوتاه متصل و درست است. سرها گرد، چشم‌ها تیره بدون سفیدی دور مردمک، بدن‌ها ساده و بدون پیش‌بندند؛ آبرنگ داخل بدن و حاشیهٔ سفید حفظ شده. ایراد قاب‌بندی برای Root: انتهای قایق بنفش بالا راست به لبهٔ صحنه می‌رسد و نوک پاروی بالا چپ نزدیک/بریدهٔ انتهای صحنه است. آب کف قایق اولیه و حذف آن در پایان دیده می‌شود، ولی جت بیرونی شکاف به خروج آب شبیه است. شمار انگشتانِ دست‌های درگیر پارو/وصله قابل تأیید کامل نیست. pending و نیازمند بازبینی Root، بدون ادعای آزمون انسانی.",
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/152-e-v1.prompt.txt",
+  "generation": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09 19:52:52 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/152-e-v1.result.json"
+  }
+}

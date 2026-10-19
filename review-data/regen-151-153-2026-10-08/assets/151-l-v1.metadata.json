@@ -1,0 +1,46 @@
+{
+  "id": "151-l-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "از ترس تا راهنمایی",
+  "summaryFa": "راهنمای تازه‌کار نخست با کمک از پل می‌گذرد؛ چند ماه بعد خودش همراهی مردد را راهنمایی می‌کند.",
+  "storyFa": "در قاب بالا، آدمک صورتیِ تازه‌کار با کولهٔ قهوه‌ای از قدم‌گذاشتن روی پل کوتاه مردد است و راهنمای فیروزه‌ای دستش را می‌گیرد. در قاب پایین، همان آدمک صورتی روی همان پل با آرامش دست همراه بنفش را گرفته و او را جلو می‌برد؛ همراه زرد هم پشت سر آنهاست. تابلوی «تور طبیعت» موقعیت کاری را نشان می‌دهد.",
+  "meaningFa": "تجربهٔ کار، اعتمادبه‌نفس و توانایی راهنمای تازه‌کار را رشد داده است؛ اکنون می‌تواند حمایتی را که قبلاً گرفته بود به دیگری بدهد.",
+  "prompt": "Use case: precise-object-edit.\nAsset type: square watercolor book illustration, exact attached image is the EDIT TARGET.\n\nMake only these two local corrections to the PINK character, preserving the whole existing illustration as closely as possible.\n\n1. In BOTH the upper and lower scene, correct only the pink adult's TORSO, WAIST AND PELVIS silhouette to the neutral, balanced medium adult body type of the TURQUOISE guide in the upper scene. Give pink gently almost-parallel sides and a natural simple torso-to-leg transition, with no pinched/narrow waist, no flared hips, no protruding buttocks or breasts, and no curves that suggest a gendered body. This must remain a plain pink body, with no new clothes or apron. Keep the SAME height, head size, limb length, pose, pink color and watercolor washes. Do not make her thicker, fat, muscular, smaller, younger or chibi; only remove the waist/hip exaggeration and match the turquoise guide's neutral medium proportions.\n\n2. In the UPPER scene only, clarify pink's raised forward foot placement for a natural safe step on the bridge. The lifted foot should be clearly ABOVE THE OPEN SPACE OVER THE WOODEN WALKING DECK, moving toward the next deck board, not sitting on a rail, behind a rail, or touching a railing. Keep the character holding turquoise's hand and making the same cautious forward step. Keep her grounded other foot, bridge, brook and hand action fixed. A tiny natural adjustment of only the raised foot and its immediate leg area is allowed to resolve the foot/rail alignment; do not redraw the bridge or move any other figure.\n\nKeep everything else exactly: two stacked scenes, square original dimensions and white paper margins; SAME pink identity, perfectly circular heads, dark oval eyes with tiny inner glints, a few short fine outer-upper eyelashes, expressions, eyebrows and mouths, heads directly joining shoulders with local-color contact shadows, hands and natural hand grips, brown backpack, turquoise helper, purple hesitant companion and lemon companion. Keep all other characters and poses, all props, park landscape, SAME bridge, watercolor medium and local darker-body-color contours. Keep the top heading exactly «روز اول کار», lower heading exactly «چند ماه بعد» and both signs exactly «تور طبیعت». No new text, objects, clothing, facial features, broad restyling or recomposition. Authentic moderate overlapping translucent watercolor inside the corrected pink body areas must match the existing paint, not flat/vector fills or uniform marker grain.\n",
+  "referencePaths": [
+    "review-data/regen-151-153-2026-10-08/assets/151-l-v1.draft.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1205b-55d6-74f1-ac00-4a182829384e\\exec-4e151f31-a92c-44b6-b4c0-abe7b229f731.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "c0a222c86d95cb9f2b000b097a7f20e72528c1c574e52b28641e42adc7128997",
+  "QA": {
+    "state": "ready_for_owner_review",
+    "visualInspectionPerformed": true,
+    "observed": "Root viewed exact saved edited image. Final observed review is recorded separately; draft QA preserved in draft metadata.",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-09T18:45:01.668690+00:00",
+      "observed": "Two scenes clearly show pink receiving help then leading another adult across the same bridge. Revised torso has a moderate neutral outline, no breast or pronounced hip shaping. Raised foot is over deck space. Round heads, small reference eyes and delicate lashes, plain bodies and layered watercolor retained.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  },
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.edit-1.prompt.txt",
+  "inspectedStyleReferencePaths": [
+    "Images/131.jpg",
+    "Images/110.jpg",
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generation": {
+    "mode": "built-in image_gen edit",
+    "editAttempt": 1,
+    "startedUtc": "2026-10-09 18:34:21 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.edit-1.result.json"
+  },
+  "originalGeneration": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09 14:17:52 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.result.json"
+  }
+}

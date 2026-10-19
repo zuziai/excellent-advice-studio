@@ -1,0 +1,39 @@
+{
+  "id": "153-h-v1",
+  "sentenceNumber": 153,
+  "status": "pending",
+  "titleFa": "رفیقِ مسیر",
+  "summaryFa": "یک دوستی در جوانی مهارتی می‌آموزد و دوستی تازه در سال‌های بعد، مسیر تازه‌ای پیش روی او می‌گذارد.",
+  "storyFa": "آدمک بنفشِ جوان با دوست سبزِ مسن‌تر دوچرخهٔ پنچر را تعمیر می‌کند. سال‌ها بعد، همان بنفش که حالا مسن‌تر شده، با دوست مرجانیِ جوان در همان پارک قدم می‌زند و از پیشنهاد مسیر تازه خوشحال می‌شود.",
+  "meaningFa": "در جوانی از تجربهٔ دوستان بزرگ‌تر یاد می‌گیریم و در سال‌های بعد، دوستان جوان‌تر تازگی و کنجکاوی را همراه زندگی می‌کنند.",
+  "prompt": "Precise local edit of this supplied finished illustration. Change ONLY the PURPLE character's torso/side/back silhouette IN BOTH PANELS. Remove the inward waist indentation and rounded rear hip/butt protrusion. Use one smooth continuous NEUTRAL medium adult side/back contour from shoulder through torso into the upper leg, without female curves, waist pinch or separate buttock bulge. Keep purple's current forward bending pose above and walking/standing pose below; keep the arms, hands, legs and feet positions. Do not make the body thin, chunky, longer or shorter. Fill any tiny exposed area with the existing park wash naturally.\n\nPreserve EVERYTHING ELSE exactly: square two-panel layout, all perfectly circular heads, purple's age change, glasses, same dark oval eyes with tiny glints and fine lashes, green and coral bodies, all feet, bicycles including natural top-wheel body occlusion, their exact size/position, bench, tea cups, tree/path/background, all exact Persian writing, generous white margins and gap. Preserve moderate layered translucent watercolor and darker local body-color contours. No new objects, no scene widening, no garment or other changes.",
+  "referencePaths": [
+    "review-data/regen-151-153-2026-10-08/assets/153-h-v1.draft-before-body-edit-1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a12252-b9ef-7581-82ac-46f06694d5e5\\exec-fad5cca9-1270-4109-b190-fffe3150d19b.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/153-h-v1.png",
+  "generationTool": "built-in image_gen",
+  "QA": {
+    "agentObservation": "خروجی ویرایش واقعاً مشاهده شد: پهلو و پشت بنفش در هر دو قاب پیوسته‌تر و خنثی‌تر شده؛ سن، چهره و عینک، سرهای گرد، نوشته‌ها، دوچرخه‌ها، پاها و فضای آبرنگی حفظ شده‌اند. چرخ جلوی بالایی همچنان با بدن به‌طور طبیعی پوشیده است. منتظر مرور مالک پروژه؛ تأیید کاربر ثبت نشده.",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-09T20:59:30.705351+00:00",
+      "observed": "Viewed final body edit: purple medium neutral continuous silhouette in both poses; glasses and fine age cues show same friend aging, repaired bicycle then younger friend suggests new route. Full feet and framed lower bikes, upper front wheel naturally occluded by body. Short Persian, circular heads, dark reference eyes and moderate watercolor retained.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  },
+  "width": 1254,
+  "height": 1254,
+  "sha256": "72f8f11f15751a2c472190b34b9df8f60cb9e2042714d30c396ca236084e2a64",
+  "originalGeneration": {
+    "prompt": "Make a NEW SQUARE 1:1 hand-painted watercolor book illustration, two wide scenes stacked. Reference image is STYLE ONLY; do not copy tailor, clothes, sewing machine, interior or text.\n\nTOP, Persian heading «جوانی»: young adult PURPLE and OLD GREEN friends repair one turquoise bicycle together beside a park bench. Green has simple clear glasses and a few facial wrinkles, demonstrating a hand pump on the visibly flat rear tire; purple helps steady the valve. Two tea cups on bench. Equal capable adult friends.\n\nBOTTOM, heading «سال‌ها بعد»: SAME purple is now OLD, with clear glasses and a few small facial wrinkles. A YOUNG ADULT CORAL friend points toward a beautiful new winding route in the SAME park. Both happily WALK their bicycles, purple with SAME turquoise bike now inflated, coral with a second coral bike. Coral bubble «این مسیر رو امتحان کنیم؟». Same bench/tree establish continuity. Younger friends adult-sized, not children; elder independent.\n\nPull both scenes back: FULL bodies, FEET, BICYCLES and ALL WHEELS completely inside the painting, generous clean WHITE margins around every edge and thin white gap between scenes. No heavy panel borders. Sparse bright warm setting.\n\nMatch reference moderate layered translucent watercolor INSIDE heads/bodies/limbs/hands, softly irregular washes, paper and subtle pigment pooling. Local body-color DARKER contours, never black. Perfect CIRCULAR heads, no oval/chin/neck/nose/ears/hair; soft contact shadow beneath head joining shoulders. Balanced medium neutral adult bodies: no bust, pinched waist, hip or butt bulges, not chubby or excessively thin. Plain bodies, no clothes. Small dark oval eyes, tiny interior glint allowed, NO white sclera; glasses do not create white eyeballs. Visible hands three fingers and one thumb with natural gripping occlusion. ONLY the three stated short connected RTL Persian texts. No English, numerals, signatures. Never marker, crayon grain, flat vector or glossy 3D.",
+    "referencePaths": [
+      "review-data/pilot-151-new/151-f-v1.png"
+    ],
+    "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a12252-b9ef-7581-82ac-46f06694d5e5\\exec-54934017-d856-4641-bb37-8399b6078efc.png",
+    "outputPath": "review-data/regen-151-153-2026-10-08/assets/153-h-v1.draft-before-body-edit-1.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "abfde7f078e5f93834c215f66552d29da69cb312dca7413aaf761feeb80f5c1b"
+  }
+}

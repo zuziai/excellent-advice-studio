@@ -1,0 +1,28 @@
+{
+  "id": "153-e-v1",
+  "sentenceNumber": 153,
+  "status": "pending",
+  "titleFa": "تولدهای دو نسل",
+  "summaryFa": "دو جشن تولد کنار همان در؛ دوست بزرگ‌تر در جوانی و دوست جوان‌تر در سال‌های بعد.",
+  "storyFa": "آدمک زردِ جوان در خانه را باز می‌کند و دوست بنفشِ مسن‌تر با کیک تبریک می‌گوید. سال‌ها بعد همان آدمک زرد با عینک و چین‌های صورت، کنار همان در، از دوست سبزِ جوان کیک می‌گیرد و خوشحال می‌شود.",
+  "meaningFa": "دوستی با نسل‌های دیگر در هر سن، شادی و همراهی تازه به زندگی می‌آورد.",
+  "prompt": "Use case: illustration-story. Create one NEW square 1:1 book illustration, two scenes stacked top to bottom, for friendships across generations. The supplied image is a STYLE reference only: preserve its warm character drawing and watercolor; do not copy its tailor, apron, sewing machine, room, story, text, or portrait layout.\n\nScene 1, heading exactly «جوانی»: At a small cozy home's open wooden front door, a YOUNG ADULT yellow friend, with no glasses or wrinkles, opens the door and smiles in happy surprise. An OLDER ADULT purple friend, wearing simple clear glasses and a few small wrinkles, visits carrying a small birthday cake on a plate, with three lit candles and no numbers. The purple friend's speech bubble says exactly «تولدت مبارک، رفیق!». They meet as warm, equal friends, both adult-sized and capable. Cake plate supported by naturally gripping hands.\n\nScene 2, heading exactly «سال‌ها بعد»: SAME yellow character, SAME yellow color, neutral body, SAME wooden house door, threshold and little potted plant. Yellow is now an OLDER ADULT, with clear glasses and a few wrinkles, smiling in surprised delight. A YOUNG ADULT green friend arrives with a small birthday cake, three lit candles, no numbers, saying exactly «تولدت مبارک، رفیق!». Make continuity unmistakable. All four figures are full-bodied, both feet visible, equal adult stature; nobody is a child or a nursing dependent.\n\nComposition: two roomy horizontal scenes within the square, white gap between, no panel borders. Clean generous white paper margins on ALL edges. BOTH scenes fully contain every body, foot, cake, plate, bubble and complete visible doorway; no edge cropping. Sparse purposeful setting, gentle humane humor.\n\nCharacter geometry is strict: heads PERFECT CIRCLES, never oval, jawed, flattened-bottom or chin-shaped. No hair, ears, nose or neck; circular head joins shoulders directly with a soft local-color crescent contact shadow. Medium adult proportions. Neutral straight bodies with almost parallel torso sides: no breast, pinched waist, hip/butt bulge or torso notch, no extra garments. Small dark oval eyes with optional tiny glint INSIDE, no white sclera. Each visible hand has three fingers plus one thumb; natural occlusion allowed.\n\nMedium: genuine MODERATE hand-painted layered translucent watercolor visible INSIDE heads, bodies, limbs and hands as well as setting. Broad softly irregular washes, luminous paper, varied pigment density and subtle pooling. Contours are darker versions of each local body color, never black. Avoid flat vector fills, marker, uniform colored-pencil grain, glossy 3D, heavy mottling. All writing only the specified connected RTL Persian, accurate and legible; no English, age numbers or other labels.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a12228-4f6a-7ad3-aa28-53c98d93c99c/exec-7f4e7a1d-0b39-4c8d-9171-bcd2138a8e95.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/153-e-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "d7fa023691156e182025f6fc97f93e4068132af5a37181e6523cee0a152a4af2",
+  "generationTool": "built-in image_gen",
+  "QA": {
+    "agentObservation": "هر چهار بدن و پاها کامل دیده می‌شوند؛ رنگ زرد و در ثابت‌اند، اختلاف سن با عینک و چین مشخص است و نوشته‌ها فارسی‌اند. بیشتر انگشت‌های کیک‌گیر زیر سینی پنهان‌اند؛ عینک بنفش چشم‌های بسته را نشان می‌دهد. شست‌وشوی معماری بالای قاب به لبهٔ بالا بسیار نزدیک است؛ این نکته برای مرور باقی می‌ماند.",
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-09T19:48:06.709329+00:00",
+      "observed": "Viewed PNG: same yellow character and door across time, older purple then younger green birthday friends, full figures, accurate Persian, neutral bodies and colored watercolor outlines.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  }
+}

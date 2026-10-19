@@ -1,0 +1,56 @@
+{
+  "id": "152-g-v2",
+  "sentenceNumber": 152,
+  "status": "pending",
+  "version": 2,
+  "parentIdeaId": "152-g-v1",
+  "revisionRequestId": "fe12d787-f81f-4223-a9b3-0069cb9ad25d",
+  "titleFa": "اول بندهای خودم!",
+  "summaryFa": "بندهای باز در آغاز دویدن؛ توجه به دیگری، سپس رفع مانع خود.",
+  "storyFa": "در شروع مسیر، زرد با نگاه به صورتی از کندی او می‌پرسد و بندهای کفش خودش باز مانده‌اند. سپس جداگانه متوجه بندهای خودش می‌شود، مکث می‌کند و آن‌ها را می‌بندد. پایان، دویدن راحت خود او است.",
+  "meaningFa": "تمرکز روی ضعفی که خودمان می‌توانیم اصلاح کنیم، به پیشرفت خودمان کمک می‌کند.",
+  "prompt": "Use case: precise-object-edit. Image 1 is the current square three-panel yellow/pink park jogging illustration. Image 2 is the positive neutral-adult-body book reference; copy the BLUE reference person's simple neutral torso proportions, NOT the barber/apron/story.\nChange ONLY PINK CHARACTER'S BODY GEOMETRY in ALL THREE scenes (large upper-right runner, small upper-left background runner, large lower runner). Current pink has an inward small-waist dip and protruding rear hip/buttock in running poses; owner explicitly forbids this. Remove the waist indentation and the posterior hip/buttock bulge completely. Rebuild pink as the same balanced MEDIUM ADULT NEUTRAL body type used for male/simple reference figures: torso side contours continue evenly from upper torso through the neutral pelvis, no narrow waist, no extra rounded rump, no breasts. Two legs emerge naturally from the underside of the torso/pelvis and bend only at hip/knee joints for the current running action; do not draw a separate butt projection behind the rear leg. Keep body medium width, neither stick-thin nor plump. Match reference Image 2's blue adult silhouette and limb thickness after adapting it to this running pose. Pink's fists and arms remain natural with three fingers plus thumb, no limbs fused with trunk.\nKeep pink's PERFECTLY CIRCULAR head, exact color, modest dark reference eyes/tiny glints, fine short lashes, expression, head-to-torso shadow and neckless join unchanged. No clothing.\nSTRICT invariants: YELLOW figure in every panel, all yellow shoelaces and shoe-tying action, Persian text exactly «اون چرا اینقدر کنده؟» / «بندهای خودم بازه!» / «شروع», bubbles, square three-scene layout, complete feet, park and composition remain unchanged. All pink feet stay inside the frames, neutral pelvis remains naturally connected to legs. Preserve moderate layered watercolor INSIDE bodies, local pink contour not black, paper texture/white margins, no blush stickers, no white sclera. Do not add finish line or race reward. Only repair neutral pink anatomy across all three scenes.",
+  "conceptPrompt": "Use case: illustration-story / scene-rebuild. Image 1 is the actual yellow/pink running illustration to rebuild, preserving their color identity and park idea but correcting the owner-noted anatomy, gaze and shoelaces. Image 2 is the positive watercolor and neutral adult body/proportion reference ONLY. Copy Image 2's neutral medium body build for BOTH characters, NOT a feminine figure and NOT the barber story.\nSquare three-scene narrative, upper RIGHT then upper LEFT, wide lower scene. Adult light humorous running practice, NOT a race or victory comparison.\nUPPER RIGHT: START of a park jogging path, a single modest ground marker «شروع» optional, no finish banner. Pink adult (2-3 tiny fine eyelashes on same dark oval eye design) is a few steps ahead beginning a slow warm-up jog. Medium neutral body, simple unbroken torso sides, limbs attach correctly; no hip/butt projection, bust or tiny waist. Yellow stands behind and turns head/gaze clearly UP AND FORWARD TOWARD PINK, with thought «اون چرا اینقدر کنده؟». Yellow is NOT looking at yellow's own shoes yet. Yellow's two plain cream running shoes have genuinely UNTIED separate shoelaces lying loose on the ground: loose ends from EACH shoe, not a single cord connecting two shoes, not shoes tied together. Yellow's own readiness is neglected.\nUPPER LEFT: a subsequent distinct moment. Yellow now looks DOWN at OWN undone laces with surprised/embarrassed small expression, pauses and bends or sits on a low park seat to TIE ONE shoe, all body and both feet clearly readable and naturally connected. Second shoe also visible. A short thought «بندهای خودم بازه!» belongs to yellow. Pink can be a small ordinary jogger in background, no distortion.\nLOWER WIDE: Yellow runs freely with securely tied bows on EACH shoe, neutral natural running anatomy and a relaxed happy face. Pink can run elsewhere on the same path, comfortably; composition conveys yellow's own free movement, NO winning, NO podium, NO finish line, NO medal, NO overtaking rivalry. No explanatory speech necessary here. Show consequences of attending to one's own neglected problem.\nStyle invariants: closely match the hand-painted book style of reference Image 2. Moderate real layered watercolor INSIDE heads, torsos, limbs and hands, broad overlapping translucent washes, paper texture and subtle pigment pooling. Clear outlines are darker shades of each body's OWN color, never black outlines. NOT vector, marker, colored-pencil grain, glossy 3D or heavily embossed/mottled texture. All heads must be PERFECT CIRCLES with equal width and height, no oval, chin, jaw, ears, hair, nose or neck. Head directly joins shoulders, with a soft local-colored crescent contact shadow below it. Balanced medium adult simple neutral bodies, not chubby, not skinny; same neutral silhouette for all genders, no bust, pinched waist, protruding hip or buttock, waist notch or feminine curve. Match the reference's small dark oval eyes with one tiny glint INSIDE allowed, NEVER white sclera. Pink character may have only 2-3 short fine upper-outer eyelashes, same eye shape and size. Hands have exactly three fingers and one thumb when visible; natural grips/occlusion allowed. No separate bright pink blush spots: either no blush or extremely subtle transparent diffuse wash blended into body color. Plain colored bodies for everyone, no special clothes. All feet, bodies, important props fully inside each scene, white breathing margins all around. All text ONLY short correct connected Persian, no English, no numbers or watermark. Family-friendly, warm but emotionally clear, tasteful adult book illustration. Square 1:1 canvas; three scenes with thin white gaps, two upper scenes read RIGHT THEN LEFT, one large lower scene as payoff; soft naturally painted scene edges, no heavy borders.",
+  "referencePaths": [
+    "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-6664-7e51-8d9f-38381f881f61\\exec-36954816-7002-4183-84c4-b2b23037d740.png",
+    "Images/97.jpg"
+  ],
+  "initialReferencePaths": [
+    "review-data/regen-151-153-2026-10-08/assets/152-g-v1.png",
+    "Images/97.jpg"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-6664-7e51-8d9f-38381f881f61\\exec-b9424030-328f-4246-8453-b91fdb4d76b7.png",
+  "originalGenerationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1249c-6664-7e51-8d9f-38381f881f61\\exec-36954816-7002-4183-84c4-b2b23037d740.png",
+  "outputPath": "review-data/revision-wave-2026-10-10/assets/152-g-v2.png",
+  "promptPath": "review-data/revision-wave-2026-10-10/assets/152-g-v2.edit-1.prompt.txt",
+  "conceptPromptPath": "review-data/revision-wave-2026-10-10/assets/152-g-v2.prompt.txt",
+  "preflightPath": "review-data/revision-wave-2026-10-10/assets/152-g-v2.preflight.json",
+  "generation": {
+    "mode": "built-in image_gen edit",
+    "editAttempt": 1,
+    "serializedResultPath": "review-data/revision-wave-2026-10-10/assets/152-g-v2.edit-1.result.json"
+  },
+  "originalGeneration": {
+    "mode": "built-in image_gen scene rebuild",
+    "serializedResultPath": "review-data/revision-wave-2026-10-10/assets/152-g-v2.result.json"
+  },
+  "QA": {
+    "state": "ready_for_owner_review",
+    "visualInspectionPerformed": true,
+    "agentObservation": "Actual edited output viewed: start sign rather than finish, upper-right yellow head/gaze directed forward toward pink while own shoelaces loose independently; top-left yellow separately looks down and ties shoe while seated, lower free running with bows and no competition reward. Targeted edit removed the pink posterior bulge and waist dip in all three scenes, leaving medium continuous neutral torso and naturally connected bent legs, no chest/hips gender cue; same small dark oval eye design with few short lashes. Full feet/shoes and park retained. Naturally folded/gripping fingers partly occluded; hidden digit count not claimed.",
+    "humanComprehensionTestPerformed": false,
+    "userApprovalClaimed": false,
+    "ownerReview": {
+      "state": "ready_for_user_review",
+      "performedAt": "2026-10-10T07:26:19.381466+00:00",
+      "observed": "Viewed final PNG: pink figure has neutral continuous torso without hip or waist contours; initial yellow gaze toward pink, own loose laces, separate tying step and comfortable running show the causal change. Full feet, start marker and Persian thoughts retained.",
+      "digitLimit": "Some fingers are naturally occluded; a count is not claimed for hidden digits."
+    }
+  },
+  "width": 1254,
+  "height": 1254,
+  "sha256": "64a1b460e1797e0824ac4f6971178258360991297278275e52d2ba1545a9f1f5",
+  "sourceSha256": "64a1b460e1797e0824ac4f6971178258360991297278275e52d2ba1545a9f1f5",
+  "byteLength": 2650370,
+  "generatedAtUtc": "2026-10-10T07:24:33.813428+00:00"
+}

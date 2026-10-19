@@ -1,0 +1,85 @@
+{
+  "id": "151-k-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "وسایل بیشتر یا توان بیشتر؟",
+  "summaryFa": "یکی وسایل تمرین جمع می‌کند؛ دیگری تمرین می‌کند. وقتِ بالا بردن ساک، نتیجه در توانایی خودشان دیده می‌شود.",
+  "storyFa": "در ستون راست، آدمک زرد وسایل ورزشی نو جمع می‌کند و بعد برای بالا بردن ساک خرید از یک پلهٔ کوتاه به زحمت می‌افتد. در ستون چپ، آدمک سبز با یک وزنه تمرین می‌کند و بعد همان ساک با همان بار را راحت از همان پله بالا می‌برد.",
+  "meaningFa": "تمرین، توانایی خودِ فرد را رشد می‌دهد؛ داشتن وسایل به‌تنهایی جای این رشد را نمی‌گیرد. تفاوت در حالت و انجام یک کار یکسان دیده می‌شود، نه در بدن یا بار ساک.",
+  "prompt": "Use case: precise-object-edit. The attached square watercolor image is the exact EDIT TARGET. Make ONE tiny local replacement only.\n\nIn the BOTTOM LEFT scene, on the turquoise exercise mat near its left end, there is currently a solitary round turquoise weight disk. Replace ONLY this solitary disk with ONE COMPLETE SMALL TURQUOISE DUMBBELL lying on its side on the mat. A complete dumbbell has TWO round cylindrical end weights CONNECTED by ONE short central handle/bar, all clearly visible together as ONE object. Match the exact simple turquoise dumbbell model that the green character holds in the TOP LEFT scene. Position the replacement horizontally or slightly diagonally along the mat so BOTH circular end weights AND their connecting central handle are easily recognizable. It must be small and fit fully inside the mat with no overlap of the character. Do NOT leave a detached disk; do NOT create two dumbbells; do NOT remove the top-left held dumbbell. The only changed area is the current disk and the minimal immediately adjacent mat area needed for the complete small dumbbell.\n\nSTRICTLY KEEP EVERY OTHER PIXEL AND VISUAL DETAIL AS CLOSE AS POSSIBLE TO THE CURRENT TARGET. Keep the four scenes, all characters and their poses, neutral bodies and proportions, round heads, eyes, faces, hands, plain yellow bodies with NO APRONS, green bodies, grocery bags and groceries, steps, every background object, upper-left held dumbbell, right-column exercise equipment, watercolor washes and local-color contours exactly unchanged. Preserve the two Persian headings \"وسایل بیشتر\" and \"تمرین بیشتر\", square dimensions, white margins and scene gaps. NO clothing or apron may reappear. No added text, no restyling, no recomposition, no other object changes. Only replace the incomplete lower-left disk with ONE recognizable complete dumbbell matching the upper-left model.\n",
+  "referencePaths": [
+    "review-data/regen-151-153-2026-10-08/assets/151-k-v1.edit-1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a11a32-6062-7950-b23c-16389ef8f724\\exec-e9061ea7-4a8c-42c1-902f-4ccd5d9614b5.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "QA": {
+    "state": "ready_for_user_review",
+    "visualInspectionPerformed": true,
+    "inspectionMethod": "Edited image inspected visually in generatedImage output; exact saved canonical workspace file opened with view_image.",
+    "layout": {
+      "result": "pass",
+      "observed": "Square; four scenes in 2x2; yellow on right and green on left, continuity top to bottom; all important objects remain within white margins."
+    },
+    "text": {
+      "result": "pass",
+      "observed": "Only two correct Persian headings: وسایل بیشتر at right and تمرین بیشتر at left."
+    },
+    "semanticComparison": {
+      "result": "pass",
+      "observed": "One complete turquoise dumbbell rests on lower-left mat; matches held dumbbell in upper-left. Both columns compare same loaded grocery bags and low steps; only effort and practiced ability differ."
+    },
+    "identity": {
+      "result": "pass",
+      "observed": "Yellow and green retain body color between appearances; no added muscles or large physique transformation."
+    },
+    "anatomy": {
+      "result": "needs_review",
+      "observed": "Round heads directly join shoulders, neutral adult silhouettes, no noses/ears/hair. Most fingers are naturally occluded in grips, so exact digit counts cannot be confirmed on every hand; free hand in green top scene is simplified."
+    },
+    "eyes": {
+      "result": "pass",
+      "observed": "Small dark ovals with tiny inner glints where open; no surrounding white sclera, no eyelashes. Closed eyes during exertion are expressive."
+    },
+    "watercolor": {
+      "result": "pass",
+      "observed": "Moderate translucent irregular watercolor washes visible within heads, torsos and limbs; local darker body-color contours."
+    },
+    "clothingConsistency": {
+      "result": "pass",
+      "observed": "Cream aprons removed from both yellow appearances; yellow and green are now both plain. Existing yellow silhouette, proportions and watercolor are retained."
+    },
+    "overall": "Visually reviewed by owner; ready for user review, not approved. Exact digits in occluded grips cannot all be counted; no visible extra digits noted.",
+    "targetedEdit": {
+      "apronRemoval": "pass",
+      "singleDumbbellMatchingTopLeft": "pass",
+      "invariants": "Other four-scene composition, Persian headings, character colors, plain bodies, facial expressions, bags, steps and watercolor retained."
+    },
+    "ownerReviewAt": "2026-10-09T11:09:21.179774+00:00"
+  },
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.edit-2.prompt.txt",
+  "inspectedStyleReferencePaths": [
+    "Images/131.jpg",
+    "Images/110.jpg",
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "sha256": "6daaf0d497f926dd49dfd0fa9494952693b34df2d1a906b69d11e6790662cbc1",
+  "generation": {
+    "mode": "built-in image_gen edit",
+    "editAttempt": 2,
+    "startedUtc": "2026-10-08 07:53:48 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.edit-2.result.json"
+  },
+  "inputTargetSnapshotPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.edit-1.png",
+  "inputTargetSha256": "D1DBB7E0D37F6013C1E01912F497C426766985241D03B49B9EB37AE2E9B86A8A",
+  "originalGeneration": {
+    "mode": "built-in image_gen",
+    "successfulAttempt": 2,
+    "execCellId": "g2:3",
+    "startedUtc": "2026-10-08 07:32:28 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.attempt-2.result.json",
+    "previousFailureLogPath": "review-data/regen-151-153-2026-10-08/assets/151-k-v1.attempt-1-failure.json"
+  },
+  "workflowNoteForFuture": "For all plain-body scenes explicitly forbid copying an apron or any clothing from the positive sewing reference."
+}

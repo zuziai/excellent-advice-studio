@@ -1,0 +1,71 @@
+{
+  "id": "151-l-v1",
+  "sentenceNumber": 151,
+  "status": "pending",
+  "titleFa": "از ترس تا راهنمایی",
+  "summaryFa": "راهنمای تازه‌کار نخست با کمک از پل می‌گذرد؛ چند ماه بعد خودش همراهی مردد را راهنمایی می‌کند.",
+  "storyFa": "در قاب بالا، آدمک صورتیِ تازه‌کار با کولهٔ قهوه‌ای از قدم‌گذاشتن روی پل کوتاه مردد است و راهنمای فیروزه‌ای دستش را می‌گیرد. در قاب پایین، همان آدمک صورتی روی همان پل با آرامش دست همراه بنفش را گرفته و او را جلو می‌برد؛ همراه زرد هم پشت سر آنهاست. تابلوی «تور طبیعت» موقعیت کاری را نشان می‌دهد.",
+  "meaningFa": "تجربهٔ کار، اعتمادبه‌نفس و توانایی راهنمای تازه‌کار را رشد داده است؛ اکنون می‌تواند حمایتی را که قبلاً گرفته بود به دیگری بدهد.",
+  "prompt": "Use case: illustration-story\nAsset type: a NEW square 1:1 illustrated book candidate, two narrative scenes stacked vertically, top then bottom. Make one complete square illustration at the tool's normal original quality.\n\nInput image: the attached approved book illustration is ONLY a reference for the authentic moderate hand-painted watercolor, character design, local-color outlines, eyes, round heads, proportions and white paper margins. The new story is outdoors. Do not copy its tailor, apron, sewing machine, room, furniture, garment, orange character or dialogue.\n\nPrimary story: work develops the same pink adult nature guide's confidence and capacity until she can help someone else. Visible cause and effect: first she receives practical calm guidance across a small safe park bridge; months later she confidently gives the same support to another adult on the same bridge. No purchased equipment, medal or prize causes this change.\n\nComposition: two comfortably spacious horizontal outdoor scenes inside a square page, top and bottom separated by clean white paper, no heavy panel frames. A short sturdy low wooden footbridge crosses a narrow shallow calm brook in a modest park. In BOTH scenes show the SAME recognizable bridge, brook, small park sign reading exactly «تور طبیعت», two sparse shrubs and a small tree, arranged with clear continuity. Every head, whole body, foot, hand, bridge end and important object fits fully inside the white margins. Natural irregular endings of watercolor ground and foliage, luminous clean paper outside; paint never touches the file edges.\n\nTOP scene: heading exactly «روز اول کار». A pink adult novice nature guide, with a few short fine outer-upper eyelashes matching the reference, has a hesitant concerned expression and cautious raised step on the bridge. An experienced turquoise adult guide, calm and kind, firmly but gently takes the pink guide's hand and helps her step safely onto the next board. Clearly show their hand connection, the nervous cautious step, and turquoise's reassuring face. The pink guide carries a small simple soft brown backpack. Both are the book's plain single-color body characters; no apron, no shirt, no trousers, no other costume. The bridge is visibly easy and safe, low above ankle-deep water, no fear of danger.\n\nBOTTOM scene: heading exactly «چند ماه بعد». The SAME pink guide with identical pink body color, round head, eye design, eyelashes, medium neutral adult proportions and the SAME small brown backpack now smiles with relaxed confidence. She is ahead on the SAME bridge and reaches back with a natural hand grip to help a hesitant purple adult companion make the SAME cautious step. A lemon-yellow adult companion follows them calmly, making it clear pink is leading a small nature tour at work. The purple and lemon characters are adult equals with the SAME simple neutral body design and plain bodies, no clothing. The pink guide's confident upright posture and supportive hand now echo the experienced turquoise guide's first-scene action. No turquoise guide in the second scene. No sudden new tools or equipment. Gentle warm humor comes from the once-nervous pink guide now patiently helping the nervous companion.\n\nCharacter design is strict: all adults have the same balanced MEDIUM neutral body build, neither thin and elongated nor plump or chibi. No gendered silhouette: no breasts, pinched waist, flaring hips or buttocks. The pink character differs by only a few SHORT fine curved upper-outer lashes; retain the SAME modest dark oval eyes with optional tiny white glints INSIDE the dark ovals, no white sclera, no big doll eyes, no lash fans. Every head is a PERFECT SIMPLE CIRCLE all the way around, no jaw, chin, flattening, oval or neck. Head directly meets shoulders with a soft local-color contact-shadow crescent immediately beneath it. No noses, ears or hair. Every visible hand has exactly THREE fingers plus ONE thumb, with natural gripping occlusion permitted; use clear natural hand poses rather than mittens. All outlines around colored bodies use a darker shade of THAT SAME local body color, never black outlines.\n\nMedium: match the supplied illustration's bright authentic moderate watercolor. Broad softly irregular overlapping translucent washes, subtle pigment pooling and luminous paper remain visible INSIDE pink, turquoise, purple and lemon heads, bodies, arms, legs and hands as well as bridge and sparse setting. Clearly painted interiors, not flat fill. Restrained enough to preserve readable shapes. Avoid uniform tiny marker/pencil grain, vector styling, glossy 3D volume, photorealism, heavy mottling, stains and decorative paint splashes.\n\nText rules: only the three specified short Persian labels are allowed. Correct joined Persian letters and RTL, clean legible lettering. Top «روز اول کار»; bottom «چند ماه بعد»; small park sign «تور طبیعت» repeated in both scenes. No English, numbers, moral sentence, title of the whole story or extra speech bubbles. Keep the story readable through the actions, expressions and repeated bridge. Family-friendly, kind, gently funny.",
+  "referencePaths": [
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1205b-55d6-74f1-ac00-4a182829384e\\exec-1c1ad82f-870d-4123-85ac-af88ba8a7b70.png",
+  "outputPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "f09e4fbc4a3a203f7cb2a4e609dcd8512c79b17e90ca01ba5406a217fcb222f0",
+  "QA": {
+    "state": "ready_for_owner_review",
+    "visualInspectionPerformed": true,
+    "inspectionMethod": "Generated result and exact canonical saved file inspected visually.",
+    "layout": {
+      "result": "pass",
+      "observed": "Square 1:1, two stacked scenes, white margins and natural painted endings. Bridge and major props remain fully inside page."
+    },
+    "text": {
+      "result": "pass",
+      "observed": "Correct connected Persian headings روز اول کار and چند ماه بعد; تور طبیعت sign appears in both scenes; no English."
+    },
+    "story": {
+      "result": "pass",
+      "observed": "Pink receives hand support from turquoise in first scene and gives hand support to purple in second. Lemon companion follows. Pink backpack, color, bridge and setting recur."
+    },
+    "eyes": {
+      "result": "pass",
+      "observed": "Small dark oval eyes, tiny interior glints, no white sclera. Pink has few fine short outer lashes."
+    },
+    "heads": {
+      "result": "pass",
+      "observed": "Round circle outlines, no necks, no noses, ears or hair; local contact shadows under heads."
+    },
+    "body": {
+      "result": "needs_review",
+      "observed": "Plain medium adult bodies, no copied apron or garment; no bust. Pink lower-scene waist-to-hip contour is mildly tapered and should be checked by owner against the strict neutral-silhouette requirement."
+    },
+    "hands": {
+      "result": "needs_review",
+      "observed": "Free hands show simplified fingers plus thumb; clasped hands and backpack grips naturally occlude digits, preventing a reliable count of every finger."
+    },
+    "feet": {
+      "result": "needs_review",
+      "observed": "Bodies and feet fit inside margins, but bridge rails overlap portions of feet. Raised pink foot in upper scene aligns visually near a rail rather than clearly on a deck board; owner should check stepping clarity."
+    },
+    "watercolor": {
+      "result": "pass",
+      "observed": "Translucent watercolor within heads, bodies and setting, local darker outlines. Setting is fuller than the requested sparse park but remains coherent."
+    },
+    "overall": "Saved as pending, not approved. Owner review requested for pink neutral contour and upper bridge foot placement. No human comprehension test claimed."
+  },
+  "promptPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.prompt.txt",
+  "inspectedStyleReferencePaths": [
+    "Images/131.jpg",
+    "Images/110.jpg",
+    "review-data/pilot-151-new/151-f-v1.png"
+  ],
+  "generation": {
+    "mode": "built-in image_gen",
+    "startedUtc": "2026-10-09 14:17:52 UTC",
+    "serializedResultPath": "review-data/regen-151-153-2026-10-08/assets/151-l-v1.result.json"
+  }
+}
