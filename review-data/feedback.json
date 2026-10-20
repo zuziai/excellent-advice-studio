@@ -1,9 +1,9 @@
 {
   "format": "excellent-advice-feedback",
   "version": 1,
-  "waveId": "wave-157-161-2026-10-19-progress-01",
+  "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
   "styleVersion": "style-2026-10-19-user-refinements",
-  "exportedAt": "2026-10-19T17:45:21.565997+00:00",
+  "exportedAt": "2026-10-20T08:22:57.706Z",
   "records": [
     {
       "sentenceId": 151,
@@ -934,7 +934,7 @@
     },
     {
       "sentenceId": 154,
-      "waveId": "wave-157-161-2026-10-19-progress-01",
+      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
       "candidateIds": [
         "154-a-20261019-v1",
         "154-b-20261019-v1",
@@ -949,7 +949,7 @@
       "note": "",
       "customIdea": "",
       "requestedVariants": null,
-      "updatedAt": "2026-10-19T14:28:32.553Z",
+      "updatedAt": "2026-10-19T17:45:27.001Z",
       "history": [
         {
           "sentenceId": 154,
@@ -1077,7 +1077,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "155-b-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-progress-01",
+      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
       "candidateIds": [
         "155-a-20261019-v1",
         "155-b-20261019-v2",
@@ -1153,7 +1153,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "156-d-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-progress-01",
+      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
       "candidateIds": [
         "156-a-20261019-v1",
         "156-b-20261019-v1",
@@ -1181,23 +1181,153 @@
     },
     {
       "sentenceId": 157,
-      "ideaNotes": {},
+      "ideaNotes": {
+        "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+        "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+        "157-b-20261019-v2": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره"
+      },
       "note": "",
-      "history": [],
+      "history": [
+        {
+          "status": "revise",
+          "chosenIdeaId": "157-d-20261019-v1",
+          "revisionRequest": {
+            "requestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+            "baseIdeaId": "157-d-20261019-v1",
+            "baseVersion": 1,
+            "comment": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+            "submittedAt": "2026-10-19T17:50:29.918Z"
+          },
+          "revisionProgress": {
+            "requestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+            "status": "queued",
+            "updatedAt": "2026-10-19T17:50:29.918Z"
+          },
+          "updatedAt": "2026-10-19T17:52:17.319Z"
+        },
+        {
+          "sentenceId": 157,
+          "ideaNotes": {
+            "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+            "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "157-b-20261019-v1",
+          "waveId": "wave-157-161-2026-10-19-progress-01",
+          "candidateIds": [
+            "157-a-20261019-v1",
+            "157-b-20261019-v1",
+            "157-c-20261019-v1",
+            "157-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+            "baseIdeaId": "157-b-20261019-v1",
+            "baseVersion": 1,
+            "comment": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+            "submittedAt": "2026-10-19T17:52:19.451Z"
+          },
+          "revisionProgress": {
+            "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+            "status": "queued",
+            "updatedAt": "2026-10-19T17:52:19.451Z"
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-19T17:52:19.451Z",
+          "decisionIntent": {
+            "id": "b8d54532-746a-45dc-8993-12d9d717a00c",
+            "status": "revise",
+            "chosenIdeaId": "157-b-20261019-v1",
+            "submittedAt": "2026-10-19T17:52:19.451Z"
+          }
+        },
+        {
+          "sentenceId": 157,
+          "ideaNotes": {
+            "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+            "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "157-b-20261019-v1",
+          "waveId": "wave-157-161-2026-10-19-progress-01-edits-1",
+          "candidateIds": [
+            "157-a-20261019-v1",
+            "157-b-20261019-v1",
+            "157-c-20261019-v1",
+            "157-d-20261019-v2"
+          ],
+          "revisionRequest": {
+            "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+            "baseIdeaId": "157-b-20261019-v1",
+            "baseVersion": 1,
+            "comment": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+            "submittedAt": "2026-10-19T17:52:19.451Z"
+          },
+          "revisionProgress": {
+            "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+            "status": "queued",
+            "updatedAt": "2026-10-19T17:52:19.451Z"
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-19T20:03:09.706699+00:00",
+          "decisionIntent": {
+            "id": "b8d54532-746a-45dc-8993-12d9d717a00c",
+            "status": "revise",
+            "chosenIdeaId": "157-b-20261019-v1",
+            "submittedAt": "2026-10-19T17:52:19.451Z"
+          },
+          "latestRevisionResults": [
+            {
+              "ideaId": "157-d-20261019-v2",
+              "parentIdeaId": "157-d-20261019-v1",
+              "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+              "version": 2,
+              "publishedAt": "2026-10-19T20:03:09.706699+00:00"
+            }
+          ]
+        }
+      ],
       "status": "pending",
       "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-progress-01",
+      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
       "candidateIds": [
         "157-a-20261019-v1",
-        "157-b-20261019-v1",
+        "157-b-20261019-v2",
         "157-c-20261019-v1",
-        "157-d-20261019-v1"
+        "157-d-20261019-v2"
       ],
       "revisionRequest": null,
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-19T17:45:21.565997+00:00"
+      "updatedAt": "2026-10-20T08:22:51.819Z",
+      "latestRevisionResults": [
+        {
+          "ideaId": "157-d-20261019-v2",
+          "parentIdeaId": "157-d-20261019-v1",
+          "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+          "version": 2,
+          "publishedAt": "2026-10-19T20:03:09.706699+00:00"
+        },
+        {
+          "ideaId": "157-b-20261019-v2",
+          "parentIdeaId": "157-b-20261019-v1",
+          "revisionRequestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+          "version": 2,
+          "publishedAt": "2026-10-20T08:15:51.127041+00:00"
+        }
+      ],
+      "latestRevisionResult": {
+        "ideaId": "157-b-20261019-v2",
+        "parentIdeaId": "157-b-20261019-v1",
+        "revisionRequestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+        "version": 2,
+        "publishedAt": "2026-10-20T08:15:51.127041+00:00"
+      }
     }
   ],
   "sentences": [
@@ -1358,13 +1488,13 @@
           "batchRequestId": null
         },
         {
-          "id": "157-b-20261019-v1",
+          "id": "157-b-20261019-v2",
           "title": "گیاه تشنه نیست",
           "titleFa": "گیاه تشنه نیست",
-          "image": "art/157-b-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "image": "art/157-b-20261019-v2.png",
+          "version": 2,
+          "parentIdeaId": "157-b-20261019-v1",
+          "revisionRequestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
           "batchRequestId": null
         },
         {
@@ -1378,13 +1508,13 @@
           "batchRequestId": null
         },
         {
-          "id": "157-d-20261019-v1",
-          "title": "چرخ نو لازم نبود",
-          "titleFa": "چرخ نو لازم نبود",
-          "image": "art/157-d-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "id": "157-d-20261019-v2",
+          "title": "گیر واقعی؛ راه‌حل عجولانه",
+          "titleFa": "گیر واقعی؛ راه‌حل عجولانه",
+          "image": "art/157-d-20261019-v2.png",
+          "version": 2,
+          "parentIdeaId": "157-d-20261019-v1",
+          "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
           "batchRequestId": null
         }
       ]

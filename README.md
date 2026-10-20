@@ -168,6 +168,8 @@ Traffic to `127.0.0.1` is local. Image generation and GitHub transfers use the i
 
 The committed source, workbook, exact included PNGs, prompts, feedback and hashes let another authorized person clone and review the **same saved artwork**. Full prompts and reference/edit provenance support further generation. AI image generation is not pixel-deterministic: rerunning a prompt does not guarantee identical pixels. Use the included original PNG and SHA-256 when exact reproduction matters.
 
-Not bundled: the full original image 1–150 reference archive (about 1.5 GB), source Word/PDF, local workbook backups, raw image-tool responses, old Git history, machine runtimes, `node_modules`, credentials, session tokens and locks. Included artwork is listed in `TRANSFER.json`; a historical provenance path does not prove that reference is bundled. Obtain the separate reference archive from the owner if a later task requires it.
+The original style references **131 and 148** are included as `Images/131.jpg` and `Images/148.jpg`; `ARTWORKS.json` records their hashes. Approved final illustrations use PNG filenames.
+
+Not bundled: the full original image 1–150 reference archive (about 1.5 GB), source Word/PDF, local workbook backups, raw image-tool responses, old Git history, machine runtimes, `node_modules`, credentials, session tokens and locks. Included artwork is listed in `TRANSFER.json` and `ARTWORKS.json`; another historical provenance path does not prove that reference is bundled. Obtain the separate reference archive from the owner if a later task requires it.
 
 Keep the repository private under **zuziai**. Do not commit credentials, runtime requirements tied to a particular username/drive, dependency junctions, raw generation payloads or large original archives. No GitHub token or image API key belongs in this repository.

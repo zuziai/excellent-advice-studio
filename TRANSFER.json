@@ -1,9 +1,9 @@
 {
   "prepared": true,
   "destination": ".",
-  "files": 340,
+  "files": 366,
   "bytes": 72578881,
-  "waveId": "wave-157-161-2026-10-19-progress-01",
+  "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
   "sentences": 460,
   "activeArtworks": 16,
   "approvedImages": [
@@ -42,22 +42,22 @@
     "workbookUnchanged": true,
     "dependencyJunctionExcluded": true
   },
-  "filesBeforeChecksum": 339,
+  "filesBeforeChecksum": 365,
   "intendedGitHubRepository": "https://github.com/zuziai/excellent-advice-studio",
   "activeSentenceIds": [
     157
   ],
   "activeApprovalStatus": "See feedback.json for explicit current decisions",
-  "metadataFiles": 62,
+  "metadataFiles": 64,
   "includedPreviousGalleryArtworks": 12,
-  "refreshedAtUtc": "2026-10-19T17:45:30.162418+00:00",
+  "refreshedAtUtc": "2026-10-20T08:24:05.374074+00:00",
   "gallerySentenceIds": [
     154,
     155,
     156,
     157
   ],
-  "includedCurrentAndAncestorImages": 28,
+  "includedCurrentAndAncestorImages": 30,
   "testedRuntime": {
     "python": "3.12.14",
     "node": "24.19.0",

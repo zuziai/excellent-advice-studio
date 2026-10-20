@@ -1,5 +1,5 @@
 {
-  "activeWaveId": "wave-157-161-2026-10-19-progress-01",
+  "activeWaveId": "wave-157-161-2026-10-19-progress-01-edits-2",
   "publishedCurrentAndAncestors": [
     {
       "id": "151-k-v1",
@@ -158,6 +158,12 @@
       "version": 1
     },
     {
+      "id": "157-b-20261019-v2",
+      "image": "art/157-b-20261019-v2.png",
+      "imageHash": "50b6619e78a3d385a63b52a216eca67564076c079982648355b45912c62dc298",
+      "version": 2
+    },
+    {
       "id": "157-c-20261019-v1",
       "image": "art/157-c-20261019-v1.png",
       "imageHash": "49aa8448084d3437220835ff39a36c108a54fdd2c1565e44c18e6da5c58fb4c3",
@@ -168,6 +174,22 @@
       "image": "art/157-d-20261019-v1.png",
       "imageHash": "5b20d591142004a67967b6bd1453c87319ae60298e2ca289776437d76df479ca",
       "version": 1
+    },
+    {
+      "id": "157-d-20261019-v2",
+      "image": "art/157-d-20261019-v2.png",
+      "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+      "version": 2
+    }
+  ],
+  "originalStyleReferences": [
+    {
+      "path": "Images/131.jpg",
+      "sha256": "1aada2acefa3b29727578e100215cb55243e4b9f8aeb64690216a20a7134515e"
+    },
+    {
+      "path": "Images/148.jpg",
+      "sha256": "6c31d38f690b20148dfa622f90f78424fb991844fb3865e77b599ea804a22486"
     }
   ],
   "approvedImages": [

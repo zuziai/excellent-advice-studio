@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "157-d-20261019-v2",
+      "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Actual result compared with original148/131: violet torso is straighter and more balanced in the leaning right panel, pink silhouettes have no pronounced waist/hips, heads appear round, identity and Persian text remain. Trolley, blue strap and full framing are preserved. Fine texture and a small scale difference between violet heads remain; this is a revised candidate for owner review, not a claim of exact stylistic identity."
+    },
+    {
+      "id": "157-b-20261019-v2",
+      "imageHash": "50b6619e78a3d385a63b52a216eca67564076c079982648355b45912c62dc298",
+      "status": "passed",
+      "visualInspectionPerformed": true,
+      "observations": "Two actual outputs inspected. Neutral silhouettes improved; the second focused edit enlarged right-panel figures so recurring head sizes and standing heights are more consistent. Heads look round, all feet fit, plant remains wilted. Fine texture remains and exact pixel identity is not claimed."
+    }
+  ]
+}

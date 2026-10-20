@@ -1,0 +1,59 @@
+{
+  "id": "157-d-20261019-v2",
+  "sentenceId": 157,
+  "version": 2,
+  "parentIdeaId": "157-d-20261019-v1",
+  "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+  "requestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+  "titleFa": "گیر واقعی؛ راه‌حل عجولانه",
+  "summaryFa": "تشخیصِ گیرکردن چرخ درست است، اما بازکردن نوار، جای خریدن چرخ نو را می‌گیرد.",
+  "storyFa": "دوست بنفش گیرکردن چرخ گاری را می‌بیند و خرید چرخ نو پیشنهاد می‌کند. صاحب صورتی مشکل را انکار نمی‌کند، اما محور را بررسی می‌کند و نوار آبی پیچیده دور آن را بیرون می‌آورد؛ همان چرخ قبلی دوباره آزاد می‌شود.",
+  "meaningFa": "دیدن ایراد با دانستن درمان آن یکی نیست. نقد را بشنو، اما راه‌حل پیشنهادی را با بررسیِ علت واقعی بسنج.",
+  "outputPath": "book-review/dist/art/157-d-20261019-v2.png",
+  "sha256": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+  "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+  "imageSha256": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+  "width": 1254,
+  "height": 1254,
+  "bytes": 2439411,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. Create a finished square hand-painted watercolor illustration for an adult Persian advice book, illustrating the distinction between recognizing a real symptom and accepting an untested remedy. Characters and medium must match the original book's image148 (body proportions and broad watercolor) and image131 (small dark oval eyes, tiny interior white glint, delicate short female lashes).\nNatural medium adult bodies, continuous softly straight neutral torso sides, no waist notch, bust, pronounced hips, buttock or pelvic bulges, no skinny or chubby limbs. All head outlines are geometric circles of equal width and height even when gazing down, no jaw or flattened chin. Heads directly touch shoulders without a neck, with a soft darker local-color contact crescent. Outlines are darker local body colors, not black. Broad overlapping translucent watercolor washes and gentle irregular pigment density appear INSIDE heads and limbs, with luminous textured paper and restrained soft pooling. No uniform crystalline grain, marker, colored pencil, vector, 3D gloss or flat fills. Blush is soft and translucent. Hands show exactly three fingers plus one thumb when fully visible. Tiny eye glints are allowed; white sclera is forbidden. The pink figure alone has a few fine short curved upper-outer eyelashes on the unchanged modest eyes, no doll lashes or feminine body shape. No noses, ears, hair or clothing. Warm kind family-friendly tone. All figures, feet and main objects fit inside clean white paper margins, irregular watercolor edges, subtle white gutter without heavy comic frames.\nComposition: TWO vertical panels side by side on a square page, narrative reads RIGHT to LEFT, same sunny courtyard setting, pale honey stone paving, warm stone walls and doorways, restrained greenery and a few flowers. Same one purple adult friend and one pink adult trolley-owner in both panels, identity and body color constant. Purple has the same head diameter, overall stature, arm thickness and proportions in both panels; right-panel lean is only a small natural pose variation.\nRIGHT first panel: pink stands behind a real two-wheel hand trolley carrying one taped cardboard box. Both pink hands naturally grip the upper horizontal handle. The trolley is angled back slightly but grounded with two physically coherent wheels, same box and straps as later. A bright blue ribbon is visibly wound around the axle near one wheel, with a short loose end trailing on the paving: THIS is the actual cause of the jam. Pink looks thoughtfully at the trolley rather than blindly accepting a purchase suggestion. Purple stands at the right, leaning forward only slightly, one hand indicating the jammed wheel, mildly worried brows. Purple's speech bubble reads exactly «چرخش گیر داره؛ چرخ نو بخر!». Pink's bubble reads exactly «گیر داره، درست می‌گی.»; tails attach clearly to their speakers. Correctly joined Persian text, no English.\nLEFT second panel: same trolley, box, wheels, blue ribbon, paving, pink and purple. Pink crouches naturally beside the wheel on the trolley's left side; one hand holds the removed loose blue ribbon aloft and the other rests safely by the now-cleared wheel. Blue ribbon is NO LONGER wound on the axle. Pink's neutral body remains free of bust, waist notch or hip bulge in this bent pose. Purple stands on the far left with the same proportions as before, relieved, hands gently clasped at chest height and a warm modest smile. Pink's only bubble reads exactly «نوار دور محور پیچیده بود!». The causal result is the same wheel being usable after removing its obstruction, not buying a new wheel. Preserve the simple visible distinction: the friend's diagnosis of a jam is right, the proposed remedy of replacing a wheel was untested and unnecessary. No explanatory caption, extra text, new trolley, discarded wheel or extra decorative story.\n",
+  "fullGenerationPromptPath": "review-data/revision-157-2026-10-19/157-d/157-d-20261019-v2.full-generation.en.txt",
+  "fullGenerationPromptSha256": "0c92212558b14aa249d24004a098ecbeb6bbefba8805394184f9d53981a9f4cc",
+  "fullGenerationPromptEnglishSha256": "0c92212558b14aa249d24004a098ecbeb6bbefba8805394184f9d53981a9f4cc",
+  "editPromptEnglish": "Edit Image 1 only. Images 2 (148.jpg) and 3 (131.jpg) are original book references: 148 is the exact BODY/PAINT model, 131 is ONLY the small eyes and fine lashes model. Keep Image 1's square two-panel RTL composition, colors, trolley, box, blue ribbon, garden/doorways, all Persian bubbles and story unchanged.\nReplace ALL FOUR depicted figures' body/head construction with reference 148's medium adult neutral silhouette: softly straight continuous sides from shoulders to legs, no waist notch, hips, breasts, pelvis bulge or buttocks, neither skinny stick nor chubby. Normal balanced arms like 148. Perfect circular head outlines, width equals height, no tilted ellipse or flattened chin, directly touching shoulders with a soft deeper local-color contact shadow and NO neck. Purple must have the SAME height, head diameter, arm thickness and body build in both panels; in the RIGHT panel only a slight natural whole-body lean toward trolley, not a long torso or longer limbs. Pink's two poses share the same neutral build; crouching must not add a round hip or bust. Only pink has a few short fine lashes, preserving the same modest dark oval eyes and tiny interior white glints; no sclera. Four digits total in every clearly visible hand: three fingers and one thumb.\nUse reference148's broad translucent layered watercolor washes INSIDE bodies and heads, softer irregular pigment variation, not Image1's uniform fine crystalline/pencil-like grain. Local-color darker contours, no black body outlines. Subtle diffused cheek blush. Keep full figures and feet within white watercolor margins. Do not alter the dialogue, trolley geometry, ribbon cause/result or any other object.\n",
+  "editPromptPath": "review-data/revision-157-2026-10-19/157-d/157-d-20261019-v2.edit.en.txt",
+  "editPromptSha256": "9cbc39b4787498c9bdc4b94f885ceeb583a94d99fb5633875019c9cefb55e4cc",
+  "referencePaths": [
+    "book-review/dist/art/157-d-20261019-v1.png",
+    "Images/148.jpg",
+    "Images/131.jpg"
+  ],
+  "referenceRoles": [
+    "edit_target",
+    "body_and_broad_watercolor_style",
+    "eyes_and_delicate_lashes_only"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a1549b-3cae-7882-a76d-a6d0648c7a4c/exec-fc178e54-c243-49ac-9b77-949938da40f6.png",
+  "generatedAtUtc": "2026-10-19T19:44:26.490398+00:00",
+  "status": "candidate_pending_parent_and_user_review",
+  "qa": {
+    "visualInspectionPerformed": true,
+    "imageOpenedWith": "view_image",
+    "referencesOpenedWith": "view_image",
+    "notesFa": "خروجی واقعی پس از تولید مشاهده شد. متن‌های سه حباب، رنگ صورتی و بنفش، چرخ‌های گاری و نوار آبیِ پیچیده و سپس بازشده حفظ شده‌اند. هر دو پا و گاری داخل حاشیه‌اند. پهلوهای بنفش صاف‌تر و دست‌ها معمولی‌تر شده‌اند؛ صورتی با مژه ظریف و بدن بی‌برجستگی ترسیم شده است. سایه اتصال سر موجود است. تمام جزئیات چشمِ دست‌ها به علت گرفتن ابزار قابل شمارش نیستند.",
+    "limitationsFa": "یک‌دست‌شدن بافت آبرنگ با مرجع۱۴۸ هنوز کامل نیست: ریزبافت قدیمی در بخشی از بدن‌ها باقی مانده است. اندازه سر بنفش در دو قاب کاملاً یکسان نشده و برای تصمیم نهایی نیاز به بازبینی root دارد.",
+    "result": "requires_parent_style_comparison_before_publication"
+  },
+  "fullGenerationPromptEnglishPath": "review-data/revision-157-2026-10-19/157-d/157-d-20261019-v2.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "0c92212558b14aa249d24004a098ecbeb6bbefba8805394184f9d53981a9f4cc",
+  "revisionSummaryFa": "تنه و تناسب آدمک‌ها با مرجع اصلی ۱۴۸ اصلاح شد؛ بدن مؤنث بدون کمر و باسن برجسته و سرها گردتر شدند. داستان گاری و متن‌ها حفظ شدند.",
+  "rootVisualReview": {
+    "id": "157-d-20261019-v2",
+    "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observations": "Actual result compared with original148/131: violet torso is straighter and more balanced in the leaning right panel, pink silhouettes have no pronounced waist/hips, heads appear round, identity and Persian text remain. Trolley, blue strap and full framing are preserved. Fine texture and a small scale difference between violet heads remain; this is a revised candidate for owner review, not a claim of exact stylistic identity."
+  },
+  "generationMode": "precise-object-edit"
+}
