@@ -1,0 +1,41 @@
+{
+  "id": "160-b-20261019-v1",
+  "tool": "built-in imagegen",
+  "mode": "generate-and-edit",
+  "selectedCanonicalPath": "review-data/wave-157-161-2026-10-19/160/160-b-20261019-v1.png",
+  "selectedCanonicalSha256": "e7f9ecb98582c16b29c74957106d88d9ebb84c567c946cfd821b8a7325f8901b",
+  "fullPromptRole": "The full-generation text is an independent final-intent prompt. The exact literal prompts executed for each attempt follow, without claiming that the consolidated prompt itself was sent as one call.",
+  "steps": [
+    {
+      "kind": "generate",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-b-20261019-v1.prepared-generation.en.txt",
+      "prompt": "Use case: illustration-story. Create ONE finished PORTRAIT 2:3 watercolor illustration, 1024 by 1536, for an adult Persian advice book. THREE equally tall horizontal scenes stacked TOP TO BOTTOM with white gutters, no heavy frames. Each panel has enough room for the SAME adult's entire body and both feet, plus the complete table and cloth. Same camera distance and same head diameter/body proportions in all three panels. References 148 and 131 are STYLE references only.\nAdvice: \"Worth repeating: Measure twice, cut once.\" Show a real first measurement, a real second check of the SAME fabric length from the SAME origin, THEN a single cut.\nSAME PINK adult tailor in plain cream apron, two very fine short outer-upper eyelashes as131. Neutral straight adult torso and pelvis, neither curvy nor chubby nor thin. Same modest sewing-room worktable and SAME large pale-teal curtain fabric rectangle lying flat across it. The fabric's far TOP reference edge is held straight by two small clamps. The near hem end has excess fabric beyond the intended cut. Same orientation in every panel. View slightly from above so the full lengthwise tape is visible, while both feet remain visible below table. Minimal quiet room with one window; no mannequin or fashion figure.\nTOP: PINK measures the curtain LENGTH with one taut yellow cloth measuring tape running straight from the clamped far TOP reference edge toward the near hem end. One hand anchors the tape's zero end at that exact top edge, the other makes one tiny pencil mark at the intended hem cut point. Gaze at the tape endpoint. Closed scissors rest safely at the back of the table, unused. Thought bubble exactly «اندازه گرفتم...».\nMIDDLE: The same intact fabric has not moved or been cut. PINK has deliberately reset the SAME tape from its SAME clamped TOP edge, holding the zero end there again and checking the SAME lengthwise distance at a corrected endpoint. Show this actual contact measurement clearly, not a tape across the width. The original short tiny mark has already been erased: a faint smudge lies beside the one fine corrected straight hem line a little farther toward the near end. A small eraser and straightedge rest on the table. PINK's hands are occupied only with the two ends of the taut tape; no simultaneous erasing/drawing action. Only one final line remains. Scissors still closed and unused at the back. Thought bubble exactly «یه بار دیگه چک کنم.».\nBOTTOM: Tape and pencil set aside. PINK makes ONE single continuous straight cut with ONE pair of tailor's shears exactly along the confirmed hem line. A single slit is behind the blades and continuous uncut fabric lies immediately ahead; one narrow hem strip just begins to separate. Scissor tip points laterally away from PINK's torso. Spare hand holds cloth safely well away from the blade path. Same fabric, no extra strips or completed curtain. Relieved small smile. Speech bubble exactly «خوب شد دوباره دیدم!».\nAll adults match148: genuinely CIRCULAR heads with equal width/height, no neck, chin, nose, ears or hair. Small vertical DARK OVAL eyes with one tiny white glint INSIDE each, no white sclera. Darker LOCAL BODY COLOR outlines, never black. Straight neutral torso sides and pelvis, no bust, waist indentation, projecting hips or buttocks. Medium adult build and limbs. Every fully visible hand has exactly THREE FINGERS plus ONE THUMB, four total; natural tool grips may hide digits, never add any. Maintain same identity, head diameter and body scale across panels, including when leaning. Extremely faint diffuse cheek warmth, no stamped circles.\nAuthentic broad overlapping translucent WATERCOLOR WASHES visibly inside heads, torso, arms, hands and legs, luminous paper, large irregular pigment variations and restrained pooling as148. No uniform fine speckles, crystalline tiles, marker, flat vector or glossy 3D. Clean white outer margins on all four sides, airy gutters and floor below feet. Only the three specified short Persian bubbles, correctly joined RTL letters and connected tails to PINK; no numerals, English, labels or watermark. Keep cause and effect concrete and readable.\n",
+      "promptSha256": "2592bcd896029816d4f017e80a75585dcb14996eb4841341113aacdda04f4aed",
+      "referenced_image_paths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-bfb3f4bc-c321-4787-9fda-3050995623bc.png",
+      "sourceOutputSha256": "9e161c15e71a1a6810337d24661da6f2b764902cc4db27a115c6618a08e2b229",
+      "disposition": "superseded-by-cut-geometry-edit"
+    },
+    {
+      "kind": "edit",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-b-20261019-v1.edit-01.en.txt",
+      "prompt": "Use case: precise-object-edit. Edit this existing three-panel PORTRAIT watercolor curtain-tailor story. Correct the LOWER PANEL cutting geometry only, plus remove any waist/hip shaping of the pink torso. Keep top and middle measuring scenes and all three Persian bubbles verbatim. The confirmed hem pencil line runs HORIZONTALLY across the fabric, from its right edge toward its left edge, parallel to the front table edge. Place the one pair of shears exactly ON THAT HORIZONTAL LINE at the right fabric edge, tips pointing LEFT along the line, with the cutting hand at the right side and both hands safely behind/away from blades. Show one short clean horizontal slit beginning at the RIGHT EDGE and ending at the shears, with intact cloth immediately to the LEFT ahead of their tips. The one removable hem is a single WIDE HORIZONTAL STRIP below that line; its right corner has only just begun to separate. Remove the wrong vertical slit and dangling narrow vertical tongue entirely. No additional cuts or strips. The tool must cut on the same measured endpoint line visible in panels above. Keep the uncut long curtain attached at the clamped top edge. Keep the full feet and complete table inside white margins, same circular head diameter/body scale and neutral medium adult build. The exposed torso side and apron should be STRAIGHT neutral sides, no pinched waist, curved hips, bust or buttock emphasis; pink's only gender cue remains two fine outer eyelashes. Preserve broad layered watercolor, locally pink dark contours, small dark oval eyes with tiny inner white glints and no sclera, diffuse subtle cheek warmth. All visible hands exactly three fingers plus one thumb, four total; natural grip occlusion allowed. Preserve panel dimensions, setting, facial identity, and text.\n",
+      "promptSha256": "3f18c5c1a80a37ecdf7c09f5050652164954fda84d42fd43eb7063c3e9417195",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/160/unpublished-drafts/160-b-20261019-v1.before-edit-01.png"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-c37505f3-0c41-4a75-b691-9bbb24e6a8cf.png",
+      "sourceOutputSha256": "e7f9ecb98582c16b29c74957106d88d9ebb84c567c946cfd821b8a7325f8901b",
+      "disposition": "selected-canonical"
+    }
+  ],
+  "localHandling": "Selected original tool PNG copied byte-for-byte to canonical path. No raster postprocessing, CLI/API image generation, site, Excel, Images, feedback or Git changes.",
+  "legacyDrafts": "Older original-draft prompt files and preexisting unpublished draft PNGs were preserved; they were not substituted for the selected outputs."
+}

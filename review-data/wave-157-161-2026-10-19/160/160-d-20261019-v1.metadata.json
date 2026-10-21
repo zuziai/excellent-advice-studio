@@ -1,0 +1,33 @@
+{
+  "id": "160-d-20261019-v1",
+  "sentenceId": 160,
+  "version": 1,
+  "outputPath": "book-review/dist/art/160-d-20261019-v1.png",
+  "imageHash": "a50d6c27ee23b579ae07bdd7b6031a9db3c2a171a3e0125bf185d5a41ebf9e22",
+  "sha256": "a50d6c27ee23b579ae07bdd7b6031a9db3c2a171a3e0125bf185d5a41ebf9e22",
+  "width": 1024,
+  "height": 1536,
+  "titleFa": "یک تکه چوب، دو نفر دقت",
+  "summaryFa": "دو دوست عرض یک تصویر را دوبار بررسی می‌کنند و تنها یک‌بار زهوار را می‌بُرند.",
+  "storyFa": "قاب‌ساز بنفش عرض افقیِ تصویر را اندازه می‌گیرد و روی یک زهوار علامت می‌گذارد. دوست نارنجی همان تصویر را از مبدأ چپ کنار زهوار می‌گذارد و با گونیا انطباق لبهٔ راست و علامت را دوباره بررسی می‌کند. سرانجام تنها یک برشِ اره در خطِ تأییدشده انجام می‌شود؛ قابِ کامل ناگهان ظاهر نمی‌شود.",
+  "meaningFa": "سنجشِ دومِ مستقل، تصمیمِ برگشت‌ناپذیر را قابل‌اعتمادتر می‌کند.",
+  "fullGenerationPromptEnglish": "Use case: illustration-story. ONE PORTRAIT 2:3 watercolor, THREE equal horizontal panels stacked top to bottom. An adult book illustration of \"Measure twice, cut once.\" STYLE ONLY from148 and131: broad layered translucent watercolor, circular no-neck heads, medium straight adult bodies, tiny dark oval eyes with internal white glints, colored contours.\nFRAMING IS ESSENTIAL: show TWO COMPLETE STANDING ADULTS from circular head to BOTH FEET in EACH panel. Pull the camera far back. Their whole bodies occupy about three quarters of each panel's height. Floor below feet and generous white margin; no part of any foot or body touches a panel edge. Bench is small and low enough to reveal legs and feet below. Same scale, heads, build, camera and simple sparse room across all panels. VIOLET wears a straight cream apron on left; ORANGE no clothes on right. Their torso sides and pelvis are neutral and straight, no bust/waist/hip curves. No noses, ears or hair. Exactly three fingers plus thumb per hand, natural grips.\nSAME ONE long straight wooden molding and SAME small square unframed landscape picture. On bench, molding runs horizontally LEFT to RIGHT. A wooden STOP fixes its LEFT end. Picture lies FLAT immediately behind molding, parallel to it, with its LEFT edge ALSO touching that SAME left stop. Its right edge defines the one pencil cut mark on molding. Maintain this geometry and picture width unchanged across first TWO panels. No upright picture until final panel. Saw unused until final panel. Do NOT measure picture height.\nTOP: VIOLET actually measures picture's horizontal WIDTH with one taut yellow tape from its LEFT edge at stop to RIGHT edge. A small square bridges right picture edge to a single pencil mark on molding. ORANGE watches. Bubble from VIOLET exactly «اندازه‌اش اینه...».\nMIDDLE: actual INDEPENDENT second check of SAME width: ORANGE uses the SAME FLAT picture as a direct physical gauge. Left picture edge at SAME stop, right picture edge lies exactly at the SAME pencil mark on molding, verified by a small square across both. ORANGE holds picture/square; VIOLET watches. Tape set aside. No cut. Bubble from ORANGE exactly «یه بار دیگه؛ درسته!».\nBOTTOM: Picture moved upright safely to rear. VIOLET makes ONE hand-saw cut at the confirmed mark on SAME molding, clamped in a simple miter box. One fresh kerf only. Free hand well left of blade, saw away from torso, orange friend watches safely at right with hands behind back. No completed frame, no extra cuts or pieces. Bubble from VIOLET exactly «حالا فقط یه برش!».\nKeep all heads geometrically circular, identical diameter and scale through panels, medium adult build neither fat nor skinny. Faces have ONLY eyes, eyebrows and mouth; leave space between eyes and mouth BLANK, absolutely no nose mark. Small dark oval eyes have NO white sclera. Darker local violet/orange outlines, never black. Faint diffused cheek warmth, no flat circles. Broad luminous irregular watercolor WASHES inside bodies and heads, no fine speckled tiles or crystalline texture. Plain sparse backdrop and white margins/gutters; no decorative plants or extra tools. Only these three Persian connected RTL bubbles, no English, numerals, labels or watermark.\n\nFinal physical continuity: in top and middle, the same flat picture's LEFT edge touches the RIGHT FACE of the left wooden stop with no empty gap. Its RIGHT edge lies at the single molding pencil mark via the square. Tape zero at that same stop. Picture width and intended molding cut length remain the same physical distance in both checks and the final cut. A slight board shift on the bench does not change that distance. The final single saw cut is at that verified distance from the same left stop, one kerf only, free hand well left of the blade, no completed frame. Keep neutral adult anatomy and every complete foot inside white margins.\n",
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/160/160-d-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "904c940a38778acb64d3dd07ffb73eb7f410eb944f2a2ae28cb123d78e829280",
+  "fullGenerationPromptEnglishRole": "standalone consolidated final specification; exact executed prompts and inputs are in executed-steps.json",
+  "qa": {
+    "visuallyInspected": true,
+    "reviewState": "pending-root-review",
+    "notes": "هر دو سنجش عرض و مقایسهٔ مستقیمِ تصویر با زهوار دیده می‌شود؛ تصویر در دو قاب نخست تخت و کنار مبدأ چپ است، قاب کامل ساخته نمی‌شود و همهٔ پاها داخل‌اند. ویرایش واقعی فاصلهٔ بی‌دلیلِ تصویر از مبدأ را کاهش داد. اختلاف جزئی مقیاس/جای زهوار و فاصلهٔ برش در قاب آخر باقی است؛ برابری دقیقِ فاصله‌ها و اجرای دقیقِ مختصاتِ خواسته‌شده ادعا نمی‌شود.",
+    "anatomyInspection": "Open visible hands were inspected for three fingers plus one thumb; natural grips obscure some digits, so hidden digits are not counted. No pixel-exact anatomical or scale claim.",
+    "styleInspection": "Broad translucent body washes, dark local-color contours and small dark eyes with internal glints inspected. Generated texture and blush remain hand-painted approximations."
+  },
+  "rootVisualReview": {
+    "id": "160-d-20261019-v1",
+    "imageHash": "a50d6c27ee23b579ae07bdd7b6031a9db3c2a171a3e0125bf185d5a41ebf9e22",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observationsFa": "دو نفر همان عرض تصویر را با تکیه‌گاهِ مبدأ مشترک روی قاب چوبی بررسی می‌کنند و سپس یک برش در خط تأییدشده انجام می‌شود؛ تصویرِ پایانِ چهارطرفهٔ جادویی وجود ندارد. پاها کامل و متن‌ها درست‌اند. اندکی تغییر مقیاس تصویر/ابزار بین قاب‌ها و گونهٔ گردتر از مرجع باقی است؛ برای بررسی مالک ارائه می‌شود.",
+    "reviewedAt": "2026-10-21T06:43:39.528678+00:00"
+  }
+}

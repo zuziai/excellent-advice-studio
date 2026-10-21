@@ -1,0 +1,29 @@
+{
+  "id": "158-b-20261019-v1",
+  "sentenceId": 158,
+  "version": 1,
+  "outputPath": "book-review/dist/art/158-b-20261019-v1.png",
+  "sha256": "ef4484fd986e6cd07f021737e0e68159496667e27b40b4968276e693c7d27310",
+  "imageHash": "ef4484fd986e6cd07f021737e0e68159496667e27b40b4968276e693c7d27310",
+  "width": 1254,
+  "height": 1254,
+  "titleFa": "کم‌حرف، پُرهنر",
+  "summaryFa": "کار دقیقِ همکارِ کم‌حرف، قضاوتِ سالمند را عوض می‌کند.",
+  "storyFa": "شخصیتِ سالمند همکارِ کم‌حرفش را نابلد تصور می‌کند. با دیدنِ تابلوی چوبیِ دقیق او، به اشتباهش پی می‌برد و مشتاقانه از همان همکار یاد می‌گیرد.",
+  "meaningFa": "جوانی ذهن یعنی آمادگیِ اصلاحِ قضاوت در برابر شواهد؛ سالمند با همان ظاهر و سن، دوباره شاگرد می‌شود.",
+  "fullGenerationPromptEnglish": "Use case: illustration-story. New SQUARE adult Persian book watercolor, two spacious horizontal scenes stacked TOP TO BOTTOM. Attached148 is primary for adult neutral body geometry and broad watercolor; attached131 supplies only small dark eyes and delicate lashes.\nA physically older lavender adult revises an unfair judgment of a quiet coral adult coworker after seeing skilled work. TOP: restrained carpentry workshop. Quiet coral adult is carefully fitting small wooden geometric inlay pieces on a low workbench, ruler and offcuts nearby. Lavender older coworker watches that person skeptically, looks at coral, and says exactly «کم‌حرفه؛ حتماً چیزی بلد نیست!» Lavender has only two tiny crow's-feet and small round glasses with CLEAR colorless lenses (no opaque white discs); otherwise both have the same medium neutral adult proportions.\nBOTTOM: SAME workers, SAME room, identical scale. Coral has finished an elegant small wooden geometric inlay panel from those pieces, lying naturally on the workbench with precise fitted corners visible. Lavender now sees the actual fine workmanship and leans forward with genuine interested respect. Lavender holds two small remaining wood pieces while coral demonstrates how their corner joint fits; lavender says exactly «اشتباه قضاوت کردم؛ یادم می‌دی؟» Lavender remains exactly the same age, glasses and wrinkles, becoming curious, not physically younger. Coral kindly demonstrates without smugness. Show complete bodies and feet below table. No technology, certificates, magic, childish toys or trophy.\n148 anatomy: truly CIRCULAR heads, direct join to shoulders with soft local-color contact shadow, NO neck, hair, nose, ears. Straight medium neutral torso into pelvis and balanced legs, same design for all sexes, no bust, inward waist, projecting hips or buttocks; no stretched, fat or skinny limbs. Each person's height/head diameter/thickness stay identical across scenes. Small dark oval eyes with TINY internal glints, no white sclera; only coral has two fine upper-outer lashes as in131, no body difference. Faint softly diffused watercolor cheek warmth, never flat sharp pink circles. Every hand exactly3 fingers and1 thumb; natural grips.\nAuthentic broad translucent layered watercolor washes INSIDE figures as in148, several large softly irregular pigment areas, luminous paper and restrained pooling; clear darker LOCAL-COLOR contours. Do not replace broad washes with uniform tiny grain, crystalline pattern, marker, pencil, heavy mottling or glossy shading. Sparse adult workshop, a small shelf sufficient. Airy natural white watercolor margins around each scene; all feet/hands/props inside with space below feet, no cropping or heavy panel borders. Only the two specified Persian speech bubbles with connected RTL letters, tails to lavender. No other text or watermark.\nLavender's standing torso has almost straight sides into a neutral pelvis. While leaning forward the back continues in a smooth gentle diagonal directly into neutral pelvis and medium legs, without any projecting rear lobe. Transparent eyeglass lenses show the lavender skin.",
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/158/158-b-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "38a8472352065150850722fa3383e2dc36f1e1da53a8b5e1663c64e311032684",
+  "qa": {
+    "visuallyInspected": true,
+    "notes": "قضاوت و سپس دیدنِ کارِ دقیق و شروع یادگیری در دو قاب روشن است. متن فارسی و حاشیه‌ها بررسی شد. پس از تولید، گودی کمر و برجستگی عقبِ بنفش و سفیدیِ عدسی با یک ویرایش کاهش یافت. بدن پایین اندکی خم است و پشت تقریباً مستقیم؛ بافتِ برخی سطوح ریزتر از مرجع باقی مانده. تأیید صاحب کتاب نیست."
+  },
+  "rootVisualReview": {
+    "id": "158-b-20261019-v1",
+    "imageHash": "ef4484fd986e6cd07f021737e0e68159496667e27b40b4968276e693c7d27310",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observationsFa": "قضاوت و سپس دیدنِ کارِ دقیق و شروع یادگیری در دو قاب روشن است. متن فارسی و حاشیه‌ها بررسی شد. پس از تولید، گودی کمر و برجستگی عقبِ بنفش و سفیدیِ عدسی با یک ویرایش کاهش یافت. بدن پایین اندکی خم است و پشت تقریباً مستقیم؛ بافتِ برخی سطوح ریزتر از مرجع باقی مانده. تأیید صاحب کتاب نیست.",
+    "reviewedAt": "2026-10-20T08:56:20.967115+00:00"
+  }
+}

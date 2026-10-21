@@ -1,0 +1,27 @@
+{
+  "tool": "built-in imagegen",
+  "mode": "generate-then-edit",
+  "steps": [
+    {
+      "prompt": "Use case: illustration-story. New SQUARE adult Persian book watercolor, two spacious horizontal scenes stacked TOP TO BOTTOM. Attached148 is primary for adult neutral body geometry and broad watercolor; attached131 supplies only small dark eyes and delicate lashes.\nA physically older lavender adult revises an unfair judgment of a quiet coral adult coworker after seeing skilled work. TOP: restrained carpentry workshop. Quiet coral adult is carefully fitting small wooden geometric inlay pieces on a low workbench, ruler and offcuts nearby. Lavender older coworker watches that person skeptically, looks at coral, and says exactly «کم‌حرفه؛ حتماً چیزی بلد نیست!» Lavender has only two tiny crow's-feet and small round glasses with CLEAR colorless lenses (no opaque white discs); otherwise both have the same medium neutral adult proportions.\nBOTTOM: SAME workers, SAME room, identical scale. Coral has finished an elegant small wooden geometric inlay panel from those pieces, lying naturally on the workbench with precise fitted corners visible. Lavender now sees the actual fine workmanship and leans forward with genuine interested respect. Lavender holds two small remaining wood pieces while coral demonstrates how their corner joint fits; lavender says exactly «اشتباه قضاوت کردم؛ یادم می‌دی؟» Lavender remains exactly the same age, glasses and wrinkles, becoming curious, not physically younger. Coral kindly demonstrates without smugness. Show complete bodies and feet below table. No technology, certificates, magic, childish toys or trophy.\n148 anatomy: truly CIRCULAR heads, direct join to shoulders with soft local-color contact shadow, NO neck, hair, nose, ears. Straight medium neutral torso into pelvis and balanced legs, same design for all sexes, no bust, inward waist, projecting hips or buttocks; no stretched, fat or skinny limbs. Each person's height/head diameter/thickness stay identical across scenes. Small dark oval eyes with TINY internal glints, no white sclera; only coral has two fine upper-outer lashes as in131, no body difference. Faint softly diffused watercolor cheek warmth, never flat sharp pink circles. Every hand exactly3 fingers and1 thumb; natural grips.\nAuthentic broad translucent layered watercolor washes INSIDE figures as in148, several large softly irregular pigment areas, luminous paper and restrained pooling; clear darker LOCAL-COLOR contours. Do not replace broad washes with uniform tiny grain, crystalline pattern, marker, pencil, heavy mottling or glossy shading. Sparse adult workshop, a small shelf sufficient. Airy natural white watercolor margins around each scene; all feet/hands/props inside with space below feet, no cropping or heavy panel borders. Only the two specified Persian speech bubbles with connected RTL letters, tails to lavender. No other text or watermark.",
+      "referenced_image_paths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15863-a05a-7df3-9b0d-6df278fa024d\\exec-278ee380-3d95-49d1-af59-52187de6df7b.png",
+      "preservedAt": "158-b-20261019-v1.source-01.png"
+    },
+    {
+      "prompt": "Edit this exact two-scene carpenter story. Keep all Persian lettering, story, characters, objects, placement, square layout and watercolor unchanged. Correct ONLY the lavender person's body and eyeglass lenses in BOTH scenes, using148 for neutral medium anatomy. Lavender must have the SAME medium head diameter/limb thickness in both scenes. Remove the inward waist in the top scene; make torso sides descend smoothly and almost straight into a neutral pelvis. In the bottom scene, remove the large convex projecting buttock/hip on lavender's right outline: the bent back should continue as a gentle straight diagonal directly into a neutral pelvis and balanced medium legs, no rear bulb, no waist pinching. Keep every head exactly circular. Lavender's glasses have transparent lenses showing lavender skin beneath, no white lens discs; retain the SAME small dark oval eyes and tiny internal glints. Preserve full feet and generous white margins. Target image is first;148 and131 are style references only.",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/158/158-b-20261019-v1.png",
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "inputImageAtCallPreservedAt": "158-b-20261019-v1.source-01.png",
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15863-a05a-7df3-9b0d-6df278fa024d\\exec-663df2f9-20e3-4e54-990a-4df1960df15c.png"
+    }
+  ]
+}

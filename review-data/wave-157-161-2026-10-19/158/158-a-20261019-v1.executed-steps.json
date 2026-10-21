@@ -1,0 +1,24 @@
+{
+  "tool": "built-in imagegen",
+  "mode": "generate",
+  "steps": [
+    {
+      "prompt": "Use case: illustration-story. A new square watercolor narrative for an adult Persian book, two spacious horizontal scenes stacked TOP TO BOTTOM. The two attached files are STYLE REFERENCES ONLY: 148 is the primary anatomy and broad watercolor reference; 131 is the eye/lash reference.\nMeaning: a mind stays young by revising a limiting belief after real evidence. No physical de-aging.\nTOP: In a modest community painting courtyard, lavender OLDER adult with tiny crow's-feet and small round glasses watches another older moss-green adult paint a simple landscape at an easel. Lavender holds a CLOSED sketchbook, looks at the friend's painting with dawning interest, says exactly «دیگه نقاشی از من گذشته!» in a small Persian speech bubble. Green is recognizably the same age and calmly enjoys painting.\nBOTTOM: SAME two adults and same courtyard. Lavender, still exactly the same age/glasses/wrinkles, opens that sketchbook at a second easel and enthusiastically tries a charming beginner landscape beside the green friend. Lavender says exactly «نظرم عوض شد؛ شروع می‌کنم!» Green smiles warmly. Paintings face the painters naturally. This is a modest first attempt, no masterpiece or rejuvenation.\nMatch 148's balanced adult figures: head is a geometrically TRUE CIRCLE; no neck, hair, ears, nose. Direct head-to-shoulder join with a subtle local-color crescent contact shadow. Straight neutral torso and pelvis with gentle natural taper only, identical build for all sexes, no breasts, pinched waist, projecting hips or buttocks. Medium limbs, no stretched, fat or stick bodies. Full figures and feet. Keep each person's head diameter, height and body thickness identical across both scenes. Small dark oval eyes with tiny internal white glints, no white sclera. Only green has two fine upper-outer lashes as in131; body remains identical neutral design. Very faint diffused watercolor cheek warmth. Hands have exactly3 fingers and1 thumb with coherent natural grips.\nHand-painted broad, irregular overlapping TRANSLUCENT WATERCOLOR washes visible INSIDE heads, torsos and limbs, varied pigment density and subtle pooling as in148, dark contours from each local body color. No uniform fine grain, crystalline texture, pencil, marker, flat vector, glossy shading. Sparse inhabited setting, soft pale wash edges and ample white margins. Every figure, foot and prop entirely inside each scene, extra floor below feet; no clipping. No heavy panel borders. Warm thoughtful adult mood. Only the two specified short Persian texts, correct connected RTL lettering and clear tails to lavender; no other writing.",
+      "referenced_image_paths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15863-a05a-7df3-9b0d-6df278fa024d\\exec-050eeba6-8897-4b69-8063-ec29af4936e1.png"
+    },
+    {
+      "kind": "root-targeted-edit",
+      "promptPath": "review-data/wave-157-161-2026-10-19/158/158-a-20261019-v1.root-edit.en.txt",
+      "prompt": "Use case: precise-object-edit. Edit the supplied two-panel watercolor painting illustration only to correct the cheek blush. In BOTH panels, on BOTH the purple elder painter and the yellow-green painter, replace the flat, sharply bounded pink/orange circular cheek patches with very faint, translucent, diffuse watercolor warmth blended into the local body wash. No visible circular stamp boundary, no flat red circles. Keep the friendly expressive faces, dark oval eyes with tiny inner glints, glasses, eyelashes, perfectly circular head contours, ALL character sizes and body shapes, poses, hands, Persian lettering exactly unchanged, every painting and prop unchanged, panel composition, white margins and original image dimensions unchanged. Preserve genuine layered watercolor and local-color outlines. This is a subtle cheek-painting correction only.",
+      "inputPath": "review-data/wave-157-161-2026-10-19/158/attempts/158-a-20261019-v1.before-root-edit.png",
+      "outputPath": "review-data/wave-157-161-2026-10-19/158/158-a-20261019-v1.png",
+      "outputSha256": "e4aa4b1a241c8c875f156dded98bd83eda7e00ab21889fc7d1c472c2561366b4",
+      "generatedSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-0d69baa4-b552-415c-aafd-70d6df3befcd.png"
+    }
+  ]
+}

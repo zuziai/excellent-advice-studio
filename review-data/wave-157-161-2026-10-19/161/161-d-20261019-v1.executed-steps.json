@@ -1,0 +1,87 @@
+{
+  "id": "161-d-20261019-v1",
+  "tool": "built-in image_gen.imagegen",
+  "referenceInputs": [
+    {
+      "path": "Images/148.jpg",
+      "role": "primary watercolor and anatomy reference",
+      "actuallyViewed": true,
+      "sha256": "6c31d38f690b20148dfa622f90f78424fb991844fb3865e77b599ea804a22486"
+    },
+    {
+      "path": "Images/131.jpg",
+      "role": "eye and fine-lash reference",
+      "actuallyViewed": true,
+      "sha256": "1aada2acefa3b29727578e100215cb55243e4b9f8aeb64690216a20a7134515e"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "operation": "generate",
+      "prompt": "Use case: illustration-story. Create one NEW complete finished square watercolor narrative book illustration for an adult Persian advice book, understandable immediately by a twelve-year-old. TWO spacious horizontal panels stacked top to bottom with a quiet white gutter and generous white paper margins. This is one story.\nMeaning: buying tools does not buy a ready invention. Passion for a practical need, thought, persistent experiments, belief and ingenuity produce a useful solution. Show two dignified ordinary adult collaborators, no rich villain, no sneering at money, no poverty worship, no literal hunger.\nInput images: Images/148.jpg is PRIMARY STYLE AND ANATOMY REFERENCE ONLY. Images/131.jpg is eye and fine-lash reference only. Do not copy scenes, objects or texts. Actual moderately layered WATERCOLOR within heads AND limbs: broad irregular translucent overlapping washes, varied pigment density, subtle pooling. No uniform fine grain overlay, marker, colored pencil, flat vector, plastic or 3D. Local body-color darker outlines, not black. Cheeks have only faint diffused warmth, no flat red or pink circles.\nTwo adult collaborators TEAL and warm ORANGE, same head diameter and body height in both panels. Geometrically circular heads, no hair, neck, ears or nose. Subtle local-color darker crescent under heads. Small dark oval eyes with tiny internal white glints, NO white sclera. Moderate balanced ADULT bodies like148: medium arms/legs, straight neutral torso and pelvis, gentle natural taper only; no bust, pinched waist, projecting hips or buttocks. Orange may have two very fine short lashes ONLY, same neutral anatomy. Each figure exactly TWO arms and TWO hands, no extra limbs. Every fully visible open hand is exactly THREE fingers plus ONE thumb (four total); natural closed grips can occlude fingers. Avoid extraneous open gesturing hands. Full figures, both feet and essential props visible within panel with space beneath feet. Same sizes in both panels.\nPlace: a modest neighborhood library workspace. At the right, precisely TWO low steps lead to a LOW landing, about knee height, where books need to go. At left a small low workbench, not hiding legs. Few blank books and simple tools; no crowded bookshelves. Warm soft daylight, pale watercolor walls and floor dissolve to white.\nTOP — tools do not supply the idea: Teal and Orange stand beside the small workbench, curious and thinking. Two simple open new toolboxes with hammer, screwdriver and short rope; a small removed packaging ribbon next to them. On the bench one sheet shows a simple rough sketch of a hanging tray, no words. Three closed books wait on the FLOOR at the foot of the two steps. The pair look between their tools, rough sketch and the books/steps, aware the solution needs thought. Orange rests one closed hand thoughtfully against chin, other hand at side with exactly three fingers and one thumb visible. Teal says exactly «ابزار داریم؛ راهش رو باید پیدا کنیم.» in one readable Persian bubble with clear tail. Calm purposeful expressions, not foolish or mocked.\nBOTTOM — working solution after trials: Same bench, two steps, same full figures and sizes. A SIMPLE hand-pulled book hoist beside the steps, no motor, no crank or gears. One squat stable wooden rectangular frame, with TWO straight vertical guide rails. One small horizontal wooden platform rides between the rails and is now held LEVEL at the low landing height. It carries two closed books; Orange stands on the low landing and uses BOTH hands naturally to lift a third book from the platform onto the landing. Both of Orange's feet remain visible on landing, never riding on the platform.\nMechanism is unmistakable and physically coherent: ONE rope attaches at the center-back of the platform, runs straight UP to a SINGLE small pulley fixed to the top crossbeam, passes OVER the pulley, then runs straight DOWN on the outside left of the frame. Teal stands on the FLOOR to the left of the hoist, both feet visible, and pulls that free vertical rope end DOWN with BOTH hands in natural closed grips, the rope stays under tension. The tension raises the platform. Do NOT add a second rope, motor, floating rope, invisible attachment, extra pulleys or a magical floating tray. Two guide rails keep the tray from tipping. Keep this compact mechanism large and readable, all components inside the panel, no person under it. It lifts BOOKS ONLY, never people.\nAt far left beside the bench lies one small crooked rejected platform and a short loose wooden support, showing tried and improved prototypes. Orange says exactly «فکر نو رو باید ساخت!» in one clear bubble. Warm modest satisfaction at a useful result. No trophies or dramatic triumph.\nText: ONLY the two specified Persian bubbles, natural connected RTL spelling. No English, labels, captions, numbers, brands or watermark. Simple visual cause and effect, broad moderate watercolor and medium neutral adult proportions as the reference. Full bodies, feet, book platform, complete rope path and two steps are all essential; white margins around everything.",
+      "inputPaths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-7e67bd17-cc5b-4489-a3da-e680efdaa0b5.png",
+      "visualQA": "Viewed. Mechanism and text read clearly, but top teal feet hidden by bench, bottom orange legs hidden by landing, rope appeared attached to books.",
+      "promptSha256Utf8": "ae7aa2ce85c7fc971d2a07046a5d4191785c0cb16ea86c4a7383af0e13045b4f",
+      "inputHashes": [
+        {
+          "path": "Images/148.jpg",
+          "sha256": "6c31d38f690b20148dfa622f90f78424fb991844fb3865e77b599ea804a22486"
+        },
+        {
+          "path": "Images/131.jpg",
+          "sha256": "1aada2acefa3b29727578e100215cb55243e4b9f8aeb64690216a20a7134515e"
+        }
+      ],
+      "resultSha256": "9bdd2c0ec9da012374dd0e5683791a84502ac3bcb4e00a036c99e8066e6fa8bb"
+    },
+    {
+      "step": 2,
+      "operation": "edit",
+      "prompt": "Revise this exact two-panel watercolor illustration, keeping the story, palette, speech bubbles and their exact Persian words, same character identities, real watercolor and simple pulley. Correct FULL BODY visibility and mechanical attachment.\nTOP panel: shrink the foreground workbench to a SMALL LOW bench at far LEFT, no wider than the two toolboxes, so the TEAL adult stands BESIDE its right end, not behind it. Complete teal's neutral straight adult pelvis, medium legs and BOTH FEET naturally below the drawing sheet, fully visible on floor with white margin underneath. Keep orange's full body and feet, and the three books. Keep both round heads the SAME diameter and adult heights.\nBOTTOM panel: redraw the stairs on right as only TWO VERY LOW steps with TOTAL rise about ankle-to-mid-calf height, about one fifth of a character's height. Lower the landing to match. ORANGE STANDS ON TOP OF THIS LOW LANDING, entire body visible from circular head down through neutral torso, both medium legs, BOTH FEET planted visibly on landing. Orange must not stand behind a wall/counter or disappear below a horizontal edge. Both character HEAD DIAMETERS must be the SAME as each other and as the top panel; same adult total body height. Orange holds the green book with both hands and smiles. Its feet sit naturally just one small step-height above teal's floor. Preserve plenty of space around orange; move its bubble above/right as needed. Teal remains on floor with full body and feet, both hands pulling one rope naturally.\nLower the hoist platform to this low landing height, keep TWO rails and ONE pulley on top beam, compact simple frame. TWO books rest on platform. ONE rope runs from a clearly visible metal eye fixed to the CENTER BACK EDGE OF THE WOODEN PLATFORM, up behind books to the single pulley, over pulley and down to teal's hands. Rope MUST attach to PLATFORM, NOT to the top book. Show a little narrow rear wooden upright behind books if needed so the attachment is visibly on wood. Do not tie rope around books. The platform must remain level between rails.\nKeep failed crooked tray on far-left bench, text, watercolor washes, dark small oval eyes tiny inner glint no white sclera, local-color outlines, subtle diffuse cheek warmth with no sharply bounded circles. Every clearly visible hand has three fingers plus one thumb only; closed grips may overlap naturally. No extra arms. All feet, entire frame, low steps and rope path inside the panel. Keep existing top text exactly «ابزار داریم؛ راهش رو باید پیدا کنیم.» and bottom «فکر نو رو باید ساخت!».",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-7e67bd17-cc5b-4489-a3da-e680efdaa0b5.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-c378514d-c3c1-4a8d-857b-eaf940740f63.png",
+      "visualQA": "Viewed. Full bodies and platform attachment restored; top steps were lost and bottom orange too small.",
+      "promptSha256Utf8": "bf2604dede78067448bf025add46f6bb152870a83b23ebb3a2a2e1b31cf6a770",
+      "inputHashes": [
+        {
+          "path": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-7e67bd17-cc5b-4489-a3da-e680efdaa0b5.png",
+          "sha256": "9bdd2c0ec9da012374dd0e5683791a84502ac3bcb4e00a036c99e8066e6fa8bb"
+        }
+      ],
+      "resultSha256": "7011de0a7219c43b0773e8d2a2e2ba0ea84bfc56e7b9237df799ef8abcb990f6"
+    },
+    {
+      "step": 3,
+      "operation": "edit",
+      "prompt": "Make only these two corrections to this exact completed two-panel watercolor story. Keep every full body/foot, entire simple hoist, continuous rope attached to platform's wooden rear block, colors, anatomy and exact Persian bubbles.\n1. TOP PANEL: restore two clearly visible LOW wooden steps on the far RIGHT behind the floor book stack, leading to a low library landing. The books still wait on FLOOR at the foot of those steps. Low total rise, just ankle-to-mid-calf height. Do not alter characters, bench or feet.\n2. BOTTOM PANEL: the orange adult is currently visibly smaller than teal and the top-panel adults. Enlarge ORANGE'S entire figure proportionally, keeping its two feet on the same low landing, until the orange circular head diameter and medium adult body dimensions match bottom TEAL. Move orange's head upward as needed; move bottom speech bubble to upper right with a small natural tail if needed. Keep orange holding its green book with TWO hands total, neutral straight adult body, no breasts/hips, both complete legs and feet visible. SAME adult height and HEAD DIAMETER as teal; preserve all other objects. No extra fingers: each full hand three fingers plus one thumb; natural gripping overlap allowed.\nDo not change any other part. Watercolor, subtle diffuse cheeks, dark small oval eyes with tiny inner glints and no white sclera remain unchanged.",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-c378514d-c3c1-4a8d-857b-eaf940740f63.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-33106b8a-0945-43f5-8941-c5c9eff75e61.png",
+      "visualQA": "Viewed. Top steps restored; bottom orange enlarged, all feet visible, simple single rope/pulley platform attachment retained. Head scales approximately consistent with mild visual variation; naturally occluded grip digits not independently countable.",
+      "promptSha256Utf8": "fed97f03bbc19b461677c35710b9573d13583d54134d5673f3860f7ef9a21e8a",
+      "inputHashes": [
+        {
+          "path": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-c378514d-c3c1-4a8d-857b-eaf940740f63.png",
+          "sha256": "7011de0a7219c43b0773e8d2a2e2ba0ea84bfc56e7b9237df799ef8abcb990f6"
+        }
+      ],
+      "resultSha256": "262fd83c34ca5ae4c43a67b49641bcada55c6cd3ada81c6bd8b78be9c6e70487"
+    }
+  ],
+  "finalSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-33106b8a-0945-43f5-8941-c5c9eff75e61.png",
+  "canonicalOutputPath": "review-data/wave-157-161-2026-10-19/161/161-d-20261019-v1.png",
+  "finalStandalonePromptPath": "review-data/wave-157-161-2026-10-19/161/161-d-20261019-v1.full-generation.en.txt",
+  "finalStandalonePromptNote": "Complete independent description of the final image, incorporating the recorded edits; exact executed prompts are preserved above.",
+  "qa": {
+    "visuallyInspected": true,
+    "notes": "هر سه خروجی واقعاً دیده شدند. میز کوچک شد تا پاهای فیروزه‌ای در قاب اول کامل دیده شوند؛ پاگرد کوتاه و بدن کامل نارنجی در قاب دوم بازسازی شد. اتصال طناب از کتاب به قطعهٔ چوبیِ پشت سکو اصلاح شد و پله‌ها در هر دو قاب دیده می‌شوند. یک طناب، یک قرقره و دو ریل ساده خواناست؛ فقط کتاب‌ها بالا می‌روند. متن‌ها خواناست. دست آزاد نارنجی چهار انگشت شامل شست دارد؛ دست‌های گیرندهٔ طناب یا کتاب بخشی از انگشتان را می‌پوشانند و شمار پوشیده‌ها را قطعی اعلام نمی‌کنیم. اندازهٔ سرها تقریباً همسان است، با اندکی تفاوت بصری میان قاب‌ها."
+  }
+}

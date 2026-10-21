@@ -6,6 +6,8 @@ A Persian, right-to-left review studio for a 460-sentence illustrated book. Each
 
 [شروع سریع فارسی](#شروع-سریع-فارسی) · [English setup](#english-setup) · [Review workflow](#review-workflow) · [Files](#files-and-data-contracts) · [Verification](#verification) · [Troubleshooting](#troubleshooting) · [Reproduction](#reproduction-and-scope)
 
+![گالریِ موج کامل: چهار طرح برای هر جملهٔ ۱۵۷ تا ۱۶۱](docs/review-wave-157-161.jpg)
+
 ## شروع سریع فارسی
 
 1. مخزن را clone کنید یا ZIP آن را از GitHub بگیرید؛ ساختار پوشه‌ها را حفظ کنید.
@@ -167,6 +169,8 @@ Traffic to `127.0.0.1` is local. Image generation and GitHub transfers use the i
 ## Reproduction and scope
 
 The committed source, workbook, exact included PNGs, prompts, feedback and hashes let another authorized person clone and review the **same saved artwork**. Full prompts and reference/edit provenance support further generation. AI image generation is not pixel-deterministic: rerunning a prompt does not guarantee identical pixels. Use the included original PNG and SHA-256 when exact reproduction matters.
+
+Recorded execution steps (`*.executed-steps.json`) and exact edit prompt files accompany the standalone final generation prompts. Historical input paths can refer to unpublished working drafts retained on the author's machine; the manifests identify the originals included in this clone. Earlier calls without a saved execution transcript are not reconstructed as if they were recorded.
 
 The original style references **131 and 148** are included as `Images/131.jpg` and `Images/148.jpg`; `ARTWORKS.json` records their hashes. Approved final illustrations use PNG filenames.
 

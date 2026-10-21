@@ -1,0 +1,25 @@
+{
+  "tool": "built-in imagegen",
+  "mode": "generate-then-edit",
+  "steps": [
+    {
+      "prompt": "Use case: illustration-story. New SQUARE adult Persian visual-book watercolor. Two spacious horizontal scenes stacked TOP TO BOTTOM. Attached148 is PRIMARY for neutral adult anatomy and broad watercolor;131 supplies only the eye/lash treatment.\nStory: an older gardener abandons the belief that a younger adult cannot teach them, after seeing a real demonstrated skill. TOP: sparse shared garden work area. Olive-green OLDER gardener, two tiny crow's-feet and small round CLEAR reading glasses, looks skeptically at a young-ADULT rose-pink gardener and thinks exactly «این جوون به ما یاد بده؟» Pink points to a healthy SMALL potted citrus sapling with a clear healed graft junction, an old gardening tie just below the junction, leafy branch bearing TWO ripe citrus fruits. The older gardener actually looks at this successful graft with dawning interest. Pink is an adult of the SAME full height and medium build as olive, never a child.\nBOTTOM: SAME two adults, SAME size and age, standing UPRIGHT at a small worktable. Pink patiently demonstrates wrapping a SHORT strip of pale gardening tape around the joined branch of a SECOND, small potted citrus sapling. No knife or floating cut branches. Olive eagerly steadies that pot and holds a spare short tie, watches the demonstrated wrapping carefully and says exactly «حرفم رو پس می‌گیرم؛ یادم بده!» The ORIGINAL healed, fruit-bearing sapling remains beside the table as evidence, visually the same fruiting tree as above, never suddenly-grown fruit on the new graft. Olive remains physically old; fresh respectful curiosity is the change. Both wear identical simple cream gardening aprons.\nMatch148 directly: truly CIRCULAR heads with direct shoulder join and soft local-color contact shadow, no neck/hair/nose/ears. Medium balanced adult bodies, straight neutral torso sides into pelvis and legs, identical across sexes, no bust/pinched waist/projecting hips/buttocks, no thin/fat/elongated limbs. Each person's head diameter, height and thickness EXACTLY identical across both scenes. Both stand upright to keep silhouettes neutral. Small dark oval eyes, tiny INTERNAL glints, no white sclera; glasses have transparent lenses showing olive skin. Only pink has two fine upper-outer lashes as131, body same neutral design. Very faint diffuse blush. Every hand exactly3 fingers and1 thumb, coherent gentle grips.\nAuthentic BROAD translucent layered watercolor washes inside heads and bodies, large softly irregular color areas with varied pigment density and luminous paper as148, darker LOCAL-COLOR contours. No uniform tiny grain, crystal texture, marker, pencil, glossy or vector coloring. Minimal restrained garden, no extra decorative plants beyond necessary two saplings. Full bodies/feet and all props INSIDE generous white paper margins; extra floor below feet, no clipping. A white gap separates scenes, no heavy frames. Only specified Persian text with connected RTL lettering and clear thought trail/speech tail to olive, no other writing or watermark.",
+      "referenced_image_paths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15863-a05a-7df3-9b0d-6df278fa024d\\exec-edf8f994-64e9-4e08-8163-3db4df61865d.png",
+      "preservedAt": "158-d-20261019-v1.source-01.png"
+    },
+    {
+      "prompt": "Edit this exact two-scene watercolor gardener story. Keep every character, Persian text, plant, action, body design, and both-scene scale relationships unchanged. Correct only framing and cheek paint. Zoom out the ENTIRE painting uniformly by about8 percent so a generous clean WHITE paper margin surrounds all four sides and there is clearly visible FLOOR BELOW the complete feet in the bottom scene. Both adults' feet must be whole and separate from the painting edge. Fully include the right end and legs of the top worktable; expand the white space naturally without adding props. Do not shrink only one scene or one character. On the pink gardener in both scenes replace the flat saturated circular pink cheek spots with extremely faint translucent diffused watercolor warmth, softly fading edges, same underlying pink skin. Retain broad watercolor washes, exact circular heads, neutral straight adult bodies, small dark oval eyes/lashes, tiny interior eye glints, and correct existing Persian lettering.",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/158/158-d-20261019-v1.png"
+      ],
+      "inputImageAtCallPreservedAt": "158-d-20261019-v1.source-01.png",
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15863-a05a-7df3-9b0d-6df278fa024d\\exec-2cf6c0c1-2611-4f91-8647-683be293f63a.png"
+    }
+  ]
+}

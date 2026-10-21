@@ -6,7 +6,7 @@
   "summaryFa": "ظاهرِ آشنای سفر، به راننده می‌گوید این مسافر از جنس هم‌سفرهای اوست.",
   "storyFa": "مسافر سبز با کوله و پوشش کوه‌پیمایی کنار جاده منتظر است. رانندهٔ بنفش با همان سبک پوشش در ونِ متوقف‌شده او را می‌بیند و با لبخند جا نشان می‌دهد؛ شباهت بامزهٔ کلاه‌ها، حس آشنایی را بیشتر می‌کند.",
   "meaningFa": "برای پیدا کردن نوع هم‌سفری که می‌خواهی، ظاهر تو هم باید با دنیای او هم‌خوان باشد؛ مقصود تقلید طبقه یا ثروت نیست، بلکه یک نشانهٔ سادهٔ آشنایی و اعتماد است.",
-  "outputPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.png",
+  "outputPath": "book-review/dist/art/159-a-20261019-v1.png",
   "sha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
   "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
   "imageSha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
@@ -35,5 +35,14 @@
     "persianTextReviewed": true,
     "notesFa": "تصویر نهایی با view_image دیده شد. ون و سپرها و چرخ‌های قابل مشاهده کامل در کادرند؛ مسافر تمام‌قد روی شانهٔ امن جاده و راننده پشت فرمانِ خودروی متوقف است. پوشش هر دو به ضرورت موضوع مشابه و خنثی است. حباب «تو هم اهل کوهی؟ بپر بالا!» درست خوانده می‌شود. دستِ دعوت و علامت شست ساده و چهاررقمی‌اند؛ انگشت‌های دستِ در حال گرفتن بند کوله به طور طبیعی پوشیده‌اند. برای کادربندی دو اصلاح محدود انجام شد.",
     "limitations": "Naturally occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+  },
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
+  "rootVisualReview": {
+    "id": "159-a-20261019-v1",
+    "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observations": "Actual square scene has a fully contained parked van, hiking passenger and hiking driver with clearly matching hats/vests and outdoor gear. Driver invites passenger in Persian; affinity of appearance is visible without class/wealth comparison. Full passenger and vehicle fit in white margins; natural driver/window occlusion is appropriate."
   }
 }

@@ -1,0 +1,69 @@
+{
+  "id": "161-c-20261019-v1",
+  "tool": "built-in image_gen.imagegen",
+  "referenceInputs": [
+    {
+      "path": "Images/148.jpg",
+      "role": "primary watercolor and anatomy reference",
+      "actuallyViewed": true,
+      "sha256": "6c31d38f690b20148dfa622f90f78424fb991844fb3865e77b599ea804a22486"
+    },
+    {
+      "path": "Images/131.jpg",
+      "role": "eye and fine-lash reference",
+      "actuallyViewed": true,
+      "sha256": "1aada2acefa3b29727578e100215cb55243e4b9f8aeb64690216a20a7134515e"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "operation": "generate",
+      "prompt": "Use case: illustration-story. Create one NEW complete finished square watercolor narrative book illustration for an adult Persian advice book, understandable immediately by a twelve-year-old. TWO spacious horizontal panels stacked top to bottom, quiet white gutter and generous white margins. This is ONE story, not alternative concepts.\nMeaning: money can buy materials but cannot supply a ready invention. Passion for a real need, persistent trials, belief and ingenuity lead to a useful result with modest resources. No rich villains, sanctifying poverty, literal hunger or magic.\nInput images: Images/148.jpg is PRIMARY STYLE AND ANATOMY REFERENCE ONLY. Images/131.jpg is eye and fine-lash reference only. Do not copy their scenes, props or words. Match real broad moderately layered watercolor washes WITHIN head, torso AND limbs: translucent uneven overlaps, soft glaze edges, varied pigment density and gentle pooling. No uniform fine grain overlay, marker, pencil, vector, plastic or 3D. Local-color darker contours, never black. Almost invisible diffused warmth on cheeks, no bounded red/pink disks.\nCharacter: ONE PURPLE inventor repeated at the SAME head diameter and body height in both panels. Geometrically circular head, no hair, neck, nose or ears. Subtle darker purple crescent under head. Small dark oval eyes with a tiny inner reflection, NO white sclera. Moderate balanced ADULT body like reference148: medium arms and legs, neutral straight torso/pelvis with gentle natural taper. No bust, pinched waist, projecting hips or buttocks. Exactly TWO arms and TWO hands total per figure. Every fully visible hand is exactly THREE fingers plus ONE thumb (four digits total); pole-gripping fingers may naturally overlap. Avoid showing an open hand unless its four digits are unmistakable. Full body, both legs and feet visible. All important objects inside generous white margins.\nSetting: one modest garden with ONE small fruit tree on the left of each panel, a single low horizontal branch with only two or three red apples. Purple stands on the right. Full trunk base visible. Very simple pale garden washes, no busy scenery. A small LOW workbench at far right does not hide the inventor's legs. On it: three coins, spare metal hoop and a cloth scrap. No shame or desperation. Warm practical curiosity.\nTOP PANEL — failed trial: Purple holds a plain wooden fruit-picking pole with BOTH hands in natural closed grips. Its simple V-shaped two-prong tip has just dislodged one red apple from the low branch. The apple is now clearly FALLING DOWN freely BELOW the bare tip, well separated from it, toward a soft folded cloth on the ground. One tiny curved motion stroke indicates falling. There is NO bag attached to this first pole. Purple notices that detaching a fruit is not enough and thoughtfully studies the falling apple. Purple says exactly «باید سالم هم بگیرتش!» in one readable natural Persian speech bubble with clear tail. Expression interested and determined, not gleeful about failure.\nBOTTOM PANEL — useful invention after improvement: Same full-size purple, same garden/branch, same plain pole and tiny bench. The pole now has a SIMPLE attached cloth catching bag held open by ONE modest metal hoop at its top, directly below its simple small V-shaped fruit-detaching notch. It is a conventional fruit picker: pole supports hoop; soft bag hangs DOWN below hoop; little notch above rim detaches apple; gravity drops the apple straight into the open bag. Show ONE ripe red apple just detached and partly entering the mouth of this attached bag, directly UNDER the branch. The apple touches the bag opening; no floating fruit, no fruit stuck on top of branch. The bag is opaque light cream cloth with open top and a rounded apple bulge near bottom, its attachment to hoop and pole clearly visible. Purple holds the pole with BOTH hands and looks pleased at the successfully caught apple. Earlier bare V-tip and one unused larger hoop lie on the little bench beside the SAME three coins; these show tested revisions. No additional speech bubble.\nText: only «باید سالم هم بگیرتش!» exactly, no English, labels, captions, panel numbers, logos or watermark. The change from uncontrolled fall to safe cloth catch must be visually unmistakable without explanation. Keep mechanism large and simple, head/body scale identical between panels, full feet and pole tip inside art. Real watercolor as in reference148 throughout, neutral adult anatomy and dark small oval eyes, no flat cheek disks.",
+      "inputPaths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-51ed6853-e04c-40a1-916d-b60e1edfae38.png",
+      "visualQA": "Viewed. Clear full-body two-panel trial and improvement, but fruit remaining on branch repeated between panels.",
+      "promptSha256Utf8": "95350552e11d1194c7253c557491d2d6bc729de6eab49409ad9ddc9876c51175",
+      "inputHashes": [
+        {
+          "sha256": "6c31d38f690b20148dfa622f90f78424fb991844fb3865e77b599ea804a22486",
+          "path": "Images/148.jpg"
+        },
+        {
+          "sha256": "1aada2acefa3b29727578e100215cb55243e4b9f8aeb64690216a20a7134515e",
+          "path": "Images/131.jpg"
+        }
+      ],
+      "resultSha256": "e0328934d69c553ac43104b7dc991a47f934a62dfc84bb34ca0d9a042c8844d0"
+    },
+    {
+      "step": 2,
+      "operation": "edit",
+      "prompt": "Change only the fruit continuity in the BOTTOM panel of this exact two-panel watercolor illustration. Remove the single red apple still hanging on the RIGHT end of the bottom panel's tree branch (the apple above and to the right of the fruit picker). Replace it with a short empty natural fruit stem and matching pale garden background. Keep the one apple on the LEFT end of that bottom branch. Keep the apple visibly entering the cloth catching bag and keep the attached hoop, bag, pole, V-shaped tip and every other detail unchanged. TOP panel unchanged. The story must now read: three original apples, one dropped in first test, next one caught with bag, one remains on branch. Preserve watercolor, exact Persian text, full purple bodies/feet, colors, grips, head sizes, benches and white margins.",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-51ed6853-e04c-40a1-916d-b60e1edfae38.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-677ebe83-9316-4e1a-a290-9932a5ac8268.png",
+      "visualQA": "Viewed. Lower right branch apple removed; one branch apple remains, another visibly enters attached bag. Gripping digits partially occluded; no claim of independently counting hidden digits.",
+      "promptSha256Utf8": "cee3c2f1c5acf4101d9c84f6d4565381393ad851dda990d8ac33529508bfb829",
+      "inputHashes": [
+        {
+          "sha256": "e0328934d69c553ac43104b7dc991a47f934a62dfc84bb34ca0d9a042c8844d0",
+          "path": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-51ed6853-e04c-40a1-916d-b60e1edfae38.png"
+        }
+      ],
+      "resultSha256": "eedbd9aa93ef6ff366177dba1ee102a0eba420cb8dca27a56c456514442f3287"
+    }
+  ],
+  "finalSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1e-1e9d-7da0-80aa-245a6b2089b7\\exec-677ebe83-9316-4e1a-a290-9932a5ac8268.png",
+  "canonicalOutputPath": "review-data/wave-157-161-2026-10-19/161/161-c-20261019-v1.png",
+  "finalStandalonePromptPath": "review-data/wave-157-161-2026-10-19/161/161-c-20261019-v1.full-generation.en.txt",
+  "finalStandalonePromptNote": "Complete independent description of the final image, incorporating the recorded edits; exact executed prompts are preserved above.",
+  "qa": {
+    "visuallyInspected": true,
+    "notes": "هر دو قاب و خروجی اصلاح‌شده واقعاً دیده شدند. افتادن آزاد میوه در قاب اول و ورود میوه به کیسهٔ متصل در قاب دوم روشن است؛ پیوستگی تعداد میوه‌های روی شاخه اصلاح شد. بدن‌ها، پاها، دسته و ابزارهای مهم داخل تصویرند. متن فارسی خواناست. دست‌ها دسته را گرفته‌اند و بخشی از انگشتان طبیعی پوشیده است؛ شمار انگشتان پوشیده را قطعی اعلام نمی‌کنیم. کیسه از پارچه و حلقه ساخته شده و میوه معلق نیست."
+  }
+}

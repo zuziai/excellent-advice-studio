@@ -1,5 +1,5 @@
 {
-  "activeWaveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+  "activeWaveId": "wave-157-161-2026-10-19-v1",
   "publishedCurrentAndAncestors": [
     {
       "id": "151-k-v1",
@@ -180,6 +180,108 @@
       "image": "art/157-d-20261019-v2.png",
       "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
       "version": 2
+    },
+    {
+      "id": "158-a-20261019-v1",
+      "image": "art/158-a-20261019-v1.png",
+      "imageHash": "e4aa4b1a241c8c875f156dded98bd83eda7e00ab21889fc7d1c472c2561366b4",
+      "version": 1
+    },
+    {
+      "id": "158-b-20261019-v1",
+      "image": "art/158-b-20261019-v1.png",
+      "imageHash": "ef4484fd986e6cd07f021737e0e68159496667e27b40b4968276e693c7d27310",
+      "version": 1
+    },
+    {
+      "id": "158-c-20261019-v1",
+      "image": "art/158-c-20261019-v1.png",
+      "imageHash": "0412caa932d62fa339a96e5132a3808917cec000b4afa2de109f0664d6a09acc",
+      "version": 1
+    },
+    {
+      "id": "158-c-20261021-v2",
+      "image": "art/158-c-20261021-v2.png",
+      "imageHash": "0fb3fe06d5c65181af79c595b08def41231e7d8ff5ca5a5d56432a8baf666a09",
+      "version": 2
+    },
+    {
+      "id": "158-d-20261019-v1",
+      "image": "art/158-d-20261019-v1.png",
+      "imageHash": "195fc772b259ceb5e1a62f91614cb8ce75caf2103dd93a387fe88135403a3e97",
+      "version": 1
+    },
+    {
+      "id": "159-a-20261019-v1",
+      "image": "art/159-a-20261019-v1.png",
+      "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+      "version": 1
+    },
+    {
+      "id": "159-b-20261019-v1",
+      "image": "art/159-b-20261019-v1.png",
+      "imageHash": "dd1313b28ec3471b6e59489feb69403367ea1d8f6413dfe1aa6f02b8b0f10753",
+      "version": 1
+    },
+    {
+      "id": "159-c-20261019-v1",
+      "image": "art/159-c-20261019-v1.png",
+      "imageHash": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+      "version": 1
+    },
+    {
+      "id": "159-d-20261019-v1",
+      "image": "art/159-d-20261019-v1.png",
+      "imageHash": "dfbb30e4f1183d3e7532ef1b888b22d247cd9f357e37112e36bf9bfffef7bcb1",
+      "version": 1
+    },
+    {
+      "id": "160-a-20261019-v1",
+      "image": "art/160-a-20261019-v1.png",
+      "imageHash": "f2febf4056539d54e132aef08971a16c518e605b21bc68cac10bda6bb7e27f45",
+      "version": 1
+    },
+    {
+      "id": "160-b-20261019-v1",
+      "image": "art/160-b-20261019-v1.png",
+      "imageHash": "e7f9ecb98582c16b29c74957106d88d9ebb84c567c946cfd821b8a7325f8901b",
+      "version": 1
+    },
+    {
+      "id": "160-c-20261019-v1",
+      "image": "art/160-c-20261019-v1.png",
+      "imageHash": "f8ca571fa09698e8743b0be07ae1750ad58a62748d32bbf9e9884f080eb87dde",
+      "version": 1
+    },
+    {
+      "id": "160-d-20261019-v1",
+      "image": "art/160-d-20261019-v1.png",
+      "imageHash": "a50d6c27ee23b579ae07bdd7b6031a9db3c2a171a3e0125bf185d5a41ebf9e22",
+      "version": 1
+    },
+    {
+      "id": "161-a-20261019-v1",
+      "image": "art/161-a-20261019-v1.png",
+      "imageHash": "a0b618b6c5cefc96ae063030df46c9dcf07be25e24c65706cba4f8cc188b23f8",
+      "version": 1
+    },
+    {
+      "id": "161-b-20261019-v1",
+      "image": "art/161-b-20261019-v1.png",
+      "imageHash": "e2f59dcbc7db6bd34a87c403a632ce750e4983b7949b92660c3cc2891836c369",
+      "version": 1
+    },
+    {
+      "id": "161-c-20261019-v1",
+      "image": "art/161-c-20261019-v1.png",
+      "imageHash": "eedbd9aa93ef6ff366177dba1ee102a0eba420cb8dca27a56c456514442f3287",
+      "version": 1
+    },
+    {
+      "id": "161-d-20261019-v1",
+      "image": "art/161-d-20261019-v1.png",
+      "imageHash": "61c83a5cfb5f084dcb6278dd084e723d0da5a78a1c3f8a72ac8d61efd2cf88e1",
+      "version": 1
     }
   ],
   "originalStyleReferences": [
@@ -228,6 +330,12 @@
       "ideaId": "156-d-20261019-v2",
       "path": "Images/156.png",
       "imageHash": "269d1b1b06088f5fa70c81776b83979876cefbb0d316dc6f7c572b9a173b1d41"
+    },
+    {
+      "sentenceId": 157,
+      "ideaId": "157-d-20261019-v2",
+      "path": "Images/157.png",
+      "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb"
     }
   ]
 }

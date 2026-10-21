@@ -1,0 +1,58 @@
+{
+  "id": "159-c-20261019-v1",
+  "sentenceId": 159,
+  "version": 1,
+  "titleFa": "آشنا از دو دنیای سفر",
+  "summaryFa": "دو مسافر متفاوت، با ظاهر آشنا برای دو نوع رانندهٔ مورد نظرشان دیده می‌شوند.",
+  "storyFa": "بالا، مسافر سبز با کوله و پوشش کوه‌پیمایی، رانندهٔ آبی با همان سبک پوشش را در ونِ متوقف می‌بیند. پایین، مسافر صورتی با پیراهن سادهٔ روشن و کیف دوشی، با رانندهٔ بنفشِ دارای پوشش مشابه روبه‌رو می‌شود؛ هر دو راننده با لبخند دعوت می‌کنند.",
+  "meaningFa": "شباهت ظاهر به آدمی که می‌خواهی همراهش شوی می‌تواند حس آشنایی و هم‌مسیر بودن ایجاد کند؛ دو انتخاب متفاوت، هیچ برتری طبقاتی یا اخلاقی نسبت به هم ندارند.",
+  "outputPath": "book-review/dist/art/159-c-20261019-v1.png",
+  "sha256": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+  "imageHash": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+  "imageSha256": "4054445059820ede1ba29e09ecd71e9924287e2d8f9c2b28eaf5cf2c4bba324f",
+  "bytes": 2688445,
+  "width": 1536,
+  "height": 1024,
+  "fullGenerationPromptEnglish": "Use case: illustration-story. Make one landscape 3:2 adult book watercolor, TWO wide stacked panels, top then bottom. Image 148 is primary reference for moderate straight adult bodies and broad layered translucent watercolor; image 131 for small dark oval eyes with tiny internal glint, no sclera, and a few fine short outer lashes only on pink. Paint broad washes with soft pigment pooling and local-color contours in heads, hands, limbs and scenery. Luminous white paper, no uniform crystalline grain, black body outlines, marker or glossy 3D. Truly circular heads, no neck; neutral straight torsos without waist indent, bust, hips or buttocks. Every visible hand three fingers and one thumb. All complete adult bodies, feet, BOTH ENTIRE vehicles with bumpers and all visible wheels fit within CENTRAL 80% of canvas; generous clean white margins beyond every object. Similar adult scale in both panels. Sparse roadside scenery.\nAdvice: \"When hitchhiking, look like the person you want to pick you up.\" Show two DISTINCT adult travelers finding two different familiar types of driver through matching appearance, no luxury/poverty or moral hierarchy. TOP: green adult hiker with backpack, khaki vest, green travel trousers, hiking boots and soft sun hat holds thumb up on safe shoulder at left. At right a small ordinary cream camper van is completely parked off road. Blue adult driver with corresponding khaki vest and soft sun hat smiles and invites from open window, says «تو هم اهل سفری؟». Entire van clearly visible, extra air beyond rear AND front. BOTTOM: pink adult traveler with fine short lashes, neutral white casual overshirt, tan straight travel trousers and sensible shoes, brown shoulder bag, thumb up on safe shoulder at left. At right a complete ordinary teal compact car is parked; violet driver in a matching simple white casual overshirt greets pink with palm gesture and says «هم‌مسیر می‌شیم؟». Traveler and driver in EACH panel look toward each other with recognition. Clothing and corresponding dress are the core visual connection, not body color. No other people, traffic, brands or writing. Correct connected Persian bubbles, tails belonging to respective driver. Vehicles safely stationary before gestures. Paint comfortably inside white margins, never truncate a vehicle at a panel edge.\nFinal scene detail: each driver sits at the open front SIDE door window and gestures naturally outside through it; windshields remain intact and unobstructed. Both drivers have simple sun hats, while their overshirts match their respective travelers. All other described story details remain.\n\nCheek paint is very faint, translucent and diffusely feathered into the local watercolor wash, never a sharply bounded flat pink circle.\n",
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "daae77b50543691e23616363b9ad7b7f41fd5deafc05a51008e4cf8496807318",
+  "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptSha256": "5ee29239d61d08787a67499b66416be1e653ffe5ed523a129c9d0b5e04b1c202",
+  "fullGenerationPromptEnglishSha256": "daae77b50543691e23616363b9ad7b7f41fd5deafc05a51008e4cf8496807318",
+  "referencePaths": [
+    "Images/148.jpg",
+    "Images/131.jpg"
+  ],
+  "generationTool": "built-in image_gen",
+  "generationMode": "new_render_of_preserved_draft_story_then_targeted_window_edit",
+  "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a15864-3911-7202-b000-ca99ea6f7207/exec-9b5903c3-8acc-4ec5-9f19-0e37be5a12fb.png",
+  "generatedAtUtc": "2026-10-20T08:30:47.4523205Z",
+  "executedPromptPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.executed-edit.en.txt",
+  "executedPrompt": "Use case: precise-object-edit. Edit the attached two-panel watercolor ONLY to correct the drivers' physical placement. In BOTH panels the inviting driver must sit inside the vehicle at the OPEN SIDE WINDOW above the visible side door, farther right than their current position. The green hiking traveler, blue driver, pink casual traveler and violet driver keep identities, true circular heads, body shape, matching clothes and expressions. Move blue driver out of the camper windshield into its side window above the door; move violet driver out of the teal car windshield into its nearest open front SIDE door window. Their greeting hands emerge naturally through those open side windows. Keep each windshield intact and unobstructed with NO person or hand passing through glass; driver is sitting behind steering wheel. Vehicles remain safely parked. Preserve exact Persian bubbles, but shift their tails to these corrected speakers. Everything else unchanged: complete vehicles and wheels, full travelers and feet, generous white margins, same two-panel layout, neutral straight adult bodies, local-color contours, broad layered watercolor. Hands three fingers plus thumb. No extra text.\r\n",
+  "provenance": {
+    "preservedOriginalDraft": "159/unpublished-drafts/159-c-20261019-draft-01.png",
+    "initialRender": "159/unpublished-drafts/159-c-20261020-render-01.png",
+    "generationPrompt": "159/159-c-20261019-v1.executed-generation.en.txt",
+    "editPrompt": "159/159-c-20261019-v1.executed-edit.en.txt"
+  },
+  "status": "candidate_pending_user_review",
+  "qa": {
+    "visuallyInspected": true,
+    "notes": "دو مسافر با دو رانندهٔ دارای نشانه‌های ظاهریِ مشابه مقایسه می‌شوند، خودروها و پاها کامل و جمله‌های فارسی خوانا هستند. بدن‌ها زیر پوشش مرتبط با سفر برجستگی جنسیتی آشکار ندارند. ویرایش گونه انجام شد؛ در گونهٔ صورتی هنوز لکهٔ رنگ اندکی گردتر از مرجع مانده است. این یک پیشنهاد قابل بررسی است، نه ادعای انطباق کامل یا تأیید صاحب کتاب."
+  },
+  "rootTargetedEdit": {
+    "promptPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.root-edit.en.txt",
+    "prompt": "Use case: precise-object-edit. In this two-panel watercolor roadside illustration, change only the cheek coloring on ALL characters. Replace sharply bounded pink/red/orange circular cheek stamps, especially on the lower pink traveler, with barely visible diffuse translucent watercolor warmth blended into the local face wash. No flat circular pink patches. Preserve all Persian lettering verbatim, all eyes with their tiny internal glints and eyelashes, hats, circular head silhouettes, exact head and body sizes, neutral body shapes, poses and fingers, every piece of clothing and luggage, road, landscape, both complete vehicles, both panel compositions, original landscape image dimensions and white watercolor margins. Change nothing else. Preserve original hand-painted layered watercolor texture and local-color outlines.",
+    "inputPath": "review-data/wave-157-161-2026-10-19/159/attempts/159-c-20261019-v1.before-root-cheek-edit.png",
+    "outputSha256": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+    "generatedSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-8243308f-c19b-4406-ad2c-885f15bc155e.png"
+  },
+  "rootVisualReview": {
+    "id": "159-c-20261019-v1",
+    "imageHash": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observationsFa": "دو مسافر با دو رانندهٔ دارای نشانه‌های ظاهریِ مشابه مقایسه می‌شوند، خودروها و پاها کامل و جمله‌های فارسی خوانا هستند. بدن‌ها زیر پوشش مرتبط با سفر برجستگی جنسیتی آشکار ندارند. ویرایش گونه انجام شد؛ در گونهٔ صورتی هنوز لکهٔ رنگ اندکی گردتر از مرجع مانده است. این یک پیشنهاد قابل بررسی است، نه ادعای انطباق کامل یا تأیید صاحب کتاب.",
+    "reviewedAt": "2026-10-20T09:06:24.454896+00:00"
+  }
+}

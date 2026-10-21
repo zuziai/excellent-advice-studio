@@ -1,0 +1,29 @@
+{
+  "id": "158-d-20261019-v1",
+  "sentenceId": 158,
+  "version": 1,
+  "outputPath": "book-review/dist/art/158-d-20261019-v1.png",
+  "sha256": "195fc772b259ceb5e1a62f91614cb8ce75caf2103dd93a387fe88135403a3e97",
+  "imageHash": "195fc772b259ceb5e1a62f91614cb8ce75caf2103dd93a387fe88135403a3e97",
+  "width": 1254,
+  "height": 1254,
+  "titleFa": "این جوون هم می‌تونه یادم بده",
+  "summaryFa": "باغبان سالمند با دیدنِ نتیجهٔ پیوندِ موفق، از همکارِ جوانش یاد می‌گیرد.",
+  "storyFa": "باغبان سالمند ابتدا باور ندارد همکار جوانش چیزی به او بیاموزد. پیوندِ سالم و میوه‌دارِ همکار را می‌بیند، حرفش را پس می‌گیرد و مشتاقانه به او کمک می‌کند تا پیوندِ نهال دیگری را یاد بگیرد. نهال میوه‌دارِ اول در قاب بعد هم حاضر است.",
+  "meaningFa": "جوان‌ماندنِ ذهن یعنی تواناییِ عوض‌کردنِ نظر در برابر شاهد واقعی و احترام به دانشی که پیش‌تر آن را دست‌کم گرفته‌ایم.",
+  "fullGenerationPromptEnglish": "Use case: illustration-story. New SQUARE adult Persian visual-book watercolor. Two spacious horizontal scenes stacked TOP TO BOTTOM. Attached148 is PRIMARY for neutral adult anatomy and broad watercolor;131 supplies only the eye/lash treatment.\nStory: an older gardener abandons the belief that a younger adult cannot teach them, after seeing a real demonstrated skill. TOP: sparse shared garden work area. Olive-green OLDER gardener, two tiny crow's-feet and small round CLEAR reading glasses, looks skeptically at a young-ADULT rose-pink gardener and thinks exactly «این جوون به ما یاد بده؟» Pink points to a healthy SMALL potted citrus sapling with a clear healed graft junction, an old gardening tie just below the junction, leafy branch bearing TWO ripe citrus fruits. The older gardener actually looks at this successful graft with dawning interest. Pink is an adult of the SAME full height and medium build as olive, never a child.\nBOTTOM: SAME two adults, SAME size and age, standing UPRIGHT at a small worktable. Pink patiently demonstrates wrapping a SHORT strip of pale gardening tape around the joined branch of a SECOND, small potted citrus sapling. No knife or floating cut branches. Olive eagerly steadies that pot and holds a spare short tie, watches the demonstrated wrapping carefully and says exactly «حرفم رو پس می‌گیرم؛ یادم بده!» The ORIGINAL healed, fruit-bearing sapling remains beside the table as evidence, visually the same fruiting tree as above, never suddenly-grown fruit on the new graft. Olive remains physically old; fresh respectful curiosity is the change. Both wear identical simple cream gardening aprons.\nMatch148 directly: truly CIRCULAR heads with direct shoulder join and soft local-color contact shadow, no neck/hair/nose/ears. Medium balanced adult bodies, straight neutral torso sides into pelvis and legs, identical across sexes, no bust/pinched waist/projecting hips/buttocks, no thin/fat/elongated limbs. Each person's head diameter, height and thickness EXACTLY identical across both scenes. Both stand upright to keep silhouettes neutral. Small dark oval eyes, tiny INTERNAL glints, no white sclera; glasses have transparent lenses showing olive skin. Only pink has two fine upper-outer lashes as131, body same neutral design. Very faint diffuse blush. Every hand exactly3 fingers and1 thumb, coherent gentle grips.\nAuthentic BROAD translucent layered watercolor washes inside heads and bodies, large softly irregular color areas with varied pigment density and luminous paper as148, darker LOCAL-COLOR contours. No uniform tiny grain, crystal texture, marker, pencil, glossy or vector coloring. Minimal restrained garden, no extra decorative plants beyond necessary two saplings. Full bodies/feet and all props INSIDE generous white paper margins; extra floor below feet, no clipping. A white gap separates scenes, no heavy frames. Only specified Persian text with connected RTL lettering and clear thought trail/speech tail to olive, no other writing or watermark.\nFrame the entire painting with generous clean white paper margins, especially a clearly visible floor area below every complete foot in the bottom scene. Fully include the top worktable's right end and legs. Pink cheeks have only extremely faint diffuse translucent warmth, without visible flat pink circles.",
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/158/158-d-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "ee56f32377dbd7b1d4dd4973ce8d4f8975412e078155a596651b0482dbbfd24e",
+  "qa": {
+    "visuallyInspected": true,
+    "notes": "در تولید اولیه حاشیهٔ زیر پاها کم و گونهٔ صورتی تند بود؛ یک ویرایش واقعی انجام شد. نسخهٔ نهایی پاهای کامل و کفِ واضح زیر آنها دارد؛ گونه‌ها محو و کمرها خنثی‌اند. متن‌ها درست، نهالِ شاهد با دو میوه در قاب دوم محفوظ و نهالِ آموزشی جداست. تأیید صاحب کتاب نیست."
+  },
+  "rootVisualReview": {
+    "id": "158-d-20261019-v1",
+    "imageHash": "195fc772b259ceb5e1a62f91614cb8ce75caf2103dd93a387fe88135403a3e97",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observationsFa": "در تولید اولیه حاشیهٔ زیر پاها کم و گونهٔ صورتی تند بود؛ یک ویرایش واقعی انجام شد. نسخهٔ نهایی پاهای کامل و کفِ واضح زیر آنها دارد؛ گونه‌ها محو و کمرها خنثی‌اند. متن‌ها درست، نهالِ شاهد با دو میوه در قاب دوم محفوظ و نهالِ آموزشی جداست. تأیید صاحب کتاب نیست.",
+    "reviewedAt": "2026-10-20T08:56:20.967115+00:00"
+  }
+}

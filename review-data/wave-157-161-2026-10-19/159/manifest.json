@@ -1,53 +1,181 @@
-{
-  "sentenceId": 159,
-  "english": "When hitchhiking, look like the person you want to pick you up.",
-  "persian": "وقتی کنار جاده منتظر می‌مونی کسی سوارت کنه، ظاهرت شبیه همون کسی باشه که دوست داری برات نگه داره.",
-  "sourceRow": 160,
-  "coreMeaning": "A roadside hitchhiker should present an appearance that feels familiar and relatable to the kind of adult driver they hope will stop, without implying wealth or moral superiority.",
-  "referencePaths": [
-    "Images/155.png",
-    "Images/156.png"
-  ],
-  "status": "in_progress",
-  "ideas": [
-    {
-      "id": "159-a-20261019-v1",
-      "sentenceId": 159,
-      "version": 1,
-      "titleFa": "هم‌سفرِ کوه",
-      "summaryFa": "ظاهرِ آشنای سفر، به راننده می‌گوید این مسافر از جنس هم‌سفرهای اوست.",
-      "storyFa": "مسافر سبز با کوله و پوشش کوه‌پیمایی کنار جاده منتظر است. رانندهٔ بنفش با همان سبک پوشش در ونِ متوقف‌شده او را می‌بیند و با لبخند جا نشان می‌دهد؛ شباهت بامزهٔ کلاه‌ها، حس آشنایی را بیشتر می‌کند.",
-      "meaningFa": "برای پیدا کردن نوع هم‌سفری که می‌خواهی، ظاهر تو هم باید با دنیای او هم‌خوان باشد؛ مقصود تقلید طبقه یا ثروت نیست، بلکه یک نشانهٔ سادهٔ آشنایی و اعتماد است.",
-      "outputPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.png",
-      "sha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
-      "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
-      "imageSha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
-      "bytes": 2595438,
-      "width": 1254,
-      "height": 1254,
-      "fullGenerationPromptEnglish": "Use case: illustration-story.\nCreate ONE complete finished square illustration for an adult illustrated book of advice. Input Images 1 and 2 are STYLE REFERENCES ONLY, not edit targets. Match their established character family and moderate hand-painted watercolor, but tell the entirely new story specified below. Do not copy their actual carpenter or bus stop.\nPaint: overlapping translucent watercolor washes visibly inside heads, torsos, limbs and hands, with broad gentle irregular changes of pigment density, soft pooling and luminous textured white paper. Natural irregular edges, clean white paper margins on all four sides. Moderate layered watercolor, never uniform fine crystalline noise, marker, pencil, crayon, shiny 3D or flat vector.\nAll characters are adults with simple neutral medium-build bodies matching the references: neither chubby round torsos nor long skinny sticks. Heads are genuinely CIRCULAR, equal width and height, with no chin, jaw or flattened bottom; no necks, heads directly join shoulders. Subtle darker local-color contact shadow beneath head. Colored contours are a darker version of each body's own color, not black. Eyes are the same SMALL vertical dark ovals as the references, each with one tiny white glint INSIDE the dark oval, no white sclera around a pupil. Gentle brows and mouth, no noses, ears or hair. Blush, where present, is a faint diffused translucent rosy wash, never a hard round dot. If a character is female, add only two short fine curved lashes to the OUTER UPPER EDGE of the same small eye; do not enlarge or redesign eyes. All torsos neutral, no bust, pinched waist, hips, buttock emphasis or gendered bulges. Every fully visible hand has three fingers and one thumb, four digits TOTAL, naturally gripping objects. No extra limbs. Maintain identity and body color through all panels. Full bodies, feet, vehicles and essential objects safely inside frame. Gentle humane wit for adult readers, easy concrete visual cause and effect, no moralizing lecture.\nOnly the explicitly specified short Persian text may appear inside the image, joined Persian letters and correct RTL. No English, branding, watermarks, panel numbers, extra labels or long explanatory captions. Speech/thought bubbles must clearly belong to their speaker. Multi-panel reading is right-to-left for side-by-side panels, or top-to-bottom for stacked panels, with a narrow white gutter and no heavy comic borders.\n\nAdvice meaning: \"When hitchhiking, look like the person you want to pick you up.\" Literal adult roadside affinity through appearance. Do not turn it into a story about wealth, morality, social media or changing one's identity.\nComposition: ONE clear square scene, an uncomplicated sunny country roadside turnout with a modest pale-cream camping van COMPLETELY STOPPED off the traffic lane. Full van with two sensible visible wheels fits on the left; one GREEN adult hitchhiker stands fully on the safe shoulder on the right with a small backpack and thumb up. A VIOLET adult driver leans naturally from the open driver's window, hand gesturing to the empty passenger seat. The crucial visual connection is their matching simple muted khaki outdoor waistcoats, rolled casual sleeves, walking shoes and similarly shaped soft sun hats, worn over the same neutral body shapes. Clothing is required by this sentence; BOTH adults are consistently dressed. Their body colors remain different. They look at EACH OTHER with warm recognition. The hitchhiker has a folded walking map sticking out of the backpack; the driver has one pair of hiking poles tucked visibly behind the seats. The small humorous surprise is how closely their travel hats match, almost like finding a familiar fellow traveler. One small speech bubble attached to the DRIVER reads exactly «تو هم اهل کوهی؟ بپر بالا!». No other text. The driver is not moving or steering while gesturing. The van is ordinary, no luxury/class cues; no children, danger or busy traffic. Keep scene airy, adult, and understated.\n",
-      "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.full-generation.en.txt",
-      "fullGenerationPromptSha256": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
-      "fullGenerationPromptEnglishSha256": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
-      "referencePaths": [
-        "Images/155.png",
-        "Images/156.png"
-      ],
-      "generationTool": "built-in image_gen",
-      "generationMode": "new_story_with_approved_style_references",
-      "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1549b-3cae-7882-a76d-a6d0648c7a4c\\exec-bbfb1c8c-f875-47c4-b9fe-6ea889a7c03b.png",
-      "generatedAtUtc": "2026-10-19T15:31:09.526166+00:00",
-      "status": "candidate_pending_user_review",
-      "qa": {
-        "visualInspectionPerformed": true,
-        "imageOpenedWith": "view_image",
-        "referenceInspected": true,
-        "conceptReviewedBeforeGeneration": true,
-        "result": "review_ready_for_user_selection",
-        "persianTextReviewed": true,
-        "notesFa": "تصویر نهایی با view_image دیده شد. ون و سپرها و چرخ‌های قابل مشاهده کامل در کادرند؛ مسافر تمام‌قد روی شانهٔ امن جاده و راننده پشت فرمانِ خودروی متوقف است. پوشش هر دو به ضرورت موضوع مشابه و خنثی است. حباب «تو هم اهل کوهی؟ بپر بالا!» درست خوانده می‌شود. دستِ دعوت و علامت شست ساده و چهاررقمی‌اند؛ انگشت‌های دستِ در حال گرفتن بند کوله به طور طبیعی پوشیده‌اند. برای کادربندی دو اصلاح محدود انجام شد.",
-        "limitations": "Naturally occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
-      }
+[
+  {
+    "id": "159-a-20261019-v1",
+    "sentenceId": 159,
+    "version": 1,
+    "titleFa": "هم‌سفرِ کوه",
+    "summaryFa": "ظاهرِ آشنای سفر، به راننده می‌گوید این مسافر از جنس هم‌سفرهای اوست.",
+    "storyFa": "مسافر سبز با کوله و پوشش کوه‌پیمایی کنار جاده منتظر است. رانندهٔ بنفش با همان سبک پوشش در ونِ متوقف‌شده او را می‌بیند و با لبخند جا نشان می‌دهد؛ شباهت بامزهٔ کلاه‌ها، حس آشنایی را بیشتر می‌کند.",
+    "meaningFa": "برای پیدا کردن نوع هم‌سفری که می‌خواهی، ظاهر تو هم باید با دنیای او هم‌خوان باشد؛ مقصود تقلید طبقه یا ثروت نیست، بلکه یک نشانهٔ سادهٔ آشنایی و اعتماد است.",
+    "outputPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.png",
+    "sha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+    "imageHash": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+    "imageSha256": "4738e933b2be5066369b4ed3afeffbb3d5a2f589f260517609142aba97ef6202",
+    "bytes": 2595438,
+    "width": 1254,
+    "height": 1254,
+    "fullGenerationPromptEnglish": "Use case: illustration-story.\nCreate ONE complete finished square illustration for an adult illustrated book of advice. Input Images 1 and 2 are STYLE REFERENCES ONLY, not edit targets. Match their established character family and moderate hand-painted watercolor, but tell the entirely new story specified below. Do not copy their actual carpenter or bus stop.\nPaint: overlapping translucent watercolor washes visibly inside heads, torsos, limbs and hands, with broad gentle irregular changes of pigment density, soft pooling and luminous textured white paper. Natural irregular edges, clean white paper margins on all four sides. Moderate layered watercolor, never uniform fine crystalline noise, marker, pencil, crayon, shiny 3D or flat vector.\nAll characters are adults with simple neutral medium-build bodies matching the references: neither chubby round torsos nor long skinny sticks. Heads are genuinely CIRCULAR, equal width and height, with no chin, jaw or flattened bottom; no necks, heads directly join shoulders. Subtle darker local-color contact shadow beneath head. Colored contours are a darker version of each body's own color, not black. Eyes are the same SMALL vertical dark ovals as the references, each with one tiny white glint INSIDE the dark oval, no white sclera around a pupil. Gentle brows and mouth, no noses, ears or hair. Blush, where present, is a faint diffused translucent rosy wash, never a hard round dot. If a character is female, add only two short fine curved lashes to the OUTER UPPER EDGE of the same small eye; do not enlarge or redesign eyes. All torsos neutral, no bust, pinched waist, hips, buttock emphasis or gendered bulges. Every fully visible hand has three fingers and one thumb, four digits TOTAL, naturally gripping objects. No extra limbs. Maintain identity and body color through all panels. Full bodies, feet, vehicles and essential objects safely inside frame. Gentle humane wit for adult readers, easy concrete visual cause and effect, no moralizing lecture.\nOnly the explicitly specified short Persian text may appear inside the image, joined Persian letters and correct RTL. No English, branding, watermarks, panel numbers, extra labels or long explanatory captions. Speech/thought bubbles must clearly belong to their speaker. Multi-panel reading is right-to-left for side-by-side panels, or top-to-bottom for stacked panels, with a narrow white gutter and no heavy comic borders.\n\nAdvice meaning: \"When hitchhiking, look like the person you want to pick you up.\" Literal adult roadside affinity through appearance. Do not turn it into a story about wealth, morality, social media or changing one's identity.\nComposition: ONE clear square scene, an uncomplicated sunny country roadside turnout with a modest pale-cream camping van COMPLETELY STOPPED off the traffic lane. Full van with two sensible visible wheels fits on the left; one GREEN adult hitchhiker stands fully on the safe shoulder on the right with a small backpack and thumb up. A VIOLET adult driver leans naturally from the open driver's window, hand gesturing to the empty passenger seat. The crucial visual connection is their matching simple muted khaki outdoor waistcoats, rolled casual sleeves, walking shoes and similarly shaped soft sun hats, worn over the same neutral body shapes. Clothing is required by this sentence; BOTH adults are consistently dressed. Their body colors remain different. They look at EACH OTHER with warm recognition. The hitchhiker has a folded walking map sticking out of the backpack; the driver has one pair of hiking poles tucked visibly behind the seats. The small humorous surprise is how closely their travel hats match, almost like finding a familiar fellow traveler. One small speech bubble attached to the DRIVER reads exactly «تو هم اهل کوهی؟ بپر بالا!». No other text. The driver is not moving or steering while gesturing. The van is ordinary, no luxury/class cues; no children, danger or busy traffic. Keep scene airy, adult, and understated.\n",
+    "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptSha256": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
+    "fullGenerationPromptEnglishSha256": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b",
+    "referencePaths": [
+      "Images/155.png",
+      "Images/156.png"
+    ],
+    "generationTool": "built-in image_gen",
+    "generationMode": "new_story_with_approved_style_references",
+    "generationSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a1549b-3cae-7882-a76d-a6d0648c7a4c\\exec-bbfb1c8c-f875-47c4-b9fe-6ea889a7c03b.png",
+    "generatedAtUtc": "2026-10-19T15:31:09.526166+00:00",
+    "status": "candidate_pending_user_review",
+    "qa": {
+      "visualInspectionPerformed": true,
+      "imageOpenedWith": "view_image",
+      "referenceInspected": true,
+      "conceptReviewedBeforeGeneration": true,
+      "result": "review_ready_for_user_selection",
+      "persianTextReviewed": true,
+      "notesFa": "تصویر نهایی با view_image دیده شد. ون و سپرها و چرخ‌های قابل مشاهده کامل در کادرند؛ مسافر تمام‌قد روی شانهٔ امن جاده و راننده پشت فرمانِ خودروی متوقف است. پوشش هر دو به ضرورت موضوع مشابه و خنثی است. حباب «تو هم اهل کوهی؟ بپر بالا!» درست خوانده می‌شود. دستِ دعوت و علامت شست ساده و چهاررقمی‌اند؛ انگشت‌های دستِ در حال گرفتن بند کوله به طور طبیعی پوشیده‌اند. برای کادربندی دو اصلاح محدود انجام شد.",
+      "limitations": "Naturally occluded fingers cannot be independently counted. This is a candidate awaiting user review, not an approval."
+    },
+    "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/159/159-a-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptEnglishHash": "1d1b7ea5fb3bd288a09c03f4045eb5dacf345d6d58daaa622e22adf39530cb0b"
+  },
+  {
+    "id": "159-b-20261019-v1",
+    "sentenceId": 159,
+    "version": 1,
+    "titleFa": "کراوات توی کوله",
+    "summaryFa": "مسافر ظاهرش را با نوع راننده‌ای که می‌خواهد، هم‌خوان می‌کند.",
+    "storyFa": "مسافر صورتی کنار ونِ رانندهٔ سبزِ اهل طبیعت، با کت و کراوات منتظر است. در قاب بعد همان مسافر لباس سادهٔ سفر پوشیده و کت و کراوات را در کوله گذاشته است؛ همان راننده با دیدن ظاهر آشنا دعوتش می‌کند.",
+    "meaningFa": "وقتی هم‌سفری از یک دنیای مشخص می‌خواهی، ظاهرِ آشنا می‌تواند نشانهٔ هم‌سلیقگی باشد. این داستان دربارهٔ شباهت علایق است.",
+    "outputPath": "review-data/wave-157-161-2026-10-19/159/159-b-20261019-v1.png",
+    "sha256": "dd1313b28ec3471b6e59489feb69403367ea1d8f6413dfe1aa6f02b8b0f10753",
+    "imageHash": "dd1313b28ec3471b6e59489feb69403367ea1d8f6413dfe1aa6f02b8b0f10753",
+    "imageSha256": "ae7591e2726308469b206bf7f26dca100281dc39458a07a573e5127aafdb22b9",
+    "bytes": 2638744,
+    "width": 1448,
+    "height": 1086,
+    "fullGenerationPromptEnglish": "Use case: illustration-story. Create one adult book watercolor illustration, two wide stacked panels, top then bottom, landscape 4:3 canvas. The attached 148 and 131 are STYLE ONLY: same hand-painted broad overlapping translucent watercolor washes, luminous paper, softly irregular pigment pooling in bodies and scenery. Use 148's moderate straight adult bodies and 131's eyes. No crystalline mosaic texture, fine uniform grain, marker, glossy rendering or black body outlines. Circular heads, no necks; darker local-color contours. Small dark oval eyes with tiny internal glints, no sclera; pink has only 2 short fine outer lashes. Neutral straight clothed torsos with no waist indent, bust, hips or buttock bulges. Hands three fingers plus thumb. Full bodies and feet, COMPLETE vehicles with ALL bumpers and wheels, surrounded by generous white margins. Keep each panel sparse, pull camera far back.\nStory for advice \"When hitchhiking, look like the person you want to pick you up.\" SAME pink adult traveler, SAME green adult driver in khaki hiking vest and sun hat, SAME modest cream camper van parked safely off road in BOTH panels. Both adults same scale, head diameter, body proportions and identities across panels. Traveler at left, complete van at right with substantial white space beyond its front; no portion cropped. Top: pink wearing simple gray jacket, blue tie, travel trousers, walking shoes, backpack, holds thumb up and looks toward driver, thought «با اهل طبیعت می‌رم...». Driver's expression gently neutral. Bottom: pink now in simple khaki hiking overshirt, travel trousers and same shoes, thumb up, jacket and rolled blue tie peeking from backpack beside traveler. Green driver warmly invites with palm from stationary van window; driver says «هم‌سفر کوه؟ جا هست!». Readable matching outdoor appearance creates recognition, no wealth/class judgment. Country turnout background very sparse, no busy traffic. Only these two Persian bubbles, correct connected RTL. Painting stops well before all canvas edges.\n\nCheek paint is very faint, translucent and diffusely feathered into the local watercolor wash, never a sharply bounded flat pink circle.\n",
+    "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/159/159-b-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptEnglishHash": "823c87d98b50a207c190c62ba86a0bdb7612b98fd5a67ea065cd6abbe37600c6",
+    "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/159/159-b-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptSha256": "8620d15247dc5e1aa95e4acd0bdb0af783b9dc10ee15dfec04e88544daf1cc4c",
+    "fullGenerationPromptEnglishSha256": "823c87d98b50a207c190c62ba86a0bdb7612b98fd5a67ea065cd6abbe37600c6",
+    "referencePaths": [
+      "Images/148.jpg",
+      "Images/131.jpg"
+    ],
+    "generationTool": "built-in image_gen",
+    "generationMode": "new_render_of_preserved_draft_story_with_primary_style_references",
+    "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a15864-3911-7202-b000-ca99ea6f7207/exec-bd2d2be3-6833-4142-9b6c-96f2813039d1.png",
+    "generatedAtUtc": "2026-10-20T08:24:25.2317259Z",
+    "executedPromptPath": "review-data/wave-157-161-2026-10-19/159/159-b-20261019-v1.executed-generation.en.txt",
+    "executedPrompt": "Use case: illustration-story. Create one adult book watercolor illustration, two wide stacked panels, top then bottom, landscape 4:3 canvas. The attached 148 and 131 are STYLE ONLY: same hand-painted broad overlapping translucent watercolor washes, luminous paper, softly irregular pigment pooling in bodies and scenery. Use 148's moderate straight adult bodies and 131's eyes. No crystalline mosaic texture, fine uniform grain, marker, glossy rendering or black body outlines. Circular heads, no necks; darker local-color contours. Small dark oval eyes with tiny internal glints, no sclera; pink has only 2 short fine outer lashes. Neutral straight clothed torsos with no waist indent, bust, hips or buttock bulges. Hands three fingers plus thumb. Full bodies and feet, COMPLETE vehicles with ALL bumpers and wheels, surrounded by generous white margins. Keep each panel sparse, pull camera far back.\nStory for advice \"When hitchhiking, look like the person you want to pick you up.\" SAME pink adult traveler, SAME green adult driver in khaki hiking vest and sun hat, SAME modest cream camper van parked safely off road in BOTH panels. Both adults same scale, head diameter, body proportions and identities across panels. Traveler at left, complete van at right with substantial white space beyond its front; no portion cropped. Top: pink wearing simple gray jacket, blue tie, travel trousers, walking shoes, backpack, holds thumb up and looks toward driver, thought «با اهل طبیعت می‌رم...». Driver's expression gently neutral. Bottom: pink now in simple khaki hiking overshirt, travel trousers and same shoes, thumb up, jacket and rolled blue tie peeking from backpack beside traveler. Green driver warmly invites with palm from stationary van window; driver says «هم‌سفر کوه؟ جا هست!». Readable matching outdoor appearance creates recognition, no wealth/class judgment. Country turnout background very sparse, no busy traffic. Only these two Persian bubbles, correct connected RTL. Painting stops well before all canvas edges.\r\n",
+    "provenance": {
+      "draftPath": "159/unpublished-drafts/159-b-20261019-draft-01.png",
+      "failedEditPath": "159/unpublished-drafts/159-b-20261020-edit-01.png",
+      "failedEditPromptPath": "159/159-b-20261019-v1.executed-edit.en.txt",
+      "selectedPromptPath": "159/159-b-20261019-v1.executed-generation.en.txt"
+    },
+    "status": "candidate_pending_user_review",
+    "qa": {
+      "visuallyInspected": true,
+      "notes": "دو مرحلهٔ ظاهر رسمی و سپس پوشش مناسب طبیعت، با همان مسافر و همان راننده و ون، روشن است؛ کراوات در کوله شاهد تغییر پوشش است. تمام خودرو و پاها در قاب‌اند. گونه‌ها با ویرایش واقعی نرم‌تر شد. لباس برای مفهوم ظاهریِ خود جمله لازم است؛ تأیید صاحب کتاب نیست."
+    },
+    "rootTargetedEdit": {
+      "promptPath": "review-data/wave-157-161-2026-10-19/159/159-b-20261019-v1.root-edit.en.txt",
+      "prompt": "Use case: precise-object-edit. Edit only the cheek paint in the supplied two-panel watercolor roadside-travel story. In BOTH panels, replace every sharply bounded flat pink/orange/red circular cheek stamp on every character, especially the pink traveler, with faint, translucent, diffuse watercolor warmth softly blended into the existing local face wash. No visible circular boundary or hard red patch. Preserve all Persian text verbatim, eye shapes, tiny internal glints and eyelashes, circular heads, every character's exact size, body shape, pose, fingers, clothing, backpack with visible blue tie, the driver and same entire van, both panels, landscape dimensions and clean white margins. Preserve the original layered watercolor texture and local-color linework. Change no objects or story elements.",
+      "inputPath": "review-data/wave-157-161-2026-10-19/159/attempts/159-b-20261019-v1.before-root-cheek-edit.png",
+      "outputSha256": "dd1313b28ec3471b6e59489feb69403367ea1d8f6413dfe1aa6f02b8b0f10753",
+      "generatedSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-db8fc2d5-1612-41e0-b4c0-061f809c0984.png"
     }
-  ]
-}
+  },
+  {
+    "id": "159-c-20261019-v1",
+    "sentenceId": 159,
+    "version": 1,
+    "titleFa": "آشنا از دو دنیای سفر",
+    "summaryFa": "دو مسافر متفاوت، با ظاهر آشنا برای دو نوع رانندهٔ مورد نظرشان دیده می‌شوند.",
+    "storyFa": "بالا، مسافر سبز با کوله و پوشش کوه‌پیمایی، رانندهٔ آبی با همان سبک پوشش را در ونِ متوقف می‌بیند. پایین، مسافر صورتی با پیراهن سادهٔ روشن و کیف دوشی، با رانندهٔ بنفشِ دارای پوشش مشابه روبه‌رو می‌شود؛ هر دو راننده با لبخند دعوت می‌کنند.",
+    "meaningFa": "شباهت ظاهر به آدمی که می‌خواهی همراهش شوی می‌تواند حس آشنایی و هم‌مسیر بودن ایجاد کند؛ دو انتخاب متفاوت، هیچ برتری طبقاتی یا اخلاقی نسبت به هم ندارند.",
+    "outputPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.png",
+    "sha256": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+    "imageHash": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+    "imageSha256": "4054445059820ede1ba29e09ecd71e9924287e2d8f9c2b28eaf5cf2c4bba324f",
+    "bytes": 2688445,
+    "width": 1536,
+    "height": 1024,
+    "fullGenerationPromptEnglish": "Use case: illustration-story. Make one landscape 3:2 adult book watercolor, TWO wide stacked panels, top then bottom. Image 148 is primary reference for moderate straight adult bodies and broad layered translucent watercolor; image 131 for small dark oval eyes with tiny internal glint, no sclera, and a few fine short outer lashes only on pink. Paint broad washes with soft pigment pooling and local-color contours in heads, hands, limbs and scenery. Luminous white paper, no uniform crystalline grain, black body outlines, marker or glossy 3D. Truly circular heads, no neck; neutral straight torsos without waist indent, bust, hips or buttocks. Every visible hand three fingers and one thumb. All complete adult bodies, feet, BOTH ENTIRE vehicles with bumpers and all visible wheels fit within CENTRAL 80% of canvas; generous clean white margins beyond every object. Similar adult scale in both panels. Sparse roadside scenery.\nAdvice: \"When hitchhiking, look like the person you want to pick you up.\" Show two DISTINCT adult travelers finding two different familiar types of driver through matching appearance, no luxury/poverty or moral hierarchy. TOP: green adult hiker with backpack, khaki vest, green travel trousers, hiking boots and soft sun hat holds thumb up on safe shoulder at left. At right a small ordinary cream camper van is completely parked off road. Blue adult driver with corresponding khaki vest and soft sun hat smiles and invites from open window, says «تو هم اهل سفری؟». Entire van clearly visible, extra air beyond rear AND front. BOTTOM: pink adult traveler with fine short lashes, neutral white casual overshirt, tan straight travel trousers and sensible shoes, brown shoulder bag, thumb up on safe shoulder at left. At right a complete ordinary teal compact car is parked; violet driver in a matching simple white casual overshirt greets pink with palm gesture and says «هم‌مسیر می‌شیم؟». Traveler and driver in EACH panel look toward each other with recognition. Clothing and corresponding dress are the core visual connection, not body color. No other people, traffic, brands or writing. Correct connected Persian bubbles, tails belonging to respective driver. Vehicles safely stationary before gestures. Paint comfortably inside white margins, never truncate a vehicle at a panel edge.\nFinal scene detail: each driver sits at the open front SIDE door window and gestures naturally outside through it; windshields remain intact and unobstructed. Both drivers have simple sun hats, while their overshirts match their respective travelers. All other described story details remain.\n\nCheek paint is very faint, translucent and diffusely feathered into the local watercolor wash, never a sharply bounded flat pink circle.\n",
+    "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptEnglishHash": "daae77b50543691e23616363b9ad7b7f41fd5deafc05a51008e4cf8496807318",
+    "fullGenerationPromptPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptSha256": "5ee29239d61d08787a67499b66416be1e653ffe5ed523a129c9d0b5e04b1c202",
+    "fullGenerationPromptEnglishSha256": "daae77b50543691e23616363b9ad7b7f41fd5deafc05a51008e4cf8496807318",
+    "referencePaths": [
+      "Images/148.jpg",
+      "Images/131.jpg"
+    ],
+    "generationTool": "built-in image_gen",
+    "generationMode": "new_render_of_preserved_draft_story_then_targeted_window_edit",
+    "generationSourcePath": "C:/Users/zohre/.codex/generated_images/01a15864-3911-7202-b000-ca99ea6f7207/exec-9b5903c3-8acc-4ec5-9f19-0e37be5a12fb.png",
+    "generatedAtUtc": "2026-10-20T08:30:47.4523205Z",
+    "executedPromptPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.executed-edit.en.txt",
+    "executedPrompt": "Use case: precise-object-edit. Edit the attached two-panel watercolor ONLY to correct the drivers' physical placement. In BOTH panels the inviting driver must sit inside the vehicle at the OPEN SIDE WINDOW above the visible side door, farther right than their current position. The green hiking traveler, blue driver, pink casual traveler and violet driver keep identities, true circular heads, body shape, matching clothes and expressions. Move blue driver out of the camper windshield into its side window above the door; move violet driver out of the teal car windshield into its nearest open front SIDE door window. Their greeting hands emerge naturally through those open side windows. Keep each windshield intact and unobstructed with NO person or hand passing through glass; driver is sitting behind steering wheel. Vehicles remain safely parked. Preserve exact Persian bubbles, but shift their tails to these corrected speakers. Everything else unchanged: complete vehicles and wheels, full travelers and feet, generous white margins, same two-panel layout, neutral straight adult bodies, local-color contours, broad layered watercolor. Hands three fingers plus thumb. No extra text.\r\n",
+    "provenance": {
+      "preservedOriginalDraft": "159/unpublished-drafts/159-c-20261019-draft-01.png",
+      "initialRender": "159/unpublished-drafts/159-c-20261020-render-01.png",
+      "generationPrompt": "159/159-c-20261019-v1.executed-generation.en.txt",
+      "editPrompt": "159/159-c-20261019-v1.executed-edit.en.txt"
+    },
+    "status": "candidate_pending_user_review",
+    "qa": {
+      "visuallyInspected": true,
+      "notes": "دو مسافر با دو رانندهٔ دارای نشانه‌های ظاهریِ مشابه مقایسه می‌شوند، خودروها و پاها کامل و جمله‌های فارسی خوانا هستند. بدن‌ها زیر پوشش مرتبط با سفر برجستگی جنسیتی آشکار ندارند. ویرایش گونه انجام شد؛ در گونهٔ صورتی هنوز لکهٔ رنگ اندکی گردتر از مرجع مانده است. این یک پیشنهاد قابل بررسی است، نه ادعای انطباق کامل یا تأیید صاحب کتاب."
+    },
+    "rootTargetedEdit": {
+      "promptPath": "review-data/wave-157-161-2026-10-19/159/159-c-20261019-v1.root-edit.en.txt",
+      "prompt": "Use case: precise-object-edit. In this two-panel watercolor roadside illustration, change only the cheek coloring on ALL characters. Replace sharply bounded pink/red/orange circular cheek stamps, especially on the lower pink traveler, with barely visible diffuse translucent watercolor warmth blended into the local face wash. No flat circular pink patches. Preserve all Persian lettering verbatim, all eyes with their tiny internal glints and eyelashes, hats, circular head silhouettes, exact head and body sizes, neutral body shapes, poses and fingers, every piece of clothing and luggage, road, landscape, both complete vehicles, both panel compositions, original landscape image dimensions and white watercolor margins. Change nothing else. Preserve original hand-painted layered watercolor texture and local-color outlines.",
+      "inputPath": "review-data/wave-157-161-2026-10-19/159/attempts/159-c-20261019-v1.before-root-cheek-edit.png",
+      "outputSha256": "ef80c8f59338c4a4dc7cc8c5a4694dd4a96d61f0359db8cc5126560fb73d70b3",
+      "generatedSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-8243308f-c19b-4406-ad2c-885f15bc155e.png"
+    }
+  },
+  {
+    "id": "159-d-20261019-v1",
+    "sentenceId": 159,
+    "version": 1,
+    "outputPath": "review-data/wave-157-161-2026-10-19/159/159-d-20261019-v1.png",
+    "imageHash": "dfbb30e4f1183d3e7532ef1b888b22d247cd9f357e37112e36bf9bfffef7bcb1",
+    "sha256": "dfbb30e4f1183d3e7532ef1b888b22d247cd9f357e37112e36bf9bfffef7bcb1",
+    "width": 1448,
+    "height": 1086,
+    "titleFa": "هم‌سلیقه‌ایم؛ سوار شو",
+    "summaryFa": "ظاهر و سازِ مسافر، علاقهٔ مشترکش را به راننده نشان می‌دهد.",
+    "storyFa": "مسافر قرمز با کیف گیتار کنار جاده منتظر است. رانندهٔ صورتی با پیراهن و جلیقهٔ مشابه و ساز کوچکی در صندلی عقب، اشتراک سلیقه را تشخیص می‌دهد و دعوتش می‌کند سوار شود.",
+    "meaningFa": "وقتی می‌خواهی فردی با سلیقه و شیوهٔ سفرِ دلخواهت تو را سوار کند، ظاهر و نشانه‌های قابل‌دیدن تو می‌توانند همان اشتراک را منتقل کنند.",
+    "fullGenerationPromptEnglish": "Use case: illustration-story.\nCreate ONE complete finished landscape 4:3 illustration for an adult illustrated book of advice. Input Images 1 and 2 are STYLE REFERENCES ONLY, not edit targets. Match their established character family and moderate hand-painted watercolor, but tell the entirely new story specified below. Do not copy their actual carpenter or bus stop.\nPaint: overlapping translucent watercolor washes visibly inside heads, torsos, limbs and hands, with broad gentle irregular changes of pigment density, soft pooling and luminous textured white paper. Natural irregular edges, clean white paper margins on all four sides. Moderate layered watercolor, never uniform fine crystalline noise, marker, pencil, crayon, shiny 3D or flat vector.\nAll characters are adults with simple neutral medium-build bodies matching the references: neither chubby round torsos nor long skinny sticks. Heads are genuinely CIRCULAR, equal width and height, with no chin, jaw or flattened bottom; no necks, heads directly join shoulders. Subtle darker local-color contact shadow beneath head. Colored contours are a darker version of each body's own color, not black. Eyes are the same SMALL vertical dark ovals as the references, each with one tiny white glint INSIDE the dark oval, no white sclera around a pupil. Gentle brows and mouth, no noses, ears or hair. Blush, where present, is a faint diffused translucent rosy wash, never a hard round dot. If a character is female, add only two short fine curved lashes to the OUTER UPPER EDGE of the same small eye; do not enlarge or redesign eyes. All torsos neutral, no bust, pinched waist, hips, buttock emphasis or gendered bulges. Every fully visible hand has three fingers and one thumb, four digits TOTAL, naturally gripping objects. No extra limbs. Maintain identity and body color through all panels. Full bodies, feet, vehicles and essential objects safely inside frame. Gentle humane wit for adult readers, easy concrete visual cause and effect, no moralizing lecture.\nOnly the explicitly specified short Persian text may appear inside the image, joined Persian letters and correct RTL. No English, branding, watermarks, panel numbers, extra labels or long explanatory captions. Speech/thought bubbles must clearly belong to their speaker. Multi-panel reading is right-to-left for side-by-side panels, or top-to-bottom for stacked panels, with a narrow white gutter and no heavy comic borders.\n\nAdvice meaning: \"When hitchhiking, look like the person you want to pick you up.\" Literal roadside appearance makes a likely fellow traveler recognize an affinity. No networking, money or moral superiority metaphor.\nONE landscape 4:3 warm watercolor scene in a quiet safe roadside layby, wide simple side-on composition. A RED adult hitchhiker on the right, neutral adult body and fully circular head, wears a plain denim-blue waistcoat over a simple checked travel shirt, straight trousers and walking shoes. A closed small guitar case is strapped to their back; one hand holds thumb up, other loosely holds a backpack strap. A small modest butter-yellow station wagon is COMPLETELY STOPPED on the left, entirely inside the painting, both bumpers, two wheels, roof and visible ground around it. No giant cropped vehicle; whole car takes about half of the art width.\nInside its open driver's window is a PINK adult driver with subtle short fine lashes attached to the same small dark eyes, wearing a similar checked shirt and denim waistcoat over an unchanged neutral adult torso. A small ukulele peeks from a case in the back seat, leaving the front passenger seat EMPTY. Similar casual musical appearance, not identical body color, makes the kinship visible. PINK looks directly at RED, warmly inviting with an open FOUR-DIGIT hand (three fingers plus thumb). RED is pleasantly surprised, smiling without exaggeration. One small speech bubble attached to PINK reads exactly «هم‌سلیقه‌ایم! سوار شو.». The friendly joke is their almost-matching little musical outfits and the tiny ukulele versus bigger guitar, not costume caricature. Driver stays seated, vehicle stopped, no playing music while driving. Sparse ordinary roadside, one tree and softly washed sky, no crowd, festival banners, music-note decoration, extra text or logos.\n\nMatch reference148's broad luminous watercolor body washes and moderate adult limb thickness, and reference131's small kind oval eyes and fine lashes. Keep each head truly round; no hard circular cheek stamps. Make the whole vehicle comfortably smaller than the landscape 4:3 canvas so both bumpers remain visible.\n\nFinal composition: the entire yellow station wagon is visible with both bumpers and complete wheels inside a white paper margin. The front passenger seat is empty and the small ukulele is visible only in the rear seat, through the rear side window behind the pink driver.\n",
+    "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/159/159-d-20261019-v1.full-generation.en.txt",
+    "fullGenerationPromptEnglishHash": "1d1c89539e81c4c5a8006dc5e420b74b76c3071b33b1f39571bb69fabe1ba936",
+    "qa": {
+      "visuallyInspected": true,
+      "notes": "هم‌سلیقگی دو مسافر با پوشش مشابه و گیتار/ساز کوچک خواناست. پس از تولیدِ اول، با ویرایش واقعی کادر افقی شد و خودرو کامل و ساز کوچک به صندلی عقب منتقل شد؛ صندلی جلو خالی است. هر دو پا و کیف ساز داخل قاب‌اند. لکهٔ گونه اندکی مشخص‌تر از شست‌وشوی مطلوب باقی است؛ تأیید صاحب کتاب نیست."
+    },
+    "executedSteps": [
+      {
+        "tool": "builtin image_gen",
+        "kind": "style-referenced generation",
+        "promptPath": "159-d-20261019-v1.executed-generation.en.txt",
+        "references": [
+          "Images/148.jpg",
+          "Images/131.jpg"
+        ]
+      },
+      {
+        "tool": "builtin image_gen",
+        "kind": "framing edit",
+        "promptPath": "159-d-20261019-v1.executed-edit.en.txt",
+        "inputPath": "attempts/159-d-20261019-v1.before-framing.png"
+      }
+    ]
+  }
+]

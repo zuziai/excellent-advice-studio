@@ -1217,8 +1217,211 @@
       },
       "downloadUrl": "/download/156-d-20261019-v2.png",
       "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 157,
+      "ideaId": "157-d-20261019-v2",
+      "prompt": "Use case: illustration-story. Create a finished square hand-painted watercolor illustration for an adult Persian advice book, illustrating the distinction between recognizing a real symptom and accepting an untested remedy. Characters and medium must match the original book's image148 (body proportions and broad watercolor) and image131 (small dark oval eyes, tiny interior white glint, delicate short female lashes).\nNatural medium adult bodies, continuous softly straight neutral torso sides, no waist notch, bust, pronounced hips, buttock or pelvic bulges, no skinny or chubby limbs. All head outlines are geometric circles of equal width and height even when gazing down, no jaw or flattened chin. Heads directly touch shoulders without a neck, with a soft darker local-color contact crescent. Outlines are darker local body colors, not black. Broad overlapping translucent watercolor washes and gentle irregular pigment density appear INSIDE heads and limbs, with luminous textured paper and restrained soft pooling. No uniform crystalline grain, marker, colored pencil, vector, 3D gloss or flat fills. Blush is soft and translucent. Hands show exactly three fingers plus one thumb when fully visible. Tiny eye glints are allowed; white sclera is forbidden. The pink figure alone has a few fine short curved upper-outer eyelashes on the unchanged modest eyes, no doll lashes or feminine body shape. No noses, ears, hair or clothing. Warm kind family-friendly tone. All figures, feet and main objects fit inside clean white paper margins, irregular watercolor edges, subtle white gutter without heavy comic frames.\nComposition: TWO vertical panels side by side on a square page, narrative reads RIGHT to LEFT, same sunny courtyard setting, pale honey stone paving, warm stone walls and doorways, restrained greenery and a few flowers. Same one purple adult friend and one pink adult trolley-owner in both panels, identity and body color constant. Purple has the same head diameter, overall stature, arm thickness and proportions in both panels; right-panel lean is only a small natural pose variation.\nRIGHT first panel: pink stands behind a real two-wheel hand trolley carrying one taped cardboard box. Both pink hands naturally grip the upper horizontal handle. The trolley is angled back slightly but grounded with two physically coherent wheels, same box and straps as later. A bright blue ribbon is visibly wound around the axle near one wheel, with a short loose end trailing on the paving: THIS is the actual cause of the jam. Pink looks thoughtfully at the trolley rather than blindly accepting a purchase suggestion. Purple stands at the right, leaning forward only slightly, one hand indicating the jammed wheel, mildly worried brows. Purple's speech bubble reads exactly «چرخش گیر داره؛ چرخ نو بخر!». Pink's bubble reads exactly «گیر داره، درست می‌گی.»; tails attach clearly to their speakers. Correctly joined Persian text, no English.\nLEFT second panel: same trolley, box, wheels, blue ribbon, paving, pink and purple. Pink crouches naturally beside the wheel on the trolley's left side; one hand holds the removed loose blue ribbon aloft and the other rests safely by the now-cleared wheel. Blue ribbon is NO LONGER wound on the axle. Pink's neutral body remains free of bust, waist notch or hip bulge in this bent pose. Purple stands on the far left with the same proportions as before, relieved, hands gently clasped at chest height and a warm modest smile. Pink's only bubble reads exactly «نوار دور محور پیچیده بود!». The causal result is the same wheel being usable after removing its obstruction, not buying a new wheel. Preserve the simple visible distinction: the friend's diagnosis of a jam is right, the proposed remedy of replacing a wheel was untested and unnecessary. No explanatory caption, extra text, new trolley, discarded wheel or extra decorative story.\n",
+      "promptPath": "review-data/revision-157-2026-10-19/157-d/157-d-20261019-v2.full-generation.en.txt",
+      "promptSource": "review-data/revision-157-2026-10-19/157-d/157-d-20261019-v2.metadata.json",
+      "promptSha256": "0c92212558b14aa249d24004a098ecbeb6bbefba8805394184f9d53981a9f4cc",
+      "sourcePromptSha256": "0c92212558b14aa249d24004a098ecbeb6bbefba8805394184f9d53981a9f4cc",
+      "promptCellSha256": "be75b8d686fafd06debe1d0e67fbb67f5bea985eb6e538ae4eb230520b1834e4",
+      "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb",
+      "source": "book-review/dist/art/157-d-20261019-v2.png",
+      "savedPath": "Images/157.png",
+      "approvedAt": "2026-10-20T08:26:55.706Z",
+      "feedback": {
+        "sentenceId": 157,
+        "ideaNotes": {
+          "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+          "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+          "157-b-20261019-v2": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره"
+        },
+        "note": "",
+        "history": [
+          {
+            "status": "revise",
+            "chosenIdeaId": "157-d-20261019-v1",
+            "revisionRequest": {
+              "requestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+              "baseIdeaId": "157-d-20261019-v1",
+              "baseVersion": 1,
+              "comment": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+              "submittedAt": "2026-10-19T17:50:29.918Z"
+            },
+            "revisionProgress": {
+              "requestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+              "status": "queued",
+              "updatedAt": "2026-10-19T17:50:29.918Z"
+            },
+            "updatedAt": "2026-10-19T17:52:17.319Z"
+          },
+          {
+            "sentenceId": 157,
+            "ideaNotes": {
+              "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+              "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "157-b-20261019-v1",
+            "waveId": "wave-157-161-2026-10-19-progress-01",
+            "candidateIds": [
+              "157-a-20261019-v1",
+              "157-b-20261019-v1",
+              "157-c-20261019-v1",
+              "157-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+              "baseIdeaId": "157-b-20261019-v1",
+              "baseVersion": 1,
+              "comment": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+              "submittedAt": "2026-10-19T17:52:19.451Z"
+            },
+            "revisionProgress": {
+              "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+              "status": "queued",
+              "updatedAt": "2026-10-19T17:52:19.451Z"
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-19T17:52:19.451Z",
+            "decisionIntent": {
+              "id": "b8d54532-746a-45dc-8993-12d9d717a00c",
+              "status": "revise",
+              "chosenIdeaId": "157-b-20261019-v1",
+              "submittedAt": "2026-10-19T17:52:19.451Z"
+            }
+          },
+          {
+            "sentenceId": 157,
+            "ideaNotes": {
+              "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+              "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "157-b-20261019-v1",
+            "waveId": "wave-157-161-2026-10-19-progress-01-edits-1",
+            "candidateIds": [
+              "157-a-20261019-v1",
+              "157-b-20261019-v1",
+              "157-c-20261019-v1",
+              "157-d-20261019-v2"
+            ],
+            "revisionRequest": {
+              "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+              "baseIdeaId": "157-b-20261019-v1",
+              "baseVersion": 1,
+              "comment": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+              "submittedAt": "2026-10-19T17:52:19.451Z"
+            },
+            "revisionProgress": {
+              "requestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+              "status": "queued",
+              "updatedAt": "2026-10-19T17:52:19.451Z"
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-19T20:03:09.706699+00:00",
+            "decisionIntent": {
+              "id": "b8d54532-746a-45dc-8993-12d9d717a00c",
+              "status": "revise",
+              "chosenIdeaId": "157-b-20261019-v1",
+              "submittedAt": "2026-10-19T17:52:19.451Z"
+            },
+            "latestRevisionResults": [
+              {
+                "ideaId": "157-d-20261019-v2",
+                "parentIdeaId": "157-d-20261019-v1",
+                "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+                "version": 2,
+                "publishedAt": "2026-10-19T20:03:09.706699+00:00"
+              }
+            ]
+          },
+          {
+            "status": "revise",
+            "chosenIdeaId": "157-b-20261019-v2",
+            "revisionRequest": {
+              "requestId": "ff439cbc-716e-4fb4-8a42-f7aef490a989",
+              "baseIdeaId": "157-b-20261019-v2",
+              "baseVersion": 2,
+              "comment": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره",
+              "submittedAt": "2026-10-20T08:25:08.715Z"
+            },
+            "revisionProgress": {
+              "requestId": "ff439cbc-716e-4fb4-8a42-f7aef490a989",
+              "status": "queued",
+              "updatedAt": "2026-10-20T08:25:08.716Z"
+            },
+            "updatedAt": "2026-10-20T08:25:08.716Z"
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "157-d-20261019-v2",
+        "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+        "candidateIds": [
+          "157-a-20261019-v1",
+          "157-b-20261019-v2",
+          "157-c-20261019-v1",
+          "157-d-20261019-v2"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-10-20T08:26:55.706Z",
+        "latestRevisionResults": [
+          {
+            "ideaId": "157-d-20261019-v2",
+            "parentIdeaId": "157-d-20261019-v1",
+            "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+            "version": 2,
+            "publishedAt": "2026-10-19T20:03:09.706699+00:00"
+          },
+          {
+            "ideaId": "157-b-20261019-v2",
+            "parentIdeaId": "157-b-20261019-v1",
+            "revisionRequestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+            "version": 2,
+            "publishedAt": "2026-10-20T08:15:51.127041+00:00"
+          }
+        ],
+        "latestRevisionResult": {
+          "ideaId": "157-b-20261019-v2",
+          "parentIdeaId": "157-b-20261019-v1",
+          "revisionRequestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
+          "version": 2,
+          "publishedAt": "2026-10-20T08:15:51.127041+00:00"
+        },
+        "decisionIntent": {
+          "id": "8a7b530b-0d37-401c-8b73-fb9b3a7c2427",
+          "status": "approved",
+          "chosenIdeaId": "157-d-20261019-v2",
+          "submittedAt": "2026-10-20T08:26:55.706Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-20T08:31:59.211255+00:00",
+      "copiedAt": "2026-10-20T08:31:59.211255+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 157,
+        "ideaId": "157-d-20261019-v2",
+        "row": 158,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "be75b8d686fafd06debe1d0e67fbb67f5bea985eb6e538ae4eb230520b1834e4",
+        "sourcePromptSha256": "0c92212558b14aa249d24004a098ecbeb6bbefba8805394184f9d53981a9f4cc",
+        "characters": 3892
+      },
+      "downloadUrl": "/download/157-d-20261019-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
     }
   ],
   "pending": {},
-  "updatedAt": "2026-10-20T08:22:58.374453+00:00"
+  "updatedAt": "2026-10-21T06:45:29.133925+00:00"
 }

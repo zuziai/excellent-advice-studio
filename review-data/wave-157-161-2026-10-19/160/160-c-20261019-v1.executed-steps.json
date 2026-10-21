@@ -1,0 +1,85 @@
+{
+  "id": "160-c-20261019-v1",
+  "tool": "built-in imagegen",
+  "mode": "generate-and-edit",
+  "selectedCanonicalPath": "review-data/wave-157-161-2026-10-19/160/160-c-20261019-v1.png",
+  "selectedCanonicalSha256": "f8ca571fa09698e8743b0be07ae1750ad58a62748d32bbf9e9884f080eb87dde",
+  "fullPromptRole": "The full-generation text is an independent final-intent prompt. The exact literal prompts executed for each attempt follow, without claiming that the consolidated prompt itself was sent as one call.",
+  "steps": [
+    {
+      "kind": "generate",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-c-20261019-v1.prepared-generation.en.txt",
+      "prompt": "Use case: illustration-story. Create ONE complete PORTRAIT 2:3 adult Persian book watercolor, 1024 by 1536. THREE equally tall horizontal panels stacked TOP TO BOTTOM, white gutters and broad clean white outer margins. Fixed camera distance, same character head diameter and full adult body scale throughout. Entire body, both feet, table and all essential objects fit inside EACH panel. Style references only:148 for broad watercolor and neutral adult build;131 for small eyes.\nAdvice: \"Worth repeating: Measure twice, cut once.\" A real paper-length measurement, an actual trial-wrap check of that same planned length BEFORE cutting, then ONE cut.\nSAME TURQUOISE adult with straight neutral medium-build torso and limbs, no clothes. Same sparse home table, SAME large rectangular CORAL gift box, SAME roll of pale-yellow wrapping paper with simple widely spaced muted leaf motifs. One small coral ribbon tied unobtrusively around the same left wrist as a reminder. Same viewpoint and orientation across panels, with room to see paper, hands and feet. No extra characters.\nTOP: Unroll the continuous paper LEFTWARD from its roll on the right side of table. The straight free LEADING EDGE is on the LEFT. TURQUOISE actually measures a planned sheet LENGTH along this paper from that left leading edge toward the roll, using one taut flexible cloth tape. One hand anchors tape zero at the LEFT LEADING EDGE, the other places one tiny pencil tick where the initial cut would be, near the roll. Gaze at that endpoint. Coral box waits behind paper. Closed scissors safely at back of table. Thought bubble exactly «این‌قدر کافیه؟».\nMIDDLE: Real second check using the SAME box as a physical gauge: the still-UNCUT paper is temporarily folded around the coral box's circumference. Its straight leading edge rests across the top of box; the marked planned cutting point, after going under and around the box, falls a little SHORT of that leading edge, leaving a narrow visible gap where the paper would fail to overlap. The continuous paper BEYOND the tiny old tick still trails directly to its attached roll on the right, proving it has not been cut. Both turquoise hands only hold the two broad paper portions against box. Tape, pencil and CLOSED scissors are set aside, no simultaneous measuring/drawing action. A second tiny corrected cut tick is already placed a little farther along the connected trailing paper so it supplies generous overlap. One small arrow-free visual gap between planned mark and leading edge makes the shortfall concrete. Slightly raised eyebrows. Bubble exactly «نه، یه کم بیشتر!».\nBOTTOM: Paper unrolled flat again, same leading edge on LEFT and roll on RIGHT. TURQUOISE makes the ONE and ONLY scissor cut across the width of the paper at the corrected pencil tick farther toward the roll, leaving a sheet with enough length for overlap. Scissors travel from the near edge toward far edge along ONE straight transverse line; one short slit lies behind the blades, continuous uncut paper immediately ahead. The box waits safely at the side. Cutting direction away from torso, spare hand well away from blade path. No wrapped finished gift, no patchwork, no scrap strips or extra cuts. Relieved small smile. Speech bubble exactly «خوب شد هنوز نبریدم!».\nSame adult character family as148: geometrically CIRCULAR head, no chin/jaw, no neck/nose/ears/hair; head joins shoulders with subtle local-color shadow. Small DARK vertical OVAL eyes with tiny white internal glints, NO white sclera. Darker turquoise contours, not black. STRAIGHT neutral torso sides and pelvis, no bust, waist indentation, projecting hips or buttocks; medium build, neither fat nor stick-like. Every fully visible hand exactly THREE FINGERS plus ONE THUMB, four total; natural grips may occlude digits, never add them. Same head diameter, body height and limb thickness in every panel. Cheek warmth faint and diffused, no flat rosy stamps.\nBroad overlapping translucent WATERCOLOR WASHES inside head, body, arms, hands and legs with large gentle pigment variations, luminous textured paper and restrained natural pooling. No fine crystalline noise or tiny tiled texture, marker, vector, glossy 3D. Quiet inhabited setting, no decorative clutter. Only the three specified connected Persian RTL bubbles, no English, numerals, labels, panel numbers or watermark. Readable adult visual wit, concrete physical continuity.\n",
+      "promptSha256": "e4189151a52be4c7e30bb459873e956dcc234c043455e7c23ff1bc08abe72214",
+      "referenced_image_paths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-49a14907-ea3a-4127-9c86-1e5f897c278a.png",
+      "sourceOutputSha256": "89216a2a439f66d0977a0d473e106ec1b07ec22dedb44eb2b0a804777fcf6008",
+      "disposition": "superseded-by-full-feet-edit"
+    },
+    {
+      "kind": "edit",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-c-20261019-v1.edit-01.en.txt",
+      "prompt": "Use case: precise-object-edit. Edit this existing PORTRAIT three-panel gift-wrapping watercolor. Correct framing and character continuity while preserving the story, all objects, measurement/cut actions, and the three Persian bubbles verbatim. Pull the camera BACK equally in EACH panel so the entire turquoise adult from top of circular head to BOTH complete feet is visible below the complete table, with a real floor gap beneath the soles and clean white margin around every panel. Currently first and middle feet are cropped; repair them. Do not crop or truncate any leg, foot, table leg or roll. All three figures must retain the SAME circular head diameter, medium adult body height and limb thickness, same camera scale. Keep neutral STRAIGHT torso sides and pelvis, no pinched waist or curved hips. Remove the tiny oval NOSE from all faces: there must be NO nose, no ears, no hair, just the small dark oval eyes with tiny white INTERNAL glints, eyebrows and mouth. The eyes have no white sclera. Remove the little wrist ribbon consistently from all three panels, freeing the wrists and avoiding side changes. Do not add new objects or change paper geometry: top is a real length measurement from free left edge; middle shows the trial wrap with still-UNCUT paper attached to its roll and the marked shortfall/overlap gap; bottom makes ONE cut at the corrected mark. Preserve the connected roll and one scissor pair. Each hand has exactly three fingers plus one thumb, four total, with natural grip occlusion. Preserve broad translucent watercolor and dark turquoise local-color contours. Keep final image PORTRAIT 2:3 with three equally tall horizontal panels, full Persian lettering and white gutters.\n",
+      "promptSha256": "76ae33d02cac5488d6a4efd06a2631d54146d74d51f71a4db1850ae1bc7c416c",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/160/unpublished-drafts/160-c-20261019-v1.before-edit-01.png"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-8cc93bb6-20b2-4d1c-bd2f-cbcfcc285cd5.png",
+      "sourceOutputSha256": "51e3df9d4ac70b43b6f416753405e1dcda0fd7ef38b9675f710829fb869db2d0",
+      "disposition": "superseded-by-face-edit"
+    },
+    {
+      "kind": "edit",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-c-20261019-v1.edit-02.en.txt",
+      "prompt": "Use case: precise-object-edit. Change ONLY the three tiny nose marks in this existing three-panel watercolor. In EACH turquoise face, erase the small pale cyan/white OVAL mark centered between the eyes and mouth. Fill that spot with continuous ordinary turquoise watercolor matching its surrounding face. The characters must have absolutely NO NOSE: no oval, no dot, no bridge, no nose highlight or nostril. Keep eyes, tiny white eye glints INSIDE the dark eye ovals, brows and mouths unchanged. Preserve every other pixel-level design feature as closely as possible: all Persian lettering, circular heads, full bodies and feet, hands, scissors, connected paper roll, gift box, measuring actions, dimensions, three panels and white gutters. Keep broad layered watercolor. Do not redraw or crop any scene.\n",
+      "promptSha256": "bddb7f46b093a38463b19b3fbe8ccc012ba84880237ecec27add37005a046167",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/160/unpublished-drafts/160-c-20261019-v1.before-edit-02.png"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-f142e9ed-169c-4c29-a08d-b60a1b0745a9.png",
+      "sourceOutputSha256": "cb4f8b0308d6711968506dea554c8afa5f5cef7883a8f9280bc7296ee0bc7a10",
+      "disposition": "nose-removal-incomplete-superseded"
+    },
+    {
+      "kind": "edit",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-c-20261019-v1.edit-03.en.txt",
+      "prompt": "Use case: precise-object-edit. Image1 is the edit target gift-wrapping story; Image2 is a STYLE REFERENCE demonstrating the required NO-NOSE character face. Correct ONLY the face interiors of image1. Repaint the small central facial areas between eyes and mouth with plain matte turquoise watercolor. Remove ALL isolated pale cyan/white face highlight marks except the tiny glints INSIDE the dark eyes. In particular REMOVE the tiny shiny cyan nose crescent near pixel (468,151) in top face, near (514,639) in middle face, and near (552,1144) in bottom face. These central pale marks must completely disappear, replaced by continuous turquoise face wash without any nose shape. Each face has only two small dark oval eyes, eyebrows and a dark simple mouth, and absolutely NO nose, nostril, nose bridge, central face dash or extra highlight. Keep top concerned small frown, restore middle's tiny concerned OPEN MOUTH distinctly BELOW its eyes, keep bottom smile. The white eye glints remain INSIDE eyes only, no sclera. Match reference2's blank area between eyes and mouth. Preserve every other part of image1: full bodies and feet, circular head outlines, broad watercolor, all Persian words verbatim, all three panels, paper trial-fit attached to roll, one final cut, same dimensions and margins. Do not crop, redesign, or move objects.\n",
+      "promptSha256": "81e3ae21db380768acaf62ef8382ba157ba9a17d1393971819f66cfe0a354fd6",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/160/unpublished-drafts/160-c-20261019-v1.before-edit-03.png",
+        "Images/148.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-b0439b6a-1882-43b5-a7b1-743e4e6d36b7.png",
+      "sourceOutputSha256": "0b810ae59a617bb8fc41491c3e84569f4bbe77a07dd11571ec3046c5530bca3a",
+      "disposition": "nose-removal-incomplete-superseded"
+    },
+    {
+      "kind": "edit",
+      "tool": "built-in imagegen",
+      "promptPath": "review-data/wave-157-161-2026-10-19/160/160-c-20261019-v1.edit-04.en.txt",
+      "prompt": "Use case: precise-object-edit. Image1 is target. Image2 shows the REQUIRED minimal character-face design. Completely REPAINT ALL THREE FACE INTERIORS in image1 from scratch to match image2's minimal no-nose design; do not preserve the current facial marks. Keep each existing turquoise head's circular outline, position and size unchanged. First remove the old eyes, brows, mouths, nose/highlight glyphs and cheek marks inside each circle and lay down uninterrupted broad matte turquoise watercolor. Then draw exactly TWO small dark oval eyes with tiny white glints INSIDE them, two simple brows, and ONE small mouth on each face. That is the complete feature list. The central region between eyes and mouth stays completely BLANK turquoise, with no cyan dash, crescent, dot, pale oval, bridge, nose, highlight or nostril. No white face highlights outside eyes. Top expression mildly concerned with small frown; middle expression surprised with a small open mouth; bottom small relieved smile. Faces frontal and simple as image2. No blush dots. Do not add hair, ears or neck. Preserve every element OUTSIDE the head circles unchanged as closely as possible: all Persian lettering verbatim, three panels, full bodies and feet, hands, measurement and uncut trial-wrap, paper attached to roll, one final cut, table and margins. Keep broad translucent watercolor and dimensions.\n",
+      "promptSha256": "754cded0c2ff690ff3ddd34822f388b72aa3ea506d6c33a33ed0b7a859826136",
+      "referenced_image_paths": [
+        "review-data/wave-157-161-2026-10-19/160/unpublished-drafts/160-c-20261019-v1.before-edit-04.png",
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-9b583c48-6cab-4e77-ab30-18519d5e31c8.png"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15d1c-fda7-7f33-9a16-817f68548e8c\\exec-5f3984c0-7e9b-4649-82d4-af6727a18ccf.png",
+      "sourceOutputSha256": "f8ca571fa09698e8743b0be07ae1750ad58a62748d32bbf9e9884f080eb87dde",
+      "disposition": "selected-for-root-review-with-noted-face-accents"
+    }
+  ],
+  "localHandling": "Selected original tool PNG copied byte-for-byte to canonical path. No raster postprocessing, CLI/API image generation, site, Excel, Images, feedback or Git changes.",
+  "legacyDrafts": "Older original-draft prompt files and preexisting unpublished draft PNGs were preserved; they were not substituted for the selected outputs."
+}

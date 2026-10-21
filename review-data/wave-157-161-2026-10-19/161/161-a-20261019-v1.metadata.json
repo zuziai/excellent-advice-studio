@@ -1,0 +1,31 @@
+{
+  "id": "161-a-20261019-v1",
+  "sentenceId": 161,
+  "version": 1,
+  "outputPath": "book-review/dist/art/161-a-20261019-v1.png",
+  "sha256": "a0b618b6c5cefc96ae063030df46c9dcf07be25e24c65706cba4f8cc188b23f8",
+  "imageHash": "a0b618b6c5cefc96ae063030df46c9dcf07be25e24c65706cba4f8cc188b23f8",
+  "width": 1254,
+  "height": 1254,
+  "titleFa": "پول کم، آزمایش‌های زیاد",
+  "summaryFa": "آزمایش اول آب را هدر می‌دهد؛ گیره‌ای ساده، همان طرح را به آبیاری قطره‌ای تبدیل می‌کند.",
+  "storyFa": "آدمک سبز کنار سکه‌های اندکش آب‌رسانی بطری و لوله را آزمایش می‌کند. جریان زیاد باعث سرریز می‌شود. او با فکر و آزمایش، گیره‌ای روی همان لوله می‌گذارد و جریان را به قطره‌های آرام تبدیل می‌کند.",
+  "meaningFa": "پول فراوان جانشین فکر و پیگیری نیست؛ راه‌حل تازه از علاقه به یک مسئله، امتحان‌کردن و بهترکردن طرح به دست می‌آید.",
+  "fullGenerationPromptEnglish": "Use case: illustration-story. A complete NEW square watercolor narrative illustration for an adult Persian advice book, readable immediately by a twelve-year-old. TWO spacious horizontal scenes stacked top to bottom, quiet white gutter and generous white margins.\nMeaning: money can buy materials but cannot buy a ready breakthrough. Passion for a real problem, belief, patient failed trials and ingenuity create a useful new result with modest resources. No rich villains, no sanctifying poverty, no literal hunger.\nInput images: Image 1 (148.jpg) is the PRIMARY STYLE AND ANATOMY REFERENCE ONLY. Image 2 (131.jpg) is the EYE/LASH REFERENCE ONLY. Do not copy scenes or texts. Match broad actual layered watercolor washes visible WITHIN heads, torsos AND limbs: irregular translucent overlaps, varied pigment density, subtle pooling. Moderate texture, no uniform tiled fine grain, no marker, pencil, vector, 3D or glossy surfaces. Local body-color darker contours; faint feathered blush diffused into watercolor, never flat red/pink circles.\nEvery character has a geometrically true circular head, no neck, hair, nose or ears, a subtle local-color crescent where head meets shoulders. Moderate adult proportions exactly as148: medium limbs, straight neutral torso and pelvis, gentle natural taper only. No bust, pinched waist, projecting hips or buttocks. Same neutral anatomy for every gender. Dark small oval eyes with tiny internal glints, absolutely no white sclera. Two arms, coherent grips, open hands three fingers and one thumb. Keep same head diameter and body size across both panels. FULL bodies and feet, every essential prop comfortably inside composition with floor space beneath feet.\nSoft humane daylight, minimal inhabited setting, pale watercolor edge dissolving into white paper. Only the exact short Persian dialogue requested, connected natural RTL, clear bubble tails. No English, captions, labels, numbers, logos or watermark.\n\nStory: ONE moss-GREEN adult inventor makes a homemade slow-watering device, trying then meaningfully improving it.\nTOP: A tidy modest balcony workshop. FULL green adult stands LEFT, looking thoughtfully at a real failed test on the RIGHT. A transparent reused water bottle is securely mounted upside down on a simple low wooden stand. A single flexible transparent tube exits the bottle's low blue cap, curves down and ends over the soil of a potted plant below. Water visibly exits ONLY the OPEN END OF THE TUBE, too quickly, a short stream into soil; the pot's saucer has overflowed a little. No clamp yet. Green considers a wooden clothespin held in one hand. A low side table holds a tiny open purse with THREE coins and one discarded bottle/tube prototype, showing few funds and prior trying. Green says exactly «زیادی تند می‌ریزه!»\nBOTTOM: SAME balcony, SAME full-size green adult and SAME complete upside-down bottle-stand-tube-plant arrangement. One short SINGLE UNBRANCHED tube runs from the blue bottle cap down and curves slightly right, ending over plant soil. A small wooden clothespin pinches this single tube 5cm BELOW the blue bottle cap; tube clearly continues BELOW the clothespin to the ONLY outlet. TWO OR THREE separated tiny drops leave ONLY the open lower end into soil. The clothespin is dry. There is no branch, loop, bypass or other tube end. Saucer dry. Green smiles and points naturally at the mechanism, other hand relaxed at its side. Small rejected prototype and three coins still on side table. Green says exactly «این‌بار درست شد!»\nKeep the complete single unbranched tube and dry clamp above its actual outlet exceptionally legible and mechanically coherent. All bodies, feet, bottle and pot fully inside each spacious scene. Blush on both faces is barely visible translucent warmth with diffuse feathered edges.",
+  "fullGenerationPromptEnglishPath": "review-data/wave-157-161-2026-10-19/161/161-a-20261019-v1.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "10c504d5de80fc1ee4612c9a45331cac97597bbc02525ef3f8e26503cb369f8a",
+  "qa": {
+    "visuallyInspected": true,
+    "status": "ready-for-root-review",
+    "notes": "خروجی نهایی واقعاً دیده شد. خطای اولیهٔ شاخه‌دارشدن لوله با دو ویرایش برطرف شد. لولهٔ نهایی یک مسیر از درپوش تا دهانه دارد؛ گیره بالاتر از دهانه و قطره‌ها فقط از انتها روی خاک‌اند. پاها کامل، متن فارسی درست، گونه‌ها محو. شمار انگشت‌های دست‌های بسته ادعای قطعی ندارد."
+  },
+  "provenancePath": "review-data/wave-157-161-2026-10-19/161/161-a-20261019-v1.executed-steps.json",
+  "rootVisualReview": {
+    "id": "161-a-20261019-v1",
+    "imageHash": "a0b618b6c5cefc96ae063030df46c9dcf07be25e24c65706cba4f8cc188b23f8",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observationsFa": "روایتِ آزمونِ جریان زیاد و اصلاح با گیره خواناست؛ قطره‌ها از دهانهٔ آزاد لوله به خاک می‌افتند و شاخهٔ اضافی وجود ندارد. پاها و عناصر اصلی کامل و گونه‌ها ملایم‌اند. شست و برخی انگشت‌های گرفتن ابزار طبیعی پوشیده‌اند؛ شمار پنهان ادعا نمی‌شود.",
+    "reviewedAt": "2026-10-21T06:40:21.056410+00:00"
+  }
+}

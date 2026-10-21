@@ -1,0 +1,49 @@
+{
+  "id": "161-b-20261019-v1",
+  "tool": "built-in image_gen.imagegen",
+  "referenceInputs": [
+    {
+      "path": "Images/148.jpg",
+      "role": "primary watercolor/anatomy style reference",
+      "actuallyViewed": true
+    },
+    {
+      "path": "Images/131.jpg",
+      "role": "eye/lash reference",
+      "actuallyViewed": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "operation": "generate",
+      "prompt": "Use case: illustration-story. A complete NEW square watercolor narrative illustration for an adult Persian advice book, readable immediately by a twelve-year-old. TWO spacious horizontal scenes stacked top to bottom, quiet white gutter and generous white margins.\nMeaning: money can buy materials but cannot buy a ready breakthrough. Passion for a real problem, belief, patient failed trials and ingenuity create a useful new result with modest resources. No rich villains, no sanctifying poverty, no literal hunger.\nInput images: Image 1 (148.jpg) is the PRIMARY STYLE AND ANATOMY REFERENCE ONLY. Image 2 (131.jpg) is the EYE/LASH REFERENCE ONLY. Do not copy scenes or texts. Match broad actual layered watercolor washes visible WITHIN heads, torsos AND limbs: irregular translucent overlaps, varied pigment density, subtle pooling. Moderate texture, no uniform tiled fine grain, no marker, pencil, vector, 3D or glossy surfaces. Local body-color darker contours; faint feathered blush diffused into watercolor, never flat red/pink circles.\nEvery character has a geometrically true circular head, no neck, hair, nose or ears, a subtle local-color crescent where head meets shoulders. Moderate adult proportions exactly as148: medium limbs, straight neutral torso and pelvis, gentle natural taper only. No bust, pinched waist, projecting hips or buttocks. Same neutral anatomy for every gender. Dark small oval eyes with tiny internal glints, absolutely no white sclera. Two arms, coherent grips, open hands three fingers and one thumb. Keep same head diameter and body size across both panels. FULL bodies and feet, every essential prop comfortably inside composition with floor space beneath feet.\nSoft humane daylight, minimal inhabited setting, pale watercolor edge dissolving into white paper. Only the exact short Persian dialogue requested, connected natural RTL, clear bubble tails. No English, captions, labels, numbers, logos or watermark.\n\nStory: A PURPLE adult pianist wants to play without stopping to turn music. A PINK adult inventor (only two fine upper-outer eyelashes, same neutral adult body) loves solving that real problem using a simple home-built pedal page-turner.\nTOP: A small upright piano on the right, purple sitting sideways on a low stool. One purple hand has left the keys to turn a sheet on the music rest, interrupted playing is clear. Purple says exactly «کاش بدون دست ورق می‌خورد!» On the left, pink stands at a modest low workbench, thoughtfully examining a discarded bent lever and crumpled music sheet from a failed trial. A short cord, wooden foot pedal and THREE coins on the bench. No clutter.\nBOTTOM: Same piano, full purple body/stool, same pink on the left, same full body sizes. Purple happily plays with BOTH hands on keyboard while ONE foot presses a separate homemade wooden pedal resting on the floor to the left of the piano's own pedals. An obvious SINGLE taut cord runs up the piano's visible side from that wooden pedal to ONE hinged little wooden arm at the music rest. That arm's soft clip clearly grips the outer edge of ONE paper page, lifting it in a gentle curved turning arc toward the other side; page stays connected at the book's central fold. No floating pages. Hinge, arm, single cord and pedal must be legible and mechanically simple. Pink watches, pleased, says exactly «بالاخره شد!» Failed bent arm and crumpled sheet remain on the little bench, with three coins. No magic, powered motors or intricate gears.\nA sparse piano-room workshop, blank music-book cover; sparse music symbols permitted on paper, no words except the two dialogue bubbles. Frame everything small enough to include piano, full bodies, feet and separate pedal with white margins.",
+      "inputPaths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-9434fda0-e1ca-4d74-ba48-65f2fb52795f.png",
+      "visualQA": "Viewed; extra pink hand, hidden/cropped top inventor legs and bounded blush. Rejected."
+    },
+    {
+      "step": 2,
+      "operation": "edit",
+      "prompt": "Targeted edit of this exact two-panel piano invention illustration. Keep both Persian bubbles, piano, musician, working page-turner and overall watercolor style.\nCorrect the PINK inventor and bench in BOTH panels so the inventor's FULL adult body and BOTH FEET are plainly visible inside each panel, no body truncated at the gutter. Replace the huge foreground desk with a SMALL LOW side workbench at the FAR LEFT, with its important objects still visible. The pink inventor stands BESIDE this little bench rather than behind it. Complete its straight neutral torso, pelvis, medium legs and both feet. Same head diameter and total body size in top and bottom. Do not cover legs with desk. Keep generous floor and white margin under feet.\nTOP pink has EXACTLY TWO ARMS AND TWO HANDS TOTAL: one hand holds the bent wooden failed lever; the other rests thoughtfully against the chin. REMOVE the stray third pink hand at the right holding paper. Set that crumpled sheet ON the small bench, alongside homemade pedal, cord and exactly THREE coins. No extra hands anywhere.\nBOTTOM pink stays calmly pleased, hands clasped naturally; small bench holds failed lever, crumpled sheet and three coins. Keep purple's BOTH hands playing keys and its one foot pressing the separate wooden pedal. Keep ONE continuous visible cord from pedal to the little hinged page-turning arm, no detached cord.\nMake any cheek blush on both characters barely visible diffuse translucent watercolor, no sharply bounded pink disks. Keep circular heads, dark oval eyes tiny internal glints no sclera, two fine lashes only on pink, neutral straight adult bodies, broad layered watercolor on all body parts. No other changes.",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-9434fda0-e1ca-4d74-ba48-65f2fb52795f.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-511eb153-3b76-4928-b7ae-da47679bdc34.png",
+      "visualQA": "Viewed; extra hand removed and full legs/feet restored. Bounded cheek patches remained."
+    },
+    {
+      "step": 3,
+      "operation": "edit",
+      "prompt": "Change ONLY cheek color in this exact completed two-panel illustration. On the PINK inventor in BOTH top and bottom panels, REMOVE the conspicuous circular darker pink cheek patches completely. Repaint that area as continuous pale pink facial watercolor matching surrounding skin, with at most a barely perceptible warm tint softly feathered across a wider irregular area, no round boundary and no flat red/pink disk. Preserve mouth, dark oval eyes/glints and fine lashes exactly. Preserve every other pixel-level feature as closely as possible: same neutral adult body, all feet, bench, pianist, piano, cord, pedal, turning page, both correct Persian texts, watercolor texture and composition.",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-511eb153-3b76-4928-b7ae-da47679bdc34.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-cdd6132b-6a1f-442c-b464-7e7f2026c6fc.png",
+      "visualQA": "Viewed final; pink cheek patches removed, bodies/feet complete, Persian correct, page-turning arm/cord/foot pedal readable. Musician's far leg naturally occluded in seated pose."
+    }
+  ]
+}

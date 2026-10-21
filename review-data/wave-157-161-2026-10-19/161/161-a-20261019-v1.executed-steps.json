@@ -1,0 +1,49 @@
+{
+  "id": "161-a-20261019-v1",
+  "tool": "built-in image_gen.imagegen",
+  "referenceInputs": [
+    {
+      "path": "Images/148.jpg",
+      "role": "primary watercolor/anatomy style reference",
+      "actuallyViewed": true
+    },
+    {
+      "path": "Images/131.jpg",
+      "role": "eye/lash reference",
+      "actuallyViewed": true
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "operation": "generate",
+      "prompt": "Use case: illustration-story. A complete NEW square watercolor narrative illustration for an adult Persian advice book, readable immediately by a twelve-year-old. TWO spacious horizontal scenes stacked top to bottom, quiet white gutter and generous white margins.\nMeaning: money can buy materials but cannot buy a ready breakthrough. Passion for a real problem, belief, patient failed trials and ingenuity create a useful new result with modest resources. No rich villains, no sanctifying poverty, no literal hunger.\nInput images: Image 1 (148.jpg) is the PRIMARY STYLE AND ANATOMY REFERENCE ONLY. Image 2 (131.jpg) is the EYE/LASH REFERENCE ONLY. Do not copy scenes or texts. Match broad actual layered watercolor washes visible WITHIN heads, torsos AND limbs: irregular translucent overlaps, varied pigment density, subtle pooling. Moderate texture, no uniform tiled fine grain, no marker, pencil, vector, 3D or glossy surfaces. Local body-color darker contours; faint feathered blush diffused into watercolor, never flat red/pink circles.\nEvery character has a geometrically true circular head, no neck, hair, nose or ears, a subtle local-color crescent where head meets shoulders. Moderate adult proportions exactly as148: medium limbs, straight neutral torso and pelvis, gentle natural taper only. No bust, pinched waist, projecting hips or buttocks. Same neutral anatomy for every gender. Dark small oval eyes with tiny internal glints, absolutely no white sclera. Two arms, coherent grips, open hands three fingers and one thumb. Keep same head diameter and body size across both panels. FULL bodies and feet, every essential prop comfortably inside composition with floor space beneath feet.\nSoft humane daylight, minimal inhabited setting, pale watercolor edge dissolving into white paper. Only the exact short Persian dialogue requested, connected natural RTL, clear bubble tails. No English, captions, labels, numbers, logos or watermark.\n\nStory: ONE moss-GREEN adult inventor makes a homemade slow-watering device, trying then meaningfully improving it.\nTOP: A tidy modest balcony workshop. FULL green adult stands LEFT, looking thoughtfully at a real failed test on the RIGHT. A transparent reused water bottle is securely mounted upright on a simple low wooden stand. A single flexible transparent tube exits the bottle's BOTTOM, curves down and ends over the soil of a potted plant below. Water visibly exits ONLY the OPEN END OF THE TUBE, too quickly, a short stream into soil; the pot's saucer has overflowed a little. No clamp yet. Green considers a wooden clothespin held in one hand. A low side table holds a tiny open purse with THREE coins and one discarded bottle/tube prototype, showing few funds and prior trying. Green says exactly «زیادی تند می‌ریزه!»\nBOTTOM: SAME balcony, SAME full-size green adult and SAME complete bottle-stand-tube-plant arrangement. Green has added the ONE wooden clothespin to pinch the MIDDLE of the flexible tube. The clamp is WELL ABOVE and physically distinct from the tube outlet. The remaining tube continues clearly at least a hand-length BELOW the clamp, then its OPEN END hangs just above the soil. TWO OR THREE separated tiny drops leave ONLY THIS OPEN END into the soil. The clothespin itself is dry: NO water from clamp, NO waterfall. Saucer now dry. Green smiles at the drops while gently adjusting the clothespin. Small rejected prototype and three coins still on side table. Green says exactly «این‌بار درست شد!»\nKeep the single continuous tube, dry middle clamp and low actual outlet exceptionally legible and mechanically coherent. All bodies, feet, bottle and pot fully inside each spacious scene. A thoughtful useful invention from trial and design change, no magical success.",
+      "inputPaths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-b5ffea20-f915-46bb-a969-189441b745c7.png",
+      "visualQA": "Viewed; rejected branched tube and flat blush."
+    },
+    {
+      "step": 2,
+      "operation": "edit",
+      "prompt": "Edit this exact illustration, preserving both complete panels, all character poses/body proportions, Persian text, scenery, watercolor style, feet, white margins and all props.\nCritical correction ONLY in the BOTTOM panel's irrigation tube: remove the current Y-shaped tube and every branch. Draw ONE single unbranched flexible tube, with precisely two ends. End1 attaches to the blue bottle cap. From that cap the tube runs LEFTWARD and UPWARD to pass THROUGH the wooden clothespin which the green inventor is holding. The clothespin pinches the tube shut almost completely. After passing THROUGH this clothespin, the SAME tube bends smoothly RIGHTWARD and DOWNWARD to end over the soil of the pot. Its lower free end is the ONLY outlet, with the existing two or three small separated drops falling into soil. There must be NO direct cap-to-outlet bypass, NO T-junction, NO Y-branch, NO dangling extra open tube end. The tube is a single continuous S-shaped path: bottle cap -> clothespin -> outlet -> soil. Keep clothespin dry.\nAlso soften cheeks on the green character in BOTH panels: very faint translucent diffused warm watercolor tint blended into green, no bounded flat pink disks. Preserve dark oval eyes and tiny glints, no white sclera. Everything else unchanged.",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-b5ffea20-f915-46bb-a969-189441b745c7.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-633b48a1-b95c-4d46-86a1-0875570eb8fd.png",
+      "visualQA": "Viewed; blush fixed but tube remained branched, rejected."
+    },
+    {
+      "step": 3,
+      "operation": "edit",
+      "prompt": "Edit ONLY the bottom panel's hose/clip and the inventor's raised hand, preserve everything else exactly including both Persian speech bubbles and diffuse cheek color.\nThe current bottom tube is still wrongly branched. REMOVE THE ENTIRE LEFTWARD LOOP AND CLIP from the inventor's hand. Make the green raised hand a simple relaxed pointing gesture toward the mechanism, touching nothing. Redraw just ONE short unbranched tube: from the bottle's blue cap it hangs DOWN, curves slightly RIGHT, and ends over the plant soil at the existing outlet. No left branch whatsoever. Place the one small wooden clothespin directly on this single tube 5 cm BELOW THE BLUE CAP, pinching it. Tube continues visibly below that clothespin to its outlet. Only a few separated tiny drops from the final outlet into soil. No branch, no loop, no tube to hand, no direct bypass, no additional outlet. This is a simple bottle -> short hose pinched near cap by clothespin -> hose outlet -> drops -> soil. Clip is dry. Keep full green body and feet, straight neutral adult body, circular head, hand-painted watercolor and both panels unchanged.",
+      "inputPaths": [
+        "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-633b48a1-b95c-4d46-86a1-0875570eb8fd.png"
+      ],
+      "resultSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15893-f9f1-7d52-8276-67096536fd54\\exec-0ea57422-51e5-44c0-a040-412b134266a3.png",
+      "visualQA": "Viewed final; single cap-to-outlet tube with dry clip near cap, droplets only from outlet. Persian correct, full bodies/feet, diffuse blush."
+    }
+  ]
+}

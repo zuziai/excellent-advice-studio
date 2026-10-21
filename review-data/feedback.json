@@ -1,9 +1,9 @@
 {
   "format": "excellent-advice-feedback",
   "version": 1,
-  "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+  "waveId": "wave-157-161-2026-10-19-v1",
   "styleVersion": "style-2026-10-19-user-refinements",
-  "exportedAt": "2026-10-20T08:22:57.706Z",
+  "exportedAt": "2026-10-21T06:45:27.697Z",
   "records": [
     {
       "sentenceId": 151,
@@ -934,7 +934,7 @@
     },
     {
       "sentenceId": 154,
-      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+      "waveId": "wave-157-161-2026-10-19-v1",
       "candidateIds": [
         "154-a-20261019-v1",
         "154-b-20261019-v1",
@@ -949,7 +949,7 @@
       "note": "",
       "customIdea": "",
       "requestedVariants": null,
-      "updatedAt": "2026-10-19T17:45:27.001Z",
+      "updatedAt": "2026-10-21T06:22:49.199Z",
       "history": [
         {
           "sentenceId": 154,
@@ -1077,7 +1077,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "155-b-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+      "waveId": "wave-157-161-2026-10-19-v1",
       "candidateIds": [
         "155-a-20261019-v1",
         "155-b-20261019-v2",
@@ -1153,7 +1153,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "156-d-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+      "waveId": "wave-157-161-2026-10-19-v1",
       "candidateIds": [
         "156-a-20261019-v1",
         "156-b-20261019-v1",
@@ -1289,11 +1289,72 @@
               "publishedAt": "2026-10-19T20:03:09.706699+00:00"
             }
           ]
+        },
+        {
+          "status": "revise",
+          "chosenIdeaId": "157-b-20261019-v2",
+          "revisionRequest": {
+            "requestId": "ff439cbc-716e-4fb4-8a42-f7aef490a989",
+            "baseIdeaId": "157-b-20261019-v2",
+            "baseVersion": 2,
+            "comment": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره",
+            "submittedAt": "2026-10-20T08:25:08.715Z"
+          },
+          "revisionProgress": {
+            "requestId": "ff439cbc-716e-4fb4-8a42-f7aef490a989",
+            "status": "queued",
+            "updatedAt": "2026-10-20T08:25:08.716Z"
+          },
+          "updatedAt": "2026-10-20T08:25:08.716Z"
+        },
+        {
+          "status": "approved",
+          "chosenIdeaId": "157-d-20261019-v2",
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {
+            "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+            "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+            "157-b-20261019-v2": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-20T08:26:55.706Z"
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {
+            "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+            "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+            "157-b-20261019-v2": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-20T08:26:55.706Z"
+        },
+        {
+          "status": "approved",
+          "chosenIdeaId": "157-d-20261019-v2",
+          "updatedAt": "2026-10-20T08:26:55.706Z",
+          "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+          "ideaNotes": {
+            "157-d-20261019-v1": "اندام آدمک ها مشکل داره و شبیه استایل من نیست. تاکید دارم نباید کمر و باسن واضح باشه. لازمه یه بار دیگه رفرنس های منو چک کنی. آدمک بنفش سمت راست هم بدنش متناسب نیست. سرها نباید بیضی باشه. این اشتباه رو تکرار نکن",
+            "157-b-20261019-v1": "بدن آدمک ها اصلا استایل من نیست نباید باسن یا کمر حالت جنسیتی داشته باشه به رفرنس ها مراجعه کن. سرها نباید بیضی باشه. قد و هیکل آدمک در دو قسمت تصویر نباید تغییر کنه",
+            "157-b-20261019-v2": "باز هم دقیقا اندازه ها برابر نیستند. باز هم سرخی گونه ها مصنوعیه باز هم باسن ها برجسته شدند. گفتم جنس مونث فقط مژه داره و دیگه اون حالت اندام زنانه رو نداره"
+          },
+          "note": ""
         }
       ],
-      "status": "pending",
-      "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-progress-01-edits-2",
+      "status": "approved",
+      "chosenIdeaId": "157-d-20261019-v2",
+      "waveId": "wave-157-161-2026-10-19-v1",
       "candidateIds": [
         "157-a-20261019-v1",
         "157-b-20261019-v2",
@@ -1304,7 +1365,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-20T08:22:51.819Z",
+      "updatedAt": "2026-10-20T08:26:55.706Z",
       "latestRevisionResults": [
         {
           "ideaId": "157-d-20261019-v2",
@@ -1327,7 +1388,156 @@
         "revisionRequestId": "6050ddcf-d3f1-4917-a9e9-ed8373a363c3",
         "version": 2,
         "publishedAt": "2026-10-20T08:15:51.127041+00:00"
+      },
+      "reviewMigration": {
+        "automatic": true,
+        "appliedAt": "2026-10-20T08:48:47.572Z"
+      },
+      "decisionIntent": {
+        "id": "8a7b530b-0d37-401c-8b73-fb9b3a7c2427",
+        "status": "approved",
+        "chosenIdeaId": "157-d-20261019-v2",
+        "submittedAt": "2026-10-20T08:26:55.706Z"
       }
+    },
+    {
+      "sentenceId": 158,
+      "ideaNotes": {
+        "158-c-20261019-v1": "انگشت ها مشکل دارند.... نباید یه اشتباه مدام تکرار بشه. تو هر بار قبل از ارائه تصویر باید مطمئن بشی که این اشتباه رو تکرار نکنی "
+      },
+      "note": "",
+      "history": [
+        {
+          "sentenceId": 158,
+          "ideaNotes": {
+            "158-c-20261019-v1": "انگشت ها مشکل دارند.... نباید یه اشتباه مدام تکرار بشه. تو هر بار قبل از ارائه تصویر باید مطمئن بشی که این اشتباه رو تکرار نکنی "
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "158-c-20261019-v1",
+          "waveId": "wave-157-161-2026-10-19-progress-03",
+          "candidateIds": [
+            "158-a-20261019-v1",
+            "158-b-20261019-v1",
+            "158-c-20261019-v1",
+            "158-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+            "baseIdeaId": "158-c-20261019-v1",
+            "baseVersion": 1,
+            "comment": "انگشت ها مشکل دارند.... نباید یه اشتباه مدام تکرار بشه. تو هر بار قبل از ارائه تصویر باید مطمئن بشی که این اشتباه رو تکرار نکنی",
+            "submittedAt": "2026-10-20T09:05:51.771Z"
+          },
+          "revisionProgress": {
+            "requestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+            "status": "in_progress",
+            "message": "اصلاح دست‌ها و بازبینی تعداد انگشت‌ها در هر دو قابِ نانوایی آغاز شد.",
+            "updatedAt": "2026-10-21T06:27:04.799Z",
+            "startedAt": "2026-10-21T06:27:04.799Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-21T06:27:04.799Z",
+          "decisionIntent": {
+            "id": "49411d20-27de-48d8-8455-6183b8a6682c",
+            "status": "revise",
+            "chosenIdeaId": "158-c-20261019-v1",
+            "submittedAt": "2026-10-20T09:05:51.772Z"
+          }
+        }
+      ],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "waveId": "wave-157-161-2026-10-19-v1",
+      "candidateIds": [
+        "158-a-20261019-v1",
+        "158-b-20261019-v1",
+        "158-c-20261021-v2",
+        "158-d-20261019-v1"
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null,
+      "requestedVariants": null,
+      "updatedAt": "2026-10-21T06:36:03.986768+00:00",
+      "latestRevisionResults": [
+        {
+          "ideaId": "158-c-20261021-v2",
+          "parentIdeaId": "158-c-20261019-v1",
+          "revisionRequestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+          "version": 2,
+          "publishedAt": "2026-10-21T06:36:03.986768+00:00"
+        }
+      ],
+      "latestRevisionResult": {
+        "ideaId": "158-c-20261021-v2",
+        "parentIdeaId": "158-c-20261019-v1",
+        "revisionRequestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+        "version": 2,
+        "publishedAt": "2026-10-21T06:36:03.986768+00:00"
+      }
+    },
+    {
+      "sentenceId": 159,
+      "ideaNotes": {},
+      "note": "",
+      "history": [],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "waveId": "wave-157-161-2026-10-19-v1",
+      "candidateIds": [
+        "159-a-20261019-v1",
+        "159-b-20261019-v1",
+        "159-c-20261019-v1",
+        "159-d-20261019-v1"
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null,
+      "requestedVariants": null,
+      "updatedAt": "2026-10-20T09:17:53.441891+00:00"
+    },
+    {
+      "sentenceId": 160,
+      "ideaNotes": {},
+      "note": "",
+      "history": [],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "waveId": "wave-157-161-2026-10-19-v1",
+      "candidateIds": [
+        "160-a-20261019-v1",
+        "160-b-20261019-v1",
+        "160-c-20261019-v1",
+        "160-d-20261019-v1"
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null,
+      "requestedVariants": null,
+      "updatedAt": "2026-10-21T06:45:08.162464+00:00"
+    },
+    {
+      "sentenceId": 161,
+      "ideaNotes": {},
+      "note": "",
+      "history": [],
+      "status": "pending",
+      "chosenIdeaId": null,
+      "waveId": "wave-157-161-2026-10-19-v1",
+      "candidateIds": [
+        "161-a-20261019-v1",
+        "161-b-20261019-v1",
+        "161-c-20261019-v1",
+        "161-d-20261019-v1"
+      ],
+      "revisionRequest": null,
+      "revisionProgress": null,
+      "batchRequest": null,
+      "requestedVariants": null,
+      "updatedAt": "2026-10-21T06:45:08.661095+00:00"
     }
   ],
   "sentences": [
@@ -1515,6 +1725,194 @@
           "version": 2,
           "parentIdeaId": "157-d-20261019-v1",
           "revisionRequestId": "45060f48-b4bf-4933-8866-cab56486feb5",
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "english": "You are only as young as the last time you changed your mind.",
+      "persian": "جوونی‌ت رو از آخرین باری حساب کن که نظرت رو عوض کردی.",
+      "ideas": [
+        {
+          "id": "158-a-20261019-v1",
+          "title": "هنوز می‌تونم شروع کنم",
+          "titleFa": "هنوز می‌تونم شروع کنم",
+          "image": "art/158-a-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "158-b-20261019-v1",
+          "title": "کم‌حرف، پُرهنر",
+          "titleFa": "کم‌حرف، پُرهنر",
+          "image": "art/158-b-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "158-c-20261021-v2",
+          "title": "نون بدون تنور",
+          "titleFa": "نون بدون تنور",
+          "image": "art/158-c-20261021-v2.png",
+          "version": 2,
+          "parentIdeaId": "158-c-20261019-v1",
+          "revisionRequestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+          "batchRequestId": null
+        },
+        {
+          "id": "158-d-20261019-v1",
+          "title": "این جوون هم می‌تونه یادم بده",
+          "titleFa": "این جوون هم می‌تونه یادم بده",
+          "image": "art/158-d-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "english": "When hitchhiking, look like the person you want to pick you up.",
+      "persian": "وقتی کنار جاده منتظر می‌مونی کسی سوارت کنه، ظاهرت شبیه همون کسی باشه که دوست داری برات نگه داره.",
+      "ideas": [
+        {
+          "id": "159-a-20261019-v1",
+          "title": "هم‌سفرِ کوه",
+          "titleFa": "هم‌سفرِ کوه",
+          "image": "art/159-a-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "159-b-20261019-v1",
+          "title": "کراوات توی کوله",
+          "titleFa": "کراوات توی کوله",
+          "image": "art/159-b-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "159-c-20261019-v1",
+          "title": "آشنا از دو دنیای سفر",
+          "titleFa": "آشنا از دو دنیای سفر",
+          "image": "art/159-c-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "159-d-20261019-v1",
+          "title": "هم‌سلیقه‌ایم؛ سوار شو",
+          "titleFa": "هم‌سلیقه‌ایم؛ سوار شو",
+          "image": "art/159-d-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "english": "Worth repeating: Measure twice, cut once.",
+      "persian": "ارزش تکرار داره: دو بار اندازه بگیر، یه بار ببر.",
+      "ideas": [
+        {
+          "id": "160-a-20261019-v1",
+          "title": "پاک‌کنِ قهرمان",
+          "titleFa": "پاک‌کنِ قهرمان",
+          "image": "art/160-a-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "160-b-20261019-v1",
+          "title": "قدِ پرده را دوباره ببین",
+          "titleFa": "قدِ پرده را دوباره ببین",
+          "image": "art/160-b-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "160-c-20261019-v1",
+          "title": "هنوز نبریدم",
+          "titleFa": "هنوز نبریدم",
+          "image": "art/160-c-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "160-d-20261019-v1",
+          "title": "یک تکه چوب، دو نفر دقت",
+          "titleFa": "یک تکه چوب، دو نفر دقت",
+          "image": "art/160-d-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "english": "Money is overrated. Truly new things rarely need an abundance of money. If that was so, billionaires would have a monopoly on inventing new things, and they don’t. Instead, almost all breakthroughs are made by those who lack money. If breakthroughs could be bought, then the rich would buy them. Instead, passion, persistence, belief, and ingenuity are required to invent new things—qualities the poor and young often have in abundance. Stay hungry.",
+      "persian": "به پول بیشتر از حد بها می‌دن. چیزهای واقعاً تازه به‌ندرت به پول فراوون نیاز دارن. وگرنه اختراع چیزهای تازه در انحصار میلیاردرها بود، که نیست. تقریباً همه‌ی جهش‌های بزرگ کار کساییه که پول کافی ندارن. اگه می‌شد این جهش‌ها رو خرید، ثروتمندها می‌خریدنشون. برای اختراع، شور و اشتیاق، پشتکار، باور و ابتکار لازمه؛ چیزهایی که آدم‌های کم‌پول و جوون اغلب فراوون دارن. تشنه‌ی پیشرفت بمون.",
+      "ideas": [
+        {
+          "id": "161-a-20261019-v1",
+          "title": "پول کم، آزمایش‌های زیاد",
+          "titleFa": "پول کم، آزمایش‌های زیاد",
+          "image": "art/161-a-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "161-b-20261019-v1",
+          "title": "ورق‌زدن با پا",
+          "titleFa": "ورق‌زدن با پا",
+          "image": "art/161-b-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "161-c-20261019-v1",
+          "title": "فکرِ تازه زیر درخت",
+          "titleFa": "فکرِ تازه زیر درخت",
+          "image": "art/161-c-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
+          "batchRequestId": null
+        },
+        {
+          "id": "161-d-20261019-v1",
+          "title": "ابزار را می‌خریم؛ فکر را می‌سازیم",
+          "titleFa": "ابزار را می‌خریم؛ فکر را می‌سازیم",
+          "image": "art/161-d-20261019-v1.png",
+          "version": 1,
+          "parentIdeaId": null,
+          "revisionRequestId": null,
           "batchRequestId": null
         }
       ]

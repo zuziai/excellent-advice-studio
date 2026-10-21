@@ -1,0 +1,24 @@
+{
+  "tool": "built-in imagegen",
+  "mode": "generate",
+  "steps": [
+    {
+      "prompt": "Use case: illustration-story. New SQUARE adult Persian book watercolor. TWO spacious horizontal scenes stacked TOP TO BOTTOM. Style references only:148 for straight neutral adult bodies and BROAD watercolor,131 for eyes/lashes. \nTOP: Sparse neighborhood bakery courtyard, a small UNLIT clay bread oven behind. Turquoise OLDER adult baker with two tiny crow's-feet and small round glasses watches rose-pink adult friend successfully lift a puffy golden flatbread from a cast-iron skillet with a wooden spatula. A second identical cooked flatbread is on a small plate. Skillet sits on a compact safe burner atop a small worktable. Both wear identical simple cream aprons. Turquoise looks at the actual bread with surprise and says exactly «بدون تنور که نون نمی‌شه!»\nBOTTOM: SAME scene and two adults, exact same scale. Turquoise, still same wrinkles/glasses/age, stands UPRIGHT and eagerly tries the skillet method, holds the spatula naturally under another puffy flatbread. Rose-pink guides kindly beside them. Turquoise smiles, says exactly «پس باید دوباره یاد بگیرم!» The same unlit clay oven is in background. The elder changes a firm belief after direct evidence and enjoys learning; no physical rejuvenation or worship of modern technology. Complete figures/feet below the small table, hands safely away from heat, no extra characters, plants or decoration.\nAnatomy directly matches148: geometrically CIRCULAR heads, no neck/nose/ear/hair, direct shoulder join with local-color contact shadow. Medium adult limbs and STRAIGHT neutral torso sides and pelvis, same build for both sexes, no bust, pinched waist, curved projecting hips or buttocks, no fat or stick bodies. Identical head diameter/height/limb thickness per person across scenes. Small dark oval eyes with tiny interior glint, NO white sclera; glasses show turquoise skin through clear lenses. Pink differs only by two fine upper-outer lashes as131. Cheek warmth extremely faint and diffuse. Every hand exactly3 fingers and1 thumb with coherent grips.\nAuthentic broad, irregular overlapping translucent WATERCOLOR WASHES INSIDE heads and bodies, large varied pigment areas with luminous paper and restrained pooling as148. Darker LOCAL-COLOR contours, not black. No uniform fine grain, crystalline pattern, marker, pencil, glossy or vector coloring. Sparse warm adult setting, ample WHITE outer margins and white gap between scenes. Every body/foot/prop fully inside, floor below feet; no cropping, heavy frames, extra text or watermark. Only the two specified short Persian bubbles, connected RTL text with tails to turquoise.",
+      "referenced_image_paths": [
+        "Images/148.jpg",
+        "Images/131.jpg"
+      ],
+      "transparent_background": false,
+      "sourceOutputPath": "C:\\Users\\zohre\\.codex\\generated_images\\01a15863-a05a-7df3-9b0d-6df278fa024d\\exec-7f578f72-3755-457a-8d3d-e4eda85491b3.png"
+    },
+    {
+      "kind": "root-targeted-edit",
+      "promptPath": "review-data/wave-157-161-2026-10-19/158/158-c-20261019-v1.root-edit.en.txt",
+      "prompt": "Use case: precise-object-edit. Edit this existing two-panel watercolor bread-making story. Correct only character scale continuity: in the LOWER panel, the turquoise older baker must have the same circular head diameter, torso breadth, arm thickness and full adult body height as that identical turquoise baker in the UPPER panel, at the same viewing scale. His lower-panel head is currently noticeably smaller; restore the upper-panel proportions while preserving the gentle forward working gesture and both visible feet. The lower-panel pink baker should likewise retain the upper-panel pink baker's head diameter/body scale. Keep the bodies straight-sided, neutral, without pinched waist, bust, protruding hips or buttocks. Do not make either character fatter. Preserve all Persian lettering verbatim, faces with tiny dark oval eyes and tiny inner glints, glasses and lashes, all bread/pans/utensils, stove and oven, same aprons, table perspective, both panels, white margins and dimensions. All bodies and feet fully inside the image. Any cheek warmth should be faint, diffuse watercolor rather than flat circles. Retain layered watercolor and darker local-color outlines.",
+      "inputPath": "review-data/wave-157-161-2026-10-19/158/attempts/158-c-20261019-v1.before-root-edit.png",
+      "outputPath": "review-data/wave-157-161-2026-10-19/158/158-c-20261019-v1.png",
+      "outputSha256": "0412caa932d62fa339a96e5132a3808917cec000b4afa2de109f0664d6a09acc",
+      "generatedSourcePath": "C:\\Users\\zohre\\.codex\\generated_images\\01a10063-c778-79c2-9a83-c6baf2a04b9f\\exec-9cd11cab-551d-4a4a-93ad-15d4177661af.png"
+    }
+  ]
+}
