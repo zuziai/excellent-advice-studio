@@ -1,5 +1,5 @@
 {
-  "activeWaveId": "wave-157-161-2026-10-19-v1-edits-6",
+  "activeWaveId": "wave-157-161-2026-10-19-v1-edits-7",
   "publishedCurrentAndAncestors": [
     {
       "id": "151-k-v1",
@@ -282,6 +282,12 @@
       "image": "art/161-a-20261021-v2.png",
       "imageHash": "ba4907960e239d3cc596d89a657a95d3162ea1be5aea489bf4303f1741f64c80",
       "version": 2
+    },
+    {
+      "id": "161-a-20261021-v3",
+      "image": "art/161-a-20261021-v3.png",
+      "imageHash": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2",
+      "version": 3
     },
     {
       "id": "161-b-20261019-v1",

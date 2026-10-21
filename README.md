@@ -174,7 +174,7 @@ Recorded execution steps (`*.executed-steps.json`) and exact edit prompt files a
 
 The original style references **131 and 148** are included as `Images/131.jpg` and `Images/148.jpg`; `ARTWORKS.json` records their hashes. Approved final illustrations use PNG filenames.
 
-The owner's clothespin photograph is included as `review-data/revisions-159-161-2026-10-21/161/reference-user-gire-choobi.jpg`. It documents the gripping mechanism for illustration 161; the painting style still follows references 131 and 148. Its path and hash are recorded in the revised image metadata, and its exact bytes are covered by `FILES.sha256`.
+The owner's clothespin photograph is included as `review-data/revisions-159-161-2026-10-21/161/reference-user-gire-choobi.jpg`; the later close-up showing the required jaw-and-tube contact is `review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png`. Both are mechanical references for illustration 161; the painting style still follows references 131 and 148. Reference paths and hashes are recorded in the relevant revision metadata, and their exact bytes are covered by `FILES.sha256`.
 
 Not bundled: the full original image 1–150 reference archive (about 1.5 GB), source Word/PDF, local workbook backups, raw image-tool responses, old Git history, machine runtimes, `node_modules`, credentials, session tokens and locks. Included artwork is listed in `TRANSFER.json` and `ARTWORKS.json`; another historical provenance path does not prove that reference is bundled. Obtain the separate reference archive from the owner if a later task requires it.
 

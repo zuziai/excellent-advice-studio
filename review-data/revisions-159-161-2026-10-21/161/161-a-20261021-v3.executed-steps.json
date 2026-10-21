@@ -1,0 +1,54 @@
+{
+  "tool": "Built-in image_gen editing and compositing; no Python production artwork edits",
+  "recordedAt": "2026-10-21T08:51:27.501068+00:00",
+  "steps": [
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.executed-edit.en.txt",
+      "promptSha256": "306fbc321e677c492e90a1ad1e30eb5e674b3c8e179c76f76c8b4185426be48b",
+      "outputFileName": "exec-70c1b731-c9b2-491c-b29c-eb27640d1acd.png",
+      "disposition": "Rejected: both wooden jaws still occluded the blue tube."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.executed-edit-02.en.txt",
+      "promptSha256": "2bb855918b94839e02660027f930a38b27987530285aaee565ab5c17d92f0aa1",
+      "outputFileName": "exec-3bcd01ca-c9f9-4c6b-b4bc-6870b61deb28.png",
+      "disposition": "Rejected: near/far contact still did not match owner close-up."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.executed-detail-insert.en.txt",
+      "promptSha256": "10464a13121a515fb5eb71424a0d72527307f7b6cb443be2275100641158f806",
+      "outputFileName": "exec-ba283de9-3aeb-47e8-9748-dbf26e3c80fa.png",
+      "disposition": "Selected enlarged detail with reference jaw occlusion; preserved supporting input."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.executed-composite.en.txt",
+      "promptSha256": "86e19f84f7e9d1b7bfd612c87e7c8fbdcef4aabc78a3361b60de63a17c111932",
+      "outputFileName": "exec-37b20462-d5fc-42f8-b463-26f814763936.png",
+      "disposition": "Selected complete v3 artwork; root inspected whole image and enlarged contact."
+    }
+  ],
+  "selectedOutputSha256": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2",
+  "supportingCompositeInput": {
+    "path": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.mechanism-detail.png",
+    "sha256": "1f19f2a3a0b445941d3db7147b7c5de78b7f9f72b1a925c31a22bd5cafccce8e",
+    "role": "Built-in imagegen corrected detail, used as the actual insert input to final whole-art compositing"
+  },
+  "inspectionCropBoundsIn1254Canvas": [
+    827,
+    848,
+    992,
+    950
+  ],
+  "sourceDetailCropBoundsIn1254Canvas": [
+    785,
+    796,
+    1025,
+    1036
+  ],
+  "reference": {
+    "role": "Owner-supplied newer primary jaw/tube contact reference; supersedes previous orientation",
+    "path": "review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png",
+    "sha256": "3ec3772d0f91850ce010fd395e1d7f0395dc7dec65509d8162932bd639068f42"
+  },
+  "note": "PIL was used only for enlarged inspection/input crops, never to repaint or composite the final artwork. Unselected outputs remain in the local draft archive."
+}

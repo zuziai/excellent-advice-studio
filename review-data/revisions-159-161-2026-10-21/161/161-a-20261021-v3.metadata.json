@@ -1,0 +1,54 @@
+{
+  "id": "161-a-20261021-v3",
+  "sentenceId": 161,
+  "version": 3,
+  "outputPath": "book-review/dist/art/161-a-20261021-v3.png",
+  "sha256": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2",
+  "imageHash": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2",
+  "width": 1254,
+  "height": 1254,
+  "titleFa": "پول کم، آزمایش‌های زیاد",
+  "summaryFa": "جریانِ بیش از حدِ آب، با آزمایش و یک گیرهٔ چوبیِ ساده به قطره‌های کنترل‌شده تبدیل می‌شود.",
+  "storyFa": "در قاب بالا، آدمک سبز سرریزِ دستگاه آبیاری را می‌بیند؛ گیرهٔ چوبی کامل روی میز کنار قیچی و بست و نمونهٔ آزمایشی قرار دارد. در قاب پایین، همان گیره با دو فک خود شلنگ را گرفته و جریان به قطره‌های آرام تبدیل شده است.",
+  "meaningFa": "راه‌حل تازه فقط با خرید ابزار به دست نمی‌آید؛ فکرکردن به مسئله، امتحان‌کردن و اصلاحِ طرح، مواد ساده را به ابتکاری مفید تبدیل می‌کند.",
+  "fullGenerationPromptEnglish": "Use case: illustration-story.\nAsset: one complete square hand-painted watercolor narrative illustration for an adult Persian advice book, with TWO spacious horizontal scenes stacked top to bottom, a quiet white gutter and generous white paper margins. The meaning must be clear to a twelve-year-old without an outside explanation: ingenuity and patient experiments turn a failed simple invention into a useful result. Money can buy materials but cannot buy a ready breakthrough.\n\nReferences: Images/148.jpg is the primary adult anatomy and layered watercolor style reference; Images/131.jpg is the small dark eye and delicate eyelash reference. The owner's original rope photograph reference-user-gire-choobi.jpg documents ordinary peg mechanics; the newer owner watercolor close-up review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png is the PRIMARY MECHANICAL REFERENCE for the exact opposed-jaw contact on the blue tube. These references do not replace the book's anatomy/style references. Never copy advertising, logos, writing or unrelated objects.\n\nCharacter: ONE green symbolic adult inventor, recurring at approximately the same size in both scenes, with full body and complete feet. Geometrically circular head with equal width and height, no neck, hair, nose or ears, and a subtle darker same-green crescent separating head and shoulders. Medium adult limbs, neutral straight torso and pelvis, neither chubby nor stick-thin. No bust, pinched waist, projecting hips or buttocks, clothes or apron. Two arms and coherent hands; every fully visible open hand has THREE fingers plus ONE thumb, four total. Natural closed grips can occlude fingers. Small dark oval eyes with tiny white glints INSIDE the dark shape, absolutely no white sclera. Simple expressive eyebrows and mouth. Barely visible diffuse translucent cheek warmth, never flat circular blush dots.\n\nSetting: a modest sunny balcony workshop with warm tiled floor, low wooden side table LEFT, a few subdued plants, balcony railing and quiet distant pastel buildings. On the RIGHT, a tall simple wooden stand securely holds one transparent reused plastic water bottle upside down, blue screw cap at its bottom. A SINGLE unbranched clear-blue flexible hose exits the cap and curves down to an open lower outlet over the soil of a terracotta potted plant below. Bottle, stand, plant, table and character stay completely within each scene. A small rejected bottle/tube prototype, CLOSED red-handled scissors and one small metal hose clamp rest on the tabletop. These concrete tools show experimenting; no purse, money or coins.\n\nTOP SCENE, unsuccessful first trial: the green inventor stands fully on the floor LEFT of the device, one hand thoughtfully at the chin, the other EMPTY hand relaxed at the side. The inventor looks toward the watering problem. A normal small loose WOODEN CLOTHESPIN lies FLAT on its long side FULLY SUPPORTED on the tabletop, clearly inside the table's perimeter and away from every edge; a band of tabletop is visible around it. It is not in the inventor's hand, not hanging over the edge and not falling. The other three tabletop tools/prototype stay nearby without clutter. No peg is attached to the irrigation hose yet. Too much water exits ONLY the hose's open lower end into the plant pot; excess water overflows the saucer a little. No water leaks at cap or middle hose. One clean speech bubble, with tail to the green inventor, reads exactly: «زیادی تند می‌ریزه!»\n\nBOTTOM SCENE, thoughtful improvement: SAME balcony, full green inventor, table, upside-down bottle, stand, single hose and plant. The inventor smiles, points to the working peg/hose mechanism with one hand and rests the other near the hip. The loose wooden peg has been taken from the tabletop and attached to the hose shortly below the blue cap. The scissors, small metal clamp and spare bottle/tube prototype remain on the table. The peg is dry and slows the flow; two or three separate droplets leave ONLY the actual open lower end over plant soil. The saucer is dry.\n\nCRITICAL WOODEN PEG GEOMETRY: follow the owner's newer watercolor close-up reference review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png exactly for the bite. Its LEFT jaw mouth captures the tube, and the squeeze HANDLES extend RIGHT. Seen from a slightly elevated three-quarter angle, the far/back wooden jaw lies behind the blue hose and is visibly interrupted by it at the left mouth; the near/front wooden jaw masks the front strip of the hose. Thus BLUE covers rear BROWN while near BROWN covers BLUE. Never place both wooden arms in front of the hose. The tube sits deeply in the opposed jaw recess, with the two jaw tips pressing opposite sides. A short near-vertical hose segment enters directly ABOVE and leaves directly BELOW that same left jaw mouth; it must not cross beneath the spring or right handles. The spring pivot and side coil lie RIGHT of the tube, matching the supplied watercolor close-up. Exactly two normal wooden arms and one steel spring; normal small peg about seven or eight hose diameters long. A small local hose bend joins the vertical gripping segment to the one lower outlet. Single continuous unbranched flexible hose, dry peg, droplets only at the lower outlet, no collar, glass rim, coupler, extra clamp, branch or inset. The newer owner reference takes precedence over the older rope photograph for the jaw/tube contact and orientation.\n\nStyle: polished actual watercolor with broad moderate overlapping translucent washes visibly WITHIN heads, torsos, arms, hands, legs and feet as well as wood and background. Large irregular areas of pigment density, restrained edge pooling and textured luminous paper. Soft humane daylight, lively harmonious colors, gentle local-body-color darker outlines rather than black ink. No marker or colored-pencil look, uniform tiled fine grain, mosaic speckles, vector flatness, glossy plastic or 3D render. Pale irregular watercolor edges dissolve into generous clean white paper. Both specified Persian bubbles are correctly connected natural RTL and are the ONLY written text. No English, numerals, captions, logo or watermark. Preserve a clear before/after story with the same device: excessive flow first, then a genuinely gripping inexpensive wooden peg producing controlled droplets.\n",
+  "fullGenerationPromptEnglishPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.full-prompt.txt",
+  "fullGenerationPromptEnglishHash": "bae8a2f8663ad3fcfe24d5f5e737d2ef9488499d2aecb1663666e970ca56ab31",
+  "qa": {
+    "visuallyInspected": true,
+    "reviewState": "passed-root-review",
+    "reviewedAt": "2026-10-21T08:51:27.501068+00:00",
+    "observationsFa": "تصویر کامل و نمای نزدیک اتصال دیده شد. در نسخهٔ ۳ رنگ آبی لوله روی فک عقب دیده می‌شود و فک جلو روی بخش جلویی لوله می‌آید؛ لوله در دهانهٔ چپ و دسته‌ها و فنر در سمت راست‌اند. این ترتیب پوشیدگی مطابق مرجع نزدیکِ تازهٔ مالک است. هر دو قاب، گیرهٔ کامل روی میز در قاب بالا، متن‌ها، ابزارها و قطره از انتهای شلنگ حفظ شده‌اند. جزئیات تماس در مقیاس تصویر ساده‌سازی شده و نسخه هنوز منتظر تأیید مالک است.",
+    "ownerApprovalRequired": true
+  },
+  "provenancePath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.executed-steps.json",
+  "parentIdeaId": "161-a-20261021-v2",
+  "revisionRequestId": "16f3f80c-6ec6-4ee5-80dd-555b74b666a4",
+  "revisionSummaryFa": "گرفتنِ لوله با مرجع نزدیکِ تازه بازسازی شد: لوله در دهانهٔ چپ بین فک عقب و جلو قرار می‌گیرد؛ دسته‌ها و فنر سمت راست‌اند. گیرهٔ قاب بالا و بقیهٔ داستان حفظ شده‌اند.",
+  "fullGenerationPromptRole": "Independent complete English specification of the final whole image; consolidated after inspection. Actual submitted edit prompts are preserved separately; this specification was not submitted as an additional generation.",
+  "mechanicalReferences": [
+    {
+      "role": "Owner-supplied ordinary wooden clothespin grip geometry only",
+      "path": "review-data/revisions-159-161-2026-10-21/161/reference-user-gire-choobi.jpg",
+      "sha256": "46338078c66018fde49ddd3b4e10bc7af827501f88e25cfd4d5f4b60c77ae966"
+    },
+    {
+      "role": "Owner-supplied newer primary jaw/tube contact reference; supersedes previous orientation",
+      "path": "review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png",
+      "sha256": "3ec3772d0f91850ce010fd395e1d7f0395dc7dec65509d8162932bd639068f42"
+    }
+  ],
+  "supportingCompositeInput": {
+    "path": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.mechanism-detail.png",
+    "sha256": "1f19f2a3a0b445941d3db7147b7c5de78b7f9f72b1a925c31a22bd5cafccce8e",
+    "role": "Built-in imagegen corrected detail, used as the actual insert input to final whole-art compositing"
+  },
+  "rootVisualReview": {
+    "id": "161-a-20261021-v3",
+    "imageHash": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "reviewedAt": "2026-10-21T08:51:27.501068+00:00",
+    "observationsFa": "تصویر کامل و نمای نزدیک اتصال دیده شد. در نسخهٔ ۳ رنگ آبی لوله روی فک عقب دیده می‌شود و فک جلو روی بخش جلویی لوله می‌آید؛ لوله در دهانهٔ چپ و دسته‌ها و فنر در سمت راست‌اند. این ترتیب پوشیدگی مطابق مرجع نزدیکِ تازهٔ مالک است. هر دو قاب، گیرهٔ کامل روی میز در قاب بالا، متن‌ها، ابزارها و قطره از انتهای شلنگ حفظ شده‌اند. جزئیات تماس در مقیاس تصویر ساده‌سازی شده و نسخه هنوز منتظر تأیید مالک است."
+  }
+}
