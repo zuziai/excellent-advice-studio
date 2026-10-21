@@ -1,0 +1,67 @@
+{
+  "tool": "Built-in image_gen image editing",
+  "recordedAt": "2026-10-21T08:32:29.615276+00:00",
+  "steps": [
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-edit.en.txt",
+      "promptSha256": "eb038b3c5a69d1c404105b1ea44abc24ab9ad4a014de8e4ac235d91aa11cf128",
+      "outputFileName": "exec-15e90fff-787f-439d-aa76-b2659e110afe.png",
+      "disposition": "Not published: lower clamp remained wrong; upper peg held."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-edit-02.en.txt",
+      "promptSha256": "1469a07b1e38e15beda86272618365f143ed9bfe3b31e3947625074b1941c6f5",
+      "outputFileName": "exec-2c101874-c932-4f3c-b0e1-475528db84f4.png",
+      "disposition": "Not published: upper peg too close to edge; lower clamp wrong."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-edit-03.en.txt",
+      "promptSha256": "76c05400a90b1ae32e570731aa38301c49af511e11bbe7fa4554a07b46b07fdf",
+      "outputFileName": "exec-4a74c9da-d98d-4a9b-88da-7ed2f5d5c383.png",
+      "disposition": "Not published: upper tabletop placement improved, lower clamp wrong."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-detail-patch.en.txt",
+      "promptSha256": "09e7241456d09cb2efdddb3dee46e12eca5748a8a9dded0ddbaf3d5f48e8e0c2",
+      "outputFileName": "exec-f51fa35c-33ad-42e7-bfad-0cda3d1fa5ad.png",
+      "disposition": "Inspection patch only; incorrect clamp persisted."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-photo-transfer.en.txt",
+      "promptSha256": "9e7ea1e2832f6ec3cf48169cca1deee29dec7edecebdae4af4bf057eaf601ee7",
+      "outputFileName": "exec-4feaec94-29de-42fb-aad9-98241d38434e.png",
+      "disposition": "Inspection patch only; unwanted rim artifact."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-composite.en.txt",
+      "promptSha256": "4efd3377fa770429d3e09cc29120ed8be11a7099c11a16409fd51e8076dc7bd3",
+      "outputFileName": "exec-f502be02-3052-4770-b96a-9019550b83cf.png",
+      "disposition": "Not published: old clamp geometry persisted."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-remove-old-clamp.en.txt",
+      "promptSha256": "21f59afab43580bc2b677679158bbe9ba768bcb87559dc58319d1f83f78518e3",
+      "outputFileName": "exec-7920e5de-486d-4f5c-8690-78f6c1841d53.png",
+      "disposition": "Intermediate whole-art base with wrong clamp removed."
+    },
+    {
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v2.executed-user-reference-edit.en.txt",
+      "promptSha256": "129a49dbf6f8b325b2a4f677f088c09c5b5bc1d1756dab42ae6322bed510ece8",
+      "outputFileName": "exec-f5c9d4ab-d5e7-4894-85d2-6daf397164a3.png",
+      "disposition": "Selected v2; lower peg rebuilt directly from owner photograph."
+    }
+  ],
+  "selectedOutputSha256": "ba4907960e239d3cc596d89a657a95d3162ea1be5aea489bf4303f1741f64c80",
+  "finalEditInputs": [
+    {
+      "role": "Whole illustration with previous clamp removed",
+      "fileName": "exec-7920e5de-486d-4f5c-8690-78f6c1841d53.png"
+    },
+    {
+      "role": "Owner mechanical reference",
+      "path": "review-data/revisions-159-161-2026-10-21/161/reference-user-gire-choobi.jpg",
+      "sha256": "46338078c66018fde49ddd3b4e10bc7af827501f88e25cfd4d5f4b60c77ae966"
+    }
+  ],
+  "localDraftPolicy": "Unpublished generated drafts remain in the author local image archive; exact submitted edit prompt files accompany this record. No missing transcript is invented."
+}

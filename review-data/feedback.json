@@ -1,9 +1,9 @@
 {
   "format": "excellent-advice-feedback",
   "version": 1,
-  "waveId": "wave-157-161-2026-10-19-v1",
+  "waveId": "wave-157-161-2026-10-19-v1-edits-6",
   "styleVersion": "style-2026-10-19-user-refinements",
-  "exportedAt": "2026-10-21T06:45:27.697Z",
+  "exportedAt": "2026-10-21T08:33:08.130Z",
   "records": [
     {
       "sentenceId": 151,
@@ -934,7 +934,7 @@
     },
     {
       "sentenceId": 154,
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
         "154-a-20261019-v1",
         "154-b-20261019-v1",
@@ -1077,7 +1077,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "155-b-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
         "155-a-20261019-v1",
         "155-b-20261019-v2",
@@ -1153,7 +1153,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "156-d-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
         "156-a-20261019-v1",
         "156-b-20261019-v1",
@@ -1354,7 +1354,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "157-d-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
         "157-a-20261019-v1",
         "157-b-20261019-v2",
@@ -1365,7 +1365,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-20T08:26:55.706Z",
+      "updatedAt": "2026-10-21T08:32:57.914Z",
       "latestRevisionResults": [
         {
           "ideaId": "157-d-20261019-v2",
@@ -1448,9 +1448,9 @@
           }
         }
       ],
-      "status": "pending",
-      "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "status": "approved",
+      "chosenIdeaId": "158-c-20261021-v2",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
         "158-a-20261019-v1",
         "158-b-20261019-v1",
@@ -1461,7 +1461,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-21T06:36:03.986768+00:00",
+      "updatedAt": "2026-10-21T07:16:46.380Z",
       "latestRevisionResults": [
         {
           "ideaId": "158-c-20261021-v2",
@@ -1477,18 +1477,67 @@
         "revisionRequestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
         "version": 2,
         "publishedAt": "2026-10-21T06:36:03.986768+00:00"
+      },
+      "decisionIntent": {
+        "id": "6fcdca20-8eef-4e58-8cdd-a52fe5029d86",
+        "status": "approved",
+        "chosenIdeaId": "158-c-20261021-v2",
+        "submittedAt": "2026-10-21T07:16:46.380Z"
       }
     },
     {
       "sentenceId": 159,
-      "ideaNotes": {},
+      "ideaNotes": {
+        "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند"
+      },
       "note": "",
-      "history": [],
+      "history": [
+        {
+          "sentenceId": 159,
+          "ideaNotes": {
+            "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "159-a-20261019-v1",
+          "waveId": "wave-157-161-2026-10-19-v1",
+          "candidateIds": [
+            "159-a-20261019-v1",
+            "159-b-20261019-v1",
+            "159-c-20261019-v1",
+            "159-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+            "baseIdeaId": "159-a-20261019-v1",
+            "baseVersion": 1,
+            "comment": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+            "submittedAt": "2026-10-21T07:18:51.906Z"
+          },
+          "revisionProgress": {
+            "requestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+            "status": "in_progress",
+            "message": "نسخهٔ بدون لباس ساخته و بازبینی شده؛ در حال آماده‌سازی انتشار با تاریخچهٔ نسخهٔ قبلی.",
+            "updatedAt": "2026-10-21T07:48:32.389Z",
+            "startedAt": "2026-10-21T07:48:32.389Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-21T07:48:32.389Z",
+          "decisionIntent": {
+            "id": "8eaefbf3-e812-4f17-800c-41389778b968",
+            "status": "revise",
+            "chosenIdeaId": "159-a-20261019-v1",
+            "submittedAt": "2026-10-21T07:18:51.906Z"
+          }
+        }
+      ],
       "status": "pending",
       "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
-        "159-a-20261019-v1",
+        "159-a-20261021-v2",
         "159-b-20261019-v1",
         "159-c-20261019-v1",
         "159-d-20261019-v1"
@@ -1497,19 +1546,78 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-20T09:17:53.441891+00:00"
+      "updatedAt": "2026-10-21T08:14:59.037977+00:00",
+      "latestRevisionResults": [
+        {
+          "ideaId": "159-a-20261021-v2",
+          "parentIdeaId": "159-a-20261019-v1",
+          "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+          "version": 2,
+          "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+        }
+      ],
+      "latestRevisionResult": {
+        "ideaId": "159-a-20261021-v2",
+        "parentIdeaId": "159-a-20261019-v1",
+        "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+        "version": 2,
+        "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+      }
     },
     {
       "sentenceId": 160,
-      "ideaNotes": {},
+      "ideaNotes": {
+        "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن"
+      },
       "note": "",
-      "history": [],
+      "history": [
+        {
+          "sentenceId": 160,
+          "ideaNotes": {
+            "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "160-b-20261019-v1",
+          "waveId": "wave-157-161-2026-10-19-v1-edits-4",
+          "candidateIds": [
+            "160-a-20261019-v1",
+            "160-b-20261019-v1",
+            "160-c-20261019-v1",
+            "160-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+            "baseIdeaId": "160-b-20261019-v1",
+            "baseVersion": 1,
+            "comment": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+            "submittedAt": "2026-10-21T07:21:22.248Z"
+          },
+          "revisionProgress": {
+            "requestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+            "status": "in_progress",
+            "message": "اصلاح جای بدن و میز انجام شده؛ محل متر و ثبات مقیاس سه قاب در حال بازبینی و اصلاح است.",
+            "updatedAt": "2026-10-21T07:48:34.409Z",
+            "startedAt": "2026-10-21T07:48:34.409Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-21T07:48:34.409Z",
+          "decisionIntent": {
+            "id": "279628f5-c9c4-4625-b5ac-57af88b8187a",
+            "status": "revise",
+            "chosenIdeaId": "160-b-20261019-v1",
+            "submittedAt": "2026-10-21T07:21:22.248Z"
+          }
+        }
+      ],
       "status": "pending",
       "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
         "160-a-20261019-v1",
-        "160-b-20261019-v1",
+        "160-b-20261021-v2",
         "160-c-20261019-v1",
         "160-d-20261019-v1"
       ],
@@ -1517,18 +1625,91 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-21T06:45:08.162464+00:00"
+      "updatedAt": "2026-10-21T08:14:59.297798+00:00",
+      "latestRevisionResults": [
+        {
+          "ideaId": "160-b-20261021-v2",
+          "parentIdeaId": "160-b-20261019-v1",
+          "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+          "version": 2,
+          "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+        }
+      ],
+      "latestRevisionResult": {
+        "ideaId": "160-b-20261021-v2",
+        "parentIdeaId": "160-b-20261019-v1",
+        "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+        "version": 2,
+        "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+      }
     },
     {
       "sentenceId": 161,
-      "ideaNotes": {},
+      "ideaNotes": {
+        "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه"
+      },
       "note": "",
-      "history": [],
+      "history": [
+        {
+          "sentenceId": 161,
+          "ideaNotes": {
+            "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "161-a-20261019-v1",
+          "waveId": "wave-157-161-2026-10-19-v1-edits-5",
+          "candidateIds": [
+            "161-a-20261019-v1",
+            "161-b-20261019-v1",
+            "161-c-20261019-v1",
+            "161-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+            "baseIdeaId": "161-a-20261019-v1",
+            "baseVersion": 1,
+            "comment": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه",
+            "submittedAt": "2026-10-21T07:25:13.356Z"
+          },
+          "revisionProgress": {
+            "requestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+            "status": "in_progress",
+            "message": "اصلاح گرفتن واقعی شلنگ میان دو فک گیره و خلوت‌کردن ابزارهای میز آغاز شد.",
+            "updatedAt": "2026-10-21T07:48:36.459Z",
+            "startedAt": "2026-10-21T07:48:36.459Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-10-21T07:48:36.459Z",
+          "decisionIntent": {
+            "id": "1c70a64d-8577-4cbd-ac2c-ace8fc044a5e",
+            "status": "revise",
+            "chosenIdeaId": "161-a-20261019-v1",
+            "submittedAt": "2026-10-21T07:25:13.356Z"
+          }
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {
+            "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-21T08:32:45.102295+00:00"
+        }
+      ],
       "status": "pending",
       "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-6",
       "candidateIds": [
-        "161-a-20261019-v1",
+        "161-a-20261021-v2",
         "161-b-20261019-v1",
         "161-c-20261019-v1",
         "161-d-20261019-v1"
@@ -1537,7 +1718,27 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-21T06:45:08.661095+00:00"
+      "updatedAt": "2026-10-21T08:32:45.102295+00:00",
+      "latestRevisionResults": [
+        {
+          "ideaId": "161-a-20261021-v2",
+          "parentIdeaId": "161-a-20261019-v1",
+          "revisionRequestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+          "version": 2,
+          "publishedAt": "2026-10-21T08:32:45.102295+00:00"
+        }
+      ],
+      "latestRevisionResult": {
+        "ideaId": "161-a-20261021-v2",
+        "parentIdeaId": "161-a-20261019-v1",
+        "revisionRequestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+        "version": 2,
+        "publishedAt": "2026-10-21T08:32:45.102295+00:00"
+      },
+      "reviewMigration": {
+        "automatic": true,
+        "appliedAt": "2026-10-21T08:32:57.914Z"
+      }
     }
   ],
   "sentences": [
@@ -1782,13 +1983,13 @@
       "persian": "وقتی کنار جاده منتظر می‌مونی کسی سوارت کنه، ظاهرت شبیه همون کسی باشه که دوست داری برات نگه داره.",
       "ideas": [
         {
-          "id": "159-a-20261019-v1",
+          "id": "159-a-20261021-v2",
           "title": "هم‌سفرِ کوه",
           "titleFa": "هم‌سفرِ کوه",
-          "image": "art/159-a-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "image": "art/159-a-20261021-v2.png",
+          "version": 2,
+          "parentIdeaId": "159-a-20261019-v1",
+          "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
           "batchRequestId": null
         },
         {
@@ -1839,13 +2040,13 @@
           "batchRequestId": null
         },
         {
-          "id": "160-b-20261019-v1",
+          "id": "160-b-20261021-v2",
           "title": "قدِ پرده را دوباره ببین",
           "titleFa": "قدِ پرده را دوباره ببین",
-          "image": "art/160-b-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "image": "art/160-b-20261021-v2.png",
+          "version": 2,
+          "parentIdeaId": "160-b-20261019-v1",
+          "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
           "batchRequestId": null
         },
         {
@@ -1876,13 +2077,13 @@
       "persian": "به پول بیشتر از حد بها می‌دن. چیزهای واقعاً تازه به‌ندرت به پول فراوون نیاز دارن. وگرنه اختراع چیزهای تازه در انحصار میلیاردرها بود، که نیست. تقریباً همه‌ی جهش‌های بزرگ کار کساییه که پول کافی ندارن. اگه می‌شد این جهش‌ها رو خرید، ثروتمندها می‌خریدنشون. برای اختراع، شور و اشتیاق، پشتکار، باور و ابتکار لازمه؛ چیزهایی که آدم‌های کم‌پول و جوون اغلب فراوون دارن. تشنه‌ی پیشرفت بمون.",
       "ideas": [
         {
-          "id": "161-a-20261019-v1",
+          "id": "161-a-20261021-v2",
           "title": "پول کم، آزمایش‌های زیاد",
           "titleFa": "پول کم، آزمایش‌های زیاد",
-          "image": "art/161-a-20261019-v1.png",
-          "version": 1,
-          "parentIdeaId": null,
-          "revisionRequestId": null,
+          "image": "art/161-a-20261021-v2.png",
+          "version": 2,
+          "parentIdeaId": "161-a-20261019-v1",
+          "revisionRequestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
           "batchRequestId": null
         },
         {

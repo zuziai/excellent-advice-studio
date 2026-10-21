@@ -1,6 +1,6 @@
 {
   "phase": "calibration-review",
-  "activeWave": "wave-157-161-2026-10-19-v1",
+  "activeWave": "wave-157-161-2026-10-19-v1-edits-6",
   "nextContinuation": 151,
   "feedbackFile": "review-data/feedback.json",
   "styleContract": "review-data/style-contract.md",
@@ -1550,6 +1550,121 @@
         "characters": 3892
       },
       "downloadUrl": "/download/157-d-20261019-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 158,
+      "ideaId": "158-c-20261021-v2",
+      "prompt": "Use case: illustration-story. New SQUARE adult Persian book watercolor. TWO spacious horizontal scenes stacked TOP TO BOTTOM. Style references only:148 for straight neutral adult bodies and BROAD watercolor,131 for eyes/lashes. \nTOP: Sparse neighborhood bakery courtyard, a small UNLIT clay bread oven behind. Turquoise OLDER adult baker with two tiny crow's-feet and small round glasses watches rose-pink adult friend successfully lift a puffy golden flatbread from a cast-iron skillet with a wooden spatula. A second identical cooked flatbread is on a small plate. Skillet sits on a compact safe burner atop a small worktable. Both wear identical simple cream aprons. Turquoise looks at the actual bread with surprise and says exactly «بدون تنور که نون نمی‌شه!»\nBOTTOM: SAME scene and two adults, exact same scale. Turquoise, still same wrinkles/glasses/age, stands UPRIGHT and eagerly tries the skillet method, holds the spatula naturally under another puffy flatbread. Rose-pink guides kindly beside them. Turquoise smiles, says exactly «پس باید دوباره یاد بگیرم!» The same unlit clay oven is in background. The elder changes a firm belief after direct evidence and enjoys learning; no physical rejuvenation or worship of modern technology. Complete figures/feet below the small table, hands safely away from heat, no extra characters, plants or decoration.\nAnatomy directly matches148: geometrically CIRCULAR heads, no neck/nose/ear/hair, direct shoulder join with local-color contact shadow. Medium adult limbs and STRAIGHT neutral torso sides and pelvis, same build for both sexes, no bust, pinched waist, curved projecting hips or buttocks, no fat or stick bodies. Identical head diameter/height/limb thickness per person across scenes. Small dark oval eyes with tiny interior glint, NO white sclera; glasses show turquoise skin through clear lenses. Pink differs only by two fine upper-outer lashes as131. Cheek warmth extremely faint and diffuse. Every hand exactly3 fingers and1 thumb with coherent grips.\nAuthentic broad, irregular overlapping translucent WATERCOLOR WASHES INSIDE heads and bodies, large varied pigment areas with luminous paper and restrained pooling as148. Darker LOCAL-COLOR contours, not black. No uniform fine grain, crystalline pattern, marker, pencil, glossy or vector coloring. Sparse warm adult setting, ample WHITE outer margins and white gap between scenes. Every body/foot/prop fully inside, floor below feet; no cropping, heavy frames, extra text or watermark. Only the two specified short Persian bubbles, connected RTL text with tails to turquoise.\n\nScale continuity: at comparable viewing scale the turquoise elder's circular head diameter, torso breadth, arm thickness and adult body height remain consistent across both panels; his mild working lean does not shrink his whole character. The pink baker's proportions also remain consistent.\n\nFOUR-DIGIT HAND DESIGN: Every hand has exactly three fingers plus one opposing thumb, four digits total. Both open hands of the pink baker in the lower panel show all three distinct rounded fingers and one separate thumb. Both upper-panel turquoise palms use the same four-digit design. Utensil grips use three curled fingers and one opposing thumb, with physically natural occlusion only. No fifth digit, missing thumb, fused fingers, duplicated hand or disconnected wrist.\n",
+      "promptPath": "review-data/revision-158-2026-10-21/158-c/158-c-20261021-v2.full-generation.en.txt",
+      "promptSource": "review-data/revision-158-2026-10-21/158-c/158-c-20261021-v2.metadata.json",
+      "promptSha256": "11032e17a84b499e70c5a5b0d88d37d53ed18cf166146f553c9d265ea7db7de2",
+      "sourcePromptSha256": "11032e17a84b499e70c5a5b0d88d37d53ed18cf166146f553c9d265ea7db7de2",
+      "promptCellSha256": "8135b93d1e6f1f838f9f9fdd8d351103c4ea23aa3c421af7c5f33e401873b570",
+      "imageHash": "0fb3fe06d5c65181af79c595b08def41231e7d8ff5ca5a5d56432a8baf666a09",
+      "source": "book-review/dist/art/158-c-20261021-v2.png",
+      "savedPath": "Images/158.png",
+      "approvedAt": "2026-10-21T07:16:46.380Z",
+      "feedback": {
+        "sentenceId": 158,
+        "ideaNotes": {
+          "158-c-20261019-v1": "انگشت ها مشکل دارند.... نباید یه اشتباه مدام تکرار بشه. تو هر بار قبل از ارائه تصویر باید مطمئن بشی که این اشتباه رو تکرار نکنی "
+        },
+        "note": "",
+        "history": [
+          {
+            "sentenceId": 158,
+            "ideaNotes": {
+              "158-c-20261019-v1": "انگشت ها مشکل دارند.... نباید یه اشتباه مدام تکرار بشه. تو هر بار قبل از ارائه تصویر باید مطمئن بشی که این اشتباه رو تکرار نکنی "
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "158-c-20261019-v1",
+            "waveId": "wave-157-161-2026-10-19-progress-03",
+            "candidateIds": [
+              "158-a-20261019-v1",
+              "158-b-20261019-v1",
+              "158-c-20261019-v1",
+              "158-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+              "baseIdeaId": "158-c-20261019-v1",
+              "baseVersion": 1,
+              "comment": "انگشت ها مشکل دارند.... نباید یه اشتباه مدام تکرار بشه. تو هر بار قبل از ارائه تصویر باید مطمئن بشی که این اشتباه رو تکرار نکنی",
+              "submittedAt": "2026-10-20T09:05:51.771Z"
+            },
+            "revisionProgress": {
+              "requestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+              "status": "in_progress",
+              "message": "اصلاح دست‌ها و بازبینی تعداد انگشت‌ها در هر دو قابِ نانوایی آغاز شد.",
+              "updatedAt": "2026-10-21T06:27:04.799Z",
+              "startedAt": "2026-10-21T06:27:04.799Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T06:27:04.799Z",
+            "decisionIntent": {
+              "id": "49411d20-27de-48d8-8455-6183b8a6682c",
+              "status": "revise",
+              "chosenIdeaId": "158-c-20261019-v1",
+              "submittedAt": "2026-10-20T09:05:51.772Z"
+            }
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "158-c-20261021-v2",
+        "waveId": "wave-157-161-2026-10-19-v1",
+        "candidateIds": [
+          "158-a-20261019-v1",
+          "158-b-20261019-v1",
+          "158-c-20261021-v2",
+          "158-d-20261019-v1"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-10-21T07:16:46.380Z",
+        "latestRevisionResults": [
+          {
+            "ideaId": "158-c-20261021-v2",
+            "parentIdeaId": "158-c-20261019-v1",
+            "revisionRequestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+            "version": 2,
+            "publishedAt": "2026-10-21T06:36:03.986768+00:00"
+          }
+        ],
+        "latestRevisionResult": {
+          "ideaId": "158-c-20261021-v2",
+          "parentIdeaId": "158-c-20261019-v1",
+          "revisionRequestId": "bd491c3b-c77b-4b45-8abe-c6dd018298b0",
+          "version": 2,
+          "publishedAt": "2026-10-21T06:36:03.986768+00:00"
+        },
+        "decisionIntent": {
+          "id": "6fcdca20-8eef-4e58-8cdd-a52fe5029d86",
+          "status": "approved",
+          "chosenIdeaId": "158-c-20261021-v2",
+          "submittedAt": "2026-10-21T07:16:46.380Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-10-21T07:17:15.617799+00:00",
+      "copiedAt": "2026-10-21T07:17:15.617799+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 158,
+        "ideaId": "158-c-20261021-v2",
+        "row": 159,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "8135b93d1e6f1f838f9f9fdd8d351103c4ea23aa3c421af7c5f33e401873b570",
+        "sourcePromptSha256": "11032e17a84b499e70c5a5b0d88d37d53ed18cf166146f553c9d265ea7db7de2",
+        "characters": 3359
+      },
+      "downloadUrl": "/download/158-c-20261021-v2.png",
       "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
     }
   ],

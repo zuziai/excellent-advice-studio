@@ -1,0 +1,68 @@
+{
+  "id": "159-a-20261021-v2",
+  "sentenceId": 159,
+  "version": 2,
+  "parentIdeaId": "159-a-20261019-v1",
+  "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+  "outputPath": "book-review/dist/art/159-a-20261021-v2.png",
+  "imageHash": "e861109c0b5e54df7212fc0218063fbae0486bd0c0e4152533983ae89b5692a7",
+  "sha256": "e861109c0b5e54df7212fc0218063fbae0486bd0c0e4152533983ae89b5692a7",
+  "width": 1254,
+  "height": 1254,
+  "titleFa": "هم‌سفرِ کوه",
+  "summaryFa": "کلاه آفتابی و ابزار کوه‌پیمایی، حس آشنایی میان مسافر و راننده می‌سازند.",
+  "storyFa": "مسافر سبز با بدن رنگی ساده، کلاه آفتابی، کوله و یک جفت باطوم کنار جاده منتظر است. رانندهٔ بنفش با بدن رنگی ساده و کلاهی هم‌شکل، از ون متوقف‌شده با لبخند او را به صندلی خالی دعوت می‌کند.",
+  "meaningFa": "برای پیدا کردن نوع هم‌سفری که می‌خواهی، ظاهر تو هم باید با دنیای او هم‌خوان باشد؛ مقصود تقلید طبقه یا ثروت نیست، بلکه یک نشانهٔ سادهٔ آشنایی و اعتماد است.",
+  "revisionSummaryFa": "لباس‌ها و کفش‌های هر دو کاراکتر حذف شد؛ بدن‌های رنگی خنثی با پاهای سبز، کلاه‌های آفتابی، کوله و باطوم‌های کامل جایگزین شدند. ونِ کامل، جای خالی مسافر و متن حباب حفظ شد.",
+  "fullGenerationPromptEnglish": "Use case: illustration-story.\nCreate ONE complete finished square illustration for an adult illustrated book of advice. Render the established character family described here and a moderate hand-painted watercolor scene.\nPaint: overlapping translucent watercolor washes visibly inside heads, torsos, limbs and hands, with broad gentle irregular changes of pigment density, soft pooling and luminous textured white paper. Natural irregular edges, clean white paper margins on all four sides. Moderate layered watercolor, never uniform fine crystalline noise, marker, pencil, crayon, shiny 3D or flat vector.\nAll characters are adults with simple neutral medium-build bodies: neither chubby round torsos nor long skinny sticks. Their smooth colored bodies have no ordinary clothes and no anatomical details. Heads are genuinely CIRCULAR, equal width and height, with no chin, jaw or flattened bottom; no necks, heads directly join shoulders. Subtle darker local-color contact shadow beneath head. Colored contours are a darker version of each body's own color, not black. Eyes are SMALL vertical dark ovals, each with one tiny white glint INSIDE the dark oval, no white sclera around a pupil. Gentle brows and mouth, no noses, ears or hair. Blush, where present, is a faint diffused translucent rosy wash, never a hard round dot. If a character is female, add only two short fine curved lashes to the OUTER UPPER EDGE of the same small eye; do not enlarge or redesign eyes. All torsos neutral, no bust, pinched waist, protruding hips, buttock emphasis or gendered bulges. Every fully visible open hand has three fingers and one thumb, four digits TOTAL; naturally gripping hands can occlude digits. No extra limbs. Full bodies, both feet, vehicles and essential objects safely inside frame. Gentle humane wit for adult readers, easy concrete visual cause and effect, no moralizing lecture.\nOnly the explicitly specified short Persian text may appear inside the image, joined Persian letters and correct RTL. No English, branding, watermarks, panel numbers, extra labels or long explanatory captions. The speech bubble must clearly belong to the driver.\n\nAdvice meaning: \"When hitchhiking, look like the person you want to pick you up.\" Literal adult roadside affinity through simple hiking accessories. Do not turn it into a story about wealth, morality, social media or changing one's identity.\nComposition: ONE clear square scene, an uncomplicated sunny country roadside turnout beside trees with a blue lake and distant mountains, and a modest pale-cream camping van COMPLETELY STOPPED off the traffic lane. The FULL van including its front bumper, roof luggage, rear edge and sensible visible wheels fits safely on the left. One GREEN adult hitchhiker stands fully on the safe shoulder on the right, thumb up, facing the driver with warm recognition. The hitchhiker's head, torso, arms, legs and two smooth feet are the same green body color, with NO shirt, jacket, vest, trousers, shorts, socks, boots or shoes. A small muted olive backpack is worn over the green body, with a folded walking map sticking out; a COMPLETE pair of trekking poles is secured along its outside, handles, straps, shafts and tips visible and safely inside the frame. The only worn hiking accessories are the simple soft tan sunhat and backpack. Preserve a relaxed neutral adult silhouette and moderate proportions.\nA VIOLET adult driver leans naturally from the open driver's window, a visible violet torso and violet arms directly continuous with the smooth violet body, no shirt, jacket, vest or sleeve. The driver wears a soft tan sunhat matching the hitchhiker's shape, and gestures with an open hand toward the visibly empty available passenger seat. Both adults have the same neutral uncostumed body design; hiking affinity comes from their matching sun hats and hiking gear. The driver and hitchhiker look at EACH OTHER with warm recognition. The small humorous surprise is how closely their travel hats match, almost like finding a familiar fellow traveler. One small speech bubble attached to the DRIVER reads exactly «تو هم اهل کوهی؟ بپر بالا!». No other text. The driver is not moving or steering while gesturing. The van is ordinary, no luxury/class cues; no children, danger or busy traffic. Keep scene airy, adult, and understated.\n",
+  "fullGenerationPromptEnglishPath": "review-data\\revisions-159-161-2026-10-21\\159\\159-a-20261021-v2.full-generation.en.txt",
+  "fullGenerationPromptEnglishHash": "04591c9ee8bb5692ff96beb5012a2bb2cdc10814a962f50c6826e5692c31fbef",
+  "actualEditPrompts": [
+    {
+      "prompt": "Use case: precise-object-edit.\nEdit Image 1, the complete square watercolor roadside illustration. Images 2 and 3 are references ONLY: Image 2 establishes the neutral smooth colored body with no ordinary clothes; Image 3 establishes the small dark oval eyes and subtle eyelashes. Preserve Image 1's roadside story, composition, GREEN hitchhiker, VIOLET driver, warm mutual gaze, parked pale-cream van, roof luggage, lake, mountains, trees, sunshine, white paper margins and exact driver speech bubble.\n\nRequested correction: remove ALL ordinary clothes from BOTH adults. The GREEN hitchhiker must have a continuous smooth GREEN neutral adult body, with green torso, arms, legs and TWO GREEN smooth feet. Remove the shirt, sleeves, vest, trousers and shoes completely. Keep the soft tan hiking sunhat, the muted olive backpack and folded map; add one COMPLETE pair of trekking poles secured to the outside of that backpack so both handles and tips are visible inside the frame. A sunhat, backpack and trekking poles are sufficient. Keep the hitchhiker's thumbs-up pose and the other hand naturally gripping the backpack strap unless a small adjustment is necessary to show the torso. The VIOLET driver must likewise have a smooth VIOLET neutral body, no shirt, sleeve, vest or jacket, with visible violet torso and arms. Keep the driver's matching tan sunhat and inviting open hand. The matching hats and hiking equipment show affinity.\n\nBoth adults have moderate neutral proportions like Image 2, neither chubby nor thin; no bust, pinched waist, protruding hips or anatomical details. Circular heads with no chin, no neck, no nose or ears; local body-color contours. Small vertical dark oval eyes with only one tiny internal glint and NO white sclera. Do not add lashes unless a female identity is intentionally indicated, and then use only two fine lashes on the outer upper edge as in Image 3. Replace hard round cheek dots with faint diffuse blush. Every fully visible open hand has exactly THREE fingers and ONE thumb, FOUR digits total; gripping hands may naturally occlude digits.\n\nUse broad moderate layered watercolor with gently variable pigment inside bodies, soft translucent washes and paper texture, without dense crystalline grain. Retain the full parked van COMPLETELY inside the frame and the empty passenger seat visibly available. Keep both green feet, backpack and the complete pair of poles inside the frame. Preserve all Persian text verbatim, connected RTL, in the driver's speech bubble: «تو هم اهل کوهی؟ بپر بالا!». No other text, no watermarks. Do not redesign the story or environment.\n",
+      "path": "review-data/revisions-159-161-2026-10-21/159/159-a-20261021-v2.edit-01.en.txt",
+      "sha256": "2905b795503fd544ad8dc8385075637c44d1d9bfa120461c26f2f3f9bc8d0506"
+    }
+  ],
+  "provenancePath": "review-data/revisions-159-161-2026-10-21/159/159-a-20261021-v2.provenance.json",
+  "qa": {
+    "status": "ready-for-parent-review",
+    "inspected": true,
+    "inspectionMethod": "Visual review of full generated image; final saved PNG opened using view_image",
+    "inspectedAt": "2026-10-21",
+    "checks": {
+      "ordinaryClothesRemovedBothCharacters": "pass",
+      "neutralColoredAdultBodiesAndSmoothFeet": "pass",
+      "hikingSunhatsBackpackAndCompletePoles": "pass",
+      "fullVanWithinFrame": "pass",
+      "parkedVehicleAndAvailablePassengerSeat": "pass",
+      "twoFeetBackpackPolesWithinFrame": "pass",
+      "exactPersianDriverBubble": "pass",
+      "moderateNeutralAdultProportions": "pass",
+      "circularHeads": "pass",
+      "smallDarkOvalEyesTinyInnerGlintsNoWhiteSclera": "pass",
+      "noGenderedBodyAnatomy": "pass",
+      "openHandThreeFingersPlusThumb": "pass",
+      "localBodyColorContours": "pass",
+      "faintDiffuseBlush": "pass",
+      "broadModerateWatercolor": "pass",
+      "originalSceneAndWarmMutualGaze": "pass"
+    },
+    "textVerified": "تو هم اهل کوهی؟ بپر بالا!",
+    "observations": [
+      "Driver open inviting hand shows three fingers plus a thumb; other gripping or resting hands naturally occlude digits.",
+      "The backpack carries both complete trekking poles with handles and tips within the picture.",
+      "The driver and hitchhiker share a tan sunhat while their smooth neutral bodies remain violet and green."
+    ],
+    "criticalIssues": [],
+    "iterations": 1
+  },
+  "rootVisualReview": {
+    "id": "159-a-20261021-v2",
+    "imageHash": "e861109c0b5e54df7212fc0218063fbae0486bd0c0e4152533983ae89b5692a7",
+    "status": "passed",
+    "visualInspectionPerformed": true,
+    "observationsFa": "هر دو بدن رنگی بدون لباس و کفش‌اند؛ کلاه و کوله و باطوم حفظ شده، خودرو کامل است و دست باز راننده سه انگشت و یک شست دارد. متن و داستان محفوظ‌اند. باقی انگشت‌های گرفتن ابزار طبیعی پوشیده‌اند.",
+    "reviewedAt": "2026-10-21T08:11:04.281755+00:00"
+  }
+}

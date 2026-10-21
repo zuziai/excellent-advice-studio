@@ -1,5 +1,5 @@
 {
-  "activeWaveId": "wave-157-161-2026-10-19-v1",
+  "activeWaveId": "wave-157-161-2026-10-19-v1-edits-6",
   "publishedCurrentAndAncestors": [
     {
       "id": "151-k-v1",
@@ -218,6 +218,12 @@
       "version": 1
     },
     {
+      "id": "159-a-20261021-v2",
+      "image": "art/159-a-20261021-v2.png",
+      "imageHash": "e861109c0b5e54df7212fc0218063fbae0486bd0c0e4152533983ae89b5692a7",
+      "version": 2
+    },
+    {
       "id": "159-b-20261019-v1",
       "image": "art/159-b-20261019-v1.png",
       "imageHash": "dd1313b28ec3471b6e59489feb69403367ea1d8f6413dfe1aa6f02b8b0f10753",
@@ -248,6 +254,12 @@
       "version": 1
     },
     {
+      "id": "160-b-20261021-v2",
+      "image": "art/160-b-20261021-v2.png",
+      "imageHash": "9a28b09a04dda9c351a8038d3568595b9d95257598b03648e2c2bc1b39f87daa",
+      "version": 2
+    },
+    {
       "id": "160-c-20261019-v1",
       "image": "art/160-c-20261019-v1.png",
       "imageHash": "f8ca571fa09698e8743b0be07ae1750ad58a62748d32bbf9e9884f080eb87dde",
@@ -264,6 +276,12 @@
       "image": "art/161-a-20261019-v1.png",
       "imageHash": "a0b618b6c5cefc96ae063030df46c9dcf07be25e24c65706cba4f8cc188b23f8",
       "version": 1
+    },
+    {
+      "id": "161-a-20261021-v2",
+      "image": "art/161-a-20261021-v2.png",
+      "imageHash": "ba4907960e239d3cc596d89a657a95d3162ea1be5aea489bf4303f1741f64c80",
+      "version": 2
     },
     {
       "id": "161-b-20261019-v1",
@@ -336,6 +354,12 @@
       "ideaId": "157-d-20261019-v2",
       "path": "Images/157.png",
       "imageHash": "98e3a03eead24646e44e64c293f1b4a01dbc5f075b6cda89b56e9ac5b2f593fb"
+    },
+    {
+      "sentenceId": 158,
+      "ideaId": "158-c-20261021-v2",
+      "path": "Images/158.png",
+      "imageHash": "0fb3fe06d5c65181af79c595b08def41231e7d8ff5ca5a5d56432a8baf666a09"
     }
   ]
 }
