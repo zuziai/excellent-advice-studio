@@ -1,0 +1,13 @@
+{
+  "tool": "Built-in image_gen edit",
+  "parentIdeaId": "159-a-20261021-v2",
+  "promptPath": "review-data/revisions-159-161-2026-10-21/159/159-a-20261102-v3.executed-edit.en.txt",
+  "promptSha256": "e94ca7db6e56f7f756bde95ed80474a49e0eee63a74fffcbbbc159f88d2d2560",
+  "inputImages": [
+    "book-review/dist/art/159-a-20261021-v2.png",
+    "Images/148.jpg"
+  ],
+  "outputSourceFileName": "exec-32943014-fe40-4f69-b93f-f22586986be2.png",
+  "selectedOutputSha256": "180d673a795cd994832a1667b48f82535a07bd137fd41d637fc85a7b9a49ed84",
+  "recordedAt": "2026-11-02T13:21:31.078284+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "activeWaveId": "wave-157-161-2026-10-19-v1-edits-7",
+  "activeWaveId": "wave-157-161-2026-10-19-v1-edits-9",
   "publishedCurrentAndAncestors": [
     {
       "id": "151-k-v1",
@@ -224,6 +224,12 @@
       "version": 2
     },
     {
+      "id": "159-a-20261102-v3",
+      "image": "art/159-a-20261102-v3.png",
+      "imageHash": "180d673a795cd994832a1667b48f82535a07bd137fd41d637fc85a7b9a49ed84",
+      "version": 3
+    },
+    {
       "id": "159-b-20261019-v1",
       "image": "art/159-b-20261019-v1.png",
       "imageHash": "dd1313b28ec3471b6e59489feb69403367ea1d8f6413dfe1aa6f02b8b0f10753",
@@ -258,6 +264,12 @@
       "image": "art/160-b-20261021-v2.png",
       "imageHash": "9a28b09a04dda9c351a8038d3568595b9d95257598b03648e2c2bc1b39f87daa",
       "version": 2
+    },
+    {
+      "id": "160-b-20261102-v3",
+      "image": "art/160-b-20261102-v3.png",
+      "imageHash": "e84c99cb9734821039edfe393917bb4299af624dd1813622a5c69faf44698a02",
+      "version": 3
     },
     {
       "id": "160-c-20261019-v1",
@@ -366,6 +378,12 @@
       "ideaId": "158-c-20261021-v2",
       "path": "Images/158.png",
       "imageHash": "0fb3fe06d5c65181af79c595b08def41231e7d8ff5ca5a5d56432a8baf666a09"
+    },
+    {
+      "sentenceId": 161,
+      "ideaId": "161-a-20261021-v3",
+      "path": "Images/161.png",
+      "imageHash": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2"
     }
   ]
 }

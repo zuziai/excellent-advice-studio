@@ -5,8 +5,8 @@
 - Speak Persian with the owner. Keep progress reports short and truthful. The owner is concerned about elapsed time and network use: avoid redundant image uploads, polling, large dumps and repeated regeneration.
 - The GitHub owner is `zuziai`; the owner completed GitHub and Git Credential Manager login and authorized this project transfer. The private repository is https://github.com/zuziai/excellent-advice-studio. Do not upload through another connected account or make the project public.
 - Do not generate another wave or revise approved artwork merely because this folder was opened. First read the owner's current task and saved feedback.
-- Current gallery wave: `wave-157-161-2026-10-19-v1-edits-7`. Read `wave.json` and saved feedback for exact pending/approved candidates; never infer approval from image readiness.
-- Current final approvals: 151 = `151-o-v2`; 152 = `152-g-v5`; 153 = `153-g-v2`; 154 = `154-d-20261019-v2`; 155 = `155-b-20261019-v2`; 156 = `156-d-20261019-v2`; 157 = `157-d-20261019-v2`; 158 = `158-c-20261021-v2`. Exact approved PNGs are in `Images/`; the ledger verifies their Excel prompts in column D.
+- Current gallery wave: `wave-157-161-2026-10-19-v1-edits-9`. Read `wave.json` and saved feedback for exact pending/approved candidates; never infer approval from image readiness.
+- Current final approvals: 151 = `151-o-v2`; 152 = `152-g-v5`; 153 = `153-g-v2`; 154 = `154-d-20261019-v2`; 155 = `155-b-20261019-v2`; 156 = `156-d-20261019-v2`; 157 = `157-d-20261019-v2`; 158 = `158-c-20261021-v2`; 161 = `161-a-20261021-v3`. Exact approved PNGs are in `Images/`; the ledger verifies their Excel prompts in column D.
 
 ## Data and run contract
 

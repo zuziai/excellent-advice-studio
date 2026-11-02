@@ -1,9 +1,9 @@
 {
   "format": "excellent-advice-feedback",
   "version": 1,
-  "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+  "waveId": "wave-157-161-2026-10-19-v1-edits-9",
   "styleVersion": "style-2026-10-19-user-refinements",
-  "exportedAt": "2026-10-21T08:51:55.024451+00:00",
+  "exportedAt": "2026-11-02T13:23:06.037041+00:00",
   "records": [
     {
       "sentenceId": 151,
@@ -934,7 +934,7 @@
     },
     {
       "sentenceId": 154,
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "154-a-20261019-v1",
         "154-b-20261019-v1",
@@ -1077,7 +1077,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "155-b-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "155-a-20261019-v1",
         "155-b-20261019-v2",
@@ -1153,7 +1153,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "156-d-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "156-a-20261019-v1",
         "156-b-20261019-v1",
@@ -1354,7 +1354,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "157-d-20261019-v2",
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "157-a-20261019-v1",
         "157-b-20261019-v2",
@@ -1450,7 +1450,7 @@
       ],
       "status": "approved",
       "chosenIdeaId": "158-c-20261021-v2",
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "158-a-20261019-v1",
         "158-b-20261019-v1",
@@ -1488,7 +1488,8 @@
     {
       "sentenceId": 159,
       "ideaNotes": {
-        "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند"
+        "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+        "159-a-20261021-v2": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه "
       },
       "note": "",
       "history": [
@@ -1531,13 +1532,70 @@
             "chosenIdeaId": "159-a-20261019-v1",
             "submittedAt": "2026-10-21T07:18:51.906Z"
           }
+        },
+        {
+          "sentenceId": 159,
+          "ideaNotes": {
+            "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+            "159-a-20261021-v2": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه "
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "159-a-20261021-v2",
+          "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+          "candidateIds": [
+            "159-a-20261021-v2",
+            "159-b-20261019-v1",
+            "159-c-20261019-v1",
+            "159-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+            "baseIdeaId": "159-a-20261021-v2",
+            "baseVersion": 2,
+            "comment": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه",
+            "submittedAt": "2026-11-02T12:48:09.864Z"
+          },
+          "revisionProgress": {
+            "requestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+            "status": "in_progress",
+            "message": "اصلاح رنگ‌گذاری کلی به آبرنگ نرم و حذف تأکید عضلات، با حفظ داستان و ژست‌ها.",
+            "updatedAt": "2026-11-02T13:12:51.828Z",
+            "startedAt": "2026-11-02T13:12:51.828Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-11-02T13:12:51.828Z",
+          "latestRevisionResults": [
+            {
+              "ideaId": "159-a-20261021-v2",
+              "parentIdeaId": "159-a-20261019-v1",
+              "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+              "version": 2,
+              "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+            }
+          ],
+          "latestRevisionResult": {
+            "ideaId": "159-a-20261021-v2",
+            "parentIdeaId": "159-a-20261019-v1",
+            "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+            "version": 2,
+            "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+          },
+          "decisionIntent": {
+            "id": "034b648f-b673-448d-84ba-43f974d24c2f",
+            "status": "revise",
+            "chosenIdeaId": "159-a-20261021-v2",
+            "submittedAt": "2026-11-02T12:48:09.864Z"
+          }
         }
       ],
       "status": "pending",
       "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
-        "159-a-20261021-v2",
+        "159-a-20261102-v3",
         "159-b-20261019-v1",
         "159-c-20261019-v1",
         "159-d-20261019-v1"
@@ -1546,7 +1604,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-21T08:14:59.037977+00:00",
+      "updatedAt": "2026-11-02T13:23:05.770849+00:00",
       "latestRevisionResults": [
         {
           "ideaId": "159-a-20261021-v2",
@@ -1554,20 +1612,28 @@
           "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
           "version": 2,
           "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+        },
+        {
+          "ideaId": "159-a-20261102-v3",
+          "parentIdeaId": "159-a-20261021-v2",
+          "revisionRequestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+          "version": 3,
+          "publishedAt": "2026-11-02T13:23:05.770849+00:00"
         }
       ],
       "latestRevisionResult": {
-        "ideaId": "159-a-20261021-v2",
-        "parentIdeaId": "159-a-20261019-v1",
-        "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
-        "version": 2,
-        "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+        "ideaId": "159-a-20261102-v3",
+        "parentIdeaId": "159-a-20261021-v2",
+        "revisionRequestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+        "version": 3,
+        "publishedAt": "2026-11-02T13:23:05.770849+00:00"
       }
     },
     {
       "sentenceId": 160,
       "ideaNotes": {
-        "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن"
+        "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+        "160-b-20261021-v2": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه"
       },
       "note": "",
       "history": [
@@ -1610,14 +1676,71 @@
             "chosenIdeaId": "160-b-20261019-v1",
             "submittedAt": "2026-10-21T07:21:22.248Z"
           }
+        },
+        {
+          "sentenceId": 160,
+          "ideaNotes": {
+            "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+            "160-b-20261021-v2": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه"
+          },
+          "note": "",
+          "status": "revise",
+          "chosenIdeaId": "160-b-20261021-v2",
+          "waveId": "wave-157-161-2026-10-19-v1-edits-8",
+          "candidateIds": [
+            "160-a-20261019-v1",
+            "160-b-20261021-v2",
+            "160-c-20261019-v1",
+            "160-d-20261019-v1"
+          ],
+          "revisionRequest": {
+            "requestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+            "baseIdeaId": "160-b-20261021-v2",
+            "baseVersion": 2,
+            "comment": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه",
+            "submittedAt": "2026-11-02T12:57:53.482Z"
+          },
+          "revisionProgress": {
+            "requestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+            "status": "in_progress",
+            "message": "اصلاح رنگ رزِ صورت و بدن در هر سه قاب و حذف سفیدی‌های نامرتب، با حفظ اندازه‌گیری و برش.",
+            "updatedAt": "2026-11-02T13:17:04.293Z",
+            "startedAt": "2026-11-02T13:17:04.293Z",
+            "finishedAt": null
+          },
+          "batchRequest": null,
+          "requestedVariants": null,
+          "updatedAt": "2026-11-02T13:17:04.293Z",
+          "latestRevisionResults": [
+            {
+              "ideaId": "160-b-20261021-v2",
+              "parentIdeaId": "160-b-20261019-v1",
+              "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+              "version": 2,
+              "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+            }
+          ],
+          "latestRevisionResult": {
+            "ideaId": "160-b-20261021-v2",
+            "parentIdeaId": "160-b-20261019-v1",
+            "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+            "version": 2,
+            "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+          },
+          "decisionIntent": {
+            "id": "039ab429-d3b2-43fb-bb34-10fe76ffb879",
+            "status": "revise",
+            "chosenIdeaId": "160-b-20261021-v2",
+            "submittedAt": "2026-11-02T12:57:53.482Z"
+          }
         }
       ],
       "status": "pending",
       "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "160-a-20261019-v1",
-        "160-b-20261021-v2",
+        "160-b-20261102-v3",
         "160-c-20261019-v1",
         "160-d-20261019-v1"
       ],
@@ -1625,7 +1748,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-21T08:14:59.297798+00:00",
+      "updatedAt": "2026-11-02T13:23:06.037041+00:00",
       "latestRevisionResults": [
         {
           "ideaId": "160-b-20261021-v2",
@@ -1633,14 +1756,21 @@
           "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
           "version": 2,
           "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+        },
+        {
+          "ideaId": "160-b-20261102-v3",
+          "parentIdeaId": "160-b-20261021-v2",
+          "revisionRequestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+          "version": 3,
+          "publishedAt": "2026-11-02T13:23:06.037041+00:00"
         }
       ],
       "latestRevisionResult": {
-        "ideaId": "160-b-20261021-v2",
-        "parentIdeaId": "160-b-20261019-v1",
-        "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
-        "version": 2,
-        "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+        "ideaId": "160-b-20261102-v3",
+        "parentIdeaId": "160-b-20261021-v2",
+        "revisionRequestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+        "version": 3,
+        "publishedAt": "2026-11-02T13:23:06.037041+00:00"
       }
     },
     {
@@ -1765,11 +1895,26 @@
             "chosenIdeaId": "161-a-20261021-v2",
             "submittedAt": "2026-10-21T08:37:39.621Z"
           }
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {
+            "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه",
+            "161-a-20261021-v2": "فهمیدی چطوری گیره رو نصب کنی روی لوله اما درست لوله رو گاز نگرفته. اصلاحش کن"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-10-21T08:51:55.024451+00:00"
         }
       ],
-      "status": "pending",
-      "chosenIdeaId": null,
-      "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+      "status": "approved",
+      "chosenIdeaId": "161-a-20261021-v3",
+      "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "161-a-20261021-v3",
         "161-b-20261019-v1",
@@ -1780,7 +1925,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-10-21T08:51:55.024451+00:00",
+      "updatedAt": "2026-11-02T13:17:04.293Z",
       "latestRevisionResults": [
         {
           "ideaId": "161-a-20261021-v2",
@@ -1806,7 +1951,13 @@
       },
       "reviewMigration": {
         "automatic": true,
-        "appliedAt": "2026-10-21T08:32:57.914Z"
+        "appliedAt": "2026-10-21T08:52:08.459Z"
+      },
+      "decisionIntent": {
+        "id": "a259f7c5-0727-4aba-ae7c-f7aa6305f310",
+        "status": "approved",
+        "chosenIdeaId": "161-a-20261021-v3",
+        "submittedAt": "2026-11-02T12:55:50.835Z"
       }
     }
   ],
@@ -2052,13 +2203,13 @@
       "persian": "وقتی کنار جاده منتظر می‌مونی کسی سوارت کنه، ظاهرت شبیه همون کسی باشه که دوست داری برات نگه داره.",
       "ideas": [
         {
-          "id": "159-a-20261021-v2",
+          "id": "159-a-20261102-v3",
           "title": "هم‌سفرِ کوه",
           "titleFa": "هم‌سفرِ کوه",
-          "image": "art/159-a-20261021-v2.png",
-          "version": 2,
-          "parentIdeaId": "159-a-20261019-v1",
-          "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+          "image": "art/159-a-20261102-v3.png",
+          "version": 3,
+          "parentIdeaId": "159-a-20261021-v2",
+          "revisionRequestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
           "batchRequestId": null
         },
         {
@@ -2109,13 +2260,13 @@
           "batchRequestId": null
         },
         {
-          "id": "160-b-20261021-v2",
+          "id": "160-b-20261102-v3",
           "title": "قدِ پرده را دوباره ببین",
           "titleFa": "قدِ پرده را دوباره ببین",
-          "image": "art/160-b-20261021-v2.png",
-          "version": 2,
-          "parentIdeaId": "160-b-20261019-v1",
-          "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+          "image": "art/160-b-20261102-v3.png",
+          "version": 3,
+          "parentIdeaId": "160-b-20261021-v2",
+          "revisionRequestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
           "batchRequestId": null
         },
         {

@@ -1,6 +1,6 @@
 {
   "phase": "calibration-review",
-  "activeWave": "wave-157-161-2026-10-19-v1-edits-7",
+  "activeWave": "wave-157-161-2026-10-19-v1-edits-9",
   "nextContinuation": 151,
   "feedbackFile": "review-data/feedback.json",
   "styleContract": "review-data/style-contract.md",
@@ -1665,6 +1665,223 @@
         "characters": 3359
       },
       "downloadUrl": "/download/158-c-20261021-v2.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 161,
+      "ideaId": "161-a-20261021-v3",
+      "prompt": "Use case: illustration-story.\nAsset: one complete square hand-painted watercolor narrative illustration for an adult Persian advice book, with TWO spacious horizontal scenes stacked top to bottom, a quiet white gutter and generous white paper margins. The meaning must be clear to a twelve-year-old without an outside explanation: ingenuity and patient experiments turn a failed simple invention into a useful result. Money can buy materials but cannot buy a ready breakthrough.\n\nReferences: Images/148.jpg is the primary adult anatomy and layered watercolor style reference; Images/131.jpg is the small dark eye and delicate eyelash reference. The owner's original rope photograph reference-user-gire-choobi.jpg documents ordinary peg mechanics; the newer owner watercolor close-up review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png is the PRIMARY MECHANICAL REFERENCE for the exact opposed-jaw contact on the blue tube. These references do not replace the book's anatomy/style references. Never copy advertising, logos, writing or unrelated objects.\n\nCharacter: ONE green symbolic adult inventor, recurring at approximately the same size in both scenes, with full body and complete feet. Geometrically circular head with equal width and height, no neck, hair, nose or ears, and a subtle darker same-green crescent separating head and shoulders. Medium adult limbs, neutral straight torso and pelvis, neither chubby nor stick-thin. No bust, pinched waist, projecting hips or buttocks, clothes or apron. Two arms and coherent hands; every fully visible open hand has THREE fingers plus ONE thumb, four total. Natural closed grips can occlude fingers. Small dark oval eyes with tiny white glints INSIDE the dark shape, absolutely no white sclera. Simple expressive eyebrows and mouth. Barely visible diffuse translucent cheek warmth, never flat circular blush dots.\n\nSetting: a modest sunny balcony workshop with warm tiled floor, low wooden side table LEFT, a few subdued plants, balcony railing and quiet distant pastel buildings. On the RIGHT, a tall simple wooden stand securely holds one transparent reused plastic water bottle upside down, blue screw cap at its bottom. A SINGLE unbranched clear-blue flexible hose exits the cap and curves down to an open lower outlet over the soil of a terracotta potted plant below. Bottle, stand, plant, table and character stay completely within each scene. A small rejected bottle/tube prototype, CLOSED red-handled scissors and one small metal hose clamp rest on the tabletop. These concrete tools show experimenting; no purse, money or coins.\n\nTOP SCENE, unsuccessful first trial: the green inventor stands fully on the floor LEFT of the device, one hand thoughtfully at the chin, the other EMPTY hand relaxed at the side. The inventor looks toward the watering problem. A normal small loose WOODEN CLOTHESPIN lies FLAT on its long side FULLY SUPPORTED on the tabletop, clearly inside the table's perimeter and away from every edge; a band of tabletop is visible around it. It is not in the inventor's hand, not hanging over the edge and not falling. The other three tabletop tools/prototype stay nearby without clutter. No peg is attached to the irrigation hose yet. Too much water exits ONLY the hose's open lower end into the plant pot; excess water overflows the saucer a little. No water leaks at cap or middle hose. One clean speech bubble, with tail to the green inventor, reads exactly: «زیادی تند می‌ریزه!»\n\nBOTTOM SCENE, thoughtful improvement: SAME balcony, full green inventor, table, upside-down bottle, stand, single hose and plant. The inventor smiles, points to the working peg/hose mechanism with one hand and rests the other near the hip. The loose wooden peg has been taken from the tabletop and attached to the hose shortly below the blue cap. The scissors, small metal clamp and spare bottle/tube prototype remain on the table. The peg is dry and slows the flow; two or three separate droplets leave ONLY the actual open lower end over plant soil. The saucer is dry.\n\nCRITICAL WOODEN PEG GEOMETRY: follow the owner's newer watercolor close-up reference review-data/revisions-159-161-2026-10-21/161/reference-user-tube-jaws.png exactly for the bite. Its LEFT jaw mouth captures the tube, and the squeeze HANDLES extend RIGHT. Seen from a slightly elevated three-quarter angle, the far/back wooden jaw lies behind the blue hose and is visibly interrupted by it at the left mouth; the near/front wooden jaw masks the front strip of the hose. Thus BLUE covers rear BROWN while near BROWN covers BLUE. Never place both wooden arms in front of the hose. The tube sits deeply in the opposed jaw recess, with the two jaw tips pressing opposite sides. A short near-vertical hose segment enters directly ABOVE and leaves directly BELOW that same left jaw mouth; it must not cross beneath the spring or right handles. The spring pivot and side coil lie RIGHT of the tube, matching the supplied watercolor close-up. Exactly two normal wooden arms and one steel spring; normal small peg about seven or eight hose diameters long. A small local hose bend joins the vertical gripping segment to the one lower outlet. Single continuous unbranched flexible hose, dry peg, droplets only at the lower outlet, no collar, glass rim, coupler, extra clamp, branch or inset. The newer owner reference takes precedence over the older rope photograph for the jaw/tube contact and orientation.\n\nStyle: polished actual watercolor with broad moderate overlapping translucent washes visibly WITHIN heads, torsos, arms, hands, legs and feet as well as wood and background. Large irregular areas of pigment density, restrained edge pooling and textured luminous paper. Soft humane daylight, lively harmonious colors, gentle local-body-color darker outlines rather than black ink. No marker or colored-pencil look, uniform tiled fine grain, mosaic speckles, vector flatness, glossy plastic or 3D render. Pale irregular watercolor edges dissolve into generous clean white paper. Both specified Persian bubbles are correctly connected natural RTL and are the ONLY written text. No English, numerals, captions, logo or watermark. Preserve a clear before/after story with the same device: excessive flow first, then a genuinely gripping inexpensive wooden peg producing controlled droplets.\n",
+      "promptPath": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.full-prompt.txt",
+      "promptSource": "review-data/revisions-159-161-2026-10-21/161/161-a-20261021-v3.metadata.json",
+      "promptSha256": "bae8a2f8663ad3fcfe24d5f5e737d2ef9488499d2aecb1663666e970ca56ab31",
+      "sourcePromptSha256": "bae8a2f8663ad3fcfe24d5f5e737d2ef9488499d2aecb1663666e970ca56ab31",
+      "promptCellSha256": "3de03da4b9d77f6bfde3d37f8dbe5a872373bfbe8ca525f7ad5948d71ea3e802",
+      "imageHash": "9fea6bdd95c68ed11dcafec1249f1846c5d46be1bda39c0669770426876c00a2",
+      "source": "book-review/dist/art/161-a-20261021-v3.png",
+      "savedPath": "Images/161.png",
+      "approvedAt": "2026-11-02T12:55:50.835Z",
+      "feedback": {
+        "sentenceId": 161,
+        "ideaNotes": {
+          "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه",
+          "161-a-20261021-v2": "فهمیدی چطوری گیره رو نصب کنی روی لوله اما درست لوله رو گاز نگرفته. اصلاحش کن"
+        },
+        "note": "",
+        "history": [
+          {
+            "sentenceId": 161,
+            "ideaNotes": {
+              "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "161-a-20261019-v1",
+            "waveId": "wave-157-161-2026-10-19-v1-edits-5",
+            "candidateIds": [
+              "161-a-20261019-v1",
+              "161-b-20261019-v1",
+              "161-c-20261019-v1",
+              "161-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+              "baseIdeaId": "161-a-20261019-v1",
+              "baseVersion": 1,
+              "comment": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه",
+              "submittedAt": "2026-10-21T07:25:13.356Z"
+            },
+            "revisionProgress": {
+              "requestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+              "status": "in_progress",
+              "message": "اصلاح گرفتن واقعی شلنگ میان دو فک گیره و خلوت‌کردن ابزارهای میز آغاز شد.",
+              "updatedAt": "2026-10-21T07:48:36.459Z",
+              "startedAt": "2026-10-21T07:48:36.459Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T07:48:36.459Z",
+            "decisionIntent": {
+              "id": "1c70a64d-8577-4cbd-ac2c-ace8fc044a5e",
+              "status": "revise",
+              "chosenIdeaId": "161-a-20261019-v1",
+              "submittedAt": "2026-10-21T07:25:13.356Z"
+            }
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T08:32:45.102295+00:00"
+          },
+          {
+            "sentenceId": 161,
+            "ideaNotes": {
+              "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه",
+              "161-a-20261021-v2": "فهمیدی چطوری گیره رو نصب کنی روی لوله اما درست لوله رو گاز نگرفته. اصلاحش کن"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "161-a-20261021-v2",
+            "waveId": "wave-157-161-2026-10-19-v1-edits-6",
+            "candidateIds": [
+              "161-a-20261021-v2",
+              "161-b-20261019-v1",
+              "161-c-20261019-v1",
+              "161-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "16f3f80c-6ec6-4ee5-80dd-555b74b666a4",
+              "baseIdeaId": "161-a-20261021-v2",
+              "baseVersion": 2,
+              "comment": "فهمیدی چطوری گیره رو نصب کنی روی لوله اما درست لوله رو گاز نگرفته. اصلاحش کن",
+              "submittedAt": "2026-10-21T08:37:39.621Z"
+            },
+            "revisionProgress": {
+              "requestId": "16f3f80c-6ec6-4ee5-80dd-555b74b666a4",
+              "status": "in_progress",
+              "message": "در حال اصلاح تماس واقعی دو فک گیره با لوله، با مرجع نزدیکِ ارسالی شما؛ خروجی‌های نامنطبق جایگزین نشده‌اند.",
+              "updatedAt": "2026-10-21T08:46:50.201Z",
+              "startedAt": "2026-10-21T08:46:50.201Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T08:46:50.201Z",
+            "latestRevisionResults": [
+              {
+                "ideaId": "161-a-20261021-v2",
+                "parentIdeaId": "161-a-20261019-v1",
+                "revisionRequestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+                "version": 2,
+                "publishedAt": "2026-10-21T08:32:45.102295+00:00"
+              }
+            ],
+            "latestRevisionResult": {
+              "ideaId": "161-a-20261021-v2",
+              "parentIdeaId": "161-a-20261019-v1",
+              "revisionRequestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+              "version": 2,
+              "publishedAt": "2026-10-21T08:32:45.102295+00:00"
+            },
+            "reviewMigration": {
+              "automatic": true,
+              "appliedAt": "2026-10-21T08:32:57.914Z"
+            },
+            "decisionIntent": {
+              "id": "1979aa8b-0872-4c81-ba0d-d68b1b1ade2c",
+              "status": "revise",
+              "chosenIdeaId": "161-a-20261021-v2",
+              "submittedAt": "2026-10-21T08:37:39.621Z"
+            }
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "161-a-20261019-v1": "روی میز بهتره ابزارهایی مثل قیچی یا بست فلزی ببینیم. خیلی شلوغش نکن. و در قسمت پایین هم باید دو طرف گیره، دو طرف لوله باشه. نه اینکه روش چسبیده باشه. باید گیره چوبی شلنگ رو در بر گرفته باشه همونطوری که یک گیره به جایی وصل میشه",
+              "161-a-20261021-v2": "فهمیدی چطوری گیره رو نصب کنی روی لوله اما درست لوله رو گاز نگرفته. اصلاحش کن"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T08:51:55.024451+00:00"
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "161-a-20261021-v3",
+        "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+        "candidateIds": [
+          "161-a-20261021-v3",
+          "161-b-20261019-v1",
+          "161-c-20261019-v1",
+          "161-d-20261019-v1"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-11-02T12:55:50.835Z",
+        "latestRevisionResults": [
+          {
+            "ideaId": "161-a-20261021-v2",
+            "parentIdeaId": "161-a-20261019-v1",
+            "revisionRequestId": "b714ad1f-4d95-49d0-bbb9-0d6fc40def26",
+            "version": 2,
+            "publishedAt": "2026-10-21T08:32:45.102295+00:00"
+          },
+          {
+            "ideaId": "161-a-20261021-v3",
+            "parentIdeaId": "161-a-20261021-v2",
+            "revisionRequestId": "16f3f80c-6ec6-4ee5-80dd-555b74b666a4",
+            "version": 3,
+            "publishedAt": "2026-10-21T08:51:55.024451+00:00"
+          }
+        ],
+        "latestRevisionResult": {
+          "ideaId": "161-a-20261021-v3",
+          "parentIdeaId": "161-a-20261021-v2",
+          "revisionRequestId": "16f3f80c-6ec6-4ee5-80dd-555b74b666a4",
+          "version": 3,
+          "publishedAt": "2026-10-21T08:51:55.024451+00:00"
+        },
+        "reviewMigration": {
+          "automatic": true,
+          "appliedAt": "2026-10-21T08:52:08.459Z"
+        },
+        "decisionIntent": {
+          "id": "a259f7c5-0727-4aba-ae7c-f7aa6305f310",
+          "status": "approved",
+          "chosenIdeaId": "161-a-20261021-v3",
+          "submittedAt": "2026-11-02T12:55:50.835Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-11-02T12:57:32.817674+00:00",
+      "copiedAt": "2026-11-02T12:57:32.817674+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 161,
+        "ideaId": "161-a-20261021-v3",
+        "row": 162,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "3de03da4b9d77f6bfde3d37f8dbe5a872373bfbe8ca525f7ad5948d71ea3e802",
+        "sourcePromptSha256": "bae8a2f8663ad3fcfe24d5f5e737d2ef9488499d2aecb1663666e970ca56ab31",
+        "characters": 6335
+      },
+      "downloadUrl": "/download/161-a-20261021-v3.png",
       "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
     }
   ],
