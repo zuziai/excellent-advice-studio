@@ -1883,6 +1883,404 @@
       },
       "downloadUrl": "/download/161-a-20261021-v3.png",
       "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 159,
+      "ideaId": "159-a-20261102-v3",
+      "prompt": "Use case: illustration-story.\nCreate ONE complete finished square illustration for an adult illustrated book of advice. Render the established character family described here and a moderate hand-painted watercolor scene.\nPaint: overlapping translucent watercolor washes visibly inside heads, torsos, limbs and hands, with broad gentle irregular changes of pigment density, soft pooling and luminous textured white paper. Natural irregular edges, clean white paper margins on all four sides. Moderate layered watercolor, never uniform fine crystalline noise, marker, pencil, crayon, shiny 3D or flat vector.\nAll characters are adults with simple neutral medium-build bodies: neither chubby round torsos nor long skinny sticks. Their smooth colored bodies have no ordinary clothes and no anatomical details. Heads are genuinely CIRCULAR, equal width and height, with no chin, jaw or flattened bottom; no necks, heads directly join shoulders. Subtle darker local-color contact shadow beneath head. Colored contours are a darker version of each body's own color, not black. Eyes are SMALL vertical dark ovals, each with one tiny white glint INSIDE the dark oval, no white sclera around a pupil. Gentle brows and mouth, no noses, ears or hair. Blush, where present, is a faint diffused translucent rosy wash, never a hard round dot. If a character is female, add only two short fine curved lashes to the OUTER UPPER EDGE of the same small eye; do not enlarge or redesign eyes. All torsos neutral, no bust, pinched waist, protruding hips, buttock emphasis or gendered bulges. Every fully visible open hand has three fingers and one thumb, four digits TOTAL; naturally gripping hands can occlude digits. No extra limbs. Full bodies, both feet, vehicles and essential objects safely inside frame. Gentle humane wit for adult readers, easy concrete visual cause and effect, no moralizing lecture.\nOnly the explicitly specified short Persian text may appear inside the image, joined Persian letters and correct RTL. No English, branding, watermarks, panel numbers, extra labels or long explanatory captions. The speech bubble must clearly belong to the driver.\n\nAdvice meaning: \"When hitchhiking, look like the person you want to pick you up.\" Literal adult roadside affinity through simple hiking accessories. Do not turn it into a story about wealth, morality, social media or changing one's identity.\nComposition: ONE clear square scene, an uncomplicated sunny country roadside turnout beside trees with a blue lake and distant mountains, and a modest pale-cream camping van COMPLETELY STOPPED off the traffic lane. The FULL van including its front bumper, roof luggage, rear edge and sensible visible wheels fits safely on the left. One GREEN adult hitchhiker stands fully on the safe shoulder on the right, thumb up, facing the driver with warm recognition. The hitchhiker's head, torso, arms, legs and two smooth feet are the same green body color, with NO shirt, jacket, vest, trousers, shorts, socks, boots or shoes. A small muted olive backpack is worn over the green body, with a folded walking map sticking out; a COMPLETE pair of trekking poles is secured along its outside, handles, straps, shafts and tips visible and safely inside the frame. The only worn hiking accessories are the simple soft tan sunhat and backpack. Preserve a relaxed neutral adult silhouette and moderate proportions.\nA VIOLET adult driver leans naturally from the open driver's window, a visible violet torso and violet arms directly continuous with the smooth violet body, no shirt, jacket, vest or sleeve. The driver wears a soft tan sunhat matching the hitchhiker's shape, and gestures with an open hand toward the visibly empty available passenger seat. Both adults have the same neutral uncostumed body design; hiking affinity comes from their matching sun hats and hiking gear. The driver and hitchhiker look at EACH OTHER with warm recognition. The small humorous surprise is how closely their travel hats match, almost like finding a familiar fellow traveler. One small speech bubble attached to the DRIVER reads exactly «تو هم اهل کوهی؟ بپر بالا!». No other text. The driver is not moving or steering while gesturing. The van is ordinary, no luxury/class cues; no children, danger or busy traffic. Keep scene airy, adult, and understated.\n\nFinal owner-requested color/style refinement (all preceding composition, story and anatomy requirements remain):\nOwner requested: the road, scenery and objects are excessively sharp and digitally rendered, and the bodies must not show defined musculature. Repaint the WHOLE scene in the moderate authentic hand-painted watercolor of Image2: broad translucent overlapping washes, softly merging pigment, restrained irregular pooling and paper texture. Replace the road's hundreds of sharp individual gravel chips and high-contrast shadows with broad warm ochre/grayed-lilac watercolor areas and only a few soft pebble suggestions. Simplify the densely crispy foliage and van rendering into painted shapes, retaining recognizable landscape, real vehicle geometry and readable props. No blur filter, loss of resolution, flat vector, colored pencil, marker, uniform tiled fine-grain or glossy 3D.\nGreen hiker and purple driver have smooth moderate adult symbolic limbs and straight neutral torsos. Remove biceps/deltoid bulges, muscular forearm ridges, anatomical muscle shadows or abdominal definition. Use gentle broad same-color watercolor shading, not sculpted anatomy. Neither fat/chubby nor stick-thin. No bust, waist indent or projecting hips. Preserve circular heads, small dark oval eyes with tiny internal glints, no white sclera; local body-color darker contours, not black. Every fully visible open hand exactly three fingers plus one thumb, natural grip occlusion allowed. Preserve driver's inviting four-digit hand and hiker's thumbs-up. No additional clothes or shoes. Same hats/backpack/poles. Clean white margins, complete van and figures with floor under feet. No new objects or text. Return full square finished illustration.\n",
+      "promptPath": "review-data/revisions-159-161-2026-10-21/159/159-a-20261102-v3.full-prompt.txt",
+      "promptSource": "review-data/revisions-159-161-2026-10-21/159/159-a-20261102-v3.metadata.json",
+      "promptSha256": "907374547175e1528e5df19022b1c918bda3bebe5a5b4f90c1dab766122923e7",
+      "sourcePromptSha256": "907374547175e1528e5df19022b1c918bda3bebe5a5b4f90c1dab766122923e7",
+      "promptCellSha256": "97cc9bb272a24ebf0eae8eafa5438a1e683a5181505539377400740f6698d084",
+      "imageHash": "180d673a795cd994832a1667b48f82535a07bd137fd41d637fc85a7b9a49ed84",
+      "source": "book-review/dist/art/159-a-20261102-v3.png",
+      "savedPath": "Images/159.png",
+      "approvedAt": "2026-11-02T13:29:00.642Z",
+      "feedback": {
+        "sentenceId": 159,
+        "ideaNotes": {
+          "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+          "159-a-20261021-v2": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه "
+        },
+        "note": "",
+        "history": [
+          {
+            "sentenceId": 159,
+            "ideaNotes": {
+              "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "159-a-20261019-v1",
+            "waveId": "wave-157-161-2026-10-19-v1",
+            "candidateIds": [
+              "159-a-20261019-v1",
+              "159-b-20261019-v1",
+              "159-c-20261019-v1",
+              "159-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+              "baseIdeaId": "159-a-20261019-v1",
+              "baseVersion": 1,
+              "comment": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+              "submittedAt": "2026-10-21T07:18:51.906Z"
+            },
+            "revisionProgress": {
+              "requestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+              "status": "in_progress",
+              "message": "نسخهٔ بدون لباس ساخته و بازبینی شده؛ در حال آماده‌سازی انتشار با تاریخچهٔ نسخهٔ قبلی.",
+              "updatedAt": "2026-10-21T07:48:32.389Z",
+              "startedAt": "2026-10-21T07:48:32.389Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T07:48:32.389Z",
+            "decisionIntent": {
+              "id": "8eaefbf3-e812-4f17-800c-41389778b968",
+              "status": "revise",
+              "chosenIdeaId": "159-a-20261019-v1",
+              "submittedAt": "2026-10-21T07:18:51.906Z"
+            }
+          },
+          {
+            "sentenceId": 159,
+            "ideaNotes": {
+              "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+              "159-a-20261021-v2": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه "
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "159-a-20261021-v2",
+            "waveId": "wave-157-161-2026-10-19-v1-edits-7",
+            "candidateIds": [
+              "159-a-20261021-v2",
+              "159-b-20261019-v1",
+              "159-c-20261019-v1",
+              "159-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+              "baseIdeaId": "159-a-20261021-v2",
+              "baseVersion": 2,
+              "comment": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه",
+              "submittedAt": "2026-11-02T12:48:09.864Z"
+            },
+            "revisionProgress": {
+              "requestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+              "status": "in_progress",
+              "message": "اصلاح رنگ‌گذاری کلی به آبرنگ نرم و حذف تأکید عضلات، با حفظ داستان و ژست‌ها.",
+              "updatedAt": "2026-11-02T13:12:51.828Z",
+              "startedAt": "2026-11-02T13:12:51.828Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-11-02T13:12:51.828Z",
+            "latestRevisionResults": [
+              {
+                "ideaId": "159-a-20261021-v2",
+                "parentIdeaId": "159-a-20261019-v1",
+                "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+                "version": 2,
+                "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+              }
+            ],
+            "latestRevisionResult": {
+              "ideaId": "159-a-20261021-v2",
+              "parentIdeaId": "159-a-20261019-v1",
+              "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+              "version": 2,
+              "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+            },
+            "decisionIntent": {
+              "id": "034b648f-b673-448d-84ba-43f974d24c2f",
+              "status": "revise",
+              "chosenIdeaId": "159-a-20261021-v2",
+              "submittedAt": "2026-11-02T12:48:09.864Z"
+            }
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+              "159-a-20261021-v2": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه "
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-11-02T13:23:05.770849+00:00"
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "159-a-20261102-v3",
+        "waveId": "wave-157-161-2026-10-19-v1-edits-9",
+        "candidateIds": [
+          "159-a-20261102-v3",
+          "159-b-20261019-v1",
+          "159-c-20261019-v1",
+          "159-d-20261019-v1"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-11-02T13:29:00.642Z",
+        "latestRevisionResults": [
+          {
+            "ideaId": "159-a-20261021-v2",
+            "parentIdeaId": "159-a-20261019-v1",
+            "revisionRequestId": "9600a96a-2008-4103-88c8-2842c7764ce0",
+            "version": 2,
+            "publishedAt": "2026-10-21T08:14:59.037977+00:00"
+          },
+          {
+            "ideaId": "159-a-20261102-v3",
+            "parentIdeaId": "159-a-20261021-v2",
+            "revisionRequestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+            "version": 3,
+            "publishedAt": "2026-11-02T13:23:05.770849+00:00"
+          }
+        ],
+        "latestRevisionResult": {
+          "ideaId": "159-a-20261102-v3",
+          "parentIdeaId": "159-a-20261021-v2",
+          "revisionRequestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
+          "version": 3,
+          "publishedAt": "2026-11-02T13:23:05.770849+00:00"
+        },
+        "reviewMigration": {
+          "automatic": true,
+          "appliedAt": "2026-11-02T13:23:20.314Z"
+        },
+        "decisionIntent": {
+          "id": "5d128fc8-a6bd-4e43-9fe6-88a4ec65e99b",
+          "status": "approved",
+          "chosenIdeaId": "159-a-20261102-v3",
+          "submittedAt": "2026-11-02T13:29:00.642Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-11-02T13:31:26.535443+00:00",
+      "copiedAt": "2026-11-02T13:31:26.535443+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 159,
+        "ideaId": "159-a-20261102-v3",
+        "row": 160,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "97cc9bb272a24ebf0eae8eafa5438a1e683a5181505539377400740f6698d084",
+        "sourcePromptSha256": "907374547175e1528e5df19022b1c918bda3bebe5a5b4f90c1dab766122923e7",
+        "characters": 6065
+      },
+      "downloadUrl": "/download/159-a-20261102-v3.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
+    },
+    {
+      "sentenceId": 160,
+      "ideaId": "160-b-20261102-v3",
+      "prompt": "Use case: illustration-story.\nAsset: one finished portrait 1024 by 1536 watercolor illustration for an adult Persian advice book, with three equally sized horizontal panels stacked top to bottom, airy white paper gutters, generous outer margins and floor below the feet.\nAdvice illustrated: measure twice, cut once.\n\nA single adult pink tailor stands fully BESIDE the RIGHT SHORT END of a rectangular four-legged wooden cutting table in a tidy sewing workshop. The same character, table, curtain, camera distance and approximately identical adult body scale recur in all three scenes. The table's long dimension extends left of the tailor. The torso, neutral pelvis, both complete legs and smooth same-pink feet occupy the clear floor space to the right of the tabletop's wooden silhouette. Every leg is visibly continuous from the torso to its foot. Only the arms and hands reach left over the tabletop and cloth. The body never intersects wood or fabric. Four separate wooden table legs attach coherently beneath the table corners, with consistent near/far edges, depth and occlusion. Use a slightly elevated front three-quarter view that shows the cloth and full body.\n\nThe same large pale-teal curtain rectangle lies flat toward the right half of the table, with the far TOP origin edge held by TWO small clamps, and the near BOTTOM hem end draped a little over the front. The length runs from that clamped far top edge toward the near bottom hem edge. A yellow cloth measuring tape lies straight ON the fabric close to its right edge, from the far top-right clamp to the near hem endpoint. The tailor can naturally reach both endpoints. The cloth has the same orientation and is not moved between the two measurements. The confirmed hem line is one straight HORIZONTAL line across the cloth width, parallel to the front table edge.\n\nTOP PANEL: a real first contact measurement. The far hand anchors the tape's zero at the actual clamped TOP origin edge. The other hand touches the near endpoint and uses a pencil to make a tiny tick for the intended hem. The fabric is wholly intact. One pair of gold tailor's scissors rests safely CLOSED on the bare left tabletop, unused. The tailor looks at the measured endpoint. One thought bubble connected to the tailor reads exactly: «اندازه گرفتم...»\n\nMIDDLE PANEL: a real second measurement of the SAME curtain length. The same tape is deliberately reset from the SAME clamped top origin; the far hand anchors zero there again and the near hand checks the endpoint. Both hands contact the tape. The fabric remains whole and uncut. A faint erased smudge of the earlier too-short tick remains beside one corrected horizontal final hem line, slightly farther toward the near end. A small eraser rests aside. Scissors remain safely CLOSED on the left tabletop. One thought bubble reads exactly: «یه بار دیگه چک کنم.»\n\nBOTTOM PANEL: perform ONE single horizontal hem cut only after the two measurements. The tape is coiled and the pencil lies aside on the left bare tabletop. There is exactly ONE pair of tailor's shears in this scene, in the near hand at the cloth's right edge, with blades pointing LEFT away from the body directly along the confirmed horizontal hem line. One short slit lies behind the blades, intact cloth remains directly ahead, and one broad hem strip just begins to separate. No vertical cut, extra strips or completed curtain. The spare open hand holds cloth on the far side of the line, visibly well above and away from the blade path. This open hand clearly has exactly THREE fingers plus ONE thumb, four total. A relieved small smile and one bubble connected to the tailor read exactly: «خوب شد دوباره دیدم!»\n\nTailor design: a neutral seamless pink symbolic adult body with no clothes, robe, apron, ties or accessories. Straight medium torso and pelvis, no bust, pinched waist, bulging hips or buttocks, neither chubby nor stick-thin. Perfectly circular head with equal width and height, no neck, hair, nose or ears. Small dark oval eyes with one tiny glint inside each dark shape, no white sclera. Only two short very fine upper-outer eyelashes indicate female identity. Simple brows, small expressive mouth and extremely faint diffuse cheek warmth, never stamped circular blush dots. Every fully visible hand has exactly three fingers plus one thumb; natural tape, pencil and scissors grips may hide digits. Smooth feet are seamless and the same pink as the legs.\n\nWorkshop setting: warm cream walls, window with soft daylight, a small unbranded sewing machine on a separate back bench to the right, with recognizable base, upright arm, needle and spool. Tidy shelves hold a few small thread spools, folded fabric and cloth rolls; a basket holds a few fabric rolls. Restrained plants, honey-colored wood and a soft coral/teal rug add warmth without clutter. No mannequin, dress form, fashion figure, extra character, branding or label.\n\nStyle: polished hand-painted watercolor with broad moderate overlapping translucent washes, large irregular pigment variations and restrained pooling visibly inside head, body, arms, hands, legs, feet, cloth and wood. Luminous textured paper, soft daylight and local-color darker outlines, muted deep pink for body and warm brown for wood. No black outlines, uniform fine speckles, crystalline mosaic, flat vector, marker or glossy 3D. The three specified Persian bubbles use correctly connected right-to-left letters and are the ONLY written text. No English, numerals, caption, title, logo or watermark. The cause and effect should be concrete and clear: measure this same curtain length twice from the same clamped top origin, then make one safe horizontal hem cut.\n\nFinal owner-requested color/style refinement (all preceding composition, story and anatomy requirements remain):\nRepaint ONLY the pink character surfaces in all THREE scenes with one harmonious warm muted rose-pink watercolor palette. Consistent face, torso, arms, hands, legs and feet across all panels. Smooth broad translucent overlapping washes with gentle irregular pigment density and restrained pooling, following Image2. Light areas should remain PALE PINK translucent washes, never harsh white scratches, jagged unpainted strips, chalky blobs, white slashes along arms, speckled mosaic or faceted patches. Preserve subtle watercolor liveliness: do not flatten to uniform vector color or glossy 3D. Gentle diffuse light, no strong shiny plastic highlights. Same-color deep rose outlines. Cheek warmth extremely faint and diffuse, not circles.\nPreserve neutral moderate adult anatomy without bust, narrow waist, hips or muscular anatomy; circular heads, same small dark oval eyes with internal tiny glints and delicate lashes, no sclera. Keep all fingers, facial expressions and two measurement actions plus last safe horizontal cut. Open hand three fingers plus one thumb. Body and both complete legs remain OUTSIDE the right short end of table, no body/wood intersection. No apron or clothing. Keep sewing machine, cloth, clamps, tape, scissors, pencil, background and the original watercolor margins unchanged. Preserve each exact Persian bubble: top «اندازه گرفتم...»; middle «یه بار دیگه چک کنم.»; bottom «خوب شد دوباره دیدم!». No additional text, objects, panels or changed staging. Full portrait output with all three panels.\n",
+      "promptPath": "review-data/revisions-159-161-2026-10-21/160/160-b-20261102-v3.full-prompt.txt",
+      "promptSource": "review-data/revisions-159-161-2026-10-21/160/160-b-20261102-v3.metadata.json",
+      "promptSha256": "b32ade81742d5d822b710da3b088d558a50c966afdd9097ec3cd50cb84466c95",
+      "sourcePromptSha256": "b32ade81742d5d822b710da3b088d558a50c966afdd9097ec3cd50cb84466c95",
+      "promptCellSha256": "4b82f8f6f24187c03c3a38ad3abf608754e6be068caa3712a27f28df3e2392dd",
+      "imageHash": "e84c99cb9734821039edfe393917bb4299af624dd1813622a5c69faf44698a02",
+      "source": "book-review/dist/art/160-b-20261102-v3.png",
+      "savedPath": "Images/160.png",
+      "approvedAt": "2026-11-02T13:30:46.383Z",
+      "feedback": {
+        "sentenceId": 160,
+        "ideaNotes": {
+          "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+          "160-b-20261021-v2": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه"
+        },
+        "note": "",
+        "history": [
+          {
+            "sentenceId": 160,
+            "ideaNotes": {
+              "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "160-b-20261019-v1",
+            "waveId": "wave-157-161-2026-10-19-v1-edits-4",
+            "candidateIds": [
+              "160-a-20261019-v1",
+              "160-b-20261019-v1",
+              "160-c-20261019-v1",
+              "160-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+              "baseIdeaId": "160-b-20261019-v1",
+              "baseVersion": 1,
+              "comment": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+              "submittedAt": "2026-10-21T07:21:22.248Z"
+            },
+            "revisionProgress": {
+              "requestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+              "status": "in_progress",
+              "message": "اصلاح جای بدن و میز انجام شده؛ محل متر و ثبات مقیاس سه قاب در حال بازبینی و اصلاح است.",
+              "updatedAt": "2026-10-21T07:48:34.409Z",
+              "startedAt": "2026-10-21T07:48:34.409Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-10-21T07:48:34.409Z",
+            "decisionIntent": {
+              "id": "279628f5-c9c4-4625-b5ac-57af88b8187a",
+              "status": "revise",
+              "chosenIdeaId": "160-b-20261019-v1",
+              "submittedAt": "2026-10-21T07:21:22.248Z"
+            }
+          },
+          {
+            "sentenceId": 160,
+            "ideaNotes": {
+              "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+              "160-b-20261021-v2": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه"
+            },
+            "note": "",
+            "status": "revise",
+            "chosenIdeaId": "160-b-20261021-v2",
+            "waveId": "wave-157-161-2026-10-19-v1-edits-8",
+            "candidateIds": [
+              "160-a-20261019-v1",
+              "160-b-20261021-v2",
+              "160-c-20261019-v1",
+              "160-d-20261019-v1"
+            ],
+            "revisionRequest": {
+              "requestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+              "baseIdeaId": "160-b-20261021-v2",
+              "baseVersion": 2,
+              "comment": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه",
+              "submittedAt": "2026-11-02T12:57:53.482Z"
+            },
+            "revisionProgress": {
+              "requestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+              "status": "in_progress",
+              "message": "اصلاح رنگ رزِ صورت و بدن در هر سه قاب و حذف سفیدی‌های نامرتب، با حفظ اندازه‌گیری و برش.",
+              "updatedAt": "2026-11-02T13:17:04.293Z",
+              "startedAt": "2026-11-02T13:17:04.293Z",
+              "finishedAt": null
+            },
+            "batchRequest": null,
+            "requestedVariants": null,
+            "updatedAt": "2026-11-02T13:17:04.293Z",
+            "latestRevisionResults": [
+              {
+                "ideaId": "160-b-20261021-v2",
+                "parentIdeaId": "160-b-20261019-v1",
+                "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+                "version": 2,
+                "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+              }
+            ],
+            "latestRevisionResult": {
+              "ideaId": "160-b-20261021-v2",
+              "parentIdeaId": "160-b-20261019-v1",
+              "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+              "version": 2,
+              "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+            },
+            "decisionIntent": {
+              "id": "039ab429-d3b2-43fb-bb34-10fe76ffb879",
+              "status": "revise",
+              "chosenIdeaId": "160-b-20261021-v2",
+              "submittedAt": "2026-11-02T12:57:53.482Z"
+            }
+          },
+          {
+            "status": "pending",
+            "chosenIdeaId": null,
+            "revisionRequest": null,
+            "revisionProgress": null,
+            "batchRequest": null,
+            "ideaNotes": {
+              "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+              "160-b-20261021-v2": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه"
+            },
+            "note": "",
+            "customIdea": "",
+            "requestedVariants": null,
+            "updatedAt": "2026-11-02T13:23:06.037041+00:00"
+          }
+        ],
+        "status": "approved",
+        "chosenIdeaId": "160-b-20261102-v3",
+        "waveId": "wave-157-161-2026-10-19-v1-edits-9",
+        "candidateIds": [
+          "160-a-20261019-v1",
+          "160-b-20261102-v3",
+          "160-c-20261019-v1",
+          "160-d-20261019-v1"
+        ],
+        "revisionRequest": null,
+        "revisionProgress": null,
+        "batchRequest": null,
+        "requestedVariants": null,
+        "updatedAt": "2026-11-02T13:30:46.383Z",
+        "latestRevisionResults": [
+          {
+            "ideaId": "160-b-20261021-v2",
+            "parentIdeaId": "160-b-20261019-v1",
+            "revisionRequestId": "09da822f-dfe9-4f8b-9f8c-f3794b081831",
+            "version": 2,
+            "publishedAt": "2026-10-21T08:14:59.297798+00:00"
+          },
+          {
+            "ideaId": "160-b-20261102-v3",
+            "parentIdeaId": "160-b-20261021-v2",
+            "revisionRequestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+            "version": 3,
+            "publishedAt": "2026-11-02T13:23:06.037041+00:00"
+          }
+        ],
+        "latestRevisionResult": {
+          "ideaId": "160-b-20261102-v3",
+          "parentIdeaId": "160-b-20261021-v2",
+          "revisionRequestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
+          "version": 3,
+          "publishedAt": "2026-11-02T13:23:06.037041+00:00"
+        },
+        "reviewMigration": {
+          "automatic": true,
+          "appliedAt": "2026-11-02T13:23:20.314Z"
+        },
+        "decisionIntent": {
+          "id": "f586f485-56df-4d6a-ad75-37dd14b59afa",
+          "status": "approved",
+          "chosenIdeaId": "160-b-20261102-v3",
+          "submittedAt": "2026-11-02T13:30:46.383Z"
+        }
+      },
+      "status": "finalized",
+      "finalizedAt": "2026-11-02T13:31:26.558044+00:00",
+      "copiedAt": "2026-11-02T13:31:26.558044+00:00",
+      "backupPath": null,
+      "excel": {
+        "sentenceId": 160,
+        "ideaId": "160-b-20261102-v3",
+        "row": 161,
+        "column": "D",
+        "workbookPath": "Excellent-Advice-460-FA.xlsx",
+        "promptSha256": "4b82f8f6f24187c03c3a38ad3abf608754e6be068caa3712a27f28df3e2392dd",
+        "sourcePromptSha256": "b32ade81742d5d822b710da3b088d558a50c966afdd9097ec3cd50cb84466c95",
+        "characters": 7310
+      },
+      "downloadUrl": "/download/160-b-20261102-v3.png",
+      "messageFa": "تصویر اصلی در پوشهٔ Images و پرامپت کامل انگلیسی در ستون D اکسل ذخیره شدند."
     }
   ],
   "unresolvedEarlierIds": [

@@ -3,7 +3,7 @@
   "version": 1,
   "waveId": "wave-157-161-2026-10-19-v1-edits-9",
   "styleVersion": "style-2026-10-19-user-refinements",
-  "exportedAt": "2026-11-02T13:23:06.037041+00:00",
+  "exportedAt": "2026-11-02T13:31:22.473Z",
   "records": [
     {
       "sentenceId": 151,
@@ -1589,10 +1589,25 @@
             "chosenIdeaId": "159-a-20261021-v2",
             "submittedAt": "2026-11-02T12:48:09.864Z"
           }
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {
+            "159-a-20261019-v1": "ببین یک کلاه آفتابی و یک کوله و باطوم های کوهنوردی کافیه. کاراکترهای من بدن رنگی دارند و پوشش خاصی ندارند",
+            "159-a-20261021-v2": "این تصویر خوبه اما کف جاده یا قسسمتهای یدگه انقدر شارپه که شبیه حالت نقاشی با آبرنگ نیست دیگه اصلا.... ضمنا بدن آدمک هارو طوری طراحی نکن که عضلات مشخص باشه "
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-11-02T13:23:05.770849+00:00"
         }
       ],
-      "status": "pending",
-      "chosenIdeaId": null,
+      "status": "approved",
+      "chosenIdeaId": "159-a-20261102-v3",
       "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "159-a-20261102-v3",
@@ -1604,7 +1619,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-11-02T13:23:05.770849+00:00",
+      "updatedAt": "2026-11-02T13:29:00.642Z",
       "latestRevisionResults": [
         {
           "ideaId": "159-a-20261021-v2",
@@ -1627,6 +1642,16 @@
         "revisionRequestId": "a511cdf3-5703-475a-9393-8dee5f24c6ed",
         "version": 3,
         "publishedAt": "2026-11-02T13:23:05.770849+00:00"
+      },
+      "reviewMigration": {
+        "automatic": true,
+        "appliedAt": "2026-11-02T13:23:20.314Z"
+      },
+      "decisionIntent": {
+        "id": "5d128fc8-a6bd-4e43-9fe6-88a4ec65e99b",
+        "status": "approved",
+        "chosenIdeaId": "159-a-20261102-v3",
+        "submittedAt": "2026-11-02T13:29:00.642Z"
       }
     },
     {
@@ -1733,10 +1758,25 @@
             "chosenIdeaId": "160-b-20261021-v2",
             "submittedAt": "2026-11-02T12:57:53.482Z"
           }
+        },
+        {
+          "status": "pending",
+          "chosenIdeaId": null,
+          "revisionRequest": null,
+          "revisionProgress": null,
+          "batchRequest": null,
+          "ideaNotes": {
+            "160-b-20261019-v1": "اولا روپوش و پیشبند لازم نیست ثانیا از نظر اصول طراحی بسیار بی دقته و بدن آدمک داخل میز ادغام شده. درستش کن و فضا رو هم بیشتر شبیه فضای یک کارگاه خیاطی کن",
+            "160-b-20261021-v2": "رنگ ها خوب نیست. صورت و بدن آدمک بد رنگ شده و سفیدی های شلخته وار دیده میشه"
+          },
+          "note": "",
+          "customIdea": "",
+          "requestedVariants": null,
+          "updatedAt": "2026-11-02T13:23:06.037041+00:00"
         }
       ],
-      "status": "pending",
-      "chosenIdeaId": null,
+      "status": "approved",
+      "chosenIdeaId": "160-b-20261102-v3",
       "waveId": "wave-157-161-2026-10-19-v1-edits-9",
       "candidateIds": [
         "160-a-20261019-v1",
@@ -1748,7 +1788,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-11-02T13:23:06.037041+00:00",
+      "updatedAt": "2026-11-02T13:30:46.383Z",
       "latestRevisionResults": [
         {
           "ideaId": "160-b-20261021-v2",
@@ -1771,6 +1811,16 @@
         "revisionRequestId": "9172ffe2-2236-4b7d-81a4-759bd6303b0b",
         "version": 3,
         "publishedAt": "2026-11-02T13:23:06.037041+00:00"
+      },
+      "reviewMigration": {
+        "automatic": true,
+        "appliedAt": "2026-11-02T13:23:20.314Z"
+      },
+      "decisionIntent": {
+        "id": "f586f485-56df-4d6a-ad75-37dd14b59afa",
+        "status": "approved",
+        "chosenIdeaId": "160-b-20261102-v3",
+        "submittedAt": "2026-11-02T13:30:46.383Z"
       }
     },
     {
@@ -1925,7 +1975,7 @@
       "revisionProgress": null,
       "batchRequest": null,
       "requestedVariants": null,
-      "updatedAt": "2026-11-02T13:17:04.293Z",
+      "updatedAt": "2026-11-02T13:23:17.305Z",
       "latestRevisionResults": [
         {
           "ideaId": "161-a-20261021-v2",
